@@ -1,0 +1,35 @@
+item,itemLabel,itemDescription,inception,abolition,partOf,partOfLabel,partStart,partEnd,isa,isaLabel,ministry,ministryLabel
+Q56013502,Cabinet Committee on Economic Affairs,,,,Q960484,Union Council of Ministers of India,,,,,,
+Q56013803,Cabinet Committee on Infrastructure,responsible for approving infrastructure investments in India,2009-06-01T00:00:00Z,,Q960484,Union Council of Ministers of India,,,,,,
+Q56013769,Cabinet Committee on Investment,,2013-01-02T00:00:00Z,,Q960484,Union Council of Ministers of India,,,,,,
+Q56013450,Cabinet Committee on Price,,,,Q56013502,Cabinet Committee on Economic Affairs,2014-06-10T00:00:00Z,,,,,
+Q56013450,Cabinet Committee on Price,,,,Q960484,Union Council of Ministers of India,,,,,,
+Q5015456,Cabinet Committee on Security,,,,Q960484,Union Council of Ministers of India,,,,,,
+Q1708557,Deputy Prime Minister of India,Deputy head of the government of India,1947-08-15T00:00:00Z,,,,,,Q877955,deputy prime minister,,
+Q48726877,Home Secretary,government position in India,,,,,,,Q83307,minister,,
+Q6866034,Minister of Agriculture,in India,1947-08-15T00:00:00Z,,,,,,Q10540834,agriculture minister,Q3634069,Ministry of Agriculture and Farmers' Welfare
+Q18390718,Minister of Civil Aviation,,,,,,,,Q10497084,minister of aviation,,
+Q6866064,Minister of Communications and Information Technology,India,,,,,,,Q83307,minister,Q3624238,Ministry of Communications and Information Technology
+Q16878665,"Minister of Consumer Affairs, Food and Public Distribution",Indian government minister,,,,,,,Q83307,minister,,
+Q3533315,Minister of Defence of India,head of the Ministry of Defence in India,1946-09-02T00:00:00Z,,,,,,Q2518691,defence minister,Q2641653,Ministry of Defence
+Q313465,Minister of External Affairs,head of the Ministry of External Affairs of the Government of India,1946-09-02T00:00:00Z,,,,,,Q7330070,foreign minister,Q3524953,Ministry of External Affairs
+Q1416501,Minister of Finance,Indian minister,1946-10-29T00:00:00Z,,,,,,Q7614320,finance minister,Q2641068,Ministry of Finance
+Q17073489,Minister of Health and Family Welfare,Indian cabinet minister,1947-08-15T00:00:00Z,,,,,,Q3273722,health minister,,
+Q3440901,Minister of Home Affairs,Head of the Ministry of Home Affairs of India,1946-09-02T00:00:00Z,,,,,,Q17578116,interior minister,Q2607861,Ministry of Home Affairs
+Q6866209,Minister of Information and Broadcasting,Minister in India,,,,,,,Q13424386,minister of information,,
+Q18128071,Minister of Law and Justice,,,,,,,,Q17763739,justice minister,Q7032562,Ministry of Law and Justice
+Q6866250,Minister of Mines,Indian minister,,,,,,,Q83307,minister,Q4294327,Ministry of Mines
+Q6866273,Minister of Parliamentary Affairs,head of the Ministry of Parliamentary Affairs in India,1947-08-15T00:00:00Z,,,,,,Q62523341,Parliamentary affairs minister,,
+Q6866301,Minister of Railways,head of the Ministry of Railways in India,1947-08-15T00:00:00Z,,Q819425,Indian Railways,,,Q83307,minister,,
+Q6866308,Minister of Road Transport and Highways,,,,,,,,Q12339722,transport minister,,
+Q5260158,Ministry of AYUSH,government ministry for traditional and alternative medicine,,,Q960484,Union Council of Ministers of India,,,,,,
+Q5260158,Ministry of AYUSH,government ministry for traditional and alternative medicine,,,Q2767140,Government of India,,,,,,
+Q3634069,Ministry of Agriculture and Farmers' Welfare,agriculture ministry of India,,,Q960484,Union Council of Ministers of India,,,,,,
+Q3634069,Ministry of Agriculture and Farmers' Welfare,agriculture ministry of India,,,Q2767140,Government of India,,,,,,
+Q56012995,Ministry of Disinvestment,responsible for disinvestment of public sector enterprises in India,,,Q960484,Union Council of Ministers of India,,,,,,
+Q4294642,Ministry of Education,Indian government ministry,1985-01-01T00:00:00Z,,Q960484,Union Council of Ministers of India,,,,,,
+Q6867517,Ministry of Rural Development,"ministry of infrastructure, social and economic development of sparsely populated areas of India",,,Q960484,Union Council of Ministers of India,,,,,,
+Q4294710,Ministry of Statistics and Programme Implementation,Government of India ministry,1999-10-15T00:00:00Z,,Q960484,Union Council of Ministers of India,,,,,,
+Q192711,Prime minister of India,Leader of the executives of the Government of India,1947-08-15T00:00:00Z,,Q960484,Union Council of Ministers of India,,,Q14212,prime minister,Q2092054,Research and Analysis Wing
+Q192711,Prime minister of India,Leader of the executives of the Government of India,1947-08-15T00:00:00Z,,Q960484,Union Council of Ministers of India,,,Q14212,prime minister,Q7243280,Prime Minister's Office
+Q56009884,Union Cabinet,highest executive authority in India,,,Q960484,Union Council of Ministers of India,,,Q56010053,cabinet committee,,
