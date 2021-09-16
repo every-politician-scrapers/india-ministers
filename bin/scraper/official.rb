@@ -11,6 +11,8 @@ class MemberList
     end
 
     def position
+      return 'Prime Minister' if level == 'Prime Minister'
+
       noko.css('.views-field-field-ministries li').map(&:text).map(&:tidy).join('|').gsub('Ministry', 'Minister').split('|')
     end
 
