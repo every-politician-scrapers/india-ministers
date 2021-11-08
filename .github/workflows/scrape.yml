@@ -3,6 +3,7 @@ name: Compare current data
 on:
   schedule:
     - cron:  '14 2 * * *'
+  workflow_dispatch: {}
 
 jobs:
   scheduled:
@@ -21,8 +22,12 @@ jobs:
       run: bundle exec ruby bin/scraper/official.rb | ifne tee data/official.csv
     - name: Get current wikidata list
       run: bundle exec ruby bin/scraper/wikidata.rb meta.json | ifne tee data/wikidata.csv
-    - name: Generate diff
+    - name: Generate cabinet diff
       run: bundle exec ruby bin/diff.rb | tee data/diff.csv
+    - name: Scrape list of ministers
+      run: bundle exec ruby bin/scraper/chief-ministers-wikipedia.rb | ifne tee data/chief-ministers-wikipedia.csv
+    - name: Generate chief ministers diff
+      run: bundle exec ruby bin/diff-chief-ministers.rb | ifne tee data/diff-chief-ministers.csv
     - name: Create pull request
       id: cpr
       uses: peter-evans/create-pull-request@v3
