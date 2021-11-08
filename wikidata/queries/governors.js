@@ -17,5 +17,6 @@ module.exports = function () {
 
     SERVICE wikibase:label { bd:serviceParam wikibase:language "en".  }
   }
+  # ${new Date().toISOString()}
   ORDER BY ?stateLabel ?start`
 }

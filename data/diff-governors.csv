@@ -1,26 +1,2 @@
-@@,state,statelabel,person,personlabel
-->,Q22424,Punjab,NULL->Q4857338,NULL->Banwarilal Purohit
-->,Q22048,Odisha,NULL->Q54165683,NULL->Ganeshi Lal
-->,Q1599,Nagaland,NULL->Q6122326,NULL->Jagdish Mukhi
-->,Q1505,Sikkim,NULL->Q42308903,NULL->Ganga Prasad
-->,Q1502,Mizoram,NULL->Q16897892,NULL->Kambhampati Hari Babu
-->,Q1499,Uttarakhand,Q56221411->Q108553289,Baby Rani Maurya->Gurmit Singh
-->,Q1445,Tamil Nadu,NULL->Q67179816,NULL->R. N. Ravi
-->,Q1363,Tripura,Q7289378->Q20312274,Ramesh Bais->Satyadev Narayan Arya
-->,Q1195,Meghalaya,Q7688028->Q7426876,Tathagata Roy->Satya Pal Malik
-->,Q1193,Manipur,NULL->Q6462710,NULL->La. Ganesan
-->,Q1191,Maharashtra,Q4900607,Bhagat Singh Koshiyari->Bhagat Singh Koshyari
-->,Q1188,Madhya Pradesh,Q4751365->Q17517188,Anandiben Patel->Mangubhai C. Patel
-->,Q1185,Karnataka,NULL->Q7711496,NULL->Thawar Chand Gehlot
-->,Q1184,Jharkhand,Q19901232->Q7289378,Draupadi Murmu->Ramesh Bais
-->,Q1177,Himachal Pradesh,NULL->Q15960598,NULL->Rajendra Arlekar
-->,Q1174,Haryana,NULL->Q4854461,NULL->Bandaru Dattatreya
-->,Q1171,Goa,Q4900607->Q6815509,Bhagat Singh Koshiyari->P. S. Sreedharan Pillai
-->,Q1165,Bihar,NULL->Q30109908,NULL->Phagu Chauhan
-->,Q1164,Assam,NULL->Q6122326,NULL->Jagdish Mukhi
-->,Q1162,Arunachal Pradesh,NULL->Q41694037,NULL->B. D. Mishra
-->,Q1061,Gujarat,Q20781437,Acharya Dev Vrat->Acharya Devvrat
----,Q1186,Kerala,,
----,Q1186,Kerala,,
----,Q1186,Kerala,,
----,Q1180,Jammu and Kashmir,,
+@@,state,person
+---,Q1180,
