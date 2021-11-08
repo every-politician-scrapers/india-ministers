@@ -1,13 +1,2 @@
-@@,state,statelabel,person,personlabel
-->,Q677037,Telangana,NULL->Q33168,NULL->K. Chandrasekhar Rao
-->,Q66743,Puducherry,Q7906147->Q599267,V. Narayanasamy->N. Rangaswamy
-->,Q1502,Mizoram,Q5094693->Q1362153,Pu Lalthanhawla->Zoramthanga
-->,Q1499,Uttarakhand,Q24851788->Q28370220,Trivendra Singh Rawat->Pushkar Singh Dhami
-->,Q1445,Tamil Nadu,NULL->Q983475,NULL->M. K. Stalin
-->,Q1437,Rajasthan,NULL->Q3345004,NULL->Ashok Gehlot
-->,Q1193,Manipur,Q7049407,Nongthombam Biren Singh->N. Biren Singh
-->,Q1188,Madhya Pradesh,Q1287413->Q3180602,Kamal Nath->Shivraj Singh Chouhan
-->,Q1185,Karnataka,Q7508046->Q4866288,Siddaramaiah->Basavaraj Bommai
-->,Q1184,Jharkhand,Q7282990->Q13619621,Raghubar Das->Hemant Soren
-->,Q1159,Andhra Pradesh,Q3531971,Y. S. Jaganmohan Reddy->Y. S. Jagan Mohan Reddy
----,Q1180,Jammu and Kashmir,,
+@@,state,person
+---,Q1180,

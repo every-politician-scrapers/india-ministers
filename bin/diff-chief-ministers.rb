@@ -5,26 +5,10 @@ require 'every_politician_scraper/comparison'
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-# Standardise data
+# Only compare IDs, not names, as those differ between WP/WD
 class Comparison < EveryPoliticianScraper::Comparison
-  REMAP = {
-  }.freeze
-
-  CSV::Converters[:remap] = lambda { |val, field|
-    return (REMAP[field.header] || {}).fetch(val, val) unless field.header == :name
-
-    MemberList::Member::Name.new(
-      full:     val.split(',', 2).reverse.join(' ').tidy,
-      prefixes: %w[Shri Dr. Prof. Smt.],
-    ).short
-  }
-
-  def wikidata_csv_options
-    { converters: [:remap] }
-  end
-
-  def external_csv_options
-    { converters: [:remap] }
+  def columns
+    super.reject { |name| name.to_s.downcase.include? 'label' }
   end
 end
 
