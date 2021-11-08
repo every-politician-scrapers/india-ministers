@@ -30,6 +30,8 @@ jobs:
       run: bundle exec ruby bin/diff-chief-ministers.rb | ifne tee data/diff-chief-ministers.csv
     - name: Scrape list of governors
       run: bundle exec ruby bin/scraper/governors-wikipedia.rb | ifne tee data/governors-wikipedia.csv
+    - name: Generate governors diff
+      run: bundle exec ruby bin/diff-governors.rb | ifne tee data/diff-governors.csv
     - name: Create pull request
       id: cpr
       uses: peter-evans/create-pull-request@v3
