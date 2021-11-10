@@ -1,15 +1,19 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q6480020,Lal Bahadur Shastri Ministry,1964-01-01T00:00:00Z,9,1964-01-01T00:00:00Z,9,1966-01-01T00:00:00Z,9,,,Q640506,cabinet,,,,,,,,,Q8563352,First Indira Gandhi Ministry
-,Q8563352,First Indira Gandhi Ministry,1966-01-01T00:00:00Z,9,1966-01-01T00:00:00Z,9,1971-01-01T00:00:00Z,9,,,Q640506,cabinet,,,,,,,Q6480020,Lal Bahadur Shastri Ministry,Q15933276,Second Indira Gandhi Ministry
-,Q15933276,Second Indira Gandhi Ministry,1971-01-01T00:00:00Z,9,,,1977-01-01T00:00:00Z,9,,,Q640506,cabinet,,,,,,,Q8563352,First Indira Gandhi Ministry,Q7240400,Premiership of Morarji Desai
-,Q15933364,Charan Singh Ministry,1979-01-01T00:00:00Z,9,,,1980-01-01T00:00:00Z,9,,,Q640506,cabinet,,,,,,,Q7240400,Premiership of Morarji Desai,Q7784879,Third Indira Gandhi Ministry
-,Q7784879,Third Indira Gandhi Ministry,1980-01-01T00:00:00Z,9,1980-01-01T00:00:00Z,9,1984-01-01T00:00:00Z,9,,,Q640506,cabinet,,,,,,,Q15933364,Charan Singh Ministry,Q7286211,Rajiv Gandhi Ministry
-,Q7286211,Rajiv Gandhi Ministry,1984-01-01T00:00:00Z,9,1984-01-01T00:00:00Z,9,1989-01-01T00:00:00Z,9,,,Q640506,cabinet,,,,,,,Q7784879,Third Indira Gandhi Ministry,Q7906170,V. P. Singh Ministry
-,Q7906170,V. P. Singh Ministry,1989-01-01T00:00:00Z,9,1989-01-01T00:00:00Z,9,1990-01-01T00:00:00Z,9,,,Q640506,cabinet,,,,,,,Q7286211,Rajiv Gandhi Ministry,Q15935901,Chandra Shekhar Ministry
-,Q15935901,Chandra Shekhar Ministry,1990-01-01T00:00:00Z,9,,,1991-01-01T00:00:00Z,9,,,Q640506,cabinet,,,,,,,Q7906170,V. P. Singh Ministry,Q7117590,P. V. Narasimha Rao Ministry
-,Q7117590,P. V. Narasimha Rao Ministry,1991-01-01T00:00:00Z,9,1991-01-01T00:00:00Z,9,1996-01-01T00:00:00Z,9,,,Q640506,cabinet,,,,,,,Q15935901,Chandra Shekhar Ministry,Q5454047,First Vajpayee Ministry
-,Q15927703,H. D. Deve Gowda Ministry,1996-01-01T00:00:00Z,9,1996-01-01T00:00:00Z,9,1997-01-01T00:00:00Z,9,,,Q640506,cabinet,,,,,,,Q5454047,First Vajpayee Ministry,Q15927746,I. K. Gujral Ministry
-,Q7784995,Third Vajpayee Ministry,1999-01-01T00:00:00Z,9,1999-01-01T00:00:00Z,9,2004-01-01T00:00:00Z,9,,,Q640506,cabinet,,,,,,,Q7443622,Second Vajpayee Ministry,Q5453248,First Manmohan Singh ministry
-,Q16933786,Second Manmohan Singh ministry,2009-05-22T00:00:00Z,11,,,2014-05-26T00:00:00Z,11,,,Q960484,Union Council of Ministers of India,,,Q5453248,First Manmohan Singh ministry,Q16916279,Modi ministry,Q5453248,First Manmohan Singh ministry,Q16916279,Modi ministry
-,Q16916279,Modi ministry,2014-05-26T00:00:00Z,11,,,2019-05-30T00:00:00Z,11,,,Q960484,Union Council of Ministers of India,,,Q16933786,Second Manmohan Singh ministry,Q64210877,Second Modi ministry,Q16933786,Second Manmohan Singh ministry,,
-,Q64210877,Second Modi ministry,2019-05-30T00:00:00Z,11,,,,,,,Q960484,Union Council of Ministers of India,,,Q16916279,Modi ministry,,,,,,
+,Q6480020,Lal Bahadur Shastri Ministry,1964-01-01,9,1964-01-01,9,1966-01-01,9,,,Q640506,cabinet,,,,,,,,,Q8563352,First Indira Gandhi Ministry
+,Q8563352,First Indira Gandhi Ministry,1966-01-01,9,1966-01-01,9,1971-01-01,9,,,Q640506,cabinet,,,,,,,Q6480020,Lal Bahadur Shastri Ministry,Q15933276,Second Indira Gandhi Ministry
+,Q15933276,Second Indira Gandhi Ministry,1971-01-01,9,,,1977-01-01,9,,,Q640506,cabinet,,,,,,,Q8563352,First Indira Gandhi Ministry,Q7240400,Premiership of Morarji Desai
+,Q7240400,Premiership of Morarji Desai,1977-01-01,9,1977-01-01,9,1979-01-01,9,,,Q15284634,executive term,,,,,,,Q15933276,Second Indira Gandhi Ministry,Q15933364,Charan Singh Ministry
+,Q7240400,Premiership of Morarji Desai,1977-01-01,9,1977-01-01,9,1979-01-01,9,,,Q20127274,certain aspects of a person's life,,,,,,,Q15933276,Second Indira Gandhi Ministry,Q15933364,Charan Singh Ministry
+,Q7240400,Premiership of Morarji Desai,1977-01-01,9,1977-01-01,9,1979-01-01,9,,,Q960484,Union Council of Ministers of India,,,,,,,Q15933276,Second Indira Gandhi Ministry,Q15933364,Charan Singh Ministry
+,Q15933364,Charan Singh Ministry,1979-01-01,9,,,1980-01-01,9,,,Q640506,cabinet,,,,,,,Q7240400,Premiership of Morarji Desai,Q7784879,Third Indira Gandhi Ministry
+,Q7784879,Third Indira Gandhi Ministry,1980-01-01,9,1980-01-01,9,1984-01-01,9,,,Q640506,cabinet,,,,,,,Q15933364,Charan Singh Ministry,Q7286211,Rajiv Gandhi Ministry
+,Q7286211,Rajiv Gandhi Ministry,1984-01-01,9,1984-01-01,9,1989-01-01,9,,,Q640506,cabinet,,,,,,,Q7784879,Third Indira Gandhi Ministry,Q7906170,V. P. Singh Ministry
+,Q7906170,V. P. Singh Ministry,1989-01-01,9,1989-01-01,9,1990-01-01,9,,,Q640506,cabinet,,,,,,,Q7286211,Rajiv Gandhi Ministry,Q15935901,Chandra Shekhar Ministry
+,Q15935901,Chandra Shekhar Ministry,1990-01-01,9,,,1991-01-01,9,,,Q640506,cabinet,,,,,,,Q7906170,V. P. Singh Ministry,Q7117590,P. V. Narasimha Rao Ministry
+,Q7117590,P. V. Narasimha Rao Ministry,1991-01-01,9,1991-01-01,9,1996-01-01,9,,,Q640506,cabinet,,,,,,,Q15935901,Chandra Shekhar Ministry,Q5454047,First Vajpayee Ministry
+,Q15927703,H. D. Deve Gowda Ministry,1996-01-01,9,1996-01-01,9,1997-01-01,9,,,Q640506,cabinet,,,,,,,Q5454047,First Vajpayee Ministry,Q15927746,I. K. Gujral Ministry
+,Q7784995,Third Vajpayee Ministry,1999-01-01,9,1999-01-01,9,2004-01-01,9,,,Q640506,cabinet,,,,,,,Q7443622,Second Vajpayee Ministry,Q5453248,First Manmohan Singh ministry
+,Q5453248,First Manmohan Singh ministry,2004-01-01,9,2004-01-01,9,2009-01-01,9,,,Q960484,Union Council of Ministers of India,,,,,Q16933786,Second Manmohan Singh ministry,Q7784995,Third Vajpayee Ministry,Q16933786,Second Manmohan Singh ministry
+,Q16933786,Second Manmohan Singh ministry,2009-05-22,11,,,2014-05-26,11,,,Q960484,Union Council of Ministers of India,,,Q5453248,First Manmohan Singh ministry,Q16916279,Modi ministry,Q5453248,First Manmohan Singh ministry,Q16916279,Modi ministry
+,Q16916279,Modi ministry,2014-05-26,11,,,2019-05-30,11,,,Q960484,Union Council of Ministers of India,,,Q16933786,Second Manmohan Singh ministry,Q64210877,Second Modi ministry,Q16933786,Second Manmohan Singh ministry,,
+,Q64210877,Second Modi ministry,2019-05-30,11,,,,,,,Q960484,Union Council of Ministers of India,,,Q16916279,Modi ministry,,,,,,
