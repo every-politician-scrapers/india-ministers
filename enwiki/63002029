@@ -1,0 +1,145 @@
+{
+  "title": "Ajay Kumar Bhalla",
+  "pageID": 63002029,
+  "categories": [
+    "Living people",
+    "Indian Administrative Service officers",
+    "Indian Home Secretaries",
+    "Year of birth missing (living people)",
+    "Indian civil servants"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ajay Kumar Bhalla is the current Home Secretary of India, assumed the office on 22 August 2019, succeeding Rajiv Gauba.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Home Secretary of India"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rajiv Gauba"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ajay Kumar Bhalla"
+                ]
+              }
+            },
+            {
+              "text": "He is an senior IAS officer of 1984 batch.",
+              "links": [
+                {
+                  "text": "IAS",
+                  "type": "internal",
+                  "page": "Indian Administrative Service"
+                }
+              ]
+            },
+            {
+              "text": "from Assam Meghalaya cadre."
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ajay Kumar Bhalla"
+          },
+          "image": {
+            "text": "The_Secretary,_Ministry_of_Power,_Shri_Ajay_Kumar_Bhalla_in_New_Delhi_on_May_31,_2019_(cropped).jpg"
+          },
+          "office": {
+            "text": "Home Secretary of India",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Home Secretary of India"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "22 August 2019"
+          },
+          "appointer": {
+            "text": "Appointments Committee of the Cabinet",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Appointments Committee of the Cabinet"
+              }
+            ]
+          },
+          "honorific_suffix": {
+            "text": "IAS"
+          },
+          "alma_mater": {
+            "text": "University of Delhi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Delhi"
+              }
+            ]
+          },
+          "preceded": {
+            "text": "Rajiv Gauba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rajiv Gauba"
+              }
+            ]
+          },
+          "date of  birth": {
+            "text": "26/11/1960"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Ajay Kumar Bhalla is new home secretary",
+          "url": "https://www.indiatoday.in/india/story/ajay-kumar-bhalla-is-new-home-secretary-1590351-2019-08-22",
+          "access-date": "2 February 2020",
+          "work": "India Today",
+          "agency": "IANS",
+          "date": "22 August 2019",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "IAS Officer Ajay Kumar Bhalla Appointed Next Union Home Secretary",
+          "url": "https://www.news18.com/news/politics/ias-officer-ajay-kumar-bhalla-appointed-next-union-home-secretary-2244749.html",
+          "access-date": "2 February 2020",
+          "work": "News18",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "home ministry (india)"
+        },
+        {
+          "template": "india-bio-stub"
+        }
+      ]
+    }
+  ]
+}
