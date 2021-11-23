@@ -4186,7 +4186,9 @@
         },
         {
           "title": "Rajnath Singh",
-          "[object Object]": "Parliamentary website",
+          "list": [
+            "Parliamentary website"
+          ],
           "url": "https://www.india.gov.in/my-government/indian-parliament/rajnath-singh",
           "url-status": "live",
           "website": "Parliament of India",

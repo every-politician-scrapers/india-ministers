@@ -422,6 +422,11 @@
           "template": "birth date and age"
         },
         {
+          "abbr": "m.",
+          "meaning": "married",
+          "template": "abbr"
+        },
+        {
           "small": "yes",
           "template": "pp-semi-vandalism"
         },

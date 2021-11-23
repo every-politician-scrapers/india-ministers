@@ -14,8 +14,8 @@
   ],
   "sections": [
     {
-      "title": "",
-      "depth": 0,
+      "title": "Biography Of Biplab Kumar Deb",
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": [
@@ -76,10 +76,6 @@
         }
       ],
       "templates": [
-        {
-          "description": "10th Chief minister of Indian state of Tripura",
-          "template": "short description"
-        },
         {
           "date": "April 2021",
           "template": "use dmy dates"
@@ -188,7 +184,7 @@
             "text": "Gopal Chandra Roy"
           },
           "office2": {
-            "text": "President, Tripura State unit, Bharatiya Janata Party",
+            "text": "President, Tripura State unit,",
             "links": [
               {
                 "text": "President",
@@ -203,10 +199,6 @@
                 "text": "State unit",
                 "type": "internal",
                 "page": "States and union territories of India"
-              },
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
               }
             ]
           },
