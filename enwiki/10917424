@@ -92,7 +92,7 @@
           "template": "short description"
         },
         {
-          "date": "August 2020",
+          "date": "November 2021",
           "template": "use dmy dates"
         },
         {
@@ -938,7 +938,7 @@
           "first": "Sushil Kumar",
           "last": "Verma",
           "date": "16 December 2018",
-          "access-date": "11 Feb 2021",
+          "access-date": "11 February 2021",
           "template": "citation",
           "type": "news"
         }
@@ -1159,11 +1159,14 @@
       ],
       "references": [
         {
+          "title": "NGGB will revolutionise rural economy: CM Baghel",
           "url": "https://www.dailypioneer.com/2019/state-editions/nggb-will-revolutionise---rural-economy--cm-baghel.html",
-          "title": "नरवा, गरुवा, घुरुवा, बारी",
-          "website": "the pioneer",
+          "access-date": "22 November 2021",
+          "work": "The Pioneer",
+          "date": "7 June 2019",
+          "language": "en",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "title": "Chhattisgarh fastest developing welfare state in India",
@@ -1311,7 +1314,7 @@
         {
           "sentences": [
             {
-              "text": "In the state budget presented by the Chhattisgarh government, a provision of Rs 5700 crore was made for the welfare of farmers through which Rajiv Gandhi Kisan Nyay Yojana was launched on May 21, the martyrdom day of former Prime Minister Rajiv Gandhi.",
+              "text": "In the state budget presented by the Chhattisgarh government, a provision of Rs 5700 crore was made for the welfare of farmers through which Rajiv Gandhi Kisan Nyay Yojana was launched on 21 May, the martyrdom day of former Prime Minister Rajiv Gandhi.",
               "links": [
                 {
                   "type": "internal",
@@ -1362,7 +1365,7 @@
         {
           "sentences": [
             {
-              "text": "On May 21, 2021, Farmers received Rs 1500 crore to prepare for the upcoming Kharif season under this scheme.",
+              "text": "On 21 May 2021, Farmers received Rs 1500 crore to prepare for the upcoming Kharif season under this scheme.",
               "links": [
                 {
                   "text": "Kharif",
@@ -1441,7 +1444,7 @@
           "first3": "12:51",
           "title": "Chhattisgarh CM Bhupesh Baghel transfers 1,500 crore subsidy to accounts of 22 lakh farmers {{!}} Raipur News - Times of India",
           "url": "https://timesofindia.indiatimes.com/city/raipur/chhattisgarh-cm-bhupesh-baghel-transfers-1500-crore-subsidy-to-accounts-of-22-lakh-farmers/articleshow/82853833.cms",
-          "access-date": "2021-06-05",
+          "access-date": "5 June 2021",
           "website": "The Times of India",
           "language": "en",
           "template": "citation",
@@ -1652,10 +1655,10 @@
           "type": "news"
         },
         {
-          "date": "2021-03-21",
+          "date": "21 March 2021",
           "title": "बच्चों की पढ़ाई व किसानों से संवाद का जरिया बना आमचो बस्तर रेडियो",
           "url": "https://www.naidunia.com/chhattisgarh/jagdalpur-amcho-bastar-radio-becomes-a-medium-for-childrens-education-and-interaction-with-farmers-6763640",
-          "access-date": "2021-07-06",
+          "access-date": "6 July 2021",
           "website": "Nai Dunia",
           "language": "hi",
           "template": "citation",

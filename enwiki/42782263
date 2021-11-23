@@ -179,16 +179,6 @@
               }
             ]
           },
-          "[object Object]": {
-            "text": "office3        \n  = Minister of state Human Resource Development",
-            "links": [
-              {
-                "text": "Minister of state Human Resource Development",
-                "type": "internal",
-                "page": "Ministry of Human Resource Development"
-              }
-            ]
-          },
           "successor3": {
             "text": "Satya Pal Singh",
             "links": [

@@ -1318,8 +1318,11 @@
             "links": [
               {
                 "text": "Order of the Green Crescent of the Comoros",
-                "type": "internal",
-                "page": ":fr:Ordre du Croissant vert"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "fr"
+                }
               }
             ]
           }
