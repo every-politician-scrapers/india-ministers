@@ -14,8 +14,8 @@
   ],
   "sections": [
     {
-      "title": "Biography Of Biplab Kumar Deb",
-      "depth": 1,
+      "title": "",
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [
@@ -34,7 +34,7 @@
               }
             },
             {
-              "text": "He has been the state president of the Bharatiya Janata Party (BJP) in Tripura since 7 January 2016 till 2018.",
+              "text": "He has been the state president of the Bharatiya Janata Party in Tripura since 7 January 2016 till 2018.",
               "links": [
                 {
                   "type": "internal",
@@ -266,6 +266,36 @@
       ],
       "references": [
         {
+          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/from-manik-sarkar-to-modis-sarkar-end-of-the-road-for-indias-only-communist-cm/articleshow/63144911.cms",
+          "title": "From Manik Sarkar to Modi's sarkar: End of the road for India's poorest CM",
+          "date": "3 March 2018",
+          "publisher": "The Times Group",
+          "access-date": "5 March 2018",
+          "work": "The Economic Times",
+          "template": "citation",
+          "type": " web"
+        },
+        {
+          "editor-last": "Sanyal",
+          "editor-first": "Anindita",
+          "date": "18 April 2018",
+          "url": "https://www.ndtv.com/india-news/tripura-chief-minister-biplab-deb-stands-by-claim-of-internet-in-mahabharat-era-1839278",
+          "title": "Tripura Chief Minister Stands By Claim Of Internet in Mahabharat Era",
+          "work": "NDTV",
+          "access-date": "22 April 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://mumbaimirror.indiatimes.com/news/india/twitter-roasts-tripura-cm-biplab-kumar-debs-claims-on-internet-during-the-mahabharata-era/articleshow/63823774.cms",
+          "title": "Twitter roasts Tripura CM Biplab Kumar Deb's claims on internet during the Mahabharata era",
+          "work": "Mumbai Mirror",
+          "date": "19 April 2018",
+          "access-date": "22 April 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "last1": "Sharma",
           "first1": "Akhilesh",
           "last2": "Choudhury",
@@ -294,36 +324,6 @@
           "newspaper": "The Economic Times",
           "date": "9 March 2018",
           "access-date": "9 September 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/from-manik-sarkar-to-modis-sarkar-end-of-the-road-for-indias-only-communist-cm/articleshow/63144911.cms",
-          "title": "From Manik Sarkar to Modi's sarkar: End of the road for India's poorest CM",
-          "date": "3 March 2018",
-          "publisher": "The Times Group",
-          "access-date": "5 March 2018",
-          "work": "The Economic Times",
-          "template": "citation",
-          "type": " web"
-        },
-        {
-          "editor-last": "Sanyal",
-          "editor-first": "Anindita",
-          "date": "18 April 2018",
-          "url": "https://www.ndtv.com/india-news/tripura-chief-minister-biplab-deb-stands-by-claim-of-internet-in-mahabharat-era-1839278",
-          "title": "Tripura Chief Minister Stands By Claim Of Internet in Mahabharat Era",
-          "work": "NDTV",
-          "access-date": "22 April 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://mumbaimirror.indiatimes.com/news/india/twitter-roasts-tripura-cm-biplab-kumar-debs-claims-on-internet-during-the-mahabharata-era/articleshow/63823774.cms",
-          "title": "Twitter roasts Tripura CM Biplab Kumar Deb's claims on internet during the Mahabharata era",
-          "work": "Mumbai Mirror",
-          "date": "19 April 2018",
-          "access-date": "22 April 2018",
           "template": "citation",
           "type": "news"
         }
@@ -529,14 +529,6 @@
               ]
             }
           ]
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "2018 Tripura Legislative Assembly election"
-          ],
-          "template": "see also"
         }
       ],
       "references": [
@@ -767,6 +759,16 @@
       ],
       "lists": [
         [
+          {
+            "text": "2018 Tripura Legislative Assembly election",
+            "links": [
+              {
+                "text": "2018 Tripura Legislative Assembly election",
+                "type": "internal",
+                "page": "2018 Tripura Legislative Assembly election"
+              }
+            ]
+          },
           {
             "text": "Biplab Kumar Deb ministry",
             "links": [

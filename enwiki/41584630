@@ -309,6 +309,15 @@
           "type": "web"
         },
         {
+          "title": "J Ramana Sworn in as 48th Chief Justice of India",
+          "url": "https://www.scobserver.in/journal/j-ramana-sworn-in-as-48th-chief-justice/",
+          "access-date": "24 November 2021",
+          "publisher": "Supreme Court Observer",
+          "date": "24 April 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "title": "BREAKING : President Appoints Justice NV Ramana As Next Chief Justice Of India",
           "url": "https://livelaw.in/top-stories/president-appoints-justice-nv-ramana-as-next-chief-justice-of-india-172171",
           "access-date": "6 April 2021",
@@ -448,7 +457,7 @@
               "text": "Ramana was appointed as the 48th CJI by the President of India on 6 April 2021."
             },
             {
-              "text": "He took Oath as 48th Chief Justice of India on 24 April 2021.",
+              "text": "He took Oath as 48th Chief Justice of India on 24 April 2021.,ref name=\"48th CJI\" /> The Oath was Administered by President Ram Nath Kovind at Rashtrapati Bhavan.",
               "links": [
                 {
                   "text": "48th",
@@ -458,12 +467,7 @@
                 {
                   "type": "internal",
                   "page": "Chief Justice of India"
-                }
-              ]
-            },
-            {
-              "text": "The Oath was Administered by President Ram Nath Kovind at Rashtrapati Bhavan.",
-              "links": [
+                },
                 {
                   "text": "President Ram Nath Kovind",
                   "type": "internal",
@@ -472,6 +476,16 @@
                 {
                   "type": "internal",
                   "page": "Rashtrapati Bhavan"
+                }
+              ]
+            },
+            {
+              "text": "He is likely to be succeeded by Justice U.U. Lalit.",
+              "links": [
+                {
+                  "text": "U.U. Lalit",
+                  "type": "internal",
+                  "page": "U. U. Lalit"
                 }
               ]
             }
@@ -493,6 +507,15 @@
           "publisher": "Supreme Court of India",
           "date": "8 February 2014",
           "access-date": "23 February 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "7 Next CJIs",
+          "url": "https://www.scobserver.in/journal/7-next-cji-s/",
+          "access-date": "24 November 2021",
+          "date": "23 November 2021",
+          "publisher": "Supreme Court Observer",
           "template": "citation",
           "type": "web"
         }

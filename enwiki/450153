@@ -672,15 +672,11 @@
         {
           "sentences": [
             {
-              "text": "Venkaiah Naidu was born on 1 July 1949 at Chavatapalem; Nellore district of Madras State, now in Andhra Pradesh, to Rangaiah Naidu and Ramanamma.",
+              "text": "Venkaiah Naidu was born on 1 July 1949 at Chavatapalem; Nellore district of Andhra Pradesh, to Rangaiah Naidu and Ramanamma.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Nellore district"
-                },
-                {
-                  "type": "internal",
-                  "page": "Madras State"
                 },
                 {
                   "type": "internal",
