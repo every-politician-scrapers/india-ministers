@@ -45,11 +45,7 @@
                   "page": "Tripura"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "He led the BJP to victory in the 2018 Legislative Assembly Election, defeating 25 years rule of the Left Front government led by the Communist Party of India (Marxist).",
               "links": [
@@ -76,6 +72,10 @@
         }
       ],
       "templates": [
+        {
+          "description": "10th Chief minister of Indian state of Tripura",
+          "template": "short description"
+        },
         {
           "date": "April 2021",
           "template": "use dmy dates"
@@ -184,7 +184,7 @@
             "text": "Gopal Chandra Roy"
           },
           "office2": {
-            "text": "President, Tripura State unit,",
+            "text": "President, Tripura State unit, Bharatiya Janata Party",
             "links": [
               {
                 "text": "President",
@@ -199,6 +199,10 @@
                 "text": "State unit",
                 "type": "internal",
                 "page": "States and union territories of India"
+              },
+              {
+                "type": "internal",
+                "page": "Bharatiya Janata Party"
               }
             ]
           },
@@ -238,11 +242,15 @@
             "text": "November 25, 1971"
           },
           "birth_place": {
-            "text": "Rajdhar Nagar village, Gomati district, India",
+            "text": "Rajdhar Nagar village, Gomati district, Tripura, India",
             "links": [
               {
                 "type": "internal",
                 "page": "Gomati district"
+              },
+              {
+                "type": "internal",
+                "page": "Tripura"
               },
               {
                 "type": "internal",
@@ -260,41 +268,11 @@
             ]
           },
           "residence": {
-            "text": "Agartala"
+            "text": "Shyamaprasad Mukerjee Lane, Agartala"
           }
         }
       ],
       "references": [
-        {
-          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/from-manik-sarkar-to-modis-sarkar-end-of-the-road-for-indias-only-communist-cm/articleshow/63144911.cms",
-          "title": "From Manik Sarkar to Modi's sarkar: End of the road for India's poorest CM",
-          "date": "3 March 2018",
-          "publisher": "The Times Group",
-          "access-date": "5 March 2018",
-          "work": "The Economic Times",
-          "template": "citation",
-          "type": " web"
-        },
-        {
-          "editor-last": "Sanyal",
-          "editor-first": "Anindita",
-          "date": "18 April 2018",
-          "url": "https://www.ndtv.com/india-news/tripura-chief-minister-biplab-deb-stands-by-claim-of-internet-in-mahabharat-era-1839278",
-          "title": "Tripura Chief Minister Stands By Claim Of Internet in Mahabharat Era",
-          "work": "NDTV",
-          "access-date": "22 April 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://mumbaimirror.indiatimes.com/news/india/twitter-roasts-tripura-cm-biplab-kumar-debs-claims-on-internet-during-the-mahabharata-era/articleshow/63823774.cms",
-          "title": "Twitter roasts Tripura CM Biplab Kumar Deb's claims on internet during the Mahabharata era",
-          "work": "Mumbai Mirror",
-          "date": "19 April 2018",
-          "access-date": "22 April 2018",
-          "template": "citation",
-          "type": "news"
-        },
         {
           "last1": "Sharma",
           "first1": "Akhilesh",
@@ -324,6 +302,46 @@
           "newspaper": "The Economic Times",
           "date": "9 March 2018",
           "access-date": "9 September 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "PTI",
+          "title": "Tripura Chief Minister Biplab Deb Escapes \"Attempted Murder\", 3 Arrested: Report",
+          "url": "https://www.ndtv.com/india-news/tripura-chief-minister-biplab-deb-escapes-attempted-murder-3-arrested-report-2504892",
+          "access-date": "24 November 2021",
+          "work": "NDTV.com",
+          "date": "7 August 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/from-manik-sarkar-to-modis-sarkar-end-of-the-road-for-indias-only-communist-cm/articleshow/63144911.cms",
+          "title": "From Manik Sarkar to Modi's sarkar: End of the road for India's poorest CM",
+          "date": "3 March 2018",
+          "publisher": "The Times Group",
+          "access-date": "5 March 2018",
+          "work": "The Economic Times",
+          "template": "citation",
+          "type": " web"
+        },
+        {
+          "editor-last": "Sanyal",
+          "editor-first": "Anindita",
+          "date": "18 April 2018",
+          "url": "https://www.ndtv.com/india-news/tripura-chief-minister-biplab-deb-stands-by-claim-of-internet-in-mahabharat-era-1839278",
+          "title": "Tripura Chief Minister Stands By Claim Of Internet in Mahabharat Era",
+          "work": "NDTV",
+          "access-date": "22 April 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://mumbaimirror.indiatimes.com/news/india/twitter-roasts-tripura-cm-biplab-kumar-debs-claims-on-internet-during-the-mahabharata-era/articleshow/63823774.cms",
+          "title": "Twitter roasts Tripura CM Biplab Kumar Deb's claims on internet during the Mahabharata era",
+          "work": "Mumbai Mirror",
+          "date": "19 April 2018",
+          "access-date": "22 April 2018",
           "template": "citation",
           "type": "news"
         }
@@ -550,10 +568,7 @@
         {
           "sentences": [
             {
-              "text": "He took his oath as the 10th Chief Minister of Tripura on 9 March 2018."
-            },
-            {
-              "text": "He contested the election from Banamalipur Constituency in Agartala and won by a margin of 9,549 votes, which was held by Indian National Congress MLA Gopal Roy.",
+              "text": "Deb contested the election from Banamalipur Constituency in Agartala and won by a margin of 9,549 votes, which was held by Indian National Congress MLA Gopal Roy.",
               "links": [
                 {
                   "text": "Banamalipur",
@@ -588,7 +603,7 @@
         {
           "sentences": [
             {
-              "text": "Biplab Deb campaigned on the subject of youth employment opportunities, which he promised to improve if elected Chief Minister of Tripura.",
+              "text": "Deb campaigned on the subject of youth employment opportunities, which he promised to improve if elected Chief Minister of Tripura.",
               "links": [
                 {
                   "type": "internal",
@@ -608,6 +623,13 @@
             },
             {
               "text": "Deb brought in key BJP ministers from across India to campaign for the party in Tripura."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He took his oath as the 10th Chief Minister of Tripura on 9 March 2018."
             }
           ]
         }
@@ -680,6 +702,17 @@
           "date": "3 March 2018",
           "work": "livemint.com/",
           "access-date": "12 August 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Sethi",
+          "first1": "Nidhi",
+          "title": "Biplab Deb Takes Oath As Tripura Chief Minister, PM Modi In Attendance: 10 Points",
+          "url": "https://www.ndtv.com/india-news/biplab-deb-to-take-oath-as-tripura-chief-minister-pm-modi-likely-to-attend-10-points-1821551",
+          "access-date": "24 November 2021",
+          "work": "NDTV.com",
+          "date": "9 March 2018",
           "template": "citation",
           "type": "news"
         }

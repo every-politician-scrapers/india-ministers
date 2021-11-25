@@ -2367,11 +2367,7 @@
           "url": "https://www.indiatoday.in/india/story/nation-needs-one-unifying-language-amit-shah-bats-for-hindi-as-india-s-identity-1599035-2019-09-14",
           "title": "Nation needs one unifying language: Amit Shah bats for Hindi as India's identity",
           "first1": "India Today Web Desk New",
-          "last1": "DelhiSeptember 14",
-          "first2": "2019UPDATED",
-          "last2": "September 14",
-          "first3": "2019 14:44",
-          "last3": "Ist",
+          "date": "September 14, 2019",
           "website": "India Today",
           "template": "citation",
           "type": "web"
@@ -2915,7 +2911,7 @@
         {
           "title": "Amit Shah discharged in Sohrabuddin Sheikh encounter case",
           "url": "https://www.thehindubusinessline.com/news/amit-shah-discharged-in-sohrabuddin-sheikh-encounter-case/article23169624.ece",
-          "last1": "Reuters",
+          "agency": "Reuters",
           "access-date": "9 February 2021",
           "work": "@businessline",
           "date": "30 December 2014",

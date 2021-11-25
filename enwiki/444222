@@ -391,7 +391,7 @@
           "template": "use indian english"
         },
         {
-          "date": "March 2021",
+          "date": "November 2021",
           "template": "use dmy dates"
         },
         {
@@ -904,22 +904,22 @@
           "inline": {}
         },
         {
-          "date": "2010-03-19",
+          "date": "19 March 2010",
           "title": "India's 'modern-day Nero' to be grilled over Muslim bloodbath",
           "url": "https://www.independent.co.uk/news/world/asia/india-s-modernday-nero-to-be-grilled-over-muslim-bloodbath-1923803.html",
-          "access-date": "2021-11-06",
+          "access-date": "6 November 2021",
           "website": "The Independent",
           "language": "en",
           "template": "citation",
           "type": "web"
         },
         {
-          "date": "2012-04-10",
+          "date": "10 April 2012",
           "title": "India Gujarat Chief Minister Modi cleared in riots case",
           "language": "en-GB",
           "work": "BBC News",
           "url": "https://www.bbc.com/news/world-asia-india-17664751",
-          "access-date": "2021-11-06",
+          "access-date": "6 November 2021",
           "template": "citation",
           "type": "news"
         },
@@ -5701,7 +5701,7 @@
           "title": "Predator Narendra Modi",
           "url": "https://rsf.org/en/predator/narendra-modi",
           "archive-url": "https://web.archive.org/web/20210705110013/https://rsf.org/en/predator/narendra-modi",
-          "access-date": "2021-07-23",
+          "access-date": "23 July 2021",
           "website": "Reporters Without Borders",
           "date": "July 2021",
           "archive-date": "5 July 2021",
@@ -6374,7 +6374,7 @@
         {
           "title": "Report for Selected Countries and Subjects",
           "url": "https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report",
-          "access-date": "2021-04-08",
+          "access-date": "8 April 2021",
           "website": "IMF",
           "language": "en",
           "template": "citation",
@@ -6389,7 +6389,7 @@
           "url": "https://economictimes.indiatimes.com/news/economy/indicators/2019-general-elections-the-winner-gets-an-economy-riddled-with-problems/articleshow/69406323.cms?from=mdr",
           "archive-url": "https://web.archive.org/web/20200220180312/https://economictimes.indiatimes.com/news/economy/indicators/2019-general-elections-the-winner-gets-an-economy-riddled-with-problems/articleshow/69406323.cms?from=mdr",
           "archive-date": "20 February 2020",
-          "access-date": "2021-04-08",
+          "access-date": "8 April 2021",
           "url-status": "live",
           "template": "citation",
           "type": "news"
@@ -6401,8 +6401,8 @@
           "work": "The Economic Times",
           "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-gdp-to-see-5-contraction-in-fy21-says-icra/articleshow/75847028.cms",
           "archive-url": "https://web.archive.org/web/20200626043921/https://economictimes.indiatimes.com/news/economy/indicators/indias-gdp-to-see-5-contraction-in-fy21-says-icra/articleshow/75847028.cms",
-          "date": "2020-05-20",
-          "access-date": "2021-04-08",
+          "date": "20 May 2020",
+          "access-date": "8 April 2021",
           "archive-date": "26 June 2020",
           "url-status": "live",
           "template": "citation",
@@ -6413,8 +6413,8 @@
           "last": "Nagarajan",
           "title": "Goldman Sachs: India's economy will shrink 45% this quarter and suffer a brutal recession this year",
           "url": "https://www.businessinsider.in/stock-market/news/goldman-sachs-indias-economy-will-shrink-45-this-quarter-and-suffer-a-brutal-recession-this-year/articleshow/75807045.cms",
-          "date": "2020-05-18",
-          "access-date": "2021-04-08",
+          "date": "18 May 2020",
+          "access-date": "8 April 2021",
           "website": "Business Insider",
           "template": "citation",
           "type": "web"
@@ -6423,8 +6423,8 @@
           "title": "India may register recession in third quarter of this fiscal, shows report",
           "work": "The Economic Times",
           "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-may-register-recession-in-third-quarter-of-this-fiscal-shows-report/articleshow/75937359.cms",
-          "date": "2020-05-24",
-          "access-date": "2021-04-08",
+          "date": "24 May 2020",
+          "access-date": "8 April 2021",
           "template": "citation",
           "type": "news"
         },
@@ -6433,8 +6433,8 @@
           "last": "Sharma",
           "title": "Coronavirus Exposes India's Official Callousness",
           "url": "https://www.bloombergquint.com/global-economics/india-s-government-should-have-expected-coronavirus-migration",
-          "date": "2020-04-01",
-          "access-date": "2021-04-08",
+          "date": "1 April 2020",
+          "access-date": "8 April 2021",
           "website": "BloombergQuint",
           "language": "en",
           "template": "citation",
@@ -7720,12 +7720,12 @@
           "type": "news"
         },
         {
-          "date": "2019-08-15",
+          "date": "15 August 2019",
           "title": "President Ashraf Ghani's Congratulatory Message on the Occasion of India's 73rd Independence Day",
           "url": "https://president.gov.af/en/message/1049",
           "archive-url": "https://web.archive.org/web/20190821153927/https://president.gov.af/en/message/1049",
-          "archive-date": "2019-08-21",
-          "access-date": "2021-04-08",
+          "archive-date": "21 August 2019",
+          "access-date": "8 April 2021",
           "work": "President of Afghanistan",
           "language": "en",
           "url-status": "dead",
@@ -8444,6 +8444,41 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In COP26 Indian prime minister Narendra Modi announced 5 main commitments called Panchamrit - \"India's gift to the world\":",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COP26"
+                },
+                {
+                  "text": "Panchamrit",
+                  "type": "internal",
+                  "page": "Panchamrit (India's climate commitments)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "The prime minister also proposed to advance a new agenda: LIFE - Lifestyle for Environment, meaning changing lifestyle for benefit the environment."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Even though the date of net zero is far behind that of China and the USA and India's government wants to continue with the use of coal, Indian environmentalists and economists applauded the decision, describing it as a bold climate action."
+            }
+          ]
         }
       ],
       "images": [
@@ -8461,6 +8496,25 @@
           "caption": "244x244px",
           "links": []
         }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Reaching carbon neutrality by the year 2070."
+          },
+          {
+            "text": "Expand the energy capacity not coming from fossil fuels to 500GW by the tear 2030."
+          },
+          {
+            "text": "Cut the carbon intensity of economy by 45% by the year 2030."
+          },
+          {
+            "text": "Draw half of its energy requirement from renewable sources by 2030."
+          },
+          {
+            "text": "Cut 1 billion tons of GHG emission from the amount projected to the year 2030."
+          }
+        ]
       ],
       "references": [
         {
@@ -8503,6 +8557,25 @@
           "url": "https://www.nytimes.com/2014/12/05/world/indian-leader-favoring-growth-sweeps-away-environmental-rules.html",
           "access-date": "4 February 2021",
           "issn": "0362-4331",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Shrivastava",
+          "first1": "Rahul",
+          "title": "Push for renewable by 2030, net-zero emissions by 2070: PM Modi’s 5 commitments at COP26 summit",
+          "url": "https://www.indiatoday.in/india/story/pm-narendra-modi-cop26-global-climate-change-summit-glasgow-net-zero-carbon-emissions-1872187-2021-11-01",
+          "access-date": "21 November 2021",
+          "agency": "India Today",
+          "date": "1 November 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "India pledges net-zero emissions by 2070 — but also wants to expand coal mining",
+          "url": "https://www.npr.org/2021/11/03/1051805674/modi-india-cop26-coal-renewable-energy?t=1636899927203",
+          "work": "NPR",
+          "date": "3 November 2021",
           "template": "citation",
           "type": "news"
         },
@@ -8620,7 +8693,7 @@
           "first1": "Iza",
           "last2": "Slater",
           "first2": "Dan",
-          "date": "2021-01-02",
+          "date": "2 January 2021",
           "title": "Democratic decoupling",
           "url": "https://doi.org/10.1080/13510347.2020.1842361",
           "journal": "Democratization",
@@ -8638,8 +8711,8 @@
           "last": "Finzel",
           "title": "Democratic Backsliding in India, the World's Largest Democracy {{!}} V-Dem",
           "url": "https://www.v-dem.net/en/news/democratic-backsliding-india-worlds-largest-democracy/",
-          "date": "2020-02-24",
-          "access-date": "2020-11-27",
+          "date": "24 February 2020",
+          "access-date": "27 November 2020",
           "website": "www.v-dem.net",
           "publisher": "V-Dem Institute",
           "template": "citation",
@@ -9865,14 +9938,14 @@
           "title": "PM CARES: Initial corpus of Rs 2.25 lakh given by Narendra Modi",
           "work": "The Economic Times",
           "url": "https://economictimes.indiatimes.com/news/politics-and-nation/pm-cares-initial-corpus-of-rs-2-25-lakh-given-by-narendra-modi/articleshow/77903240.cms?from=mdr",
-          "access-date": "2021-09-22",
+          "access-date": "22 September 2021",
           "template": "citation",
           "type": "news"
         },
         {
           "title": "PM Modi's Donations From Savings, Auctions Over Rs 103 Crore: Officials",
           "url": "https://www.ndtv.com/india-news/pm-cares-pm-narendra-modi-donated-rs-2-25-lakh-from-own-pocket-to-anti-covid-fund-say-pmo-officials-2289747",
-          "access-date": "2021-09-22",
+          "access-date": "22 September 2021",
           "website": "NDTV.com",
           "template": "citation",
           "type": "web"
@@ -9880,30 +9953,30 @@
         {
           "last": "Roche",
           "first": "Elizabeth",
-          "date": "2020-09-03",
+          "date": "3 September 2020",
           "title": "PM donates over ₹103 cr from auctions, own savings",
           "url": "https://www.livemint.com/news/india/prime-minister-modi-s-donations-so-far-total-rs-103-crore-11599119883787.html",
-          "access-date": "2021-09-22",
+          "access-date": "22 September 2021",
           "website": "mint",
           "language": "en",
           "template": "citation",
           "type": "web"
         },
         {
-          "last": "Sep 3",
+          "last": "3 Sep",
           "title": "PM Modi's donations from his savings and proceeds of auctions exceed Rs 103 crore {{!}} India News - Times of India",
           "url": "https://timesofindia.indiatimes.com/india/pm-modis-donations-from-his-savings-and-proceeds-of-auctions-exceed-rs-103-crore/articleshow/77907816.cms",
-          "access-date": "2021-09-22",
+          "access-date": "22 September 2021",
           "website": "The Times of India",
           "language": "en",
           "template": "citation",
           "type": "web"
         },
         {
-          "last": "Sep 4",
+          "last": "4 Sep",
           "title": "PM Modi's donations to public causes exceed Rs 103 crore {{!}} India News - Times of India",
           "url": "https://timesofindia.indiatimes.com/india/pm-modis-donations-to-public-causes-exceed-rs-103-crore/articleshow/77921741.cms",
-          "access-date": "2021-09-22",
+          "access-date": "22 September 2021",
           "website": "The Times of India",
           "language": "en",
           "template": "citation",
@@ -9912,7 +9985,7 @@
         {
           "title": "PM Cares Fund: Here is how much Narendra Modi contributed",
           "url": "https://www.indiatoday.in/india/story/pm-cares-fund-here-is-how-much-narendra-modi-contributed-1718149-2020-09-03",
-          "access-date": "2021-09-22",
+          "access-date": "22 September 2021",
           "website": "India Today",
           "language": "en",
           "template": "citation",
@@ -9921,18 +9994,18 @@
         {
           "title": "How Much PM Modi Donates And To Whom, His Office Lists In Tweets",
           "url": "https://www.ndtv.com/india-news/prime-minister-narendra-modi-lists-donations-rs-21-lakh-for-sanitation-workers-and-more-2003602",
-          "access-date": "2021-09-22",
+          "access-date": "22 September 2021",
           "website": "NDTV.com",
           "template": "citation",
           "type": "web"
         },
         {
           "agency": "Press Trust of India",
-          "date": "2020-09-04",
+          "date": "4 September 2020",
           "title": "PM Modi's donations from his savings, gift auction exceed Rs 103 cr: Report",
           "work": "Business Standard India",
           "url": "https://www.business-standard.com/article/current-affairs/pm-modi-s-donations-from-his-savings-gift-auction-exceed-rs-103-cr-report-120090300759_1.html",
-          "access-date": "2021-09-22",
+          "access-date": "22 September 2021",
           "template": "citation",
           "type": "news"
         }
@@ -9989,10 +10062,10 @@
       ],
       "references": [
         {
-          "date": "2021-09-19",
+          "date": "19 September 2021",
           "title": "PM Narendra Modi urges people to take part in e-auction of gifts received by him",
           "url": "https://www.hindustantimes.com/india-news/pm-narendra-modi-urges-people-to-take-part-in-e-auction-of-gifts-received-by-him-101632038517923.html",
-          "access-date": "2021-09-22",
+          "access-date": "22 September 2021",
           "website": "Hindustan Times",
           "language": "en",
           "template": "citation",
@@ -11054,17 +11127,17 @@
         {
           "title": "The 100 Most Influential People of 2021",
           "url": "https://time.com/collection/100-most-influential-people-2021/",
-          "access-date": "2021-09-19",
+          "access-date": "19 September 2021",
           "magazine": "Time",
           "language": "en",
           "template": "citation",
           "type": "magazine"
         },
         {
-          "date": "2021-09-16",
+          "date": "16 September 2021",
           "title": "PM Narendra Modi features in Time Magazine's list of 100 most influential people of 2021; 'dominating the country's politics', says report",
           "url": "https://www.financialexpress.com/india-news/pm-narendra-modi-features-in-time-magazines-list-of-100-most-influential-people-of-2021-dominating-the-countrys-politics-says-report/2331131/",
-          "access-date": "2021-09-18",
+          "access-date": "18 September 2021",
           "website": "The Financial Express",
           "language": "en-US",
           "template": "citation",
@@ -11073,7 +11146,7 @@
         {
           "title": "PM Modi In TIME Magazine's '100 Most Influential People 2021' List; Mamata Banerjee, Adar Poonawalla Also Feature",
           "url": "https://www.moneycontrol.com/news/india/time-magazine-lists-pm-modi-in-100-most-influential-people-2021-mamata-banerjee-adar-poonawalla-feature-too-7471231.html",
-          "access-date": "2021-09-18",
+          "access-date": "18 September 2021",
           "website": "Moneycontrol",
           "language": "en",
           "template": "citation",
@@ -12045,7 +12118,7 @@
         {
           "title": "Uri: The Surgical Strike",
           "url": "https://www.zee5.com/global/movies/details/watch-uri-the-surgical-strike-full-movie-online/0-0-33204",
-          "access-date": "2021-06-11",
+          "access-date": "11 June 2021",
           "website": "ZEE5",
           "language": "en",
           "template": "citation",
@@ -12054,7 +12127,7 @@
         {
           "title": "Watch Avrodh Web Series Online",
           "url": "https://www.sonyliv.com/shows/avrodh-1700000236",
-          "access-date": "2021-06-22",
+          "access-date": "22 June 2021",
           "website": "SonyLIV",
           "language": "en",
           "template": "citation",
@@ -12065,7 +12138,7 @@
           "url": "https://www.discoveryplus.in/show/man-vs-wild-with-bear-grylls-and-pm-modi",
           "publisher": "Discovery+",
           "language": "en",
-          "access-date": "2021-06-11",
+          "access-date": "11 June 2021",
           "template": "citation",
           "type": "web"
         },
@@ -12112,8 +12185,8 @@
           "url": "https://www.youtube.com/watch?v=5RRIQvViQw0",
           "publisher": "India TV via YouTube",
           "language": "en",
-          "date": "2014-04-13",
-          "access-date": "2021-06-11",
+          "date": "13 April 2014",
+          "access-date": "11 June 2021",
           "template": "citation",
           "type": "youtube"
         },
@@ -12122,24 +12195,24 @@
           "url": "https://www.youtube.com/watch?v=FDzbReWkwI8",
           "publisher": "India TV via YouTube",
           "language": "en",
-          "date": "2014-04-01",
-          "access-date": "2021-06-11",
+          "date": "1 April 2014",
+          "access-date": "11 June 2021",
           "template": "citation",
           "type": "youtube"
         },
         {
           "title": "Mann Ki Baat",
           "url": "https://pmonradio.nic.in/",
-          "access-date": "2021-06-11",
+          "access-date": "11 June 2021",
           "website": "pmonradio.nic.in",
           "template": "citation",
           "type": "web"
         },
         {
-          "date": "2021-04-05",
+          "date": "5 April 2021",
           "title": "Pariksha Pe Charcha 2021",
           "url": "https://mygov.in/campaigns/ppc-2021/",
-          "access-date": "2021-06-11",
+          "access-date": "11 June 2021",
           "website": "MyGov.in",
           "language": "en",
           "template": "citation",
