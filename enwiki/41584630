@@ -457,7 +457,7 @@
               "text": "Ramana was appointed as the 48th CJI by the President of India on 6 April 2021."
             },
             {
-              "text": "He took Oath as 48th Chief Justice of India on 24 April 2021.,ref name=\"48th CJI\" /> The Oath was Administered by President Ram Nath Kovind at Rashtrapati Bhavan.",
+              "text": "He took Oath as 48th Chief Justice of India on 24 April 2021.",
               "links": [
                 {
                   "text": "48th",
@@ -467,7 +467,12 @@
                 {
                   "type": "internal",
                   "page": "Chief Justice of India"
-                },
+                }
+              ]
+            },
+            {
+              "text": "The Oath was Administered by President Ram Nath Kovind at Rashtrapati Bhavan.",
+              "links": [
                 {
                   "text": "President Ram Nath Kovind",
                   "type": "internal",
