@@ -315,7 +315,7 @@
         {
           "sentences": [
             {
-              "text": "Under Modi's tenure, India has experienced democratic backsliding."
+              "text": "Under Modi's tenure, India has experienced a few controversies."
             },
             {
               "text": "Following his party's victory in the 2019 general election, his administration revoked the special status of Jammu and Kashmir.",
@@ -5451,7 +5451,7 @@
         {
           "sentences": [
             {
-              "text": "Under Modi's tenure, India has experienced democratic backsliding.",
+              "text": "Under Modi's tenure, some say that India has experienced democratic backsliding.",
               "links": [
                 {
                   "text": "democratic backsliding",
@@ -5474,6 +5474,13 @@
                   "page": "Reporters Without Borders"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has however topped in several approval rating studies."
             }
           ]
         }
@@ -5711,6 +5718,16 @@
           "type": "web"
         },
         {
+          "date": "2021-11-07",
+          "title": "PM Modi again tops global approval rating, BJP leaders congratulate",
+          "url": "https://www.hindustantimes.com/india-news/pm-modi-again-tops-global-approval-rating-bjp-leaders-congratulate-101636286044244.html",
+          "access-date": "2021-11-26",
+          "website": "Hindustan Times",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "last1": "Wyatt",
           "first1": "Andrew",
           "title": "India in 2014: Decisive National Elections",
@@ -5820,6 +5837,18 @@
           "access-date": "27 November 2020",
           "website": "Foreign Policy",
           "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Finzel",
+          "first": "Lydia",
+          "date": "24 February 2020",
+          "title": "Democratic Backsliding in India, the World's Largest Democracy {{!}} V-Dem",
+          "url": "https://www.v-dem.net/en/news/democratic-backsliding-india-worlds-largest-democracy/",
+          "access-date": "27 November 2020",
+          "website": "www.v-dem.net",
+          "publisher": "V-Dem Institute",
           "template": "citation",
           "type": "web"
         }
@@ -8563,7 +8592,7 @@
         {
           "last1": "Shrivastava",
           "first1": "Rahul",
-          "title": "Push for renewable by 2030, net-zero emissions by 2070: PM Modi’s 5 commitments at COP26 summit",
+          "title": "Push for renewable by 2030, net-zero emissions by 2070: PM Modi's 5 commitments at COP26 summit",
           "url": "https://www.indiatoday.in/india/story/pm-narendra-modi-cop26-global-climate-change-summit-glasgow-net-zero-carbon-emissions-1872187-2021-11-01",
           "access-date": "21 November 2021",
           "agency": "India Today",
@@ -8619,104 +8648,6 @@
           "s2cid": "4459603",
           "template": "citation",
           "type": "journal"
-        }
-      ]
-    },
-    {
-      "title": "Democratic backsliding",
-      "depth": 1,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Under Modi's tenure, India has experienced democratic backsliding.",
-              "links": [
-                {
-                  "text": "democratic backsliding",
-                  "type": "internal",
-                  "page": "democratic backsliding"
-                }
-              ]
-            },
-            {
-              "text": "According to one study, \"The BJP government incrementally but systemically attacked nearly all existing mechanisms that are in place to hold the political executive to account, either by ensuring that these mechanisms became subservient to the political executive or were captured by party loyalists.\""
-            },
-            {
-              "text": "Scholars also point to how the Modi government has used state power to intimidate and stifle critics in the media and academia, thus undermining freedom of expression and alternative sources of information."
-            },
-            {
-              "text": "There have been several reports of the Modi government to be as an authoritarian conservative government, even due to lack of good opposition.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Modi government"
-                },
-                {
-                  "text": "authoritarian conservative",
-                  "type": "internal",
-                  "page": "Authoritarian conservatism"
-                },
-                {
-                  "text": "opposition",
-                  "type": "internal",
-                  "page": "Leader of the Opposition (India)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "name": "\"lo9\"",
-          "group": "lower-alpha",
-          "template": "efn"
-        }
-      ],
-      "references": [
-        {
-          "last": "Welzel",
-          "first": "Christian Peter",
-          "date": "2017",
-          "title": "A Tale of Culture-Bound Regime Evolution",
-          "url": "http://fox.leuphana.de/portal/de/publications/a-tale-of-culturebound-regime-evolution-the-centennial-democratic-trend-and-its-recent-reversal(2b6baaf4-3942-4491-92ca-55782d455a62).html",
-          "journal": "Democratization",
-          "language": "en",
-          "doi": "10.1080/13510347.2018.1542430",
-          "issn": "1351-0347",
-          "s2cid": "148625260",
-          "template": "citation",
-          "type": "journal"
-        },
-        {
-          "last1": "Ding",
-          "first1": "Iza",
-          "last2": "Slater",
-          "first2": "Dan",
-          "date": "2 January 2021",
-          "title": "Democratic decoupling",
-          "url": "https://doi.org/10.1080/13510347.2020.1842361",
-          "journal": "Democratization",
-          "volume": "28",
-          "issue": "1",
-          "pages": "63–80",
-          "doi": "10.1080/13510347.2020.1842361",
-          "s2cid": "231643689",
-          "issn": "1351-0347",
-          "template": "citation",
-          "type": "journal"
-        },
-        {
-          "first": "Lydia",
-          "last": "Finzel",
-          "title": "Democratic Backsliding in India, the World's Largest Democracy {{!}} V-Dem",
-          "url": "https://www.v-dem.net/en/news/democratic-backsliding-india-worlds-largest-democracy/",
-          "date": "24 February 2020",
-          "access-date": "27 November 2020",
-          "website": "www.v-dem.net",
-          "publisher": "V-Dem Institute",
-          "template": "citation",
-          "type": "web"
         }
       ]
     },
