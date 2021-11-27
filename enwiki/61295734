@@ -219,6 +219,9 @@
           "occupation": {
             "text": "Politician · lawyer · writer"
           },
+          "profession": {
+            "text": "Chancellor-Sri B. Harichandan at krishna university"
+          },
           "portfolio": {
             "text": "Ministry of Law, Revenue and Fisheries, Government of Odisha (2004–2009)",
             "links": [
@@ -295,7 +298,7 @@
         {
           "sentences": [
             {
-              "text": "He was elected to the Odisha State Legislative Assembly five times."
+              "text": "Harichandan was elected to the Odisha State Legislative Assembly five times."
             },
             {
               "text": "Beginning from 1977 assembly elections from Chilika assembly as a member of BJP, he came back to power in 1990 with a Janata Dal ticket.Harichandan was elected for the third time, this time from Bhubaneswar Central seat in the by-poll elections of 1997, and continued to be a member from the same constituency three times in a row.",
@@ -335,6 +338,36 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2019, President of India reshuffled The Governors Of Andhra Pradesh and Telangana.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of India"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andhra Pradesh"
+                },
+                {
+                  "type": "internal",
+                  "page": "Telangana"
+                }
+              ]
+            },
+            {
+              "text": "Harichandan was appointed as the 23rd Governor of Andhra Pradesh.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor of Andhra Pradesh"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
@@ -358,6 +391,71 @@
       ]
     },
     {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 17 November 2021, Harichandan was diagnosed with COVID-19.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-11-17",
+          "title": "Andhra Pradesh governor Harichandan diagnosed with Covid-19, rushed to hospital",
+          "url": "https://www.hindustantimes.com/india-news/andhra-pradesh-governor-harichandan-diagnosed-with-covid-19-rushed-to-hospital-101637132316915.html",
+          "access-date": "2021-11-26",
+          "website": "Hindustan Times",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Awards",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Harichandan was awarded the Kalinga Ratna Award in 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kalinga Ratna Award"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Reporter",
+          "first": "Staff",
+          "date": "2021-04-02",
+          "title": "Kalinga Ratna award presented to Governor",
+          "language": "en-IN",
+          "work": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/kalinga-ratna-award-presented-to-governor/article34226673.ece",
+          "access-date": "2021-11-26",
+          "issn": "0971-751X",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
       "title": "Books",
       "depth": 0,
       "paragraphs": [
@@ -374,37 +472,6 @@
                   "Sangarsha Sarinahin"
                 ]
               }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Governor of Andhra Pradesh",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "In July 2019,President of India Reshuffled The Governors Of Andhra Pradesh and Telangana.He Appointed As The 23rd Governor of Andhra Pradesh.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "President of India"
-                },
-                {
-                  "type": "internal",
-                  "page": "Andhra Pradesh"
-                },
-                {
-                  "type": "internal",
-                  "page": "Telangana"
-                },
-                {
-                  "type": "internal",
-                  "page": "Governor of Andhra Pradesh"
-                }
-              ]
             }
           ]
         }
