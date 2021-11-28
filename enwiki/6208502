@@ -32,13 +32,8 @@
         {
           "sentences": [
             {
-              "text": "Arvind Kejriwal (Hindi pronunciation: [əɾʋin̪d̪ ked͡ʒɾiːʋaːl], born 16 August 1968) is an Indian politician and a former bureaucrat who is the current and 7th Chief Minister of Delhi since February 2015.",
+              "text": "Arvind Kejriwal (born 16 August 1968) is an Indian politician and a former bureaucrat who is the current and 7th Chief Minister of Delhi since February 2015.",
               "links": [
-                {
-                  "text": "[əɾʋin̪d̪ ked͡ʒɾiːʋaːl",
-                  "type": "internal",
-                  "page": "Help:IPA/Hindi and Urdu"
-                },
                 {
                   "type": "internal",
                   "page": "Chief Minister of Delhi"
@@ -210,6 +205,28 @@
           "spouse": "Sunita Kejriwal",
           "from": "1995",
           "template": "marriage"
+        },
+        {
+          "list": [
+            "URR",
+            "WIN",
+            "dh"
+          ],
+          "template": "respell"
+        },
+        {
+          "list": [
+            "CAGE",
+            "REE",
+            "WAHL"
+          ],
+          "template": "respell"
+        },
+        {
+          "list": [
+            "Pronunciation:\n*Hindi: [əɾʋin̪d̪ ked͡ʒɾiːʋaːl] \n*"
+          ],
+          "template": "efn"
         }
       ],
       "infoboxes": [
@@ -3255,8 +3272,17 @@
       ]
     },
     {
-      "title": "References",
+      "title": "Notes",
       "depth": 0,
+      "templates": [
+        {
+          "template": "notelist"
+        }
+      ]
+    },
+    {
+      "title": "Citations",
+      "depth": 1,
       "templates": [
         {
           "list": [

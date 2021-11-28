@@ -23,8 +23,12 @@
         {
           "sentences": [
             {
-              "text": "Uddhav Balasaheb Thackeray (Devanagari: उद्धव बाळासाहेब ठाकरे, born 27 July 1960) is an Indian politician who is the 19th and current Chief Minister of Maharashtra.",
+              "text": "Uddhav Balasaheb Thackeray (Marathi: उद्धव बाळासाहेब ठाकरे; born 27 July 1960) is an Indian politician who is the 19th and current Chief Minister of Maharashtra.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Marathi"
+                },
                 {
                   "type": "internal",
                   "page": "Chief Minister of Maharashtra"

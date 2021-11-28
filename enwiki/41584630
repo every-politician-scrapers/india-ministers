@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Nuthalapati Venkata Ramana ([nuːtalapaːʈi venkaʈa ɾamaɳa]; born 27 August 1957) is an Indian judge who is serving as the 48th and current Chief Justice of India.",
+              "text": "Nuthalapati Venkata Ramana ([nuːtalapaːʈi venkaʈa ɾamaɳa]; ; born 27 August 1957) is an Indian judge who is serving as the 48th and current Chief Justice of India.",
               "links": [
                 {
                   "text": "[nuːtalapaːʈi venkaʈa ɾamaɳa",
@@ -85,6 +85,14 @@
           "day": "27",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "list": [
+            "ruh",
+            "muh",
+            "NAH"
+          ],
+          "template": "respell"
         }
       ],
       "infoboxes": [

@@ -463,12 +463,11 @@
             ]
           },
           "residence": {
-            "text": "Raj Bhavan, Chennai",
+            "text": "Raj Bhavan, Punjab",
             "links": [
               {
-                "text": "Raj Bhavan, Chennai",
                 "type": "internal",
-                "page": "Raj Bhavan (Chennai)"
+                "page": "Raj Bhavan, Punjab"
               }
             ]
           },
