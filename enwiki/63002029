@@ -125,21 +125,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "home ministry (india)"
-        },
-        {
-          "template": "india-bio-stub"
-        }
-      ]
     }
   ]
 }

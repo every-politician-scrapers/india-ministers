@@ -148,37 +148,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "See also",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Indian Police Service",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Indian Police Service"
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
     }
   ]
 }

@@ -403,63 +403,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        },
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "before": "Kaptan Singh Solanki",
-          "template": "s-bef"
-        },
-        {
-          "title": "Governor of Haryana",
-          "years": "25 August 2018 – 7 July 2021",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Bandaru Dattatreya",
-          "template": "s-aft"
-        },
-        {
-          "before": "Ramesh Bais",
-          "template": "s-bef"
-        },
-        {
-          "title": "Governor of Tripura",
-          "years": "7 July 2021 - Present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "current indian governors"
-        },
-        {
-          "template": "bharatiya janata party"
-        },
-        {
-          "template": "bihar-bjp-politician-stub"
-        }
-      ]
     }
   ]
 }

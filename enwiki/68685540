@@ -281,37 +281,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "templates": [
-        {
-          "id": "LtGenGurmit",
-          "template": "twitter"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "current indian governors"
-        },
-        {
-          "template": "governors of uttarakhand"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "india-mil-bio-stub"
-        }
-      ]
     }
   ]
 }
