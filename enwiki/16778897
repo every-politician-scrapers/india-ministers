@@ -133,7 +133,7 @@
         {
           "sentences": [
             {
-              "text": "N. Biren Singh has been responsible for a crackdown on freedom of speech, leading to journalists being jailed for crimes such as stating that cow dung does not cure COVID 19.",
+              "text": "N. Biren Singh has been responsible for a crackdown on freedom of speech, leading to journalists being jailed for crimes such as stating that cow dung does not cure COVID-19.",
               "links": [
                 {
                   "text": "freedom of speech",
@@ -152,7 +152,7 @@
                 },
                 {
                   "type": "internal",
-                  "page": "COVID 19"
+                  "page": "COVID-19"
                 }
               ]
             }
