@@ -201,7 +201,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Y. S. Jagan Mohan Reddy"
+            "text": "Shri. Y. S. Jagan Mohan Reddy"
           },
           "image": {
             "text": "Jagan Mohan Reddy image.jpg"
@@ -327,15 +327,22 @@
             ]
           },
           "predecessor2": {
-            "text": "position established",
-            "formatting": {
-              "italic": [
-                "position established"
-              ]
-            }
+            "text": "N. Chandrababu Naidu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "N. Chandrababu Naidu"
+              }
+            ]
           },
           "successor2": {
-            "text": "N. Chandrababu Naidu"
+            "text": "N. Chandrababu Naidu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "N. Chandrababu Naidu"
+              }
+            ]
           },
           "constituency2": {
             "text": "Pulivendula",
