@@ -236,6 +236,9 @@
               }
             ]
           },
+          "status1": {
+            "text": "Additional Charge"
+          },
           "term_start1": {
             "text": "18 August 2020"
           },
