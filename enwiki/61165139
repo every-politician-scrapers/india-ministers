@@ -106,56 +106,6 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Vaishnav did his M.Tech from IIT Kanpur, before joining IAS civil service in 1994.",
-              "links": [
-                {
-                  "text": "IIT Kanpur",
-                  "type": "internal",
-                  "page": "Indian Institute of Technology Kanpur"
-                }
-              ]
-            },
-            {
-              "text": "In 2008, Vaishnaw left for the US to do his MBA from Wharton School of the University of Pennsylvania.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Wharton School of the University of Pennsylvania"
-                }
-              ]
-            },
-            {
-              "text": "After his MBA, Vaishnaw came back to India and joined GE Transportation as Managing Director.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "GE Transportation"
-                }
-              ]
-            },
-            {
-              "text": "Subsequently, he joined Siemens as the Vice President - Locomotives & Head Urban Infrastructure Strategy.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Siemens"
-                }
-              ]
-            },
-            {
-              "text": "Previously, he has worked as deputy chairman of the Mormugao Port Trust, and thus has experience in both public and private sector enterprises.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Mormugao Port Trust"
-                }
-              ]
-            }
-          ]
         }
       ],
       "templates": [
@@ -409,41 +359,6 @@
           "title": "Statewise Retirement",
           "website": "164.100.47.5",
           "access-date": "2019-06-28",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.hindustantimes.com/india-news/bjp-s-ashwini-vaishnaw-elected-unopposed-to-rajya-sabha-from-odisha/story-bvuQAT3LaZhPiTT4eZcv2K.html",
-          "title": "BJP's Ashwini Vaishnaw elected unopposed to Rajya Sabha from Odisha",
-          "date": "2019-06-29",
-          "website": "Hindustan Times",
-          "language": "en",
-          "access-date": "2019-11-16",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/naveen-patnaiks-support-to-bjp-man-raises-brows/articleshow/69921087.cms",
-          "title": "Naveen Patnaik's support to BJP man raises brows",
-          "last": "Mohanty",
-          "first": "Meera",
-          "date": "2019-06-24",
-          "work": "The Economic Times",
-          "access-date": "2019-11-16",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.businesstoday.in/magazine/exclusive/best-b-schools-2014/iit-kanpur-iim-lucknow-civil-services-examination-oxford-universitys-said-business-school/story/211010.html",
-          "title": "Bureaucrats prefer MBA degree for better career prospects",
-          "website": "www.businesstoday.in",
-          "access-date": "2019-11-16",
           "template": "citation",
           "type": "web"
         }
