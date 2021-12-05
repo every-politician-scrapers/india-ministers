@@ -128,7 +128,7 @@
               ]
             },
             {
-              "text": "He is the first prime minister to have been born after India's independence in 1947 and the second prime minister not belonging to the Indian National Congress to have won two consecutive elections, as well as a majority in both terms in the Indian lower house of parliament.",
+              "text": "He is the first prime minister to have been born after India's independence in 1947 and the second prime minister not belonging to the Indian National Congress to have won two consecutive elections, as well as a majority in both terms in the Indian lower house an of parliament, with his party being in majority position in upper house as well.",
               "links": [
                 {
                   "text": "independence",
@@ -143,6 +143,11 @@
                   "text": "lower house",
                   "type": "internal",
                   "page": "Lok Sabha"
+                },
+                {
+                  "text": "upper house",
+                  "type": "internal",
+                  "page": "Rajya Sabha"
                 }
               ]
             }
