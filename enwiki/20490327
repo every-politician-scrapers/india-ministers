@@ -201,13 +201,20 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Shri. Y. S. Jagan Mohan Reddy"
+            "text": "Y. S. Jagan Mohan Reddy"
           },
           "image": {
             "text": "Jagan Mohan Reddy image.jpg"
           },
           "caption": {
-            "text": "Reddy in 2019"
+            "text": "Jagan in A.P. legislative council",
+            "links": [
+              {
+                "text": "A.P. legislative council",
+                "type": "internal",
+                "page": "Andhra Pradesh Legislative Council"
+              }
+            ]
           },
           "office": {
             "text": "Chief Minister of Andhra Pradesh"
