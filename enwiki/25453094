@@ -30,7 +30,7 @@
         {
           "sentences": [
             {
-              "text": "General Bipin Rawat, (born 16 March 1958) is a four star general of the Indian Army.",
+              "text": "General Bipin Laxman Singh Rawat, (born 16 March 1958) is a four star general of the Indian Army.",
               "links": [
                 {
                   "text": "General",
@@ -49,7 +49,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "General Bipin Rawat"
+                  "General Bipin Laxman Singh Rawat"
                 ]
               }
             },
@@ -67,7 +67,7 @@
               "text": "On 30 December 2019, he was appointed as the first CDS of India and assumed office from 1 January 2020."
             },
             {
-              "text": "Prior to taking over as the CDS, he served as Chairman of the Chiefs of Staff Committee as well as 26th Chief of Army Staff of the Indian Army.",
+              "text": "Prior to taking over as the CDS, he served as 57th and last Chairman of the Chiefs of Staff Committee as well as 26th Chief of Army Staff of the Indian Army.",
               "links": [
                 {
                   "type": "internal",
@@ -265,6 +265,18 @@
           "term_start": {
             "text": "January 1, 2020"
           },
+          "1blankname": {
+            "text": "Minister of Defence"
+          },
+          "1namedata": {
+            "text": "Rajnath Singh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rajnath Singh"
+              }
+            ]
+          },
           "president": {
             "text": "Ram Nath Kovind",
             "links": [
@@ -297,6 +309,18 @@
           },
           "term_end1": {
             "text": "December 31, 2019"
+          },
+          "1blankname1": {
+            "text": "Minister of Defence"
+          },
+          "1namedata1": {
+            "text": "Rajnath Singh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rajnath Singh"
+              }
+            ]
           },
           "president1": {
             "text": "Ram Nath Kovind",
@@ -366,6 +390,26 @@
               }
             ]
           },
+          "1blankname2": {
+            "text": "Minister of Defence"
+          },
+          "1namedata2": {
+            "text": "Nirmala Sitharaman Arun Jaitley Manohar Parrikar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nirmala Sitharaman"
+              },
+              {
+                "type": "internal",
+                "page": "Arun Jaitley"
+              },
+              {
+                "type": "internal",
+                "page": "Manohar Parrikar"
+              }
+            ]
+          },
           "predecessor2": {
             "text": "Dalbir Singh Suhag",
             "links": [
@@ -427,6 +471,18 @@
               }
             ]
           },
+          "1blankname3": {
+            "text": "Minister of Defence"
+          },
+          "1namedata3": {
+            "text": "Manohar Parrikar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Manohar Parrikar"
+              }
+            ]
+          },
           "successor3": {
             "text": "Sarath Chand",
             "links": [
@@ -455,6 +511,18 @@
                 "page": "India"
               }
             ]
+          },
+          "residence": {
+            "text": "New Delhi, India",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Delhi, India"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Bipin Laxman Singh Rawat"
           },
           "allegiance": {
             "text": "🇮🇳"
@@ -561,29 +629,30 @@
               }
             ]
           },
-          "relations": {
-            "text": "Lieutenant General Laxman Singh Rawat (Father)",
+          "father": {
+            "text": "Lt. General Laxman Singh Rawat",
             "links": [
               {
-                "text": "Lieutenant General",
+                "text": "Lt. General",
                 "type": "internal",
                 "page": "Lieutenant General (India)"
               }
             ]
           },
           "alma_mater": {
-            "text": "National Defence Academy (BSc) Indian Military Academy Defence Services Staff College (MPhil) U.S. Army Command & General Staff College (ILE) Chaudhary Charan Singh University (PhD)",
+            "text": "National Defence Academy (B.Sc.) I.M.A. Defence Services Staff College (MPhil) U.S. Army Command & General Staff College (ILE) Chaudhary Charan Singh University (PhD)",
             "links": [
               {
                 "type": "internal",
                 "page": "National Defence Academy"
               },
               {
-                "text": "BSc",
+                "text": "B.Sc.",
                 "type": "internal",
                 "page": "Bachelor of Science"
               },
               {
+                "text": "I.M.A.",
                 "type": "internal",
                 "page": "Indian Military Academy"
               },
