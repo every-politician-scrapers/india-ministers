@@ -33,7 +33,7 @@
               }
             },
             {
-              "text": "Sawant represents the Sanquelim constituency in the Goa Legislative Assembly and is a member of the BJP.",
+              "text": "Sawant represents the Sanquelim constituency in the Goa Legislative Assembly and is a member of the Bharatiya Janata Party.",
               "links": [
                 {
                   "text": "Sanquelim constituency",
@@ -46,25 +46,29 @@
                 },
                 {
                   "type": "internal",
-                  "page": "BJP"
+                  "page": "Bharatiya Janata Party"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "He is a physician by profession.",
+              "text": "He is an Ayurveda Medical practitioner by profession.",
               "links": [
                 {
-                  "text": "physician",
                   "type": "internal",
-                  "page": "physician"
+                  "page": "Ayurveda"
+                },
+                {
+                  "type": "internal",
+                  "page": "Medical practitioner"
                 }
               ]
             },
             {
-              "text": "He was serving as the speaker of the Goa assembly before being sworn in as Chief Minister, after the death of the sitting chief minister Er."
-            },
-            {
-              "text": "Manohar Parrikar.",
+              "text": "He was serving as the speaker of the Goa assembly before being sworn in as Chief Minister, after the death of the sitting chief minister Manohar Parrikar.",
               "links": [
                 {
                   "type": "internal",
@@ -141,7 +145,7 @@
             ]
           },
           "governor": {
-            "text": "*Mridula Sinha Satya Pal Malik \n*Bhagat Singh Koshyari\n*P. S. Sreedharan Pillai",
+            "text": "Mridula Sinha Satya Pal Malik Bhagat Singh Koshyari P. S. Sreedharan Pillai",
             "links": [
               {
                 "type": "internal",
@@ -162,7 +166,7 @@
             ]
           },
           "deputy": {
-            "text": "*Sudin Dhavalikar\n*Vijai Sardesai\n*Manohar Ajgaonkar\n*Chandrakant Kavlekar",
+            "text": "Sudin Dhavalikar Vijai Sardesai Manohar Ajgaonkar Chandrakant Kavlekar",
             "links": [
               {
                 "type": "internal",

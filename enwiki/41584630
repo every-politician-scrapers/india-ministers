@@ -98,7 +98,17 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "The Honourable Chief Justice of India"
+            "text": "The Honourable Chief Justice of India",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              },
+              {
+                "type": "internal",
+                "page": "Chief Justice of India"
+              }
+            ]
           },
           "name": {
             "text": "N. V. Ramana"
