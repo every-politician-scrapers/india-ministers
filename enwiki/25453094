@@ -3,7 +3,10 @@
   "pageID": 25453094,
   "categories": [
     "1958 births",
-    "Living people",
+    "2021 deaths",
+    "Victims of aviation accidents or incidents in India",
+    "Victims of helicopter accidents or incidents",
+    "Victims of aviation accidents or incidents in 2021",
     "Military personnel from Uttarakhand",
     "People from Pauri Garhwal district",
     "Chiefs of Army Staff (India)",
@@ -30,15 +33,10 @@
         {
           "sentences": [
             {
-              "text": "General Bipin Laxman Singh Rawat, (born 16 March 1958) is a four star general of the Indian Army.",
+              "text": "General Bipin Laxman Singh Rawat (16 March 1958 – 8 December 2021) was an Indian military officer who was a four-star general of the Indian Army.",
               "links": [
                 {
-                  "text": "General",
-                  "type": "internal",
-                  "page": "General (India)"
-                },
-                {
-                  "text": "four star general",
+                  "text": "four-star general",
                   "type": "internal",
                   "page": "Four-star rank"
                 },
@@ -49,22 +47,28 @@
               ],
               "formatting": {
                 "bold": [
-                  "General Bipin Laxman Singh Rawat"
+                  "Bipin Laxman Singh Rawat"
                 ]
               }
             },
             {
-              "text": "He is the first and current Chief of Defence Staff (CDS) of India.",
+              "text": "He served as the first Chief of Defence Staff (CDS) of the Indian Armed Forces from January 2020 until his death in a helicopter crash in December 2021.",
               "links": [
                 {
                   "text": "Chief of Defence Staff",
                   "type": "internal",
                   "page": "Chief of Defence Staff (India)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Indian Armed Forces"
+                },
+                {
+                  "text": "a helicopter crash",
+                  "type": "internal",
+                  "page": "2021 Indian Air Force Mi-17 crash"
                 }
               ]
-            },
-            {
-              "text": "On 30 December 2019, he was appointed as the first CDS of India and assumed office from 1 January 2020."
             },
             {
               "text": "Prior to taking over as the CDS, he served as 57th and last Chairman of the Chiefs of Staff Committee as well as 26th Chief of Army Staff of the Indian Army.",
@@ -77,10 +81,33 @@
                   "text": "26th Chief of Army Staff",
                   "type": "internal",
                   "page": "Chief of the Army Staff (India)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 8 December 2021, Rawat died in the crash of an Indian Air Force Mi-17 helicopter in Tamil Nadu.",
+              "links": [
+                {
+                  "text": "crash of an Indian Air Force Mi-17 helicopter",
+                  "type": "internal",
+                  "page": "2021 Indian Air Force Mi-17 crash"
                 },
                 {
                   "type": "internal",
-                  "page": "Indian Army"
+                  "page": "Tamil Nadu"
+                }
+              ]
+            },
+            {
+              "text": "He was accompanied by his wife Madhulika Rawat and members of his personal staff, who were also killed in the crash.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Madhulika Rawat"
                 }
               ]
             }
@@ -89,8 +116,12 @@
       ],
       "templates": [
         {
-          "description": "Current Chief of Defence Staff of India",
+          "description": "Indian military officer",
           "template": "short description"
+        },
+        {
+          "small": "yes",
+          "template": "pp-blp"
         },
         {
           "template": "pp-pc1"
@@ -100,7 +131,7 @@
           "template": "pp-pc"
         },
         {
-          "date": "January 2020",
+          "date": "December 2021",
           "template": "use dmy dates"
         },
         {
@@ -108,7 +139,7 @@
           "template": "use indian english"
         },
         {
-          "size": "90%",
+          "size": "100%",
           "country": "IND",
           "list": [
             "PVSM",
@@ -130,6 +161,17 @@
             "df": "yes",
             "template": "start date",
             "text": "January 1, 2020"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2021",
+            "month": "12",
+            "date": "08",
+            "df": "yes",
+            "template": "end date",
+            "text": "December 8, 2021"
           }
         },
         {
@@ -199,11 +241,32 @@
           }
         },
         {
+          "template": "date",
+          "data": {
+            "df": "y",
+            "year": "1958",
+            "month": "03",
+            "date": "16",
+            "template": "birth date",
+            "text": "March 16, 1958"
+          }
+        },
+        {
           "df": "y",
-          "year": "1958",
-          "month": "03",
-          "day": "16",
-          "template": "birth date and age"
+          "year": "2021",
+          "month": "12",
+          "day": "8",
+          "list": [
+            "1958",
+            "03",
+            "16"
+          ],
+          "template": "death date and age"
+        },
+        {
+          "spouse": "Madhulika Rawat",
+          "from": "1985",
+          "template": "marriage"
         },
         {
           "list": [
@@ -215,7 +278,6 @@
           "template": "endash"
         },
         {
-          "size": "90%",
           "country": "IND",
           "list": [
             "PVSM",
@@ -239,21 +301,16 @@
                 "type": "internal",
                 "page": "General (India)"
               }
-            ],
-            "formatting": {
-              "bold": [
-                "General"
-              ]
-            }
+            ]
           },
           "image": {
             "text": "Bipin Rawat Chief of Defence Staff (CDS).jpg"
           },
           "caption": {
-            "text": "Gen. Bipin Rawat after taking charge as CDS"
+            "text": "Official portrait, 2020"
           },
           "office": {
-            "text": "1st Chief of Defence Staff",
+            "text": "Chief of Defence Staff",
             "links": [
               {
                 "text": "Chief of Defence Staff",
@@ -264,6 +321,25 @@
           },
           "term_start": {
             "text": "January 1, 2020"
+          },
+          "term_end": {
+            "text": "December 8, 2021"
+          },
+          "predecessor": {
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
+          },
+          "successor": {
+            "text": "Vacant",
+            "formatting": {
+              "italic": [
+                "Vacant"
+              ]
+            }
           },
           "1blankname": {
             "text": "Minister of Defence"
@@ -350,7 +426,12 @@
             ]
           },
           "successor1": {
-            "text": "Office abolished"
+            "text": "Office abolished",
+            "formatting": {
+              "italic": [
+                "Office abolished"
+              ]
+            }
           },
           "office2": {
             "text": "26th Chief of the Army Staff",
@@ -369,7 +450,7 @@
             "text": "December 31, 2019"
           },
           "president2": {
-            "text": "Pranab Mukherjee Ram Nath Kovind",
+            "text": "Pranab Mukherjee\nRam Nath Kovind",
             "links": [
               {
                 "type": "internal",
@@ -394,7 +475,7 @@
             "text": "Minister of Defence"
           },
           "1namedata2": {
-            "text": "Nirmala Sitharaman Arun Jaitley Manohar Parrikar",
+            "text": "Nirmala Sitharaman\nArun Jaitley\nManohar Parrikar",
             "links": [
               {
                 "type": "internal",
@@ -495,6 +576,9 @@
           "birth_date": {
             "text": "March 16, 1958"
           },
+          "death_date": {
+            "text": "December 8, 2021"
+          },
           "birth_place": {
             "text": "Pauri, Uttarakhand, India",
             "links": [
@@ -505,21 +589,34 @@
               {
                 "type": "internal",
                 "page": "Uttarakhand"
-              },
-              {
-                "type": "internal",
-                "page": "India"
               }
             ]
           },
-          "residence": {
-            "text": "New Delhi, India",
+          "death_place": {
+            "text": "Coonoor, Tamil Nadu, India",
             "links": [
               {
                 "type": "internal",
-                "page": "New Delhi, India"
+                "page": "Coonoor"
+              },
+              {
+                "type": "internal",
+                "page": "Tamil Nadu"
               }
             ]
+          },
+          "death_cause": {
+            "text": "Helicopter crash",
+            "links": [
+              {
+                "text": "Helicopter crash",
+                "type": "internal",
+                "page": "2021 Indian Air Force Mi-17 crash"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Madhulika Rawat (m. 1985)"
           },
           "birth_name": {
             "text": "Bipin Laxman Singh Rawat"
@@ -528,7 +625,7 @@
             "text": "🇮🇳"
           },
           "serviceyears": {
-            "text": "16 December 1978 present"
+            "text": "16 December 1978 8 December 2021"
           },
           "rank": {
             "text": "Rank insignia for India CDS.svg General",
@@ -630,24 +727,17 @@
             ]
           },
           "father": {
-            "text": "Lt. General Laxman Singh Rawat",
-            "links": [
-              {
-                "text": "Lt. General",
-                "type": "internal",
-                "page": "Lieutenant General (India)"
-              }
-            ]
+            "text": "Laxman Singh Rawat"
           },
           "alma_mater": {
-            "text": "National Defence Academy (B.Sc.) I.M.A. Defence Services Staff College (MPhil) U.S. Army Command & General Staff College (ILE) Chaudhary Charan Singh University (PhD)",
+            "text": "National Defence Academy (BSc)\n\nI.M.A.\n\nDefence Services Staff College (MPhil)\n\nU.S. Army Command & General Staff College (ILE)\n\nMadras University\n\nChaudhary Charan Singh University (PhD)",
             "links": [
               {
                 "type": "internal",
                 "page": "National Defence Academy"
               },
               {
-                "text": "B.Sc.",
+                "text": "BSc",
                 "type": "internal",
                 "page": "Bachelor of Science"
               },
@@ -672,6 +762,10 @@
               },
               {
                 "type": "internal",
+                "page": "Madras University"
+              },
+              {
+                "type": "internal",
                 "page": "Chaudhary Charan Singh University"
               },
               {
@@ -680,9 +774,6 @@
                 "page": "Doctor of Philosophy"
               }
             ]
-          },
-          "predecessor": {
-            "text": "Office established"
           }
         }
       ],
@@ -697,15 +788,30 @@
           "type": "web"
         },
         {
-          "url": "https://gulfnews.com/world/asia/india/army-chief-gen-bipin-rawat-set-to-be-indias-first-cds-1.68733228",
-          "title": "Army Chief Gen Bipin Rawat set to be India's first CDS",
+          "title": "Who is Bipin Rawat: A brief look at General Bipin Rawat, India's first CDS",
+          "work": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/defence/a-brief-look-at-general-bipin-rawat-indias-first-cds/articleshow/73029309.cms",
+          "access-date": "8 December 2021",
           "template": "citation",
-          "type": "web"
+          "type": "news"
+        },
+        {
+          "last": "Bhaumik",
+          "first": "Subir",
+          "date": "8 December 2021",
+          "title": "Bipin Rawat: India's 'inspiring commander' who died in helicopter crash",
+          "language": "en-GB",
+          "work": "BBC News",
+          "location": "Kolkata",
+          "url": "https://www.bbc.com/news/world-asia-india-59578168",
+          "access-date": "8 December 2021",
+          "template": "citation",
+          "type": "news"
         },
         {
           "url": "https://pib.gov.in/newsite/PrintRelease.aspx?relid=196194",
           "title": "General Bipin Rawat Appointed as Chief of Defence Staff",
-          "date": "2019-12-30",
+          "date": "30 December 2019",
           "template": "citation",
           "type": "web"
         },
@@ -714,7 +820,7 @@
           "title": "Army chief General Bipin Rawat named India's first Chief of Defence Staff",
           "website": "India Today",
           "language": "en",
-          "access-date": "2019-12-30",
+          "access-date": "30 December 2019",
           "template": "citation",
           "type": "web"
         },
@@ -729,7 +835,7 @@
           "url": "https://m-economictimes-com.cdn.ampproject.org/v/s/m.economictimes.com/news/defence/a-brief-look-at-general-bipin-rawat-indias-first-cds/amp_articleshow/73029309.cms?usqp=mq331AQCKAE=&amp_js_v=0.1",
           "title": "Who is Bipin Rawat: A brief look at General Bipin Rawat, India's first CDS",
           "website": "m-economictimes-com.cdn.ampproject.org",
-          "access-date": "2019-12-30",
+          "access-date": "30 December 2019",
           "template": "citation",
           "type": "web"
         },
@@ -737,16 +843,25 @@
           "url": "https://www.thehindu.com/news/national/gen-rawat-takes-over-as-chairman-of-chiefs-of-staff-committee/article29528935.ece",
           "title": "Gen. Rawat takes over as Chairman of Chiefs of Staff Committee",
           "work": "The Hindu",
-          "access-date": "2019-09-27",
+          "access-date": "27 September 2019",
           "language": "en-IN",
           "issn": "0971-751X",
           "template": "citation",
           "type": "news"
         },
         {
+          "date": "8 December 2021",
+          "title": "Gen Bipin Rawat chopper crash: Gen Bipin Rawat, wife among 13 killed in chopper crash",
+          "url": "https://indianexpress.com/article/cities/chennai/cds-bipin-rawat-army-chopper-crash-live-updates-7662227/",
+          "work": "The Indian Express",
+          "access-date": "8 December 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "url": "https://pib.gov.in/newsite/PrintRelease.aspx?relid=187777",
           "title": "411 Republic Day Gallantry and Other Defence Decorations Announced",
-          "date": "2019-01-25",
+          "date": "25 January 2019",
           "template": "citation",
           "type": "web"
         }

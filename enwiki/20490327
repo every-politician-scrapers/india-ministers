@@ -83,7 +83,7 @@
         {
           "sentences": [
             {
-              "text": "Jagan Mohan Reddy started his political career by campaigning for the Indian National Congress in the 2004 Andhra Pradesh state elections in Kadapa district.",
+              "text": "Reddy started his political career by campaigning for the Indian National Congress in the 2004 Andhra Pradesh state elections in Kadapa district.",
               "links": [
                 {
                   "type": "internal",
@@ -193,7 +193,7 @@
           "template": "birth date and age"
         },
         {
-          "spouse": "Y. S. Bharathi Reddy",
+          "spouse": "Bharathi",
           "from": "1996",
           "template": "marriage"
         }
@@ -203,15 +203,8 @@
           "name": {
             "text": "Y. S. Jagan Mohan Reddy"
           },
-          "caption": {
-            "text": "Jagan in A.P. legislative council",
-            "links": [
-              {
-                "text": "A.P. legislative council",
-                "type": "internal",
-                "page": "Andhra Pradesh Legislative Council"
-              }
-            ]
+          "image": {
+            "text": "Image of Y.S. Jagan Mohan Reddy.png"
           },
           "office": {
             "text": "Chief Minister of Andhra Pradesh"
@@ -452,7 +445,7 @@
             ]
           },
           "spouse": {
-            "text": "Y. S. Bharathi Reddy (m. 1996)"
+            "text": "Bharathi (m. 1996)"
           },
           "children": {
             "text": "2",

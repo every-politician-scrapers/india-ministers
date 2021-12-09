@@ -218,24 +218,6 @@
               }
             ]
           },
-          "president": {
-            "text": "Ram Nath Kovind",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ram Nath Kovind"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Ram Nath Kovind",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ram Nath Kovind"
-              }
-            ]
-          },
           "status1": {
             "text": "Additional Charge"
           },
