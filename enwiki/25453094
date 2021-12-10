@@ -4,26 +4,26 @@
   "categories": [
     "1958 births",
     "2021 deaths",
-    "Victims of aviation accidents or incidents in India",
-    "Victims of helicopter accidents or incidents",
-    "Victims of aviation accidents or incidents in 2021",
-    "Military personnel from Uttarakhand",
-    "People from Pauri Garhwal district",
-    "Chiefs of Army Staff (India)",
-    "Vice Chiefs of Army Staff (India)",
-    "Indian generals",
-    "Recipients of the Param Vishisht Seva Medal",
-    "Recipients of the Uttam Yudh Seva Medal",
-    "Recipients of the Ati Vishisht Seva Medal",
-    "Recipients of the Yudh Seva Medal",
-    "Recipients of the Vishisht Seva Medal",
-    "Recipients of the Sena Medal",
-    "National Defence Academy (India) alumni",
-    "Indian Military Academy alumni",
-    "Non-U.S. alumni of the Command and General Staff College",
-    "University of Madras alumni",
+    "Alumni of the National Defence College, India",
     "Chaudhary Charan Singh University alumni",
-    "Alumni of the National Defence College, India"
+    "Chiefs of Army Staff (India)",
+    "Indian Military Academy alumni",
+    "Indian generals",
+    "Military personnel from Uttarakhand",
+    "National Defence Academy (India) alumni",
+    "Non-U.S. alumni of the Command and General Staff College",
+    "People from Pauri Garhwal district",
+    "Recipients of the Ati Vishisht Seva Medal",
+    "Recipients of the Param Vishisht Seva Medal",
+    "Recipients of the Sena Medal",
+    "Recipients of the Uttam Yudh Seva Medal",
+    "Recipients of the Vishisht Seva Medal",
+    "Recipients of the Yudh Seva Medal",
+    "University of Madras alumni",
+    "Vice Chiefs of Army Staff (India)",
+    "Victims of aviation accidents or incidents in 2021",
+    "Victims of aviation accidents or incidents in India",
+    "Victims of helicopter accidents or incidents"
   ],
   "sections": [
     {
@@ -35,6 +35,11 @@
             {
               "text": "General Bipin Laxman Singh Rawat (16 March 1958 – 8 December 2021) was an Indian military officer who was a four-star general of the Indian Army.",
               "links": [
+                {
+                  "text": "General",
+                  "type": "internal",
+                  "page": "General (India)"
+                },
                 {
                   "text": "four-star general",
                   "type": "internal",
@@ -85,38 +90,11 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On 8 December 2021, Rawat died in the crash of an Indian Air Force Mi-17 helicopter in Tamil Nadu.",
-              "links": [
-                {
-                  "text": "crash of an Indian Air Force Mi-17 helicopter",
-                  "type": "internal",
-                  "page": "2021 Indian Air Force Mi-17 crash"
-                },
-                {
-                  "type": "internal",
-                  "page": "Tamil Nadu"
-                }
-              ]
-            },
-            {
-              "text": "He was accompanied by his wife Madhulika Rawat and members of his personal staff, who were also killed in the crash.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Madhulika Rawat"
-                }
-              ]
-            }
-          ]
         }
       ],
       "templates": [
         {
-          "description": "Indian military officer",
+          "description": "First Chief of Defence Staff of India",
           "template": "short description"
         },
         {
@@ -266,6 +244,8 @@
         {
           "spouse": "Madhulika Rawat",
           "from": "1985",
+          "to": "2021",
+          "end": "d",
           "template": "marriage"
         },
         {
@@ -310,7 +290,7 @@
             "text": "Official portrait, 2020"
           },
           "office": {
-            "text": "Chief of Defence Staff",
+            "text": "1st Chief of Defence Staff",
             "links": [
               {
                 "text": "Chief of Defence Staff",
@@ -573,6 +553,9 @@
               }
             ]
           },
+          "birth_name": {
+            "text": "Bipin Laxman Singh Rawat"
+          },
           "birth_date": {
             "text": "March 16, 1958"
           },
@@ -580,11 +563,15 @@
             "text": "December 8, 2021"
           },
           "birth_place": {
-            "text": "Pauri, Uttarakhand, India",
+            "text": "Pauri, Uttar Pradesh, India\n(now in Uttarakhand, India)",
             "links": [
               {
                 "type": "internal",
                 "page": "Pauri"
+              },
+              {
+                "type": "internal",
+                "page": "Uttar Pradesh"
               },
               {
                 "type": "internal",
@@ -593,11 +580,11 @@
             ]
           },
           "death_place": {
-            "text": "Coonoor, Tamil Nadu, India",
+            "text": "Bandishola, Tamil Nadu, India",
             "links": [
               {
                 "type": "internal",
-                "page": "Coonoor"
+                "page": "Bandishola"
               },
               {
                 "type": "internal",
@@ -616,10 +603,11 @@
             ]
           },
           "spouse": {
-            "text": "Madhulika Rawat (m. 1985)"
+            "text": "Madhulika Rawat (m. 1985-2021)"
           },
-          "birth_name": {
-            "text": "Bipin Laxman Singh Rawat"
+          "children": {
+            "text": "2",
+            "number": 2
           },
           "allegiance": {
             "text": "🇮🇳"
@@ -660,7 +648,7 @@
             ]
           },
           "commands": {
-            "text": "IA Southern Command.svg Southern Command III Corps 19th Infantry Division MONUSCO North Kivu Brigade Rashtriya Rifles, Sector 5 5/11 Gorkha Rifles",
+            "text": "IA Southern Command.svg Southern Command\n\nIII Corps\n\n19th Infantry Division\n\nMONUSCO North Kivu Brigade\n\nRashtriya Rifles, Sector 5\n\n5/11 Gorkha Rifles",
             "links": [
               {
                 "text": "Southern Command",
@@ -678,12 +666,10 @@
                 "page": "19th Infantry Division (India)"
               },
               {
-                "text": "MONUSCO North Kivu Brigade",
                 "type": "internal",
                 "page": "MONUSCO"
               },
               {
-                "text": "Rashtriya Rifles, Sector 5",
                 "type": "internal",
                 "page": "Rashtriya Rifles"
               },
@@ -726,11 +712,8 @@
               }
             ]
           },
-          "father": {
-            "text": "Laxman Singh Rawat"
-          },
           "alma_mater": {
-            "text": "National Defence Academy (BSc)\n\nI.M.A.\n\nDefence Services Staff College (MPhil)\n\nU.S. Army Command & General Staff College (ILE)\n\nMadras University\n\nChaudhary Charan Singh University (PhD)",
+            "text": "National Defence Academy (BSc)\n\nIndian Military Academy\n\nDefence Services Staff College, Madras University (MPhil)\n\nU.S. Army Command & General Staff College (ILE)\n\nChaudhary Charan Singh University (PhD)",
             "links": [
               {
                 "type": "internal",
@@ -742,13 +725,16 @@
                 "page": "Bachelor of Science"
               },
               {
-                "text": "I.M.A.",
                 "type": "internal",
                 "page": "Indian Military Academy"
               },
               {
                 "type": "internal",
                 "page": "Defence Services Staff College"
+              },
+              {
+                "type": "internal",
+                "page": "Madras University"
               },
               {
                 "text": "MPhil",
@@ -762,16 +748,7 @@
               },
               {
                 "type": "internal",
-                "page": "Madras University"
-              },
-              {
-                "type": "internal",
                 "page": "Chaudhary Charan Singh University"
-              },
-              {
-                "text": "PhD",
-                "type": "internal",
-                "page": "Doctor of Philosophy"
               }
             ]
           }
@@ -846,15 +823,6 @@
           "access-date": "27 September 2019",
           "language": "en-IN",
           "issn": "0971-751X",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "8 December 2021",
-          "title": "Gen Bipin Rawat chopper crash: Gen Bipin Rawat, wife among 13 killed in chopper crash",
-          "url": "https://indianexpress.com/article/cities/chennai/cds-bipin-rawat-army-chopper-crash-live-updates-7662227/",
-          "work": "The Indian Express",
-          "access-date": "8 December 2021",
           "template": "citation",
           "type": "news"
         },

@@ -348,33 +348,18 @@
               }
             ]
           },
+          "birth_name": {
+            "text": "Nadesan Rangasamy"
+          },
           "birth_date": {
             "text": "August 4, 1950"
           },
           "birth_place": {
-            "text": "Pondichéry, French India (present-day Pondicherry, Puducherry, India)",
+            "text": "Pondicherry",
             "links": [
               {
-                "text": "Pondichéry",
                 "type": "internal",
                 "page": "Pondicherry"
-              },
-              {
-                "type": "internal",
-                "page": "French India"
-              },
-              {
-                "type": "internal",
-                "page": "Pondicherry"
-              },
-              {
-                "text": "Puducherry",
-                "type": "internal",
-                "page": "Puducherry (union territory)"
-              },
-              {
-                "type": "internal",
-                "page": "India"
               }
             ]
           },

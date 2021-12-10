@@ -54,7 +54,7 @@
         {
           "sentences": [
             {
-              "text": "Mamata Banerjee (Bengali: Mamata Bandyopadhyay; ; born 5 January 1955) is an Indian politician and academic who is serving as the ninth and current chief minister of the Indian state of West Bengal since 2011, the first woman to hold the office.",
+              "text": "Mamata Banerjee (Bengali: Mamata Bandyopadhyay; ; born 5 January 1955 ) is an Indian politician and academic who is serving as the ninth and current chief minister of the Indian state of West Bengal since 2011, the first woman to hold the office.",
               "links": [
                 {
                   "text": "Bengali",
@@ -206,7 +206,11 @@
                   "page": "communist"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "She was a member of West Bengal Legislative Assembly from Bhabanipur from 2011 to 2021.",
               "links": [
@@ -259,16 +263,6 @@
               ]
             },
             {
-              "text": "But this victory of Suvendu remains controversial to date.",
-              "links": [
-                {
-                  "text": "controversial",
-                  "type": "internal",
-                  "page": "2021 Nandigram controversy"
-                }
-              ]
-            },
-            {
               "text": "Mamata challenged the result of Nandigram Constituency in Calcutta High Court and the matter is sub judice.",
               "links": [
                 {
@@ -278,14 +272,7 @@
               ]
             },
             {
-              "text": "After leading her party to a remarkable victory in the 2021 West Bengal assembly polls, Banerjee is in the race for the prime ministerial face of the opposition in the 2024 general election.",
-              "links": [
-                {
-                  "text": "2024 general election",
-                  "type": "internal",
-                  "page": "2024 Indian general election"
-                }
-              ]
+              "text": "She her party to a victory in the 2021 West Bengal assembly polls."
             }
           ]
         }
@@ -1173,16 +1160,6 @@
           "type": "news"
         },
         {
-          "date": "3 May 2021",
-          "title": "মমতা একা নন, বিধায়ক না হয়ে মুখ্যমন্ত্রী হওয়ার নজির অতীতেও রয়েছে এ দেশে",
-          "url": "https://www.sangbadpratidin.in/india/wb-assembly-polls-2021-tmc-leader-mamata-banerjee-is-not-the-first-cm-to-lose/",
-          "work": "Sangbad Pratidin",
-          "language": "bn",
-          "access-date": "22 October 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "url": "https://www.bbc.co.uk/news/world-south-asia-13465915",
           "first": "Alizeh",
           "last": "Kohari",
@@ -1209,29 +1186,29 @@
           "type": "news"
         },
         {
-          "url": "http://www.firstpost.com/politics/the-1-8-crore-question-is-mamata-banerjee-indias-most-underrated-artist-1759725.html",
-          "title": "The 1.8 crore question: Is Mamata Banerjee India's most underrated artist?",
+          "last": "Roy",
+          "first": "Sandip",
           "date": "17 October 2014",
-          "work": "Firstpost",
-          "access-date": "7 October 2017",
+          "title": "The 1.8 crore question: Is Mamata Banerjee India's most underrated artist?",
           "language": "en-US",
+          "work": "Firstpost",
+          "url": "http://www.firstpost.com/politics/the-1-8-crore-question-is-mamata-banerjee-indias-most-underrated-artist-1759725.html",
+          "url-status": "dead",
+          "access-date": "7 October 2017",
           "archive-url": "https://web.archive.org/web/20171007124128/http://www.firstpost.com/politics/the-1-8-crore-question-is-mamata-banerjee-indias-most-underrated-artist-1759725.html",
           "archive-date": "7 October 2017",
-          "url-status": "dead",
           "template": "citation",
           "type": "news"
         },
         {
-          "url": "http://www.tribuneindia.com/2000/20000226/main2.htm#4",
-          "title": "The Tribune, Chandigarh, India – R A I L W A Y B U D G E T",
-          "work": "The Tribune",
-          "date": "26 February 2000",
-          "access-date": "16 October 2012",
+          "date": "2020-03-04",
+          "title": "Did You Know? Mamata Banerjee was India's first-ever Sports Minister",
+          "url": "https://thebridge.in/featured/mamata-banerjee-sports-football/",
           "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20121026110839/http://www.tribuneindia.com/2000/20000226/main2.htm#4",
-          "archive-date": "26 October 2012",
+          "access-date": "2021-12-09",
+          "website": "The Bridge",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
           "url": "http://india.gov.in/govt/loksabhampbiodata.php?mpcode=39",
@@ -1257,6 +1234,18 @@
           "type": "news"
         },
         {
+          "last": "Achin",
+          "first": "Kurt",
+          "date": "11 May 2011",
+          "title": "India's West Bengal Set to End 34 Years of Communist Rule",
+          "url": "https://www.voanews.com/a/indias-west-bengal-set-to-end-34-years-of-communist-rule-121723199/167457.html",
+          "url-status": "live",
+          "access-date": "2021-12-09",
+          "website": "VOA",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "date": "2 May 2021",
           "title": "Nandigram election result 2021: Suvendu Adhikari beats Mamata by 1736 votes",
           "url": "https://timesofindia.indiatimes.com/india/mamata-vs-suvendu-all-eyes-on-nandigram-as-counting-underway-in-west-bengal/articleshow/82350838.cms",
@@ -1275,10 +1264,16 @@
           "type": "news"
         },
         {
+          "last": "Rajaram",
+          "first": "Prema",
+          "date": "12 August 2021",
           "title": "Calcutta HC adjourns Mamata Banerjee's petition against Nandigram election result till November 15",
           "url": "https://www.indiatoday.in/india/story/calcutta-hc-adjourns-mamata-banerjee-petition-nandigram-election-result-november-15-1840126-2021-08-12",
+          "url-status": "live",
+          "access-date": "2021-12-09",
+          "website": "India Today",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
           "url": "https://www.thehindu.com/elections/west-bengal-assembly/mamata-wins-west-bengal-but-loses-in-nandigram/article34466346.ece",
@@ -1290,6 +1285,20 @@
           "access-date": "11 July 2021",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last": "Paul",
+          "first": "Paramita",
+          "date": "3 May 2021",
+          "title": "মমতা একা নন, বিধায়ক না হয়ে মুখ্যমন্ত্রী হওয়ার নজির অতীতেও রয়েছে এ দেশে",
+          "trans-title": "Mamata is not alone, there is a precedent in this country to be the Chief Minister without being a MLA",
+          "url": "https://www.sangbadpratidin.in/india/wb-assembly-polls-2021-tmc-leader-mamata-banerjee-is-not-the-first-cm-to-lose/",
+          "url-status": "live",
+          "access-date": "22 October 2021",
+          "work": "Sangbad Pratidin",
+          "language": "bn",
+          "template": "citation",
+          "type": "web"
         },
         {
           "title": "Election Commission of India",
@@ -1333,16 +1342,6 @@
           "type": "web"
         },
         {
-          "date": "12 May 2021",
-          "title": "২০২৪ সালে বিজেপি বিরোধী শিবিরের মুখ কি মমতাই?",
-          "url": "https://www.sangbadpratidin.in/editorial/will-mamata-banerjee-be-the-face-against-bjp-in-2024/",
-          "work": "Sangbad Pratidin",
-          "language": "bn",
-          "access-date": "22 October 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "title": "CM Mamata reveals her true age; says she is 5 years younger",
           "url": "http://news.oneindia.in/2012/01/26/mamata-reveals-her-true-age-says-she-is-5-yrs-younger.html",
           "work": "OneIndia",
@@ -1354,43 +1353,47 @@
           "type": "news"
         },
         {
-          "url": "https://www.nytimes.com/2011/01/15/world/asia/15india.html",
+          "last": "Yardley",
+          "first": "Jim",
+          "date": "14 January 2011",
           "title": "The Eye of an Indian Hurricane, Eager to Topple a Political Establishment",
           "work": "The New York Times",
-          "access-date": "14 January 2011",
-          "first": "Jim",
-          "last": "Yardley",
-          "date": "14 January 2011",
+          "url": "https://www.nytimes.com/2011/01/15/world/asia/15india.html",
           "url-status": "live",
+          "url-access": "subscription",
+          "access-date": "14 January 2011",
           "archive-url": "https://web.archive.org/web/20120113230008/http://www.nytimes.com/2011/01/15/world/asia/15india.html",
           "archive-date": "13 January 2012",
           "template": "citation",
           "type": "news"
         },
         {
-          "url": "https://www.theguardian.com/world/2011/apr/18/india-state-election-kolkata-communist",
-          "title": "Indian state election expected to end Kolkata's 34-year communist rule",
-          "work": "The Guardian",
-          "location": "UK",
-          "access-date": "18 April 2011",
-          "date": "18 April 2011",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20131231225434/http://www.theguardian.com/world/2011/apr/18/india-state-election-kolkata-communist",
-          "archive-date": "31 December 2013",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/world-south-asia-13077902",
+          "last": "Biswas",
+          "first": "Soutik",
+          "date": "15 April 2011",
           "title": "The woman taking on India's communists",
           "work": "BBC World News",
-          "access-date": "15 April 2011",
-          "date": "15 April 2011",
+          "url": "https://www.bbc.co.uk/news/world-south-asia-13077902",
           "url-status": "live",
+          "access-date": "15 April 2011",
           "archive-url": "https://web.archive.org/web/20110415062931/http://www.bbc.co.uk/news/world-south-asia-13077902",
           "archive-date": "15 April 2011",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last": "Choudhury",
+          "first": "Monishankar",
+          "date": "12 May 2021",
+          "title": "২০২৪ সালে বিজেপি বিরোধী শিবিরের মুখ কি মমতাই?",
+          "trans-title": "Is Mamata the face of the anti-BJP camp in 2024?",
+          "url": "https://www.sangbadpratidin.in/editorial/will-mamata-banerjee-be-the-face-against-bjp-in-2024/",
+          "url-status": "live",
+          "access-date": "22 October 2021",
+          "work": "Sangbad Pratidin",
+          "language": "bn",
+          "template": "citation",
+          "type": "web"
         }
       ]
     }
