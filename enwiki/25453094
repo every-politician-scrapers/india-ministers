@@ -23,7 +23,8 @@
     "Vice Chiefs of Army Staff (India)",
     "Victims of aviation accidents or incidents in 2021",
     "Victims of aviation accidents or incidents in India",
-    "Victims of helicopter accidents or incidents"
+    "Victims of helicopter accidents or incidents",
+    "State funerals in India"
   ],
   "sections": [
     {
@@ -33,7 +34,7 @@
         {
           "sentences": [
             {
-              "text": "General Bipin Laxman Singh Rawat (16 March 1958 – 8 December 2021) was an Indian military officer who was a four-star general of the Indian Army.",
+              "text": "General Bipin Rawat (16 March 1958 – 8 December 2021) was an Indian military officer who was a four-star general of the Indian Army.",
               "links": [
                 {
                   "text": "General",
@@ -52,7 +53,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Bipin Laxman Singh Rawat"
+                  "Bipin Rawat"
                 ]
               }
             },
@@ -76,7 +77,7 @@
               ]
             },
             {
-              "text": "Prior to taking over as the CDS, he served as 57th and last Chairman of the Chiefs of Staff Committee as well as 26th Chief of Army Staff of the Indian Army.",
+              "text": "Prior to taking over as the CDS, he served as the 57th and last Chairman of the Chiefs of Staff Committee as well as 26th Chief of Army Staff of the Indian Army.",
               "links": [
                 {
                   "type": "internal",
@@ -256,19 +257,6 @@
         },
         {
           "template": "endash"
-        },
-        {
-          "country": "IND",
-          "list": [
-            "PVSM",
-            "UYSM",
-            "AVSM",
-            "YSM",
-            "SM",
-            "VSM",
-            "ADC"
-          ],
-          "template": "post-nominals"
         }
       ],
       "infoboxes": [
@@ -553,9 +541,6 @@
               }
             ]
           },
-          "birth_name": {
-            "text": "Bipin Laxman Singh Rawat"
-          },
           "birth_date": {
             "text": "March 16, 1958"
           },
@@ -563,7 +548,7 @@
             "text": "December 8, 2021"
           },
           "birth_place": {
-            "text": "Pauri, Uttar Pradesh, India\n(now in Uttarakhand, India)",
+            "text": "Pauri, Pauri Garhwal district, Uttar Pradesh, India\n(now in Uttarakhand, India)",
             "links": [
               {
                 "type": "internal",
@@ -571,16 +556,28 @@
               },
               {
                 "type": "internal",
+                "page": "Pauri Garhwal district"
+              },
+              {
+                "type": "internal",
                 "page": "Uttar Pradesh"
               },
               {
                 "type": "internal",
+                "page": "India"
+              },
+              {
+                "type": "internal",
                 "page": "Uttarakhand"
+              },
+              {
+                "type": "internal",
+                "page": "India"
               }
             ]
           },
           "death_place": {
-            "text": "Bandishola, Tamil Nadu, India",
+            "text": "Bandishola, Nilgiris district, Tamil Nadu, India",
             "links": [
               {
                 "type": "internal",
@@ -588,7 +585,15 @@
               },
               {
                 "type": "internal",
+                "page": "Nilgiris district"
+              },
+              {
+                "type": "internal",
                 "page": "Tamil Nadu"
+              },
+              {
+                "type": "internal",
+                "page": "India"
               }
             ]
           },
@@ -782,47 +787,6 @@
           "location": "Kolkata",
           "url": "https://www.bbc.com/news/world-asia-india-59578168",
           "access-date": "8 December 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://pib.gov.in/newsite/PrintRelease.aspx?relid=196194",
-          "title": "General Bipin Rawat Appointed as Chief of Defence Staff",
-          "date": "30 December 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.indiatoday.in/amp/india/story/general-bipin-rawat-first-chief-of-defence-staff-1632572-2019-12-30",
-          "title": "Army chief General Bipin Rawat named India's first Chief of Defence Staff",
-          "website": "India Today",
-          "language": "en",
-          "access-date": "30 December 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://timesofindia.indiatimes.com/india/govt-amends-army-rules-to-allow-chief-of-defence-staff-to-serve-till-65/articleshow/73019504.cms",
-          "title": "Govt amends Army rules to allow chief of defence staff to serve till 65",
-          "work": "The Times Of India",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://m-economictimes-com.cdn.ampproject.org/v/s/m.economictimes.com/news/defence/a-brief-look-at-general-bipin-rawat-indias-first-cds/amp_articleshow/73029309.cms?usqp=mq331AQCKAE=&amp_js_v=0.1",
-          "title": "Who is Bipin Rawat: A brief look at General Bipin Rawat, India's first CDS",
-          "website": "m-economictimes-com.cdn.ampproject.org",
-          "access-date": "30 December 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.thehindu.com/news/national/gen-rawat-takes-over-as-chairman-of-chiefs-of-staff-committee/article29528935.ece",
-          "title": "Gen. Rawat takes over as Chairman of Chiefs of Staff Committee",
-          "work": "The Hindu",
-          "access-date": "27 September 2019",
-          "language": "en-IN",
-          "issn": "0971-751X",
           "template": "citation",
           "type": "news"
         },

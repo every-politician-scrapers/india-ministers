@@ -26,7 +26,7 @@
         {
           "sentences": [
             {
-              "text": "Nitin Jairam Gadkari (Marathi : नितीन गडकरी) (born 27 May 1957) is an Indian politician from Maharashtra who is the current Minister for Road Transport & Highways in the Government of India.",
+              "text": "Nitin Jairam Gadkari (born 27 May 1957) is an Indian politician from Maharashtra who is the current Minister for Road Transport & Highways in the Government of India.",
               "links": [
                 {
                   "type": "internal",
@@ -44,7 +44,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Nitin Jairam Gadkari (Marathi : नितीन गडकरी)"
+                  "Nitin Jairam Gadkari"
                 ]
               }
             },
@@ -382,7 +382,7 @@
             "text": "May 27, 1957"
           },
           "birth_place": {
-            "text": "Nagpur, Bombay State, India",
+            "text": "Nagpur, Bombay State, India (Now Maharashtra, India)",
             "links": [
               {
                 "type": "internal",
@@ -391,6 +391,10 @@
               {
                 "type": "internal",
                 "page": "Bombay State"
+              },
+              {
+                "type": "internal",
+                "page": "Maharashtra"
               }
             ]
           },
