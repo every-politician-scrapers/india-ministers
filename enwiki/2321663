@@ -272,7 +272,7 @@
               ]
             },
             {
-              "text": "She her party to a victory in the 2021 West Bengal assembly polls."
+              "text": "She led her party to a victory in the 2021 West Bengal assembly polls."
             }
           ]
         }
@@ -1287,20 +1287,6 @@
           "type": "news"
         },
         {
-          "last": "Paul",
-          "first": "Paramita",
-          "date": "3 May 2021",
-          "title": "মমতা একা নন, বিধায়ক না হয়ে মুখ্যমন্ত্রী হওয়ার নজির অতীতেও রয়েছে এ দেশে",
-          "trans-title": "Mamata is not alone, there is a precedent in this country to be the Chief Minister without being a MLA",
-          "url": "https://www.sangbadpratidin.in/india/wb-assembly-polls-2021-tmc-leader-mamata-banerjee-is-not-the-first-cm-to-lose/",
-          "url-status": "live",
-          "access-date": "22 October 2021",
-          "work": "Sangbad Pratidin",
-          "language": "bn",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "title": "Election Commission of India",
           "url": "https://results.eci.gov.in/ResultByeOct2021/ConstituencywiseS25159.htm?ac=159",
           "access-date": "3 October 2021",
@@ -1380,6 +1366,20 @@
           "archive-date": "15 April 2011",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last": "Paul",
+          "first": "Paramita",
+          "date": "3 May 2021",
+          "title": "মমতা একা নন, বিধায়ক না হয়ে মুখ্যমন্ত্রী হওয়ার নজির অতীতেও রয়েছে এ দেশে",
+          "trans-title": "Mamata is not alone, there is a precedent in this country to be the Chief Minister without being a MLA",
+          "url": "https://www.sangbadpratidin.in/india/wb-assembly-polls-2021-tmc-leader-mamata-banerjee-is-not-the-first-cm-to-lose/",
+          "url-status": "live",
+          "access-date": "22 October 2021",
+          "work": "Sangbad Pratidin",
+          "language": "bn",
+          "template": "citation",
+          "type": "web"
         },
         {
           "last": "Choudhury",
