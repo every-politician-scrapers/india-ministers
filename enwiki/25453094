@@ -418,7 +418,7 @@
             "text": "December 31, 2019"
           },
           "president2": {
-            "text": "Pranab Mukherjee\nRam Nath Kovind",
+            "text": "*Pranab Mukherjee\n*Ram Nath Kovind",
             "links": [
               {
                 "type": "internal",
@@ -443,7 +443,7 @@
             "text": "Minister of Defence"
           },
           "1namedata2": {
-            "text": "Nirmala Sitharaman\nArun Jaitley\nManohar Parrikar",
+            "text": "*Nirmala Sitharaman\n*Arun Jaitley\n*Manohar Parrikar",
             "links": [
               {
                 "type": "internal",
@@ -560,19 +560,11 @@
               },
               {
                 "type": "internal",
-                "page": "Uttar Pradesh"
-              },
-              {
-                "type": "internal",
                 "page": "India"
               },
               {
                 "type": "internal",
                 "page": "Uttarakhand"
-              },
-              {
-                "type": "internal",
-                "page": "India"
               }
             ]
           },
@@ -586,14 +578,6 @@
               {
                 "type": "internal",
                 "page": "Nilgiris district"
-              },
-              {
-                "type": "internal",
-                "page": "Tamil Nadu"
-              },
-              {
-                "type": "internal",
-                "page": "India"
               }
             ]
           },

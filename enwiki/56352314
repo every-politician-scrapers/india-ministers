@@ -111,20 +111,8 @@
             ]
           },
           "governor": {
-            "text": "Tathagata Roy\nKaptan Singh Solanki\nRamesh Bais\nSatyadev Narayan Arya",
+            "text": "Satyadev Narayan Arya",
             "links": [
-              {
-                "type": "internal",
-                "page": "Tathagata Roy"
-              },
-              {
-                "type": "internal",
-                "page": "Kaptan Singh Solanki"
-              },
-              {
-                "type": "internal",
-                "page": "Ramesh Bais"
-              },
               {
                 "type": "internal",
                 "page": "Satyadev Narayan Arya"
