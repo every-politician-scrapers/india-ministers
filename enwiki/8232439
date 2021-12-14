@@ -162,7 +162,7 @@
             "text": "June 17, 1942"
           },
           "birth_place": {
-            "text": "Bageshwar, Uttarakhand, India)",
+            "text": "Bageshwar, United Provinces, British India",
             "links": [
               {
                 "text": "Bageshwar",
@@ -170,8 +170,13 @@
                 "page": "Bageshwar district"
               },
               {
+                "text": "United Provinces",
                 "type": "internal",
-                "page": "Uttarakhand, India"
+                "page": "United Provinces (1937-50)"
+              },
+              {
+                "type": "internal",
+                "page": "British India"
               }
             ]
           },
