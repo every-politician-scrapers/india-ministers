@@ -375,16 +375,17 @@
           "type": "news"
         },
         {
+          "url": "https://www.vice.com/en/article/dyv4vq/arrest-cow-poop-piss-covid-hindu-nationalism-modi-india",
+          "title": "Two Men Have Been in Jail for 45 Days for Saying Cow Poop and Piss Can't Cure COVID",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
+          "url": "https://theprint.in/india/journalist-activist-jailed-under-nsa-for-45-days-over-cow-posts-in-manipur-its-not-unusual/684133/?amp",
+          "title": "Journalist, activist jailed under NSA for 45 days over cow posts. In Manipur, it's not unusual",
+          "date": "27 June 2021",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "template": "citation",
