@@ -613,7 +613,7 @@
               {
                 "text": "Chief Minister of Gujarat",
                 "type": "internal",
-                "page": "List of Chief Ministers of Gujarat"
+                "page": "List of chief ministers of Gujarat"
               }
             ]
           },
@@ -679,7 +679,11 @@
             "text": "Member of Gujarat Legislative Assembly",
             "links": [
               {
-                "text": "Member of Gujarat Legislative Assembly",
+                "text": "Member",
+                "type": "internal",
+                "page": "Member of the Legislative assembly (India)"
+              },
+              {
                 "type": "internal",
                 "page": "Gujarat Legislative Assembly"
               }
@@ -761,7 +765,7 @@
             "text": "September 17, 1950"
           },
           "birth_place": {
-            "text": "Vadnagar, Bombay State, Republic of India  (present-day Gujarat)",
+            "text": "Vadnagar, Bombay State, India  (present-day Gujarat)",
             "links": [
               {
                 "type": "internal",
@@ -772,7 +776,6 @@
                 "page": "Bombay State"
               },
               {
-                "text": "Republic of India",
                 "type": "internal",
                 "page": "India"
               },
@@ -837,8 +840,9 @@
             "text": "*Political Science\nUniversity of Delhi (BA)\nGujarat University (MA)",
             "links": [
               {
+                "text": "Political Science",
                 "type": "internal",
-                "page": "Political Science"
+                "page": "Political science"
               },
               {
                 "type": "internal",
