@@ -101,21 +101,12 @@
               ]
             },
             {
-              "text": "He is a member of the Bharatiya Janata Party (BJP) and its National Democratic Alliance (NDA).",
+              "text": "He is a member of the Bharatiya Janata Party (BJP) and of the Rashtriya Swayamsevak Sangh (RSS), a right-wing Hindu nationalist paramilitary volunteer organisation.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Bharatiya Janata Party"
                 },
-                {
-                  "type": "internal",
-                  "page": "National Democratic Alliance"
-                }
-              ]
-            },
-            {
-              "text": "He is also a member of the Rashtriya Swayamsevak Sangh (RSS), a right-wing Hindu nationalist paramilitary volunteer organisation.",
-              "links": [
                 {
                   "type": "internal",
                   "page": "Rashtriya Swayamsevak Sangh"
@@ -128,7 +119,7 @@
               ]
             },
             {
-              "text": "He is the first prime minister to have been born after India's independence in 1947 and the second prime minister not belonging to the Indian National Congress to have won two consecutive elections, as well as a majority in both terms in the Indian lower house of parliament, with his party being in majority position in upper house as well.",
+              "text": "He is the first prime minister to have been born after India's independence in 1947 and the second prime minister not belonging to the Indian National Congress to have won two consecutive majorities in the Lok Sabha, or lower house of Indian of parliament.",
               "links": [
                 {
                   "text": "independence",
@@ -140,14 +131,8 @@
                   "page": "Indian National Congress"
                 },
                 {
-                  "text": "lower house",
                   "type": "internal",
                   "page": "Lok Sabha"
-                },
-                {
-                  "text": "upper house",
-                  "type": "internal",
-                  "page": "Rajya Sabha"
                 }
               ]
             }
@@ -246,23 +231,16 @@
               ]
             },
             {
-              "text": "Senior police officer Sanjiv Bhatt and Shubhranshu Chaudhary, a BBC correspondent claimed to have attended a meeting at Narendra Modi's residence where the Gujarat Chief Minister said Hindus should be allowed to vent their anger against Muslims."
-            },
-            {
-              "text": "However a Special Investigation Team, appointed by the Supreme Court, cleared Modi of any charges.",
+              "text": "A Supreme Court of India-appointed Special Investigation Team found no evidence to initiate prosecution proceedings against Modi personally.",
               "links": [
                 {
-                  "text": "Special Investigation Team",
                   "type": "internal",
-                  "page": "Special Investigation Team (India)"
+                  "page": "Supreme Court of India"
                 }
               ]
             },
             {
-              "text": "His policies as chief minister, credited with encouraging economic growth, have received praise."
-            },
-            {
-              "text": "His administration has been criticised for failing to significantly improve health, poverty and education indices in the state."
+              "text": "While his policies as chief minister—credited with encouraging economic growth—have received praise, his administration has been criticised for failing to significantly improve health, poverty and education indices in the state."
             }
           ]
         },
@@ -353,7 +331,7 @@
               ]
             },
             {
-              "text": "Described as engineering a political realignment towards right-wing politics, Modi remains a figure of controversy domestically and internationally over his Hindu nationalist beliefs with his alleged role during the 2002 Gujarat riots, cited as evidence of an exclusionary social agenda.",
+              "text": "Described as engineering a political realignment towards right-wing politics, Modi remains a figure of controversy domestically and internationally over his Hindu nationalist beliefs and his handling of the 2002 Gujarat riots, cited as evidence of an exclusionary social agenda.",
               "links": [
                 {
                   "text": "right-wing politics",
@@ -921,22 +899,6 @@
           "language": "en",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "date": "10 April 2012",
-          "title": "India Gujarat Chief Minister Modi cleared in riots case",
-          "language": "en-GB",
-          "work": "BBC News",
-          "url": "https://www.bbc.com/news/world-asia-india-17664751",
-          "access-date": "6 November 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
         },
         {
           "template": "citation",
