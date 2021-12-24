@@ -1,0 +1,130 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q313383,President of India,Q668,Q668,Q1641162,Q890016,1950-01-26,,,,President of India
+Q1641162,Vice President of India,Q668,Q668,,Q3518304,1950-01-26,,,,Vice President of India
+Q192711,Prime minister of India,Q668,Q668,Q1708557,Q492746,1947-08-15,,,,Prime Minister of India
+Q1708557,Deputy Prime Minister of India,Q668,Q668,,,1947-08-15,,,,Deputy Prime Minister of India
+Q6866034,Minister of Agriculture,Q668,Q668,,,1947-08-15,,,,Minister of Agriculture (India)
+Q55623231,Minister of Agriculture & Farmers Welfare,Q668,Q668,,,1946-09-02,,,,Minister of Agriculture and Farmers' Welfare
+Q108560662,Minister of AYUSH,Q668,Q668,,,,,,,
+Q6866049,Minister of Chemicals and Fertilizers,Q668,Q668,,,,,,,Minister of Chemicals and Fertilizers
+Q18390718,Minister of Civil Aviation,Q668,Q668,,,,,,,Minister of Civil Aviation (India)
+Q18128069,Minister of Coal,Q668,Q668,,,,,,,Minister of Coal (India)
+Q6866058,Minister of Commerce and Industry,Q668,Q668,,,,,,,Minister of Commerce and Industry (India)
+Q108560859,Minister of Communications,Q668,Q668,,,,,,,
+Q6866064,Minister of Communications and Information Technology,Q668,Q668,,,,,,,Minister of Communications and Information Technology (India)
+Q16878665,"Minister of Consumer Affairs, Food and Public Distribution",Q668,Q668,,,,,,,"Minister of Consumer Affairs, Food and Public Distribution"
+Q108560754,Minister of Corporate Affairs,Q668,Q668,,,,,,,
+Q108560839,Minister of Culture,Q668,Q668,,,,,,,
+Q3533315,Minister of Defence of India,Q668,Q668,,,1946-09-02,,,,Minister of Defence (India)
+Q108560844,Minister for Development of North Eastern Region,Q668,Q668,,,,,,,
+Q108560812,Minister of Education,Q668,Q668,,,,,,,
+Q108560857,Minister of Electronics and Information Technology,Q668,Q668,,,,,,,
+Q108559737,Minister of Environment and Forests,Q668,Q668,,,,,,,
+Q313465,Minister of External Affairs,Q668,Q668,,,1946-09-02,,,,Minister of External Affairs (India)
+Q1416501,Minister of Finance,Q668,Q668,,,1946-10-29,,,,Minister of Finance (India)
+Q108560745,"Minister of Fisheries, Animal Husbandry and Dairying",Q668,Q668,,,,,,,
+Q6866140,Minister of Food Processing Industries,Q668,Q668,,,,,,,Minister of Food Processing Industries (India)
+Q5468326,Foreign Secretary of India,Q668,,,,1958,,,,Foreign Secretary (India)
+Q17073489,Minister of Health and Family Welfare,Q668,Q668,,,1947-08-15,,,,Minister of Health and Family Welfare (India)
+Q6866176,Minister of Heavy Industries and Public Enterprises,Q668,Q668,,,,,,,Minister of Heavy Industries and Public Enterprises (India)
+Q3440901,Minister of Home Affairs,Q668,Q668,,,1946-09-02,,,,Minister of Home Affairs (India)
+Q6866188,Minister of Housing and Urban Poverty Alleviation,Q668,Q668,,,,,,,Minister of Housing and Urban Poverty Alleviation
+Q12454125,Minister of Human Resource Development,Q668,Q668,,,1947-08-15,,,,Ministry of Education (India)
+Q6866209,Minister of Information and Broadcasting,Q668,Q668,,,,,,,Minister of Information and Broadcasting (India)
+Q30275501,Minister for Information and Technology,Q668,Q668,,,,,,,
+Q108560946,Minister of Jal Shakti,Q668,Q668,,,,,,,
+Q6866235,Minister of Labour and Employment,Q668,Q668,,,1947-08-15,,,,Minister of Labour and Employment
+Q18128071,Minister of Law and Justice of India,Q668,Q668,,,1947-08-15,,,,Minister of Law and Justice
+Q18128071,Minister of Law and Justice of India,Q668,Q668,,,1947-08-15,,,,Minister of Law and Justice
+Q108559630,"Minister of Micro, Small and Medium Enterprises",Q668,Q668,,,,,,,
+Q6866250,Minister of Mines,Q668,Q668,,,,,,,Minister of Mines (India)
+Q108560768,Minister of Minority Affairs,Q668,Q668,,,,,,,
+Q6866267,Minister of New and Renewable Energy,Q668,Q668,,,,,,,Minister of New and Renewable Energy (India)
+Q6866272,Minister of Panchayati Raj,Q668,Q668,,,,,,,Minister of Panchayati Raj (India)
+Q6866273,Minister of Parliamentary Affairs,Q668,Q668,,,1947-08-15,,,,Minister of Parliamentary Affairs (India)
+Q6866278,Minister of Petroleum and Natural Gas,Q668,Q668,,,,,,,Minister of Petroleum and Natural Gas
+Q108560657,"Minister of Ports, Shipping and Waterways",Q668,Q668,,,,,,,
+Q108559711,Minister of Power,Q668,Q668,,,,,,,
+Q6866301,Minister of Railways,Q668,Q668,,,1947-08-15,,,,Minister of Railways (India)
+Q6866308,Minister of Road Transport and Highways,Q668,Q668,,,,,,,Minister of Road Transport and Highways (India)
+Q16874648,Minister of Rural Development,Q668,Q668,,,,,,,Minister of Rural Development (India)
+Q16875646,Minister of Shipping (India),Q668,Q668,,,,,,,Minister of Shipping (India)
+Q108560799,Minister of Skill Development and Entrepreneurship,Q668,Q668,,,,,,,
+Q6866326,Minister of Social Justice and Empowerment,Q668,Q668,,,,,,,Minister of Social Justice and Empowerment (India)
+Q6866391,Minister of Steel,Q668,Q668,,,,,,,Minister of Steel
+Q6866396,Minister of Textiles,Q668,Q668,,,,,,,Minister of Textiles
+Q6866398,Minister of Tourism,Q668,Q668,,,,,,,Minister of Tourism (India)
+Q6866408,Minister of Tribal Affairs,Q668,Q668,,,1999-10-13,,,,Minister of Tribal Affairs (India)
+Q16868002,Minister of Urban Development,Q668,Q668,,,,,,,Minister of Urban Development (India)
+Q16934521,Minister of Water Resources,Q668,Q668,,,,,,,Minister of Water Resources (India)
+Q108560642,Minister of Women and Child Development,Q668,Q668,,,,,,,
+Q6866423,Minister of Youth Affairs and Sports,Q668,Q668,,,,,,,Minister of Youth Affairs and Sports (India)
+Q16148198,Cabinet Secretary of India,Q668,Q668,,,1950,,,,Cabinet Secretary (India)
+Q48726877,Home Secretary,Q668,Q668,,,,,,,Home Secretary (India)
+Q56276471,Principal Secretary to the Prime Minister of India,Q668,,,,,,,,Principal Secretary to the Prime Minister of India
+Q3243690,Chief Justice of India,Q668,,,,1950,,,,Chief Justice of India
+Q5280548,Director of the Intelligence Bureau,Q668,,,,1947,,,,Director of the Intelligence Bureau
+Q3522413,Chief Election Commissioner of India,Q668,Q668,Q5354516,,,,,,Chief Election Commissioner of India
+Q5354516,Election Commissioner of India,Q668,,,,,,,,Election Commissioner of India
+Q14536141,Governor of Reserve Bank of India,Q668,Q668,,Q19809914,1935-04-01,,,,
+Q3344881,Speaker of the Lok Sabha,Q668,Q668,,,1952-05-15,,,,Speaker of the Lok Sabha
+Q6508614,Leader of the House in Rajya Sabha,Q668,Q668,,,1952-05,,,,Leader of the House in Rajya Sabha
+Q17495760,Leader of the House in Lok Sabha,Q668,,,,,,,,Leader of the House in Lok Sabha
+Q70951203,governor of Andhra Pradesh,Q668,Q1159,,Q1282296,,,,,
+Q1813083,Chief Minister of Andhra Pradesh,Q668,Q1159,,,1956-11-01,,,,List of chief ministers of Andhra Pradesh
+Q15689085,Governor of Arunachal Pradesh,Q668,Q1162,,,,,,,
+Q55018630,Chief Minister of Arunachal Pradesh,Q668,Q1162,,Q825568,,,,,
+Q70954187,governor of Assam,Q668,Q1164,,Q1642489,,,,,
+Q55018631,Chief Minister of Assam,Q668,Q1164,,Q1512406,,,,,
+Q70954643,governor of Bihar,Q668,Q1165,,Q154099,,,,,
+Q55020138,Chief Minister of Bihar,Q668,Q1165,,Q114376,1946-04-02,,,,
+Q70954789,governor of Chhattisgarh,Q668,Q1168,,Q391034,,,,,
+Q38772867,Chief Minister of Chhattisgarh,Q668,Q1168,,Q825578,,,,,
+Q1790154,Chief Minister of Delhi,Q668,Q1353,,,,,,,List of chief ministers of Delhi
+Q18727717,Governor of Goa,Q668,Q1171,,Q1801838,1987-05-30,,,,
+Q55018632,Chief Minister of Goa,Q668,Q1171,,Q1837928,,,,,
+Q63438501,Governor of Gujarat,Q668,Q1061,,Q1635856,1960-05-01,,,,
+Q22337580,Chief Minister of Gujarat,Q668,Q1061,,Q1511734,,,,,
+Q70955111,governor of Haryana,Q668,Q1174,,Q390967,,,,,
+Q55018634,Chief Minister of Haryana,Q668,Q1174,,Q825556,1966-11-01,,,,
+Q71223715,governor of Himachal Pradesh,Q668,Q1177,,Q2079195,,,,,
+Q55018635,Chief Minister of Himachal Pradesh,Q668,Q1177,,Q1511710,,,,,
+Q38882023,Chief Minister of Jammu and Kashmir,Q668,Q1180,,Q825536,1947-10-15,,,,
+Q71224243,governor of Jharkhand,Q668,Q1184,,Q337023,,,,,
+Q55018637,Chief Minister of Jharkhand,Q668,Q1184,,Q1511723,2000-11-15,,,,
+Q13160767,governor of Karnataka,Q668,Q1185,,Q3276082,,,,,
+Q53761260,Chief Minister of Karnataka,Q668,Q1185,,Q1837947,1947-10-25,,,,
+Q1748927,Governor of Kerala,Q668,Q1186,,Q1360332,,,,,
+Q26218416,Chief Minister of Kerala,Q668,Q1186,,Q1837949,1957-04-05,,,,
+Q71308756,governor of Madhya Pradesh,Q668,Q1188,,Q32737,,,,,
+Q55018639,Chief Minister of Madhya Pradesh,Q668,Q1188,,Q980652,,,,,
+Q18727576,Governor of Maharashtra,Q668,Q1191,,Q1583996,1960-05-01,,,,
+Q221922,Chief Minister of Maharashtra,Q668,Q1191,Q5261005,,1960-05-01,,,,List of chief ministers of Maharashtra
+Q52107836,Governor of Manipur,Q668,Q1193,,Q74593,,,,,
+Q55018640,Chief Minister of Manipur,Q668,Q1193,,Q1413918,,,,,
+Q65288325,governor of Meghalaya,Q668,Q1195,,Q1840537,,,,,
+Q55018641,Chief Minister of Meghalaya,Q668,Q1195,,Q1837935,1970-04-02,,,,
+Q65288311,governor of Mizoram,Q668,Q1502,,Q3021955,,,,,
+Q55018647,Chief Minister of Mizoram,Q668,Q1502,,Q1837932,1972-05-03,,,,
+Q61362710,governor of Nagaland,Q668,Q1599,,Q2947771,,,,,
+Q55018648,Chief Minister of Nagaland,Q668,Q1599,,Q825548,1963-12-01,,,,
+Q28481413,Governor of Odisha,Q668,Q22048,,Q138219,,,,,
+Q39271481,Chief Minister of Odisha,Q668,Q22048,,Q1511699,1946-04-23,,,,
+Q55139200,Chief minister of Puducherry,Q668,Q66743,,,1963-07-01,,,,List of chief ministers of Puducherry
+Q25623551,Governor of Punjab,Q668,Q22424,,Q111810,,,,,
+Q1516776,Chief Minister of Punjab,Q668,Q22424,,,1947-08-15,,,,List of chief ministers of Punjab (India)
+Q21448297,Governor of Rajasthan,Q668,Q1437,,Q799553,1949-03-30,,,,
+Q55018649,Chief Minister of Rajasthan,Q668,Q1437,,Q1512726,1949-04-07,,,,
+Q71309242,governor of Sikkim,Q668,Q1505,,Q43339,1991,,,,
+Q55018650,Chief Minister of Sikkim,Q668,Q1505,,Q753888,1975-05-16,,,,
+Q24040821,Chief Minister of Tamil Nadu,Q668,Q1445,,Q1512312,,,,,
+Q71309714,governor of Telangana,Q668,Q677037,,Q17107504,,,,,
+Q55018651,Chief Minister of Telangana,Q668,Q677037,,Q17107395,2014-06-02,,,,
+Q71310842,governor of Tripura,Q668,Q1363,,Q64777,,,,,
+Q55018652,Chief Minister of Tripura,Q668,Q1363,,Q1837950,1963-07-01,,,,
+Q12991748,governor of Uttar Pradesh,Q668,Q1498,,Q1840560,,,,,
+Q28966983,Chief Minister of Uttar Pradesh,Q668,Q1498,,Q1837973,1950-01-26,,,,
+Q71311082,governor of Uttarakhand,Q668,Q1499,,Q43415,,,,,
+Q55018653,Chief Minister of Uttarakhand,Q668,Q1499,,Q280632,,,,,
+Q6364703,Governor of West Bengal,Q668,Q1356,,,,,,,Governor of West Bengal
+Q55018654,Chief Minister of West Bengal,Q668,Q1356,,Q1507450,1947-08-15,,,,
