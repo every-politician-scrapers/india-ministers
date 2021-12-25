@@ -119,7 +119,7 @@
               }
             },
             {
-              "text": "He is also the founder of Hindu Yuva Vahini, a Hindu Nationalist organisation.",
+              "text": "He is also the founder of Hindu Yuva Vahini, a Hindu nationalist organisation.",
               "links": [
                 {
                   "type": "internal",
@@ -128,26 +128,17 @@
               ]
             },
             {
-              "text": "He is often considered a Hindu nationalist due to his controversial views.",
+              "text": "He has an image of a Hindutva nationalist and a right-wing populist.",
               "links": [
                 {
-                  "text": "Hindu nationalist",
+                  "text": "Hindutva nationalist",
                   "type": "internal",
-                  "page": "Hindu nationalism"
-                }
-              ]
-            },
-            {
-              "text": "He has an image as a right-wing populist Hindutva firebrand.",
-              "links": [
+                  "page": "Hindutva"
+                },
                 {
                   "text": "right-wing populist",
                   "type": "internal",
                   "page": "right-wing populist"
-                },
-                {
-                  "type": "internal",
-                  "page": "Hindutva"
                 }
               ]
             }
