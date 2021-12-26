@@ -265,11 +265,15 @@
             ]
           },
           "successor3": {
-            "text": "Nityanand Rai",
+            "text": "Nityanand Rai, G. Kishan Reddy",
             "links": [
               {
                 "type": "internal",
                 "page": "Nityanand Rai"
+              },
+              {
+                "type": "internal",
+                "page": "G. Kishan Reddy"
               }
             ]
           },
@@ -277,7 +281,19 @@
             "text": "26 May 2014"
           },
           "term_end3": {
-            "text": "30 May 2019"
+            "text": "30 May 2019\nServed along with H. P. Chaudhary (2014-16) and H. G. Ahir (2016-19)",
+            "links": [
+              {
+                "text": "H. P. Chaudhary",
+                "type": "internal",
+                "page": "Haribhai Parthibhai Chaudhary"
+              },
+              {
+                "text": "H. G. Ahir",
+                "type": "internal",
+                "page": "Hansraj Gangaram Ahir"
+              }
+            ]
           },
           "office4": {
             "text": "Member of Parliament, Lok Sabha",
