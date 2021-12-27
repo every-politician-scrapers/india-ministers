@@ -560,6 +560,10 @@
               },
               {
                 "type": "internal",
+                "page": "Uttar Pradesh"
+              },
+              {
+                "type": "internal",
                 "page": "India"
               },
               {
@@ -578,6 +582,10 @@
               {
                 "type": "internal",
                 "page": "Nilgiris district"
+              },
+              {
+                "type": "internal",
+                "page": "Tamil Nadu"
               }
             ]
           },
@@ -702,7 +710,7 @@
             ]
           },
           "alma_mater": {
-            "text": "National Defence Academy (BSc)\n\nIndian Military Academy\n\nDefence Services Staff College, Madras University (MPhil)\n\nU.S. Army Command & General Staff College (ILE)\n\nChaudhary Charan Singh University (PhD)",
+            "text": "National Defence Academy (BSc)\n\nIndian Military Academy\n\nDefence Services Staff College, University of Madras (MPhil)\n\nU.S. Army Command & General Staff College (ILE)\n\nChaudhary Charan Singh University (PhD)",
             "links": [
               {
                 "type": "internal",
@@ -723,7 +731,7 @@
               },
               {
                 "type": "internal",
-                "page": "Madras University"
+                "page": "University of Madras"
               },
               {
                 "text": "MPhil",
@@ -738,6 +746,11 @@
               {
                 "type": "internal",
                 "page": "Chaudhary Charan Singh University"
+              },
+              {
+                "text": "PhD",
+                "type": "internal",
+                "page": "Doctor of Philosophy"
               }
             ]
           }
