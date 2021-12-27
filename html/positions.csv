@@ -8,6 +8,7 @@ Q55623231,Minister of Agriculture & Farmers Welfare,Q668,Q668,,,1946-09-02,,,,Mi
 Q108560662,Minister of AYUSH,Q668,Q668,,,,,,,
 Q6866049,Minister of Chemicals and Fertilizers,Q668,Q668,,,,,,,Minister of Chemicals and Fertilizers
 Q18390718,Minister of Civil Aviation,Q668,Q668,,,,,,,Minister of Civil Aviation (India)
+Q108559581,Minister of Co-operation,Q668,Q668,,,,,,,
 Q18128069,Minister of Coal,Q668,Q668,,,,,,,Minister of Coal (India)
 Q6866058,Minister of Commerce and Industry,Q668,Q668,,,,,,,Minister of Commerce and Industry (India)
 Q108560859,Minister of Communications,Q668,Q668,,,,,,,
@@ -63,6 +64,7 @@ Q16148198,Cabinet Secretary of India,Q668,Q668,,,1950,,,,Cabinet Secretary (Indi
 Q48726877,Home Secretary,Q668,Q668,,,,,,,Home Secretary (India)
 Q56276471,Principal Secretary to the Prime Minister of India,Q668,,,,,,,,Principal Secretary to the Prime Minister of India
 Q3243690,Chief Justice of India,Q668,,,,1950,,,,Chief Justice of India
+Q79735330,Chief of Defence Staff,Q668,,,,,,Q60753488,,Chief of Defence Staff (India)
 Q5280548,Director of the Intelligence Bureau,Q668,,,,1947,,,,Director of the Intelligence Bureau
 Q3522413,Chief Election Commissioner of India,Q668,Q668,Q5354516,,,,,,Chief Election Commissioner of India
 Q5354516,Election Commissioner of India,Q668,,,,,,,,Election Commissioner of India
@@ -117,6 +119,7 @@ Q21448297,Governor of Rajasthan,Q668,Q1437,,Q799553,1949-03-30,,,,
 Q55018649,Chief Minister of Rajasthan,Q668,Q1437,,Q1512726,1949-04-07,,,,
 Q71309242,governor of Sikkim,Q668,Q1505,,Q43339,1991,,,,
 Q55018650,Chief Minister of Sikkim,Q668,Q1505,,Q753888,1975-05-16,,,,
+Q27892340,Governor of Tamil Nadu,Q668,Q1445,,Q328586,,,Q27895878,,
 Q24040821,Chief Minister of Tamil Nadu,Q668,Q1445,,Q1512312,,,,,
 Q71309714,governor of Telangana,Q668,Q677037,,Q17107504,,,,,
 Q55018651,Chief Minister of Telangana,Q668,Q677037,,Q17107395,2014-06-02,,,,
