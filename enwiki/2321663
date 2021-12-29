@@ -283,6 +283,11 @@
           "template": "short description"
         },
         {
+          "template": "redirect",
+          "redirect": "Mamata",
+          "links": []
+        },
+        {
           "small": "yes",
           "template": "pp-semi"
         },
