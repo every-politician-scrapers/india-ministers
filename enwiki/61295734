@@ -232,7 +232,13 @@
             ]
           },
           "awards": {
-            "text": "Kalinga Ratna Samman 2021"
+            "text": "Kalinga Ratna Award, 2021",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kalinga Ratna Award"
+              }
+            ]
           }
         }
       ],

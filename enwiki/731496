@@ -250,11 +250,11 @@
             "number": 3
           },
           "residence": {
-            "text": "Mumbai",
+            "text": "New Delhi",
             "links": [
               {
                 "type": "internal",
-                "page": "Mumbai"
+                "page": "New Delhi"
               }
             ]
           },
