@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Narayan Tatu Rane (born 10 April 1952) is an Indian politician from Maharashtra state and former Chief Minister of Maharashtra.",
+              "text": "Narayan Tatya Rane (born 10 April 1952) is an Indian politician from Maharashtra state and former Chief Minister of Maharashtra.",
               "links": [
                 {
                   "type": "internal",
@@ -36,7 +36,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Narayan Tatu Rane"
+                  "Narayan Tatya Rane"
                 ]
               }
             },
@@ -187,15 +187,6 @@
                 "text": "Minister of Micro, Small and Medium Enterprises",
                 "type": "internal",
                 "page": "Ministry of Micro, Small and Medium Enterprises"
-              }
-            ]
-          },
-          "president": {
-            "text": "Ram Nath Kovind",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ram Nath Kovind"
               }
             ]
           },
