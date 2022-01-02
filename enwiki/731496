@@ -443,66 +443,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.indiatoday.in/india/story/women-female-ministers-modi-central-bjp-nda-govt-1825236-2021-07-08",
-          "title": "Cabinet reshuffle Meet Modi government's women ministers",
-          "last": "Saha",
-          "first": "Poulomi",
-          "date": "8 July 2021",
-          "website": "India Today",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.thehindu.com/news/national/Javdekar-gets-HRD-Irani-shifted-to-Textiles/article14472676.ece",
-          "title": "Javdekar gets HRD, Irani shifted to Textiles",
-          "first": "Internet",
-          "last": "Desk",
-          "date": "5 July 2016",
-          "newspaper": "The Hindu",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.indiatoday.in/India/story/smriti-irani-youngest-minister-in-modi-govt-average-age-1539112-2019-05-31",
-          "title": "Smriti Irani youngest minister in Modi govt, council gets younger in 5 years",
-          "last1": "DelhiMay 31",
-          "first1": "Press Trust of India New",
-          "last2": "May 31",
-          "first2": "2019UPDATED",
-          "website": "India Today",
-          "access-date": "31 May 2019",
-          "last3": "Ist",
-          "first3": "2019 11:47",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://news.rediff.com/commentary/2014/nov/27/bengali-marathi-gujarati-english...-multilingual-smriti-charms-mps/dbc21a9ddff2a11125c203d58c8a2f5f",
-          "title": "Bengali, Marathi, Gujarati, English... multi-lingual Smriti charms MPs",
-          "work": "Rediff",
-          "date": "27 November 2014",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Detailed Profile: Smt. Smriti tulsi Irani",
-          "url": "https://archive.india.gov.in/govt/rajyasabhampbiodata.php?mpcode=2180",
-          "website": "India.gov.in",
-          "access-date": "14 September 2019",
-          "archive-url": "https://web.archive.org/web/20140610232534/https://archive.india.gov.in/govt/rajyasabhampbiodata.php?mpcode=2180",
-          "archive-date": "10 June 2014",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

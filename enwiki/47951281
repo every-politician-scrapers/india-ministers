@@ -430,39 +430,6 @@
             "text": "Politician"
           }
         }
-      ],
-      "references": [
-        {
-          "last1": "Sharma",
-          "first1": "Neetu Chandra",
-          "title": "Mansukh Mandaviya takes charge as Union health minister",
-          "url": "https://www.livemint.com/news/india/mansukh-mandaviya-takes-charge-as-union-health-minister-11625729106175.html",
-          "work": "mint",
-          "date": "8 July 2021",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "{{news|url=https://www.aninews.in/news/national/general-news/union-health-minister-mandaviya-gets-doctorate-in-political-science20211005222758|title= union health minister mandaviya gets doctorate in political science|website=ani|undefined"
-        },
-        {
-          "title": "Gujarat Vidhan Sabha",
-          "url": "http://www.gujaratassembly.gov.in/rajsabhamember.htm",
-          "access-date": "2019-06-17",
-          "website": "www.gujaratassembly.gov.in",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "PM Modi allocates portfolios. Full list of new ministers",
-          "date": "31 May 2019",
-          "url": "https://www.livemint.com/politics/news/pm-modi-allocates-portfolios-full-list-of-new-ministers-1559288502067.html",
-          "work": "Live Mint",
-          "template": "citation",
-          "type": "citation"
-        }
       ]
     }
   ]

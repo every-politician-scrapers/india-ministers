@@ -283,30 +283,6 @@
             "text": "17th"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Lok Sabha",
-          "url": "http://164.100.47.132/LssNew/Members/Biography.aspx?mpsno=4716",
-          "website": "164.100.47.132",
-          "access-date": "2015-08-29}}{{Dead link|date=April 2020 |bot=InternetArchiveBot |fix-attempted=yes |undefined",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Office of the Speaker",
-          "url": "https://speakerloksabha.nic.in/biography.asp",
-          "website": "Office of the Speaker Lok Sabha",
-          "access-date": "11 June 2020",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

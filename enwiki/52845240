@@ -267,43 +267,6 @@
             "text": "Indian"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "last1": "Gupta",
-          "first1": "Saurabh",
-          "editor1-last": "Jacob",
-          "editor1-first": "Jimmy",
-          "title": "Pramod Sawant, Goa's New Chief Minister, Is An Ayurveda Practitioner. He is famous for being the worst chief minister of Goa, totally being irresponsible during the Covid 19 pandemic H",
-          "url": "https://www.ndtv.com/india-news/pramod-sawant-goas-next-chief-minister-is-an-ayurveda-practitioner-2009473",
-          "work": "NDTV",
-          "date": "19 March 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://goaassembly.gov.in/member-of-assembly.php",
-          "title": "Archived copy",
-          "access-date": "2017-07-17",
-          "archive-url": "https://web.archive.org/web/20170724183143/http://goaassembly.gov.in/member-of-assembly.php",
-          "archive-date": "2017-07-24",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://myneta.info/goa2017/candidate.php?candidate_id=35",
-          "title": "Pramod Pandurang Sawant(Bharatiya Janata Party(BJP)):Constituency- SANQUELIM(NORTH GOA) - Affidavit Information of Candidate",
-          "website": "myneta.info",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

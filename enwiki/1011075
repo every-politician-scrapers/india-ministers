@@ -755,30 +755,6 @@
             "text": "MK Stalin"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://indianexpress.com/article/india/ie100-list-of-most-powerful-indians-in-2019-narendra-modi-amit-shah-mukesh-ambani-gogoi-mohan-bhagwat-6039930/",
-          "title": "IE100: The list of most powerful Indians in 2019",
-          "date": "2019-09-30",
-          "website": "The Indian Express",
-          "language": "en-IN",
-          "access-date": "2019-10-14",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

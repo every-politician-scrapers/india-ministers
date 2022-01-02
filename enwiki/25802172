@@ -479,42 +479,6 @@
             "text": "16th"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://164.100.47.194/loksabha/writereaddata/biodata_1_12/3118.htm",
-          "title": "Banwarilal Purohit Lok Sabha Profiel",
-          "publisher": "Lok Sabha",
-          "access-date": "1 October 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "His Excellency Governor of Tamil Nadu",
-          "url": "http://www.assembly.tn.gov.in/15thassembly/governor.html",
-          "access-date": "2021-03-15",
-          "website": "www.assembly.tn.gov.in",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://indianexpress.com/article/india/india-news-india/banwari-lal-purohit-former-cong-leader-who-claimed-he-arranged-meeting-between-rajiv-rss-2982116/",
-          "title": "Former Cong leader who claimed he arranged meeting between Rajiv & RSS",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://timesofindia.indiatimes.com/city/nagpur/bjp-leader-purohit-is-new-governor-of-assam/articleshow/53746627.cms",
-          "title": "BJP leader Purohit is new governor of Assam",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

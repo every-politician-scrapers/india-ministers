@@ -755,45 +755,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.livemint.com/news/india/lt-gen-manoj-mukund-naravane-to-be-next-army-chief-11576512004693.html",
-          "title": "Lt Gen Manoj Mukund Naravane to be next Army Chief",
-          "publisher": "LiveMint",
-          "access-date": "16 December 2019",
-          "date": "16 December 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Who is Bipin Rawat: A brief look at General Bipin Rawat, India's first CDS",
-          "work": "The Economic Times",
-          "url": "https://economictimes.indiatimes.com/news/defence/a-brief-look-at-general-bipin-rawat-indias-first-cds/articleshow/73029309.cms",
-          "access-date": "8 December 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Bhaumik",
-          "first": "Subir",
-          "date": "8 December 2021",
-          "title": "Bipin Rawat: India's 'inspiring commander' who died in helicopter crash",
-          "language": "en-GB",
-          "work": "BBC News",
-          "location": "Kolkata",
-          "url": "https://www.bbc.com/news/world-asia-india-59578168",
-          "access-date": "8 December 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://pib.gov.in/newsite/PrintRelease.aspx?relid=187777",
-          "title": "411 Republic Day Gallantry and Other Defence Decorations Announced",
-          "date": "25 January 2019",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

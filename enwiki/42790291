@@ -274,47 +274,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://indianexpress.com/article/who-is/who-is-gajendra-singh-shekhawat-4826549/",
-          "title": "Who is Gajendra Singh Shekhawat?",
-          "publisher": "The Indian Express",
-          "location": "New Delhi",
-          "date": "3 September 2017",
-          "website": "indianexpress.com",
-          "access-date": "15 July 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Report",
-          "first1": "TOI",
-          "url": "http://timesofindia.indiatimes.com/india/cabinet-rejig-meet-modis-formidable-force-in-run-up-to-2019-general-elections/articleshow/60354407.cms",
-          "title": "Cabinet rejig: Meet Modi's formidable force in run-up to 2019 general elections",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://eciresults.nic.in/ConstituencywiseS2014.htm?ac=14",
-          "title": "Constituencywise-All Candidates",
-          "publisher": "Eciresults.nic.in",
-          "access-date": "17 May 2014",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20140216091422/http://eciresults.nic.in/ConstituencywiseS2014.htm?ac=14",
-          "archive-date": "16 February 2014",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://loksabhaph.nic.in/Members/MemberBioprofile.aspx?mpsno=4670",
-          "title": "Members Bioprofile",
-          "publisher": "Lok Sabha Secretariat",
-          "website": "loksabhaph.nic.in",
-          "access-date": "20 August 2020",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

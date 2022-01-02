@@ -540,34 +540,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://timesofindia.indiatimes.com/city/hyderabad/K-Chandrashekar-Rao/articleshow/36503218.cms",
-          "title": "Telangana CM, K Chandrashekar Rao, a Hindi speaking CM in south India",
-          "work": "timesofindia.indiatimes.com",
-          "access-date": "3 August 2014",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

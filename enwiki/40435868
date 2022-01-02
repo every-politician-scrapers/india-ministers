@@ -607,67 +607,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "MEA {{!}} About MEA : Profiles : Foreign Secretary",
-          "url": "http://www.mea.gov.in/fs.htm",
-          "website": "www.mea.gov.in",
-          "access-date": "7 February 2018",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Tata Sons announces appointment of new president, Global Corporate Affairs",
-          "url": "http://www.tata.com/article/inside/tata-sons-announces-appointment-of-president-for-global-corporate-affairs",
-          "website": "Tata",
-          "access-date": "25 May 2018",
-          "date": "23 April 2018",
-          "archive-url": "https://web.archive.org/web/20180525204501/http://www.tata.com/article/inside/tata-sons-announces-appointment-of-president-for-global-corporate-affairs",
-          "archive-date": "25 May 2018",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.timesnownews.com/india/article/subrahmanyam-jaishankar-padma-shri-shankar-dayal-sharma-indo-us-civilian-nuclear-agreement-sino-indian-border-dispute-narendra-modi/354167",
-          "title": "Former Indian foreign secretary Subrahmanyam Jaishankar to be conferred with Padma Shri",
-          "website": "www.timesnownews.com",
-          "language": "en-GB",
-          "access-date": "29 January 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Roche",
-          "first1": "Elizabeth",
-          "title": "S Jaishankar: Modi's 'crisis manager' sworn-in as union minister",
-          "url": "https://www.livemint.com/politics/policy/s-jaishankar-modi-s-crisis-manager-sworn-in-as-union-minister-1559225084445.html",
-          "access-date": "30 May 2019",
-          "work": "Mint",
-          "date": "30 May 2019",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "S. Jaishankar: From Backroom to Corner Office, the Rise of Modi's Favourite Diplomat",
-          "url": "https://thewire.in/diplomacy/jaishankar-modi-favourite-diplomat-mea",
-          "access-date": "9 July 2020",
-          "website": "The Wire",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.cnbctv18.com/politics/narendra-modi-government-2-0-former-foreign-secretary-s-jaishankar-appointed-as-minister-of-external-affairs-3518011.htm",
-          "title": "Narendra Modi Government 2.0: Former foreign secretary S Jaishankar appointed as Minister of External Affairs",
-          "website": "cnbctv18.com",
-          "date": "31 May 2019",
-          "access-date": "4 June 2019",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
