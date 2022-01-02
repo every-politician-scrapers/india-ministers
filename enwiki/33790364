@@ -139,6 +139,37 @@
               }
             ]
           },
+          "1blankname1": {
+            "text": "Ministry"
+          },
+          "1namedata1": {
+            "text": "* Technical Education & Industrial Training.\n* Employment Generation.\n* Tourism and Cultural Affairs"
+          },
+          "governor1": {
+            "text": "V. P. Singh Badnore\nBanwarilal Purohit",
+            "links": [
+              {
+                "type": "internal",
+                "page": "V. P. Singh Badnore"
+              },
+              {
+                "type": "internal",
+                "page": "Banwarilal Purohit"
+              }
+            ]
+          },
+          "2blankname1": {
+            "text": "Chief Minister"
+          },
+          "2namedata1": {
+            "text": "Amarinder Singh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amarinder Singh"
+              }
+            ]
+          },
           "term_start1": {
             "text": "16 March 2017"
           },

@@ -209,7 +209,7 @@
             "Tejashwi Yadav (2015–2017)",
             "Sushil Kumar Modi (2017–2020)",
             "Renu Devi (2020–present)",
-            "Tarkishore Prasad (2020-present)"
+            "Tarkishore Prasad (2020–present)"
           ],
           "template": "ubl"
         }
@@ -254,7 +254,7 @@
             ]
           },
           "party": {
-            "text": "Janata Dal (United)(2003 - present)",
+            "text": "Janata Dal (United) (2003–present)",
             "links": [
               {
                 "type": "internal",
@@ -263,7 +263,7 @@
             ]
           },
           "otherparty": {
-            "text": "Janata Dal (1989 - 1994)",
+            "text": "Janata Dal (1989–1994)",
             "links": [
               {
                 "type": "internal",
@@ -290,7 +290,7 @@
             "text": "Keshari Nath Tripathi\n\nRam Nath Kovind\n\nSatya Pal Malik\n\nLalji Tandon\n\nPhagu Chauhan"
           },
           "deputy1": {
-            "text": "Tejashwi Yadav (2015–2017)\n\nSushil Kumar Modi (2017–2020)\n\nRenu Devi (2020–present)\n\nTarkishore Prasad (2020-present)"
+            "text": "Tejashwi Yadav (2015–2017)\n\nSushil Kumar Modi (2017–2020)\n\nRenu Devi (2020–present)\n\nTarkishore Prasad (2020–present)"
           },
           "term_start1": {
             "text": "22 February 2015"
@@ -320,7 +320,7 @@
             ]
           },
           "deputy2": {
-            "text": "Sushil Kumar Modi (2005-2013)",
+            "text": "Sushil Kumar Modi (2005–2013)",
             "links": [
               {
                 "type": "internal",

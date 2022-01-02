@@ -85,6 +85,21 @@
       ],
       "infoboxes": [
         {
+          "honorific-prefix": {
+            "text": "Dr.",
+            "links": [
+              {
+                "text": "Dr.",
+                "type": "internal",
+                "page": "Ph.D"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "Dr."
+              ]
+            }
+          },
           "name": {
             "text": "Mansukh Mandaviya"
           },
