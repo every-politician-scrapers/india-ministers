@@ -309,41 +309,6 @@
             "text": "Governor's website"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.outlookindia.com/newsscroll/jagdeep-dhankhar-takes-oath-as-west-bengal-governor/1586269",
-          "title": "Jagdeep Dhankhar takes oath as West Bengal Governor",
-          "website": "Outlook",
-          "date": "30 July 2019",
-          "access-date": "13 January 2020",
-          "archive-url": "https://web.archive.org/web/20200113064710/https://www.outlookindia.com/newsscroll/jagdeep-dhankhar-takes-oath-as-west-bengal-governor/1586269",
-          "archive-date": "13 January 2020",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.ndtv.com/india-news/jagdeep-dhankar-to-be-sworn-in-as-new-west-bengal-governor-on-july-30-2075543",
-          "title": "Jagdeep Dhankar To Be Sworn In As New West Bengal Governor On July 30",
-          "work": "NDTV",
-          "date": "26 July 2019",
-          "access-date": "26 July 2019",
-          "archive-url": "https://web.archive.org/web/20190726105212/https://www.ndtv.com/india-news/jagdeep-dhankar-to-be-sworn-in-as-new-west-bengal-governor-on-july-30-2075543",
-          "archive-date": "26 July 2019",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Our Governor: Raj Bhavan, West Bengal, India",
-          "url": "http://rajbhavankolkata.gov.in/html/ourgovernor.html",
-          "url-status": "live",
-          "access-date": "15 May 2021",
-          "website": "Raj Bhavan, West Bengal, India",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

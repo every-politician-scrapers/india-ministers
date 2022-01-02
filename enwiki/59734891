@@ -278,54 +278,6 @@
             "text": "https://mea.gov.in/fs.htm"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/indian-envoy-to-united-states-harsh-vardhan-shringla-will-be-the-next-foreign-secretary/articleshow/72942706.cms",
-          "title": "Indian envoy to United States Harsh Vardhan Shringla will be the next Foreign Secretary",
-          "work": "The Economics Times",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://mea.gov.in/press-releases.htm?dtl/30793/Riva_Ganguly_Das_appointed_as_the_next_High_Commissioner_of_India_to_the_Peoples_Republic_of_Bangladesh",
-          "title": "Riva Ganguly Das appointed as the next HCI to Bangladesh",
-          "accessdate": "24 January 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.ndtv.com/india-news/india-bangladesh-relations-riva-ganguly-das-appointed-new-envoy-to-bangladesh-1965666",
-          "title": "Riva Ganguly Das Named HCI To Bangladesh",
-          "publisher": "NDTV",
-          "access-date": "24 January 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://timesofindia.indiatimes.com/india/senior-diplomat-harsh-vardhan-shringla-appointed-foreign-secretary/articleshow/72942616.cms",
-          "title": "Harsh Vardhan Shringla appointed new Foreign Secretary of India",
-          "date": "23 December 2019",
-          "newspaper": "The Times of India",
-          "access-date": "23 December 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.thehindubusinessline.com/news/harsh-vardhan-shringla-appointed-new-indian-ambassador-to-us/article25787480.ece",
-          "title": "Harsh Vardhan Shringla appointed new Indian Ambassador to US",
-          "date": "20 December 2018",
-          "newspaper": "Business Line",
-          "access-date": "21 January 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

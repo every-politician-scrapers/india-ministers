@@ -522,52 +522,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://loksabhaph.nic.in/Members/MemberBioprofile.aspx?mpsno=5084",
-          "title": "Members : Lok Sabha",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://loksabhaph.nic.in/Members/MemberBioprofile.aspx?mpsno=5084",
-          "title": "Members : Lok Sabha",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://timesofindia.indiatimes.com/city/hyderabad/telangana-assembly-elections-2018-saffron-leader-kishan-reddy-still-king-of-hearts-in-amberpet/articleshow/66857966.cms",
-          "title": "Telangana assembly elections 2018: Saffron leader Kishan Reddy still king of hearts in Amberpet",
-          "access-date": "29 November 2018",
-          "archive-url": "https://web.archive.org/web/20181130033037/https://timesofindia.indiatimes.com/city/hyderabad/telangana-assembly-elections-2018-saffron-leader-kishan-reddy-still-king-of-hearts-in-amberpet/articleshow/66857966.cms",
-          "archive-date": "30 November 2018",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "author": "G. Kishan Reddy",
-          "url": "http://www.thehindu.com/opinion/op-ed/article80961.ece",
-          "title": "Telangana: inevitable and desirable",
-          "newspaper": "The Hindu",
-          "date": "2010-01-15",
-          "access-date": "2013-08-04",
-          "archive-url": "https://web.archive.org/web/20130121061525/http://www.thehindu.com/opinion/op-ed/article80961.ece",
-          "archive-date": "21 January 2013",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.indiatoday.in/fyi/story/g-kishan-reddy-leader-rose-through-ranks-1539001-2019-05-31",
-          "title": "G Kishan Reddy: A leader who rose through the ranks",
-          "publisher": "India Today",
-          "date": "31 May 2019",
-          "access-date": "6 January 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

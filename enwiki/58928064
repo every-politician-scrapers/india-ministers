@@ -206,23 +206,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://niyuktionline.upsdc.gov.in/writereaddata/Portal/Images/pdf/Gradation-List-IAS-2018.pdf",
-          "title": "Gradation list of Uttar Pradesh Cadre IAS officers - 2018",
-          "website": "Department of Appointment and Personnel, Government of Uttar Pradesh",
-          "page": "19",
-          "access-date": "15 August 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-08-06-2021/liveblog/83327452.cms",
-          "title": "Breaking news live: Anup Chandra Pandey appointed election commissioner",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

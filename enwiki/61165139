@@ -328,40 +328,6 @@
             "text": "https://ashwinivaishnaw.in"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Shri Ashwini Vaishnaw {{!}} National Portal of India",
-          "url": "https://www.india.gov.in/my-government/indian-parliament/shri-ashwini-vaishnaw",
-          "website": "www.india.gov.in",
-          "access-date": "8 July 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.odishabytes.com/ashwini-vaishnav-rs-candidature-fuels-bjd-bjp-deal-talk/",
-          "title": "Ashwini Vaishnav RS Candidature Fuels BJD-BJP Deal Talk",
-          "date": "2019-06-21",
-          "website": "ODISHA BYTES",
-          "language": "en-US",
-          "access-date": "2019-11-16",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://164.100.47.5/NewMembers/RetLMemState.aspx",
-          "title": "Statewise Retirement",
-          "website": "164.100.47.5",
-          "access-date": "2019-06-28",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

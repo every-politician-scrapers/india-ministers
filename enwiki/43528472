@@ -232,28 +232,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.gujaratassembly.gov.in/dyspeaker.htm",
-          "title": "Gujarat Vidhan Sabha",
-          "publisher": "gujaratassembly.gov.in",
-          "accessdate": "2014-08-11",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

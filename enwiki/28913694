@@ -801,30 +801,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Rajya Sabha-Members in Council of Minister",
-          "url": "https://rajyasabha.nic.in/rsnew/member_site/minister.aspx",
-          "access-date": "23 March 2021",
-          "work": "rajyasabha.nic.in",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Piyush Goyal Interim Finance Minister: Piyush Goyal named interim Finance & Corporate Affairs minister",
-          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/piyush-goyal-temporarily-assigned-the-ministry-of-finance-ministry-of-corp-affairs/articleshow/67661396.cms?from=mdr",
-          "access-date": "19 March 2021",
-          "work": "The Economic Times",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

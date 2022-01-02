@@ -310,42 +310,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://myneta.info/chhattisgarh2013/candidate.php?candidate_id=204",
-          "title": "Bhupesh Baghel (Indian National Congress (INC)): Constituency- Patan (Durg) - Affidavit Information of Candidate",
-          "website": "myneta.info",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.cgvidhansabha.gov.in/hindi_new/bio/cm_current.htm",
-          "title": "मुख्यमंत्री",
-          "access-date": "17 December 2019",
-          "language": "hi",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.cgvidhansabha.gov.in/",
-          "title": "Official Website of Chhattisgarh Legislative Assembly",
-          "website": "www.cgvidhansabha.gov.in",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.thehindu.com/elections/chhattisgarh-assembly-elections-2018/who-is-bhupesh-baghel/article25756891.ece",
-          "title": "Who is Bhupesh Baghel?",
-          "author": "The Hindu Net Desk",
-          "date": "16 December 2018",
-          "work": "The Hindu",
-          "access-date": "3 February 2019",
-          "language": "en-IN",
-          "issn": "0971-751X",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

@@ -266,40 +266,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.bjp.org/organisation/office-bearers",
-          "title": "National office bearers",
-          "access-date": "28 October 2018",
-          "publisher": "Bharatiya Janata Party",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.prsindia.org/mptrack/bhupender-yadav",
-          "title": "Bhupender Yadav",
-          "date": "2018-06-07",
-          "website": "PRS",
-          "language": "en",
-          "access-date": "2019-02-04",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.india.gov.in/my-government/indian-parliament/shri-bhupender-yadav",
-          "title": "Bhupender Yadav, Shri",
-          "access-date": "23 October 2020",
-          "publisher": "India.gov.in",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
