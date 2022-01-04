@@ -17,7 +17,7 @@ class OfficeholderList < OfficeholderListBase
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[no name name start end party colour pm].freeze
+      %w[no name start end party colour pm].freeze
     end
   end
 end
