@@ -204,7 +204,7 @@
             ]
           },
           "1namedata1": {
-            "text": "*General Administration.\n* Law and Judiciary.\n* Information and Public Relations.\n* Information Technology \nOther departments not allocated to any Minister :\n* Forests Department.",
+            "text": "*General Administration.\n* Law and Judiciary.\n* Information and Public Relations.\n* Information Technology \nOther departments not allocated to any Minister",
             "links": [
               {
                 "text": "General Administration.",
@@ -225,16 +225,11 @@
                 "text": "Information Technology ",
                 "type": "internal",
                 "page": "Ministry of Information Technology (Maharashtra)"
-              },
-              {
-                "text": "Forests Department.",
-                "type": "internal",
-                "page": "Ministry of Forests Department of Maharashtra"
               }
             ],
             "formatting": {
               "bold": [
-                "Other departments not allocated to any Minister :"
+                "Other departments not allocated to any Minister"
               ]
             }
           },
