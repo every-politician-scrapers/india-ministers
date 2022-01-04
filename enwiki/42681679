@@ -39,7 +39,13 @@
               }
             },
             {
-              "text": "He is also the first person from Uttar Pradesh to serve as President of India."
+              "text": "He is also the first person from Uttar Pradesh to serve as President of India.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Uttar Pradesh"
+                }
+              ]
             },
             {
               "text": "Prior to his presidency, he served as the 26th governor of Bihar from 2015 to 2017 and as a member of Parliament, Rajya Sabha from 1994 to 2006.",
