@@ -26,11 +26,6 @@
               "text": "Giriraj Singh (born 8 September 1952) is an Indian politician and the Minister of Rural Development and Panchayati Raj Department in the 23rd Ministry of the Republic of India with a cabinet minister rank.",
               "links": [
                 {
-                  "text": "Indian",
-                  "type": "internal",
-                  "page": "India"
-                },
-                {
                   "text": "23rd Ministry of the Republic of India",
                   "type": "internal",
                   "page": "Second Modi ministry"
@@ -43,7 +38,7 @@
               }
             },
             {
-              "text": "He is the Member of Parliament from the Begusarai parliamentary constituency in the 17th Lok Sabha, and formerly served as Minister of Cooperative, Animal Husbandry and Fisheries Resources Development in the Government of Bihar.",
+              "text": "He is the Member of Parliament from the Begusarai parliamentary constituency in the 17th Lok Sabha.",
               "links": [
                 {
                   "text": "Member of Parliament",
@@ -59,7 +54,12 @@
                   "text": "17th Lok Sabha",
                   "type": "internal",
                   "page": "17th Lok Sabha"
-                },
+                }
+              ]
+            },
+            {
+              "text": "He has also formerly served as Minister of Cooperative, Animal Husbandry and Fisheries Resources Development in the Government of Bihar.",
+              "links": [
                 {
                   "type": "internal",
                   "page": "Government of Bihar"

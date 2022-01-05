@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Satya Pal Malik (born 24 July 1946) is an Indian politician serving as the 21st and current Governor of Meghalaya.",
+              "text": "Satya Pal Malik (born 24 July 1946) is an Indian politician serving as the 19th and current Governor of Meghalaya.",
               "links": [
                 {
                   "text": "Governor of Meghalaya",
@@ -129,7 +129,7 @@
               ]
             },
             {
-              "text": "In August 2018, he was appointed Governor to the crucial state of Jammu and Kashmir."
+              "text": "In August 2018, he was appointed Governor to the state of Jammu and Kashmir."
             }
           ]
         }
@@ -173,7 +173,23 @@
             "text": "July 24, 1946"
           },
           "birth_place": {
-            "text": "Hisawada, Uttar Pradesh, India"
+            "text": "Hisawada, United Provinces, British India",
+            "links": [
+              {
+                "text": "Hisawada",
+                "type": "internal",
+                "page": "Bagpat district"
+              },
+              {
+                "text": "United Provinces",
+                "type": "internal",
+                "page": "United Provinces (1937-50)"
+              },
+              {
+                "type": "internal",
+                "page": "British India"
+              }
+            ]
           },
           "office": {
             "text": "19th Governor of Meghalaya",
