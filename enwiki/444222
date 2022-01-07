@@ -368,15 +368,15 @@
           "links": []
         },
         {
-          "template": "good article"
-        },
-        {
           "reason": "Persistent vandalism",
           "small": "yes",
           "list": [
             "vandalism"
           ],
           "template": "pp-protected"
+        },
+        {
+          "template": "good article"
         },
         {
           "date": "October 2019",
