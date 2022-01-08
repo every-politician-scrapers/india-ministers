@@ -127,7 +127,7 @@
               }
             ]
           },
-          "office1": {
+          "office2": {
             "text": "Cabinet Minister, Government of Punjab",
             "links": [
               {
@@ -142,13 +142,13 @@
               }
             ]
           },
-          "1blankname1": {
+          "2blankname2": {
             "text": "Ministry"
           },
-          "1namedata1": {
+          "2namedata2": {
             "text": "* Technical Education & Industrial Training.\n* Employment Generation.\n* Tourism and Cultural Affairs"
           },
-          "governor1": {
+          "governor2": {
             "text": "V. P. Singh Badnore\nBanwarilal Purohit",
             "links": [
               {
@@ -161,10 +161,10 @@
               }
             ]
           },
-          "2blankname1": {
+          "1blankname2": {
             "text": "Chief Minister"
           },
-          "2namedata1": {
+          "1namedata2": {
             "text": "Amarinder Singh",
             "links": [
               {
@@ -173,23 +173,23 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "16 March 2017"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "18 September 2021"
           },
-          "office2": {
-            "text": "Member of the Legislative Assembly, Punjab",
+          "office1": {
+            "text": "Member of Punjab Legislative Assembly",
             "links": [
               {
-                "text": "Member of the Legislative Assembly, Punjab",
+                "text": "Member of Punjab Legislative Assembly",
                 "type": "internal",
                 "page": "Punjab Legislative Assembly"
               }
             ]
           },
-          "constituency2": {
+          "constituency1": {
             "text": "Chamkaur Sahib",
             "links": [
               {
@@ -199,11 +199,10 @@
               }
             ]
           },
-          "term_start2": {
-            "text": "2007",
-            "number": 2007
+          "term_start1": {
+            "text": "30 January 2007"
           },
-          "predecessor2": {
+          "predecessor1": {
             "text": "Satwant Kaur",
             "links": [
               {

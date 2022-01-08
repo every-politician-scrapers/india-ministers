@@ -200,30 +200,6 @@
           "template": "birth date and age"
         },
         {
-          "list": [
-            "Ministry"
-          ],
-          "template": "centre"
-        },
-        {
-          "list": [
-            "Term"
-          ],
-          "template": "centre"
-        },
-        {
-          "list": [
-            "Ministry"
-          ],
-          "template": "centre"
-        },
-        {
-          "list": [
-            "Term"
-          ],
-          "template": "centre"
-        },
-        {
           "audio": "bommai.ogg",
           "template": "ipac",
           "transcription": ""
@@ -307,12 +283,8 @@
             ]
           },
           "office1": {
-            "text": "Cabinet Minister Government of Karnataka",
+            "text": "Minister of Home Affairs Government of Karnataka",
             "links": [
-              {
-                "type": "internal",
-                "page": "Cabinet Minister"
-              },
               {
                 "type": "internal",
                 "page": "Government of Karnataka"
@@ -325,35 +297,200 @@
           "term_end1": {
             "text": "28 July 2021"
           },
-          "2blankname1": {
-            "text": "Minister of Home Affairs"
+          "1blankname1": {
+            "text": "Chief Minister",
+            "links": [
+              {
+                "text": "Chief Minister",
+                "type": "internal",
+                "page": "Chief Minister of Karnataka"
+              }
+            ]
           },
-          "2namedata1": {
-            "text": "20 August 2019 - 28 July 2021"
+          "1namedata1": {
+            "text": "B. S. Yediyurappa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "B. S. Yediyurappa"
+              }
+            ]
           },
-          "3blankname1": {
-            "text": "Minister of Law Minister of Parliamentary Affairs"
+          "predecessor1": {
+            "text": "M. B. Patil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "M. B. Patil"
+              }
+            ]
           },
-          "3namedata1": {
-            "text": "21 January 2021 - 28 July 2021"
+          "successor1": {
+            "text": "Araga Jnanendra",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Araga Jnanendra"
+              }
+            ]
           },
-          "4blankname1": {
-            "text": "Minister of Cooperation"
-          },
-          "4namedata1": {
-            "text": "27 September 2019 - 6 February 2020"
+          "office2": {
+            "text": "Minister of Law & Parliamentary Affairs Government of Karnataka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Government of Karnataka"
+              }
+            ]
           },
           "term_start2": {
-            "text": "7 June 2008"
+            "text": "21 January 2021"
           },
           "term_end2": {
+            "text": "28 July 2021"
+          },
+          "1blankname2": {
+            "text": "Chief Minister",
+            "links": [
+              {
+                "text": "Chief Minister",
+                "type": "internal",
+                "page": "Chief Minister of Karnataka"
+              }
+            ]
+          },
+          "1namedata2": {
+            "text": "B. S. Yediyurappa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "B. S. Yediyurappa"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "J. C. Madhuswamy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "J. C. Madhuswamy"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "J. C. Madhuswamy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "J. C. Madhuswamy"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister of Cooperation Government of Karnataka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Government of Karnataka"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "27 September 2019"
+          },
+          "term_end3": {
+            "text": "10 February 2020"
+          },
+          "1blankname3": {
+            "text": "Chief Minister",
+            "links": [
+              {
+                "text": "Chief Minister",
+                "type": "internal",
+                "page": "Chief Minister of Karnataka"
+              }
+            ]
+          },
+          "1namedata3": {
+            "text": "B. S. Yediyurappa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "B. S. Yediyurappa"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Bandeppa Kashempur"
+          },
+          "successor3": {
+            "text": "S. T. Somashekhar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "S. T. Somashekhar"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister of Major & Medium Irrigation Government of Karnataka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Government of Karnataka"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "7 June 2008"
+          },
+          "term_end4": {
             "text": "13 May 2013"
           },
-          "2blankname2": {
-            "text": "Minister of Major and Medium Irrigation"
+          "1blankname4": {
+            "text": "Chief Minister",
+            "links": [
+              {
+                "text": "Chief Minister",
+                "type": "internal",
+                "page": "Chief Minister of Karnataka"
+              }
+            ]
           },
-          "2namedata2": {
-            "text": "7 June 2008 - 13 May 2013"
+          "1namedata4": {
+            "text": "B. S. Yediyurappa Sadananda Gowda Jagadish Shettar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "B. S. Yediyurappa"
+              },
+              {
+                "type": "internal",
+                "page": "Sadananda Gowda"
+              },
+              {
+                "type": "internal",
+                "page": "Jagadish Shettar"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "K. S. Eshwarappa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "K. S. Eshwarappa"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "M. B. Patil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "M. B. Patil"
+              }
+            ]
           },
           "office5": {
             "text": "Member of Karnataka Legislative Assembly",
@@ -399,7 +536,13 @@
             "text": "Dharwad Local Authorities"
           },
           "successor6": {
-            "text": "Shivaraj Sajjanar"
+            "text": "Shivaraj Sajjanar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shivaraj Sajjanar"
+              }
+            ]
           },
           "party": {
             "text": "Bharatiya Janata Party (2008–present)",
