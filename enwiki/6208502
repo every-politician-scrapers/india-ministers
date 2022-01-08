@@ -233,15 +233,6 @@
       ],
       "infoboxes": [
         {
-          "office": {
-            "text": "7th Chief Minister of Delhi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chief Minister of Delhi"
-              }
-            ]
-          },
           "image": {
             "text": "Arvind Kejriwal smiling (cropped).jpg"
           },
@@ -251,12 +242,34 @@
           "caption": {
             "text": "Kejriwal in 2017"
           },
+          "office": {
+            "text": "7th Chief Minister of Delhi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief Minister of Delhi"
+              }
+            ]
+          },
           "deputy": {
             "text": "Manish Sisodia",
             "links": [
               {
                 "type": "internal",
                 "page": "Manish Sisodia"
+              }
+            ]
+          },
+          "lieutenant_governor": {
+            "text": "Najeeb Jung Anil Baijal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Najeeb Jung"
+              },
+              {
+                "type": "internal",
+                "page": "Anil Baijal"
               }
             ]
           },
@@ -277,28 +290,6 @@
           "successor": {
             "text": "Incumbent"
           },
-          "lieutenant_governor": {
-            "text": "Najeeb Jung Anil Baijal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Najeeb Jung"
-              },
-              {
-                "type": "internal",
-                "page": "Anil Baijal"
-              }
-            ]
-          },
-          "lieutenant_governor1": {
-            "text": "Najeeb Jung",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Najeeb Jung"
-              }
-            ]
-          },
           "predecessor1": {
             "text": "Sheila Dikshit",
             "links": [
@@ -317,6 +308,15 @@
           "term_end1": {
             "text": "14 February 2014"
           },
+          "lieutenant_governor1": {
+            "text": "Najeeb Jung",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Najeeb Jung"
+              }
+            ]
+          },
           "successor1": {
             "text": "President's rule",
             "links": [
@@ -331,7 +331,83 @@
               ]
             }
           },
-          "office5": {
+          "office4": {
+            "text": "Member of the Delhi Legislative Assembly",
+            "links": [
+              {
+                "text": "Member of the Delhi Legislative Assembly",
+                "type": "internal",
+                "page": "Delhi Legislative Assembly"
+              }
+            ]
+          },
+          "constituency4": {
+            "text": "New Delhi",
+            "links": [
+              {
+                "text": "New Delhi",
+                "type": "internal",
+                "page": "New Delhi (Delhi Assembly constituency)"
+              }
+            ]
+          },
+          "preceded4": {
+            "text": "Sheila Dikshit",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sheila Dikshit"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "14 February 2015"
+          },
+          "predecessor4": {
+            "text": "President's rule",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President's rule"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "President's rule"
+              ]
+            }
+          },
+          "term_start5": {
+            "text": "28 December 2013"
+          },
+          "term_end5": {
+            "text": "14 February 2014"
+          },
+          "successor5": {
+            "text": "President's rule",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President's rule"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "President's rule"
+              ]
+            }
+          },
+          "constituency5": {
+            "text": "New Delhi",
+            "links": [
+              {
+                "text": "New Delhi",
+                "type": "internal",
+                "page": "New Delhi (Delhi Assembly constituency)"
+              }
+            ]
+          },
+          "office6": {
             "text": "National Convener of the Aam Aadmi Party",
             "links": [
               {
@@ -342,10 +418,10 @@
               }
             ]
           },
-          "term_start5": {
+          "term_start6": {
             "text": "26 November 2012"
           },
-          "predecessor5": {
+          "predecessor6": {
             "text": "Post Established",
             "formatting": {
               "italic": [
@@ -429,82 +505,6 @@
               {
                 "type": "internal",
                 "page": "Ramon Magsaysay Award"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of the Delhi Legislative Assembly",
-            "links": [
-              {
-                "text": "Member of the Delhi Legislative Assembly",
-                "type": "internal",
-                "page": "Delhi Legislative Assembly"
-              }
-            ]
-          },
-          "constituency3": {
-            "text": "New Delhi",
-            "links": [
-              {
-                "text": "New Delhi",
-                "type": "internal",
-                "page": "New Delhi (Delhi Assembly constituency)"
-              }
-            ]
-          },
-          "preceded4": {
-            "text": "Sheila Dikshit",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sheila Dikshit"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "14 February 2015"
-          },
-          "predecessor3": {
-            "text": "President's rule",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President's rule"
-              }
-            ],
-            "formatting": {
-              "italic": [
-                "President's rule"
-              ]
-            }
-          },
-          "term_start4": {
-            "text": "28 December 2013"
-          },
-          "term_end4": {
-            "text": "14 February 2014"
-          },
-          "successor4": {
-            "text": "President's rule",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President's rule"
-              }
-            ],
-            "formatting": {
-              "italic": [
-                "President's rule"
-              ]
-            }
-          },
-          "constituency4": {
-            "text": "New Delhi",
-            "links": [
-              {
-                "text": "New Delhi",
-                "type": "internal",
-                "page": "New Delhi (Delhi Assembly constituency)"
               }
             ]
           },
