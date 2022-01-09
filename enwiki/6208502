@@ -221,14 +221,6 @@
             "dh"
           ],
           "template": "respell"
-        },
-        {
-          "list": [
-            "CAGE",
-            "REE",
-            "WAHL"
-          ],
-          "template": "respell"
         }
       ],
       "infoboxes": [

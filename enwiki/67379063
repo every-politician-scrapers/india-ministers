@@ -165,11 +165,25 @@
           "successor2": {
             "text": "Pramod Chandra Mody"
           },
-          "birth_name": {
-            "text": "Sushil Chandra"
-          },
           "birth_date": {
             "text": "May 15, 1957"
+          },
+          "birth_place": {
+            "text": "Chandausi, Uttar Pradesh, India",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chandausi"
+              },
+              {
+                "type": "internal",
+                "page": "Uttar Pradesh"
+              },
+              {
+                "type": "internal",
+                "page": "India"
+              }
+            ]
           },
           "alma_mater": {
             "text": "IIT Roorkee (B-Tech),\nDAV College, Dehradun (LLB)",
