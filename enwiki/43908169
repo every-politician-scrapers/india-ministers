@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Ram Chandra Prasad Singh is an Indian politician and former national president of Janata Dal (United).",
+              "text": "=== Ram Chandra Prasad Singh is an Indian politician and former national president of Janata Dal (United).",
               "links": [
                 {
                   "type": "internal",
@@ -58,6 +58,27 @@
               ]
             },
             {
+              "text": "He took voluntary retirement and entered politics."
+            },
+            {
+              "text": "He joined Janta Dal United party."
+            },
+            {
+              "text": "He became a member of parliament representing the state of Bihar in Rajyasabha."
+            },
+            {
+              "text": "He also served as the National President Of Janta Dal United before joining the Modi Cabinet as a Cabinet Minister."
+            },
+            {
+              "text": "He entered politics by joining the Janta Dal United  after serving the public and nation as a Bureaucrat for a period of twenty eight years."
+            },
+            {
+              "text": "After taking voluntary retirement in 2010, he continued his journey in public service a.He represents the state of Bihar in the upper House of Parliament- Rajya Sabha since July 2010.He qualified for the Indian Revenue in 1982."
+            },
+            {
+              "text": "Joined the Indian Administrative service in 1984 and was allotted the Uttar Pradesh Cadre."
+            },
+            {
               "text": "He was also principal secretary of Nitish Kumar.",
               "links": [
                 {
@@ -79,6 +100,9 @@
                   "page": "Second Modi ministry"
                 }
               ]
+            },
+            {
+              "text": "==="
             }
           ]
         }
@@ -107,10 +131,6 @@
           "spouse": "Girija Singh",
           "from": "1982",
           "template": "marriage"
-        },
-        {
-          "date": "December 2021",
-          "template": "cn"
         }
       ],
       "infoboxes": [
