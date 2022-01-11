@@ -117,6 +117,10 @@
       ],
       "templates": [
         {
+          "date": "January 2022",
+          "template": "coi"
+        },
+        {
           "description": "15th and current Chief Minister Of Assam",
           "template": "short description"
         },
