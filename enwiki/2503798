@@ -235,6 +235,9 @@
             "formatting": {
               "bold": [
                 "Other departments not allocated to any Minister."
+              ],
+              "italic": [
+                "Other departments not allocated to any Minister."
               ]
             }
           },
