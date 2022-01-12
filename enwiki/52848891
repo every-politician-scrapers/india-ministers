@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "= Heading text ="
+              "text": "= Union Cabinet Minister ="
             }
           ]
         },
@@ -35,14 +35,6 @@
         }
       ],
       "templates": [
-        {
-          "description": "Indian Politician",
-          "template": "short description"
-        },
-        {
-          "date": "June 2021",
-          "template": "more citations needed"
-        },
         {
           "date": "May 2020",
           "template": "use dmy dates"
