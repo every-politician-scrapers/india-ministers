@@ -301,11 +301,19 @@
             ]
           },
           "residence": {
-            "text": "Civil Lines, Raipur, Chhattisgarh, India",
+            "text": "B-3, C.M. House, Civil Lines, Raipur, Chhattisgarh, India",
             "links": [
               {
                 "type": "internal",
                 "page": "Raipur"
+              },
+              {
+                "type": "internal",
+                "page": "Chhattisgarh"
+              },
+              {
+                "type": "internal",
+                "page": "India"
               }
             ]
           }
