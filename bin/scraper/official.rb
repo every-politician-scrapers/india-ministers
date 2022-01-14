@@ -6,6 +6,10 @@ require 'pry'
 
 class MemberList
   class Member
+    def empty?
+      name.to_s.empty?
+    end
+
     def name
       noko.css('.views-field-title').text.tidy
     end
@@ -23,7 +27,8 @@ class MemberList
 
   class Members
     def member_items
-      super.select { |mem| ['Prime Minister', 'Cabinet Ministers'].include? mem.level }
+      # TODO: include Ministers of State
+      super.select { |mem| ['Prime Minister', 'Cabinet Ministers'].include? mem.level }.reject(&:empty?)
     end
 
     def member_container
