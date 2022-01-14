@@ -311,7 +311,7 @@
             "text": "Wharton School of the University of Pennsylvania\n\nIIT Kanpur\n\nM.B.M. Engineering College, Jai Narain Vyas University"
           },
           "occupation": {
-            "text": "Former IAS officer, Entrepreneur\nFormer Managing Director, GE Transportation\nFormer Vice President, Seimens",
+            "text": "Former IAS officer, Entrepreneur\nFormer Managing Director, GE Transportation\nFormer Vice President, Siemens",
             "links": [
               {
                 "text": "IAS officer",
@@ -321,6 +321,10 @@
               {
                 "type": "internal",
                 "page": "Entrepreneur"
+              },
+              {
+                "type": "internal",
+                "page": "Siemens"
               }
             ]
           },
