@@ -439,11 +439,15 @@
             "text": "cm.jharkhand.gov.in"
           },
           "party": {
-            "text": "Jharkhand Mukti Morcha",
+            "text": "Jharkhand Mukti Morcha /INC",
             "links": [
               {
                 "type": "internal",
                 "page": "Jharkhand Mukti Morcha"
+              },
+              {
+                "type": "internal",
+                "page": "INC"
               }
             ]
           },

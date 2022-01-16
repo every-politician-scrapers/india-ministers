@@ -358,6 +358,19 @@
               }
             ]
           },
+          "relatives": {
+            "text": "Geeta Mehta (sister) Sonny Mehta (brother-in-law)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Geeta Mehta"
+              },
+              {
+                "type": "internal",
+                "page": "Sonny Mehta"
+              }
+            ]
+          },
           "residence": {
             "text": "Naveen Nivas, Aerodrome Road, Bhubaneswar, Odisha, India",
             "links": [
@@ -404,7 +417,7 @@
             ]
           },
           "website": {
-            "text": "Naveen Patnaik\nBJD Official\nChief Minister of Odisha"
+            "text": "naveenpatnaik.in"
           }
         }
       ]
