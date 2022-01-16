@@ -57,23 +57,14 @@
                   "Muthuvel Karunanidhi Stalin"
                 ]
               }
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
-              "text": "He is the son of the former Chief Minister M. Karunanidhi.",
+              "text": "The son of the former Chief Minister M. Karunanidhi, Stalin has been the president of the Dravida Munnetra Kazhagam (DMK) party since 28 August 2018.",
               "links": [
                 {
                   "type": "internal",
                   "page": "M. Karunanidhi"
-                }
-              ]
-            },
-            {
-              "text": "He has also served as president of the Dravida Munnetra Kazhagam (DMK) party since 28 August 2018.",
-              "links": [
+                },
                 {
                   "type": "internal",
                   "page": "Dravida Munnetra Kazhagam"
@@ -98,20 +89,21 @@
                   "page": "Deputy Chief Minister of Tamil Nadu"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
-              "text": "M.K. Stalin was placed 30th on the list of India's Most powerful Personalities in 2019 by the Indian Express.",
+              "text": "Stalin was placed 30th on the list of India's Most powerful Personalities in 2019 by The Indian Express.",
               "links": [
                 {
-                  "text": "Indian Express",
+                  "text": "''The Indian Express''",
                   "type": "internal",
                   "page": "The Indian Express"
                 }
-              ]
+              ],
+              "formatting": {
+                "italic": [
+                  "The Indian Express"
+                ]
+              }
             }
           ]
         }
