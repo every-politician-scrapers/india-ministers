@@ -326,6 +326,35 @@
           "template": "unbulleted list"
         },
         {
+          "list": [
+            "Additional ministries"
+          ],
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "list": [
+            "M. K. Narayanan",
+            "D. Y. Patil",
+            "Keshari Nath Tripathi",
+            "Jagdeep Dhankhar"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2011",
+            "month": "05",
+            "date": "20",
+            "df": "yes",
+            "template": "start date",
+            "text": "May 20, 2011"
+          }
+        },
+        {
+          "template": "collapsed infobox section end"
+        },
+        {
           "template": "date",
           "data": {
             "year": "2011",
@@ -516,7 +545,7 @@
           "embed": {
             "text": "yes"
           },
-          "office4": {
+          "office5": {
             "text": "Minister of Railways",
             "links": [
               {
@@ -526,7 +555,7 @@
               }
             ]
           },
-          "predecessor4": {
+          "predecessor5": {
             "text": "Lalu Prasad Yadav",
             "links": [
               {
@@ -535,7 +564,7 @@
               }
             ]
           },
-          "primeminister4": {
+          "primeminister5": {
             "text": "Manmohan Singh",
             "links": [
               {
@@ -544,13 +573,13 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start5": {
             "text": "May 22, 2009"
           },
-          "term_end4": {
+          "term_end5": {
             "text": "May 19, 2011"
           },
-          "successor4": {
+          "successor5": {
             "text": "Dinesh Trivedi",
             "links": [
               {
@@ -559,7 +588,7 @@
               }
             ]
           },
-          "primeminister5": {
+          "primeminister6": {
             "text": "Atal Bihari Vajpayee",
             "links": [
               {
@@ -568,7 +597,7 @@
               }
             ]
           },
-          "predecessor5": {
+          "predecessor6": {
             "text": "Ram Naik",
             "links": [
               {
@@ -577,7 +606,7 @@
               }
             ]
           },
-          "successor5": {
+          "successor6": {
             "text": "Nitish Kumar",
             "links": [
               {
@@ -586,13 +615,13 @@
               }
             ]
           },
-          "term_start5": {
+          "term_start6": {
             "text": "October 13, 1999"
           },
-          "term_end5": {
+          "term_end6": {
             "text": "March 15, 2001"
           },
-          "office8": {
+          "office7": {
             "text": "Minister of Coal",
             "links": [
               {
@@ -602,7 +631,7 @@
               }
             ]
           },
-          "primeminister8": {
+          "primeminister7": {
             "text": "Atal Bihari Vajpayee",
             "links": [
               {
@@ -611,13 +640,13 @@
               }
             ]
           },
-          "term_start8": {
+          "term_start7": {
             "text": "9 January 2004"
           },
-          "term_end8": {
+          "term_end7": {
             "text": "22 May 2004"
           },
-          "predecessor8": {
+          "predecessor7": {
             "text": "Karia Munda",
             "links": [
               {
@@ -626,7 +655,7 @@
               }
             ]
           },
-          "successor8": {
+          "successor7": {
             "text": "Shibu Soren",
             "links": [
               {
@@ -791,6 +820,9 @@
           "term_start": {
             "text": "May 20, 2011\nActing: 3 May 2021 – 5 May 2021"
           },
+          "governor": {
+            "text": "M. K. Narayanan\n\nD. Y. Patil\n\nKeshari Nath Tripathi\n\nJagdeep Dhankhar"
+          },
           "predecessor": {
             "text": "Buddhadeb Bhattacharya",
             "links": [
@@ -800,10 +832,67 @@
               }
             ]
           },
-          "governor": {
+          "governor1": {
             "text": "M. K. Narayanan\n\nD. Y. Patil\n\nKeshari Nath Tripathi\n\nJagdeep Dhankhar"
           },
-          "office1": {
+          "1blankname1": {
+            "text": "Ministry and Departments",
+            "links": [
+              {
+                "text": "Ministry and Departments",
+                "type": "internal",
+                "page": "Third Banerjee ministry"
+              }
+            ]
+          },
+          "1namedata1": {
+            "text": "*Home & Hill Affairs\n*Personnel & Administration\n*Finance & Excise\n*Planning \n*Statistics Program Implementation \n*Health and Family Welfare\n*Land and Land Reforms\n*Refugee and Rehabilitation\n*Information & Cultural Affairs\n*North Bengal Development",
+            "links": [
+              {
+                "text": "Home & Hill Affairs",
+                "type": "internal",
+                "page": "Department of Home and Hill Affairs"
+              },
+              {
+                "text": "Personnel & Administration",
+                "type": "internal",
+                "page": "Ministry of Personnel & Administrative Reforms (West Bengal)"
+              },
+              {
+                "text": "Health and Family Welfare",
+                "type": "internal",
+                "page": "Ministry of Health & Family Welfare (West Bengal)"
+              },
+              {
+                "text": "Land and Land Reforms",
+                "type": "internal",
+                "page": "Ministry of Land & Land Reforms (West Bengal)"
+              },
+              {
+                "text": "Information & Cultural Affairs",
+                "type": "internal",
+                "page": "Ministry of Information & Cultural Affairs (West Bengal)"
+              },
+              {
+                "text": "North Bengal Development",
+                "type": "internal",
+                "page": "Department of North Bengal Development"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "May 20, 2011\nActing: 3 May 2021 – 5 May 2021"
+          },
+          "predecessor1": {
+            "text": "Buddhadeb Bhattacharya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Buddhadeb Bhattacharya"
+              }
+            ]
+          },
+          "office2": {
             "text": "Member of the West Bengal Legislative Assembly",
             "links": [
               {
@@ -814,6 +903,43 @@
               {
                 "type": "internal",
                 "page": "West Bengal Legislative Assembly"
+              }
+            ]
+          },
+          "constituency3": {
+            "text": "Bhabanipur",
+            "links": [
+              {
+                "text": "Bhabanipur",
+                "type": "internal",
+                "page": "Bhabanipur (Vidhan Sabha constituency)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "November 16, 2011"
+          },
+          "term_end3": {
+            "text": "May 2, 2021"
+          },
+          "predecessor3": {
+            "text": "Subrata Bakshi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Subrata Bakshi"
+              }
+            ]
+          },
+          "majority3": {
+            "text": "54,213 (2011)"
+          },
+          "successor3": {
+            "text": "Sovandeb Chattopadhyay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sovandeb Chattopadhyay"
               }
             ]
           },
@@ -828,59 +954,22 @@
             ]
           },
           "term_start2": {
-            "text": "November 16, 2011"
-          },
-          "term_end2": {
-            "text": "May 2, 2021"
+            "text": "October 3, 2021"
           },
           "predecessor2": {
-            "text": "Subrata Bakshi",
+            "text": "Sovandeb Chattopadhyay",
             "links": [
               {
                 "type": "internal",
-                "page": "Subrata Bakshi"
+                "page": "Sovandeb Chattopadhyay"
               }
             ]
           },
           "majority2": {
-            "text": "54,213 (2011)"
-          },
-          "successor2": {
-            "text": "Sovandeb Chattopadhyay",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sovandeb Chattopadhyay"
-              }
-            ]
-          },
-          "constituency1": {
-            "text": "Bhabanipur",
-            "links": [
-              {
-                "text": "Bhabanipur",
-                "type": "internal",
-                "page": "Bhabanipur (Vidhan Sabha constituency)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "October 3, 2021"
-          },
-          "predecessor1": {
-            "text": "Sovandeb Chattopadhyay",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sovandeb Chattopadhyay"
-              }
-            ]
-          },
-          "majority1": {
             "text": "58,835",
             "number": 58835
           },
-          "office3": {
+          "office4": {
             "text": "Chairperson of the All India Trinamool Congress",
             "links": [
               {
@@ -889,10 +978,10 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "January 1, 1998"
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "Office established",
             "formatting": {
               "italic": [

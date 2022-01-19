@@ -203,6 +203,15 @@
           "template": "use dmy dates"
         },
         {
+          "list": [
+            "Additional Ministries"
+          ],
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
+        },
+        {
           "df": "yes",
           "year": "1968",
           "month": "8",
@@ -302,6 +311,54 @@
             ]
           },
           "successor1": {
+            "text": "President's rule",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President's rule"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "President's rule"
+              ]
+            }
+          },
+          "lieutenant_governor2": {
+            "text": "Najeeb Jung Anil Baijal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Najeeb Jung"
+              },
+              {
+                "type": "internal",
+                "page": "Anil Baijal"
+              }
+            ]
+          },
+          "1blankname2": {
+            "text": "Ministry and Departments",
+            "links": [
+              {
+                "text": "Ministry and Departments",
+                "type": "internal",
+                "page": "Third Kejriwal ministry"
+              }
+            ]
+          },
+          "1namedata2": {
+            "text": "* Water\n*Other departments not allocated to any Minister.",
+            "formatting": {
+              "bold": [
+                "Other departments not allocated to any Minister."
+              ]
+            }
+          },
+          "term_start2": {
+            "text": "14 February 2015"
+          },
+          "predecessor2": {
             "text": "President's rule",
             "links": [
               {

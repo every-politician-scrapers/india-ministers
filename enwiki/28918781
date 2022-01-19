@@ -382,6 +382,24 @@
               }
             ]
           },
+          "predecessor7": {
+            "text": "Stephen Marandi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stephen Marandi"
+              }
+            ]
+          },
+          "successor7": {
+            "text": "Louis Marandi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Louis Marandi"
+              }
+            ]
+          },
           "office8": {
             "text": "Member of Parliament, Rajya Sabha",
             "links": [

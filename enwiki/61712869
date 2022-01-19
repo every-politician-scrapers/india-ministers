@@ -18,11 +18,6 @@
               "text": "Ravindra Narayana Ravi (born 3 April 1951) is an Indian politician and former bureaucrat serving as the current and 15th Governor of Tamil Nadu.",
               "links": [
                 {
-                  "text": "Indian",
-                  "type": "internal",
-                  "page": "India"
-                },
-                {
                   "type": "internal",
                   "page": "Governor of Tamil Nadu"
                 }
@@ -64,10 +59,6 @@
           "day": "3",
           "df": "y",
           "template": "birth date and age"
-        },
-        {
-          "date": "January 2022",
-          "template": "fact"
         }
       ],
       "infoboxes": [

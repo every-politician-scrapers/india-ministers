@@ -191,15 +191,6 @@
               }
             ]
           },
-          "president": {
-            "text": "Ram Nath Kovind",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ram Nath Kovind"
-              }
-            ]
-          },
           "primeminister": {
             "text": "Narendra Modi",
             "links": [
@@ -228,15 +219,6 @@
                 "text": "Minister of AYUSH",
                 "type": "internal",
                 "page": "Ministry of AYUSH"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Ram Nath Kovind",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ram Nath Kovind"
               }
             ]
           },
