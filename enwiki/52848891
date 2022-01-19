@@ -107,6 +107,10 @@
       ],
       "templates": [
         {
+          "description": "Indian politician",
+          "template": "short description"
+        },
+        {
           "date": "May 2020",
           "template": "use dmy dates"
         },

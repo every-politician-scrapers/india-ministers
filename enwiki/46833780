@@ -151,11 +151,7 @@
             "text": "Principal Advisor to the Prime Minister",
             "links": [
               {
-                "type": "internal",
-                "page": "Principal Advisor"
-              },
-              {
-                "text": "Prime Minister",
+                "text": "Principal Advisor to the Prime Minister",
                 "type": "internal",
                 "page": "Prime Minister of India"
               }
@@ -180,11 +176,17 @@
             "text": "Pradeep Kumar Sinha"
           },
           "nationality": {
-            "text": "India",
+            "text": "🇮🇳 India Indian",
             "links": [
               {
+                "text": "India",
                 "type": "internal",
-                "page": "India"
+                "page": "india"
+              },
+              {
+                "text": "Indian",
+                "type": "internal",
+                "page": "Indian people"
               }
             ]
           },
