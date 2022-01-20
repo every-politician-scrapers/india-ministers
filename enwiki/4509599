@@ -142,6 +142,15 @@
             "template": "end date",
             "text": "December 8, 2003"
           }
+        },
+        {
+          "list": [
+            "Additional ministries"
+          ],
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
         }
       ],
       "infoboxes": [
@@ -172,7 +181,7 @@
               }
             ]
           },
-          "office1": {
+          "office": {
             "text": "14th Chief Minister of Rajasthan",
             "links": [
               {
@@ -181,13 +190,10 @@
               }
             ]
           },
-          "termstart1": {
+          "termstart": {
             "text": "17 December 2018"
           },
-          "termend": {
-            "text": "13 July 2020"
-          },
-          "governor1": {
+          "governor": {
             "text": "Kalyan Singh\nKalraj Mishra",
             "links": [
               {
@@ -200,6 +206,38 @@
               }
             ]
           },
+          "predecessor": {
+            "text": "Vasundhara Raje",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vasundhara Raje"
+              }
+            ]
+          },
+          "governor1": {
+            "text": "Margaret Alva\nShivraj Patil\nShilendra Kumar Singh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Margaret Alva"
+              },
+              {
+                "type": "internal",
+                "page": "Shivraj Patil"
+              },
+              {
+                "type": "internal",
+                "page": "Shilendra Kumar Singh"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "December 13, 2008"
+          },
+          "term_end1": {
+            "text": "December 12, 2013"
+          },
           "predecessor1": {
             "text": "Vasundhara Raje",
             "links": [
@@ -209,18 +247,44 @@
               }
             ]
           },
-          "term_start2": {
-            "text": "December 13, 2008"
-          },
-          "term_end2": {
-            "text": "December 12, 2013"
-          },
-          "predecessor2": {
+          "successor1": {
             "text": "Vasundhara Raje",
             "links": [
               {
                 "type": "internal",
                 "page": "Vasundhara Raje"
+              }
+            ]
+          },
+          "governor2": {
+            "text": "Navrang Lal Tibrewal\nNirmal Chandra Jain\nKailashpati Mishra",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Navrang Lal Tibrewal"
+              },
+              {
+                "type": "internal",
+                "page": "Nirmal Chandra Jain"
+              },
+              {
+                "type": "internal",
+                "page": "Kailashpati Mishra"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "December 1, 1998"
+          },
+          "term_end2": {
+            "text": "December 8, 2003"
+          },
+          "predecessor2": {
+            "text": "Bhairon Singh Shekhawat",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bhairon Singh Shekhawat"
               }
             ]
           },
@@ -233,27 +297,68 @@
               }
             ]
           },
-          "term_start3": {
-            "text": "December 1, 1998"
-          },
-          "term_end3": {
-            "text": "December 8, 2003"
-          },
-          "predecessor3": {
-            "text": "Bhairon Singh Shekhawat",
+          "governor3": {
+            "text": "Kalyan Singh\nKalraj Mishra",
             "links": [
               {
                 "type": "internal",
-                "page": "Bhairon Singh Shekhawat"
+                "page": "Kalyan Singh"
+              },
+              {
+                "type": "internal",
+                "page": "Kalraj Mishra"
               }
             ]
           },
-          "successor3": {
+          "1blankname3": {
+            "text": "Ministry and Departments",
+            "links": [
+              {
+                "text": "Ministry and Departments",
+                "type": "internal",
+                "page": "Third Gehlot ministry"
+              }
+            ]
+          },
+          "1namedata3": {
+            "text": "*Finance \n*Taxation \n*Home & Justice\n*DOP \n*GAD\n*Cabinet Secretariat\n*NRI\n*IT & Communication\n*Rajasthan State Investigation Bureau \n*DIPR"
+          },
+          "term_start3": {
+            "text": "17 December 2018"
+          },
+          "predecessor3": {
             "text": "Vasundhara Raje",
             "links": [
               {
                 "type": "internal",
                 "page": "Vasundhara Raje"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Member of Rajasthan Legislative Assembly",
+            "links": [
+              {
+                "text": "Member of Rajasthan Legislative Assembly",
+                "type": "internal",
+                "page": "Rajasthan Legislative Assembly"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "1999",
+            "number": 1999
+          },
+          "predecessor4": {
+            "text": "Man Singh Deora"
+          },
+          "constituency4": {
+            "text": "Sardarpura",
+            "links": [
+              {
+                "text": "Sardarpura",
+                "type": "internal",
+                "page": "Sardarpura (Rajasthan Assembly constituency)"
               }
             ]
           },
@@ -375,7 +480,17 @@
             "text": "18 January 1993"
           },
           "office9": {
-            "text": "Member of Parliament,Lok Sabha"
+            "text": "Member of Parliament,Lok Sabha",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of Parliament"
+              },
+              {
+                "type": "internal",
+                "page": "Lok Sabha"
+              }
+            ]
           },
           "term_start9": {
             "text": "1991",
@@ -411,36 +526,6 @@
               }
             ]
           },
-          "office11": {
-            "text": "Member of Legislative Assembly, Rajasthan",
-            "links": [
-              {
-                "text": "Member of Legislative Assembly",
-                "type": "internal",
-                "page": "Member of Legislative Assembly (India)"
-              },
-              {
-                "type": "internal",
-                "page": "Rajasthan"
-              }
-            ]
-          },
-          "term_start11": {
-            "text": "1999",
-            "number": 1999
-          },
-          "predecessor11": {
-            "text": "Man Singh Deora"
-          },
-          "constituency11": {
-            "text": "Sardarpura",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sardarpura"
-              }
-            ]
-          },
           "party": {
             "text": "Indian National Congress",
             "links": [
@@ -456,6 +541,9 @@
           "children": {
             "text": "2",
             "number": 2
+          },
+          "nationality": {
+            "text": "Indian"
           }
         }
       ]
