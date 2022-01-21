@@ -356,10 +356,24 @@
             ]
           },
           "office2": {
-            "text": "[[Uttar Pradesh Legislative Council|Member of Legislative Council,\nUttar Pradesh]]"
+            "text": "Member of Uttar Pradesh Legislative Council",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Uttar Pradesh Legislative Council"
+              }
+            ]
           },
           "term_start2": {
             "text": "18 September 2017"
+          },
+          "constituency2": {
+            "text": "elected by Legislative Assembly members",
+            "formatting": {
+              "italic": [
+                "elected by Legislative Assembly members"
+              ]
+            }
           },
           "party": {
             "text": "Bharatiya Janata Party",
