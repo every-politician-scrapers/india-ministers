@@ -83,18 +83,6 @@
           "template": "use dmy dates"
         },
         {
-          "list": [
-            "Ministry"
-          ],
-          "template": "centre"
-        },
-        {
-          "list": [
-            "Term"
-          ],
-          "template": "centre"
-        },
-        {
           "year": "1952",
           "month": "09",
           "day": "08",
@@ -339,12 +327,8 @@
             ]
           },
           "office6": {
-            "text": "Cabinet Minister Government of Bihar",
+            "text": "Minister of Animal Husbandry & Fisheries Government of Bihar",
             "links": [
-              {
-                "type": "internal",
-                "page": "Cabinet Minister"
-              },
               {
                 "type": "internal",
                 "page": "Government of Bihar"
@@ -352,24 +336,86 @@
             ]
           },
           "term_start6": {
-            "text": "13 April 2008"
+            "text": "26 November 2010"
           },
           "term_end6": {
             "text": "16 June 2013"
           },
-          "2blankname6": {
-            "text": "Minister of Animal Husbandry & Fisheries"
+          "1blankname6": {
+            "text": "Chief Minister",
+            "links": [
+              {
+                "text": "Chief Minister",
+                "type": "internal",
+                "page": "Chief Minister of Bihar"
+              }
+            ]
           },
-          "2namedata6": {
-            "text": "26 November 2010 - 16 June 2013"
+          "1namedata6": {
+            "text": "Nitish Kumar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nitish Kumar"
+              }
+            ]
           },
-          "3blankname6": {
-            "text": "Minister of Cooperatives"
-          },
-          "3namedata6": {
-            "text": "13 April 2008 - 26 November 2010"
+          "predecessor6": {
+            "text": "Ramnarayan Mandal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ramnarayan Mandal"
+              }
+            ]
           },
           "office7": {
+            "text": "Minister of Cooperatives Government of Bihar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Government of Bihar"
+              }
+            ]
+          },
+          "term_start7": {
+            "text": "13 April 2008"
+          },
+          "term_end7": {
+            "text": "26 November 2010"
+          },
+          "1blankname7": {
+            "text": "Chief Minister",
+            "links": [
+              {
+                "text": "Chief Minister",
+                "type": "internal",
+                "page": "Chief Minister of Bihar"
+              }
+            ]
+          },
+          "1namedata7": {
+            "text": "Nitish Kumar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nitish Kumar"
+              }
+            ]
+          },
+          "predecessor7": {
+            "text": "Ramji Das Rishidev"
+          },
+          "successor7": {
+            "text": "Ramadhar Singh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ramadhar Singh"
+              }
+            ]
+          },
+          "office8": {
             "text": "Member of Bihar Legislative Council",
             "links": [
               {
@@ -378,13 +424,19 @@
               }
             ]
           },
-          "term_start7": {
-            "text": "2002",
-            "number": 2002
+          "term_start8": {
+            "text": "7 May 2002"
           },
-          "term_end7": {
-            "text": "2014",
-            "number": 2014
+          "term_end8": {
+            "text": "16 May 2014"
+          },
+          "constituency8": {
+            "text": "elected by Legislative Assembly members",
+            "formatting": {
+              "italic": [
+                "elected by Legislative Assembly members"
+              ]
+            }
           },
           "party": {
             "text": "Bharatiya Janata Party",
