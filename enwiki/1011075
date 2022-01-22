@@ -18,13 +18,13 @@
     "Leaders of the Opposition in Tamil Nadu",
     "Living people",
     "Mayors of Chennai",
-    "Members of the 9th Tamil Nadu Legislative Assembly",
-    "Members of the 11th Tamil Nadu Legislative Assembly",
-    "Members of the 12th Tamil Nadu Legislative Assembly",
-    "Members of the 13th Tamil Nadu Legislative Assembly",
-    "Members of the 14th Tamil Nadu Legislative Assembly",
-    "Members of the 15th Tamil Nadu Legislative Assembly",
-    "Members of the 16th Tamil Nadu Legislative Assembly",
+    "Tamil Nadu MLAs 1989–1991",
+    "Tamil Nadu MLAs 1996–2001",
+    "Tamil Nadu MLAs 2001–2006",
+    "Tamil Nadu MLAs 2006–2011",
+    "Tamil Nadu MLAs 2011–2016",
+    "Tamil Nadu MLAs 2016–2021",
+    "Tamil Nadu MLAs 2021–2026",
     "Politicians from Chennai",
     "Presidency College, Chennai alumni",
     "Tamil Nadu politicians",
@@ -112,6 +112,11 @@
         {
           "description": "8th and current Chief Minister of Tamil Nadu",
           "template": "short description"
+        },
+        {
+          "reason": "to remove promotional material",
+          "date": "January 2022",
+          "template": "cleanup"
         },
         {
           "date": "April 2014",

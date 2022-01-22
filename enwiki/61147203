@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Arvind Kumar, a 1984 batch IPS officer, is the Director of the Intelligence Bureau.",
+              "text": "Arvind Kumar, a 1984 batch Assam-Meghalaya cadre IPS officer, is the Director of the Intelligence Bureau.",
               "links": [
                 {
                   "text": "IPS",
@@ -35,8 +35,12 @@
               }
             },
             {
-              "text": "The Director of the Intelligence Bureau is the senior most ranked IPS officer in the IB and the senior-most IPS officer of India."
-            },
+              "text": "The Director of the Intelligence Bureau is the senior-most ranked IPS officer in the IB and the senior-most IPS officer of India."
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "He was appointed on June 26, 2019 as the 27th Director of Intelligence Bureau succeeding Rajiv Jain.",
               "links": [
@@ -61,8 +65,15 @@
       ],
       "templates": [
         {
-          "description": "Indian IPS officer and from 2019 the Director of the Intelligence Bureau",
+          "description": "IPS officer and from 2019 the Director of the Intelligence Bureau",
           "template": "short description"
+        },
+        {
+          "year": "1959",
+          "month": "09",
+          "day": "30",
+          "df": "y",
+          "template": "birth date and age"
         }
       ],
       "infoboxes": [
@@ -71,12 +82,12 @@
             "text": "Arvinda Kumar"
           },
           "office": {
-            "text": "Director of Intelligence Bureau",
+            "text": "Intelligence Bureau",
             "links": [
               {
-                "text": "Director of Intelligence Bureau",
+                "text": "Intelligence Bureau",
                 "type": "internal",
-                "page": "Director of Intelligence Bureau (India)"
+                "page": "Intelligence Bureau (India)"
               }
             ]
           },
@@ -97,6 +108,12 @@
                 "page": "Narendra Modi"
               }
             ]
+          },
+          "birth_date": {
+            "text": "September 30, 1959"
+          },
+          "birth_place": {
+            "text": "Bihar"
           },
           "nationality": {
             "text": "Indian"
@@ -121,6 +138,20 @@
                 "text": " IPS",
                 "type": "internal",
                 "page": "Indian Police Service"
+              }
+            ]
+          },
+          "honorific_prefix": {
+            "text": "Director General of Intelligence Bureau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Director General"
+              },
+              {
+                "text": "Intelligence Bureau",
+                "type": "internal",
+                "page": "Intelligence Bureau (India)"
               }
             ]
           }

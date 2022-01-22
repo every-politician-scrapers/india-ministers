@@ -106,7 +106,13 @@
             "text": "220px"
           },
           "caption": {
-            "text": "Shri. Om Birla in 2021"
+            "text": "Birla in Vienna, September 2021",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vienna"
+              }
+            ]
           },
           "office1": {
             "text": "Speaker of the Lok Sabha"
