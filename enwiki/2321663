@@ -332,15 +332,6 @@
           "template": "collapsed infobox section begin"
         },
         {
-          "list": [
-            "M. K. Narayanan",
-            "D. Y. Patil",
-            "Keshari Nath Tripathi",
-            "Jagdeep Dhankhar"
-          ],
-          "template": "unbulleted list"
-        },
-        {
           "template": "date",
           "data": {
             "year": "2011",
@@ -832,9 +823,6 @@
               }
             ]
           },
-          "governor1": {
-            "text": "M. K. Narayanan\n\nD. Y. Patil\n\nKeshari Nath Tripathi\n\nJagdeep Dhankhar"
-          },
           "1blankname1": {
             "text": "Ministry and Departments",
             "links": [
@@ -846,7 +834,7 @@
             ]
           },
           "1namedata1": {
-            "text": "*Home & Hill Affairs\n*Personnel & Administration\n*Finance & Excise\n*Planning \n*Statistics Program Implementation \n*Health and Family Welfare\n*Land and Land Reforms\n*Refugee and Rehabilitation\n*Information & Cultural Affairs\n*North Bengal Development",
+            "text": "*Home & Hill Affairs\n*Personnel & Administrative Reforms\n*Finance & Excise\n*Planning \n*Statistics Program Implementation \n*Health and Family Welfare\n*Land and Land Reforms\n*Refugee and Rehabilitation\n*Information & Cultural Affairs\n*North Bengal Development",
             "links": [
               {
                 "text": "Home & Hill Affairs",
@@ -854,9 +842,9 @@
                 "page": "Department of Home and Hill Affairs"
               },
               {
-                "text": "Personnel & Administration",
+                "text": "Personnel & Administrative Reforms",
                 "type": "internal",
-                "page": "Ministry of Personnel & Administrative Reforms (West Bengal)"
+                "page": "Department of Personnel & Administrative Reforms (West Bengal)"
               },
               {
                 "text": "Health and Family Welfare",
@@ -973,6 +961,7 @@
             "text": "Chairperson of the All India Trinamool Congress",
             "links": [
               {
+                "text": "Chairperson of the All India Trinamool Congress",
                 "type": "internal",
                 "page": "All India Trinamool Congress"
               }
