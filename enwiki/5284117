@@ -102,6 +102,15 @@
           "template": "use dmy dates"
         },
         {
+          "list": [
+            "Additional ministries"
+          ],
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
+        },
+        {
           "df": "yes",
           "year": "1945",
           "month": "05",
@@ -135,7 +144,7 @@
           "office": {
             "text": "Chief Minister of Kerala"
           },
-          "governor1": {
+          "governor": {
             "text": "P. Sathasivam Arif Mohammad Khan",
             "links": [
               {
@@ -151,6 +160,31 @@
           "term_start": {
             "text": "25 May 2016"
           },
+          "predecessor": {
+            "text": "Oommen Chandy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Oommen Chandy"
+              }
+            ]
+          },
+          "1blankname1": {
+            "text": "Ministry and Departments",
+            "links": [
+              {
+                "text": "Ministry and Departments",
+                "type": "internal",
+                "page": "Second Vijayan ministry"
+              }
+            ]
+          },
+          "1namedata1": {
+            "text": "* General Administration\n* All India Services \n* Planning and Economic Affairs\n* Science, Technology and Environment\n* Pollution Control \n* Scientific Institutes\n* Personnel and Administrative Reforms \n* Election \n* Integration \n* Information Technology\n* Sainik Welfare\n* Distress Relief \n* State Hospitality \n* Airports\n* Metro Rail\n* Inter - State River Waters - Kaveri, Nila and Periyar Tribunals\n* Coastal Shipping and Inland Navigation \n* Kerala State Inland Navigation Corporation \n* Information and Public Relations\n* Non- Resident Keralites’ Affairs\n* Home\n* Vigilance \n* Administration of Civil and Criminal Justice\n* Fire and Rescue Services Prisons \n* Printing and Stationery\n* Welfare of Minorities\n* All important policy matters\n* Subjects not mentioned elsewhere"
+          },
+          "term_start1": {
+            "text": "25 May 2016"
+          },
           "predecessor1": {
             "text": "Oommen Chandy",
             "links": [
@@ -161,45 +195,19 @@
             ]
           },
           "office2": {
-            "text": "Minister of Home Affairs, Kerala",
+            "text": "Member of the Kerala Legislative Assembly",
             "links": [
               {
-                "text": "Minister of Home Affairs",
-                "type": "internal",
-                "page": "First Vijayan ministry"
-              },
-              {
-                "type": "internal",
-                "page": "Kerala"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "25 May 2016"
-          },
-          "predecessor2": {
-            "text": "Ramesh Chennithala",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ramesh Chennithala"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Member of Kerala Legislative Assembly",
-            "links": [
-              {
-                "text": "Member of Kerala Legislative Assembly",
+                "text": "Member of the Kerala Legislative Assembly",
                 "type": "internal",
                 "page": "Kerala Legislative Assembly"
               }
             ]
           },
-          "term_start5": {
+          "term_start2": {
             "text": "2 June 2016"
           },
-          "predecessor5": {
+          "predecessor2": {
             "text": "K. K. Narayanan",
             "links": [
               {
@@ -208,7 +216,7 @@
               }
             ]
           },
-          "constituency5": {
+          "constituency2": {
             "text": "Dharmadom",
             "links": [
               {
@@ -218,15 +226,15 @@
               }
             ]
           },
-          "term_start6": {
+          "term_start3": {
             "text": "1996",
             "number": 1996
           },
-          "term_end6": {
+          "term_end3": {
             "text": "2001",
             "number": 2001
           },
-          "constituency6": {
+          "constituency3": {
             "text": "Payyanur",
             "links": [
               {
@@ -236,7 +244,7 @@
               }
             ]
           },
-          "predecessor6": {
+          "predecessor3": {
             "text": "C. P. Narayanan",
             "links": [
               {
@@ -245,7 +253,7 @@
               }
             ]
           },
-          "successor6": {
+          "successor3": {
             "text": "P. K. Sreemathi",
             "links": [
               {
@@ -254,15 +262,15 @@
               }
             ]
           },
-          "term_start7": {
+          "term_start4": {
             "text": "1991",
             "number": 1991
           },
-          "term_end7": {
+          "term_end4": {
             "text": "1996",
             "number": 1996
           },
-          "constituency7": {
+          "constituency4": {
             "text": "Kuthuparamba",
             "links": [
               {
@@ -272,10 +280,10 @@
               }
             ]
           },
-          "predecessor7": {
+          "predecessor4": {
             "text": "K. P. Mammoo Master"
           },
-          "successor7": {
+          "successor4": {
             "text": "K. K. Shailaja",
             "links": [
               {
@@ -284,15 +292,15 @@
               }
             ]
           },
-          "term_start8": {
+          "term_start5": {
             "text": "1970",
             "number": 1970
           },
-          "term_end8": {
+          "term_end5": {
             "text": "1979",
             "number": 1979
           },
-          "constituency8": {
+          "constituency5": {
             "text": "Kuthuparamba",
             "links": [
               {
@@ -302,10 +310,10 @@
               }
             ]
           },
-          "predecessor8": {
+          "predecessor5": {
             "text": "K. K. Abee"
           },
-          "successor8": {
+          "successor5": {
             "text": "N. V. Raghavan"
           },
           "office9": {
@@ -353,7 +361,7 @@
               }
             ]
           },
-          "office3": {
+          "office7": {
             "text": "Minister for Electricity, Kerala",
             "links": [
               {
@@ -367,10 +375,10 @@
               }
             ]
           },
-          "1blankname3": {
+          "1blankname7": {
             "text": "Chief Minister"
           },
-          "1namedata3": {
+          "1namedata7": {
             "text": "E. K. Nayanar",
             "links": [
               {
@@ -379,13 +387,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start7": {
             "text": "20 May 1996"
           },
-          "term_end3": {
+          "term_end7": {
             "text": "19 October 1998"
           },
-          "predecessor3": {
+          "predecessor7": {
             "text": "G. Karthikeyan",
             "links": [
               {
@@ -394,7 +402,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor7": {
             "text": "S. Sharma",
             "links": [
               {
@@ -403,7 +411,7 @@
               }
             ]
           },
-          "office4": {
+          "office8": {
             "text": "Minister of Co-operatives, Kerala",
             "links": [
               {
@@ -417,10 +425,10 @@
               }
             ]
           },
-          "1blankname4": {
+          "1blankname8": {
             "text": "Chief Minister"
           },
-          "1namedata4": {
+          "1namedata8": {
             "text": "E. K. Nayanar",
             "links": [
               {
@@ -429,13 +437,13 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start8": {
             "text": "20 May 1996"
           },
-          "term_end4": {
+          "term_end8": {
             "text": "19 October 1998"
           },
-          "predecessor4": {
+          "predecessor8": {
             "text": "M. V. Raghavan",
             "links": [
               {
@@ -444,7 +452,7 @@
               }
             ]
           },
-          "successor4": {
+          "successor8": {
             "text": "S. Sharma",
             "links": [
               {

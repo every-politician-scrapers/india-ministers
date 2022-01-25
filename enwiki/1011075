@@ -131,33 +131,25 @@
         },
         {
           "list": [
-            "J. Jayalalithaa",
-            "O. Panneerselvam",
-            "Edappadi K. Palaniswami"
+            "Additional ministries"
           ],
-          "template": "ubl"
+          "template": "collapsed infobox section begin"
         },
         {
-          "list": [
-            "J. Jayalalithaa",
-            "O. Panneerselvam",
-            "Edappadi K. Palaniswami",
-            "Himself"
-          ],
-          "template": "ubl"
-        },
-        {
-          "list": [
-            "M. Karunanidhi",
-            "J. Jayalalithaa",
-            "O. Paneerselvam"
-          ],
-          "template": "ubl"
+          "template": "collapsed infobox section end"
         },
         {
           "list": [
             "K. Anbazhagan",
             "Durai Murugan"
+          ],
+          "template": "ubl"
+        },
+        {
+          "list": [
+            "J. Jayalalithaa",
+            "O. Panneerselvam",
+            "Edappadi K. Palaniswami"
           ],
           "template": "ubl"
         },
@@ -248,34 +240,141 @@
               }
             ]
           },
-          "office1": {
-            "text": "1st Deputy Chief Minister of Tamil Nadu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Chief Minister of Tamil Nadu"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "29 May 2009"
-          },
-          "term_end1": {
-            "text": "15 May 2011"
-          },
-          "governor1": {
-            "text": "Surjit Singh Barnala",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Surjit Singh Barnala"
-              }
-            ]
-          },
           "1blankname1": {
-            "text": "Chief Minister"
+            "text": "Ministry and Departments",
+            "links": [
+              {
+                "text": "Ministry and Departments",
+                "type": "internal",
+                "page": "M. K. Stalin ministry"
+              }
+            ]
           },
           "1namedata1": {
+            "text": "*Public\n*Home\n*Police\n*Indian Administrative Service\n*Indian Police Service\n*Indian Forest Service\n*District Revenue Officers\n*General Administration\n*Special Initiatives\n*Special Programme Implementation\n*Welfare Of Differently-abled Persons\nOther departments not allocated to any Minister shall vest with the Chief Minister..",
+            "links": [
+              {
+                "text": "Police",
+                "type": "internal",
+                "page": "Tamil Nadu Police"
+              },
+              {
+                "type": "internal",
+                "page": "Indian Administrative Service"
+              },
+              {
+                "type": "internal",
+                "page": "Indian Police Service"
+              },
+              {
+                "type": "internal",
+                "page": "Indian Forest Service"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "Other departments not allocated to any Minister shall vest with the Chief Minister.."
+              ],
+              "italic": [
+                "Other departments not allocated to any Minister shall vest with the Chief Minister.."
+              ]
+            }
+          },
+          "term_start1": {
+            "text": "7 May 2021"
+          },
+          "predecessor1": {
+            "text": "Edappadi K. Palaniswami",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edappadi K. Palaniswami"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Tamil Nadu Legislative Assembly",
+            "links": [
+              {
+                "text": "Member of the Tamil Nadu Legislative Assembly",
+                "type": "internal",
+                "page": "Tamil Nadu Legislative Assembly"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "23 May 2011"
+          },
+          "1blankname2": {
+            "text": "Chief Minister"
+          },
+          "predecessor2": {
+            "text": "constituency established",
+            "formatting": {
+              "italic": [
+                "constituency established"
+              ]
+            }
+          },
+          "constituency2": {
+            "text": "Kolathur",
+            "links": [
+              {
+                "text": "Kolathur",
+                "type": "internal",
+                "page": "Kolathur (state assembly constituency)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "13 May 1996"
+          },
+          "1blankname3": {
+            "text": "Chief Minister"
+          },
+          "predecessor3": {
+            "text": "K. A. Krishnaswamy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "K. A. Krishnaswamy"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "B. Valarmathi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "B. Valarmathi"
+              }
+            ]
+          },
+          "term_end3": {
+            "text": "15 May 2011"
+          },
+          "constituency3": {
+            "text": "Thousand Lights",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Thousand Lights"
+              }
+            ]
+          },
+          "office4": {
+            "text": "President of Dravida Munnetra Kazhagam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dravida Munnetra Kazhagam"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "28 August 2018"
+          },
+          "predecessor4": {
             "text": "M. Karunanidhi",
             "links": [
               {
@@ -284,7 +383,49 @@
               }
             ]
           },
-          "predecessor1": {
+          "1blankname4": {
+            "text": "General Secretary"
+          },
+          "1namedata4": {
+            "text": "K. Anbazhagan\n\nDurai Murugan"
+          },
+          "office5": {
+            "text": "1st Deputy Chief Minister of Tamil Nadu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Chief Minister of Tamil Nadu"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "29 May 2009"
+          },
+          "term_end5": {
+            "text": "15 May 2011"
+          },
+          "governor5": {
+            "text": "Surjit Singh Barnala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Surjit Singh Barnala"
+              }
+            ]
+          },
+          "1blankname5": {
+            "text": "Chief Minister"
+          },
+          "1namedata5": {
+            "text": "M. Karunanidhi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "M. Karunanidhi"
+              }
+            ]
+          },
+          "predecessor5": {
             "text": "position established",
             "formatting": {
               "italic": [
@@ -292,7 +433,7 @@
               ]
             }
           },
-          "successor1": {
+          "successor5": {
             "text": "O. Panneerselvam",
             "links": [
               {
@@ -301,7 +442,7 @@
               }
             ]
           },
-          "office2": {
+          "office6": {
             "text": "Leader of the Opposition in Tamil Nadu Legislative Assembly",
             "links": [
               {
@@ -315,19 +456,19 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start6": {
             "text": "25 May 2016"
           },
-          "term_end2": {
+          "term_end6": {
             "text": "5 May 2021"
           },
-          "1blankname2": {
+          "1blankname6": {
             "text": "Chief Minister"
           },
-          "1namedata2": {
+          "1namedata6": {
             "text": "J. Jayalalithaa\n\nO. Panneerselvam\n\nEdappadi K. Palaniswami"
           },
-          "deputy2": {
+          "deputy6": {
             "text": "Durai Murugan",
             "links": [
               {
@@ -336,7 +477,7 @@
               }
             ]
           },
-          "predecessor2": {
+          "predecessor6": {
             "text": "Vijayakanth",
             "links": [
               {
@@ -345,7 +486,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor6": {
             "text": "Edappadi K. Palaniswami",
             "links": [
               {
@@ -354,7 +495,7 @@
               }
             ]
           },
-          "office3": {
+          "office7": {
             "text": "Minister of Rural Development and Panchayat Raj of Tamil Nadu",
             "links": [
               {
@@ -364,16 +505,16 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start7": {
             "text": "13 May 2006"
           },
-          "term_end3": {
+          "term_end7": {
             "text": "15 May 2011"
           },
-          "1blankname3": {
+          "1blankname7": {
             "text": "Chief Minister"
           },
-          "1namedata3": {
+          "1namedata7": {
             "text": "M. Karunanidhi",
             "links": [
               {
@@ -382,7 +523,7 @@
               }
             ]
           },
-          "predecessor3": {
+          "predecessor7": {
             "text": "Veerapandy S. Arumugam",
             "links": [
               {
@@ -391,7 +532,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor7": {
             "text": "P. Mohan",
             "links": [
               {
@@ -401,7 +542,7 @@
               }
             ]
           },
-          "office4": {
+          "office8": {
             "text": "37th Mayor of Chennai",
             "links": [
               {
@@ -411,13 +552,13 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start8": {
             "text": "25 October 1996"
           },
-          "term_end4": {
+          "term_end8": {
             "text": "6 September 2002"
           },
-          "predecessor4": {
+          "predecessor8": {
             "text": "R. Arumugam",
             "links": [
               {
@@ -426,7 +567,7 @@
               }
             ]
           },
-          "successor4": {
+          "successor8": {
             "text": "M. Subramaniam",
             "links": [
               {
@@ -435,109 +576,7 @@
               }
             ]
           },
-          "office5": {
-            "text": "Member of Tamil Nadu Legislative Assembly",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tamil Nadu Legislative Assembly"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "23 May 2011"
-          },
-          "1blankname5": {
-            "text": "Chief Minister"
-          },
-          "1namedata5": {
-            "text": "J. Jayalalithaa\n\nO. Panneerselvam\n\nEdappadi K. Palaniswami\n\nHimself"
-          },
-          "predecessor5": {
-            "text": "constituency established",
-            "formatting": {
-              "italic": [
-                "constituency established"
-              ]
-            }
-          },
-          "constituency5": {
-            "text": "Kolathur",
-            "links": [
-              {
-                "text": "Kolathur",
-                "type": "internal",
-                "page": "Kolathur (state assembly constituency)"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "13 May 1996"
-          },
-          "1blankname6": {
-            "text": "Chief Minister"
-          },
-          "1namedata6": {
-            "text": "M. Karunanidhi\n\nJ. Jayalalithaa\n\nO. Paneerselvam"
-          },
-          "predecessor6": {
-            "text": "K. A. Krishnaswamy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "K. A. Krishnaswamy"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "B. Valarmathi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "B. Valarmathi"
-              }
-            ]
-          },
-          "term_end6": {
-            "text": "15 May 2011"
-          },
-          "constituency6": {
-            "text": "Thousand Lights",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Thousand Lights"
-              }
-            ]
-          },
-          "office7": {
-            "text": "President of Dravida Munnetra Kazhagam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dravida Munnetra Kazhagam"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "28 August 2018"
-          },
-          "predecessor7": {
-            "text": "M. Karunanidhi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "M. Karunanidhi"
-              }
-            ]
-          },
-          "1blankname7": {
-            "text": "General Secretary"
-          },
-          "1namedata7": {
-            "text": "K. Anbazhagan\n\nDurai Murugan"
-          },
-          "office8": {
+          "office9": {
             "text": "Acting President of Dravida Munnetra Kazhagam",
             "links": [
               {
@@ -546,38 +585,14 @@
               }
             ]
           },
-          "term_start8": {
+          "term_start9": {
             "text": "4 January 2017"
           },
-          "term_end8": {
+          "term_end9": {
             "text": "28 August 2018"
           },
-          "predecessor8": {
-            "text": "position established"
-          },
-          "1blankname8": {
-            "text": "General Secretary"
-          },
-          "1namedata8": {
-            "text": "K. Anbazhagan"
-          },
-          "office9": {
-            "text": "Treasurer of Dravida Munnetra Kazhagam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dravida Munnetra Kazhagam"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "27 December 2008"
-          },
-          "term_end9": {
-            "text": "27 August 2018"
-          },
           "predecessor9": {
-            "text": "Arcot N. Veerasamy"
+            "text": "position established"
           },
           "1blankname9": {
             "text": "General Secretary"
@@ -586,7 +601,7 @@
             "text": "K. Anbazhagan"
           },
           "office10": {
-            "text": "Deputy General Secretary of Dravida Munnetra Kazhagam",
+            "text": "Treasurer of Dravida Munnetra Kazhagam",
             "links": [
               {
                 "type": "internal",
@@ -595,21 +610,13 @@
             ]
           },
           "term_start10": {
-            "text": "2003",
-            "number": 2003
+            "text": "27 December 2008"
           },
           "term_end10": {
-            "text": "2008",
-            "number": 2008
+            "text": "27 August 2018"
           },
           "predecessor10": {
-            "text": "M. Karunanidhi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "M. Karunanidhi"
-              }
-            ]
+            "text": "Arcot N. Veerasamy"
           },
           "1blankname10": {
             "text": "General Secretary"
@@ -618,7 +625,7 @@
             "text": "K. Anbazhagan"
           },
           "office11": {
-            "text": "youth wing Secretary of Dravida Munnetra Kazhagam",
+            "text": "Deputy General Secretary of Dravida Munnetra Kazhagam",
             "links": [
               {
                 "type": "internal",
@@ -627,12 +634,12 @@
             ]
           },
           "term_start11": {
-            "text": "1982",
-            "number": 1982
+            "text": "2003",
+            "number": 2003
           },
           "term_end11": {
-            "text": "2017",
-            "number": 2017
+            "text": "2008",
+            "number": 2008
           },
           "predecessor11": {
             "text": "M. Karunanidhi",
@@ -647,6 +654,38 @@
             "text": "General Secretary"
           },
           "1namedata11": {
+            "text": "K. Anbazhagan"
+          },
+          "office12": {
+            "text": "youth wing Secretary of Dravida Munnetra Kazhagam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dravida Munnetra Kazhagam"
+              }
+            ]
+          },
+          "term_start12": {
+            "text": "1982",
+            "number": 1982
+          },
+          "term_end12": {
+            "text": "2017",
+            "number": 2017
+          },
+          "predecessor12": {
+            "text": "M. Karunanidhi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "M. Karunanidhi"
+              }
+            ]
+          },
+          "1blankname12": {
+            "text": "General Secretary"
+          },
+          "1namedata12": {
             "text": "K. Anbazhagan"
           },
           "birth_name": {
