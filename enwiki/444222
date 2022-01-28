@@ -182,7 +182,7 @@
               "text": "Upon his return to Gujarat in 1971, he became a full-time worker for the RSS."
             },
             {
-              "text": "After the state of emergency declared by Indian prime minister Indira Gandhi in 1975, Modi went into hiding.",
+              "text": "After the state of emergency declared by prime minister Indira Gandhi in 1975, Modi went into hiding.",
               "links": [
                 {
                   "text": "state of emergency",
@@ -236,6 +236,10 @@
                   "text": "Supreme Court",
                   "type": "internal",
                   "page": "Supreme Court of India"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nero"
                 }
               ]
             },
@@ -271,6 +275,11 @@
                 {
                   "type": "internal",
                   "page": "Lok Sabha"
+                },
+                {
+                  "text": "1984",
+                  "type": "internal",
+                  "page": "1984 Indian general election"
                 }
               ]
             },
@@ -288,7 +297,7 @@
               ]
             },
             {
-              "text": "He began a high-profile sanitation campaign, initiated a controversial demonetisation of high-denomination banknotes and weakened or abolished environmental and labour laws.",
+              "text": "He began a high-profile sanitation campaign, controversially initiated a demonetisation of high-denomination banknotes and transformation of taxation regime, and weakened or abolished environmental and labour laws.",
               "links": [
                 {
                   "text": "high-profile sanitation campaign",
@@ -299,6 +308,11 @@
                   "text": "demonetisation of high-denomination banknotes",
                   "type": "internal",
                   "page": "2016 Indian banknote demonetisation"
+                },
+                {
+                  "text": "transformation of taxation regime",
+                  "type": "internal",
+                  "page": "Goods and Services Tax (India)"
                 }
               ]
             }
@@ -310,7 +324,7 @@
               "text": "Under Modi's tenure, India has experienced democratic backsliding."
             },
             {
-              "text": "<ref name=chidambaram-2022> Following his party's victory in the 2019 general election, his administration revoked the special status of Jammu and Kashmir.",
+              "text": "<ref name=chidambaram-2022> Following his party's victory in the 2019 general election, his administration revoked the special status of Jammu and Kashmir and also introduced the Citizenship Amendment Act, which resulted in widespread protests across the country.",
               "links": [
                 {
                   "text": "2019 general election",
@@ -321,12 +335,7 @@
                   "text": "revoked the special status of Jammu and Kashmir",
                   "type": "internal",
                   "page": "Revocation of the special status of Jammu and Kashmir"
-                }
-              ]
-            },
-            {
-              "text": "His administration also introduced the Citizenship Amendment Act, which resulted in widespread protests across the country.",
-              "links": [
+                },
                 {
                   "text": "Citizenship Amendment Act",
                   "type": "internal",

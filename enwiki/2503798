@@ -23,12 +23,12 @@
         {
           "sentences": [
             {
-              "text": "Uddhav Balasaheb Thackeray (Marathi: उद्धव बाळासाहेब ठाकरे; born 27 July 1960) is an Indian politician who is the 19th and current Chief Minister of Maharashtra.",
+              "text": "Uddhav Balasaheb Thackeray (Marathi pronunciation: [ud̪ʱːəʋ ʈʰaːkɾeː], born 27 July 1960) is an Indian politician who is the 19th and current Chief Minister of Maharashtra.",
               "links": [
                 {
-                  "text": "Marathi",
+                  "text": "[ud̪ʱːəʋ ʈʰaːkɾeː",
                   "type": "internal",
-                  "page": "Marathi language"
+                  "page": "Help:IPA/Marathi"
                 },
                 {
                   "type": "internal",
@@ -54,14 +54,6 @@
         }
       ],
       "templates": [
-        {
-          "date": "August 2021",
-          "template": "copy edit"
-        },
-        {
-          "date": "August 2021",
-          "template": "cleanup rewrite"
-        },
         {
           "description": "Indian politician and 19th Chief Minister of Maharashtra",
           "template": "short description"
@@ -146,11 +138,11 @@
             ]
           },
           "office": {
-            "text": "Chief Minister of Maharashtra since 2019",
+            "text": "19th Chief Minister of Maharashtra",
             "links": [
               {
                 "type": "internal",
-                "page": "Chief Minister of Maharashtra since 2019"
+                "page": "Chief Minister of Maharashtra"
               }
             ]
           },

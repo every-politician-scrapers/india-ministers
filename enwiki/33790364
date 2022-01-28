@@ -180,15 +180,6 @@
               }
             ]
           },
-          "governor1": {
-            "text": "Banwarilal Purohit",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Banwarilal Purohit"
-              }
-            ]
-          },
           "1blankname1": {
             "text": "Ministry and Departments",
             "links": [
@@ -276,10 +267,10 @@
             ]
           },
           "office3": {
-            "text": "Member of Punjab Legislative Assembly",
+            "text": "Member of the Punjab Legislative Assembly",
             "links": [
               {
-                "text": "Member of Punjab Legislative Assembly",
+                "text": "Member of the Punjab Legislative Assembly",
                 "type": "internal",
                 "page": "Punjab Legislative Assembly"
               }

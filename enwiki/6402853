@@ -27,7 +27,7 @@
         {
           "sentences": [
             {
-              "text": "Thaawar Chand Gehlot (born 18 May 1949) is an Indian politician who is the current and 19th Governor of Karnataka.",
+              "text": "Thaawar Chand Gehlot (born 18 May 1949) is an Indian politician who is the current and 19th Governor of Karnataka, being the first person serving as the Governor of Karnataka from Madhya Pradesh.",
               "links": [
                 {
                   "text": "politician",
@@ -37,17 +37,7 @@
                 {
                   "type": "internal",
                   "page": "Governor of Karnataka"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Thaawar Chand Gehlot"
-                ]
-              }
-            },
-            {
-              "text": "He is also the first person, serving as the Governor of Karnataka from Madhya Pradesh.",
-              "links": [
+                },
                 {
                   "type": "internal",
                   "page": "Governor of Karnataka"
@@ -56,7 +46,12 @@
                   "type": "internal",
                   "page": "Madhya Pradesh"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Thaawar Chand Gehlot"
+                ]
+              }
             },
             {
               "text": "Having been appointed the Governor of Karnataka on 6 July 2021, he assumed office on July 11, 2021."

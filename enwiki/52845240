@@ -186,7 +186,7 @@
               }
             ]
           },
-          "office1": {
+          "office2": {
             "text": "Speaker of the Goa Legislative Assembly",
             "links": [
               {
@@ -195,13 +195,13 @@
               }
             ]
           },
-          "termstart1": {
+          "termstart2": {
             "text": "22 March 2017"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "18 March 2019"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Anant Shet",
             "links": [
               {
@@ -210,7 +210,7 @@
               }
             ]
           },
-          "successor1": {
+          "successor2": {
             "text": "Rajesh Patnekar",
             "links": [
               {
@@ -219,20 +219,29 @@
               }
             ]
           },
-          "office2": {
+          "office1": {
             "text": "Member of the Goa Legislative Assembly",
             "links": [
               {
+                "text": "Member of the Goa Legislative Assembly",
                 "type": "internal",
                 "page": "Goa Legislative Assembly"
               }
             ]
           },
-          "termstart2": {
+          "termstart1": {
             "text": "2012",
             "number": 2012
           },
-          "constituency2": {
+          "predecessor1": {
+            "text": "Constituency established",
+            "formatting": {
+              "italic": [
+                "Constituency established"
+              ]
+            }
+          },
+          "constituency1": {
             "text": "Sanquelim",
             "links": [
               {
