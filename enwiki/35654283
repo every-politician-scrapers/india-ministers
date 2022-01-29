@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Basavaraj Somappa Bommai (born 28 January 1961) is an Indian politician and engineer who is the current and 23rd Chief Minister of Karnataka.",
+              "text": "Basavaraj Somappa Bommai (born 28 January 1960) is an Indian politician and engineer who is the current and 23rd Chief Minister of Karnataka.",
               "links": [
                 {
                   "text": "Chief Minister of Karnataka",
@@ -193,10 +193,10 @@
           "template": "use indian english"
         },
         {
-          "year": "1961",
+          "df": "y",
+          "year": "1960",
           "month": "1",
           "day": "28",
-          "df": "y",
           "template": "birth date and age"
         },
         {
@@ -220,10 +220,10 @@
             "text": "Official portrait, 2021"
           },
           "birth_date": {
-            "text": "January 28, 1961"
+            "text": "January 28, 1960"
           },
           "birth_place": {
-            "text": "Hubli-Dharwad, Mysore State, India (present-day Karnataka)",
+            "text": "Hubli-Dharwad, Mysore State, (present-day Karnataka), India",
             "links": [
               {
                 "type": "internal",
@@ -232,10 +232,6 @@
               {
                 "type": "internal",
                 "page": "Mysore State"
-              },
-              {
-                "type": "internal",
-                "page": "India"
               },
               {
                 "type": "internal",
