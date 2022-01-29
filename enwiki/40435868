@@ -29,16 +29,12 @@
         {
           "sentences": [
             {
-              "text": "Subrahmanyam Jaishankar (born 9 January 1955) is a retired central civil servant of the Indian Foreign Service cadre and politician who is the current Minister of External Affairs of the Government of India since 31 May 2019.",
+              "text": "Subrahmanyam Jaishankar (born 9 January 1955) is a diplomat and politician who is the current Minister of External Affairs of the Government of India since 31 May 2019.",
               "links": [
                 {
-                  "text": "central civil servant",
+                  "text": "diplomat",
                   "type": "internal",
-                  "page": "Civil Service"
-                },
-                {
-                  "type": "internal",
-                  "page": "Indian Foreign Service"
+                  "page": "diplomat"
                 },
                 {
                   "text": "politician",

@@ -81,10 +81,13 @@
       "infoboxes": [
         {
           "image": {
-            "text": "Pushkar Singh Dhami.jpg"
+            "text": "Chandi Bhatt With CM Dhami.jpg"
           },
           "image_size": {
             "text": "250px"
+          },
+          "caption": {
+            "text": "Pushkar Singh Dhami (left) with Chandi Bhatt"
           },
           "birth_date": {
             "text": "September 16, 1975"

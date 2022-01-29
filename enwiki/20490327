@@ -186,6 +186,15 @@
           "template": "ubl"
         },
         {
+          "list": [
+            "Additional ministries"
+          ],
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
+        },
+        {
           "year": "1972",
           "month": "12",
           "day": "21",
@@ -233,76 +242,44 @@
               }
             ]
           },
-          "constituency": {
-            "text": "Pulivendula",
+          "1blankname1": {
+            "text": "Ministry and Departments",
             "links": [
               {
-                "text": "Pulivendula",
+                "text": "Ministry and Departments",
                 "type": "internal",
-                "page": "Pulivendla (Assembly constituency)"
+                "page": "Y. S. Jagan Mohan Reddy ministry"
               }
             ]
           },
-          "office1": {
-            "text": "Member of Parliament, Lok Sabha",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of Parliament, Lok Sabha"
-              }
-            ]
+          "1namedata1": {
+            "text": "* General & Personnel administration\n* Law & Order\nOther departments not allocated to any Minister..",
+            "formatting": {
+              "bold": [
+                "Other departments not allocated to any Minister.."
+              ],
+              "italic": [
+                "Other departments not allocated to any Minister.."
+              ]
+            }
           },
           "term_start1": {
-            "text": "1 June 2009"
-          },
-          "term_end1": {
-            "text": "18 May 2014"
-          },
-          "primeminister1": {
-            "text": "Manmohan Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Manmohan Singh"
-              }
-            ]
+            "text": "30 May 2019"
           },
           "predecessor1": {
-            "text": "Y. S. Vivekananda Reddy",
+            "text": "N. Chandrababu Naidu",
             "links": [
               {
                 "type": "internal",
-                "page": "Y. S. Vivekananda Reddy"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Y. S. Avinash Reddy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Y. S. Avinash Reddy"
-              }
-            ]
-          },
-          "constituency1": {
-            "text": "Kadapa",
-            "links": [
-              {
-                "text": "Kadapa",
-                "type": "internal",
-                "page": "Kadapa (Lok Sabha constituency)"
+                "page": "N. Chandrababu Naidu"
               }
             ]
           },
           "office2": {
-            "text": "Leader of the Opposition in Andhra Pradesh Legislative Assembly",
+            "text": "Member of the Andhra Pradesh Legislative Assembly",
             "links": [
               {
-                "type": "internal",
-                "page": "Leader of the Opposition"
-              },
-              {
+                "text": "Member of the Andhra Pradesh Legislative Assembly",
                 "type": "internal",
                 "page": "Andhra Pradesh Legislative Assembly"
               }
@@ -311,36 +288,12 @@
           "term_start2": {
             "text": "19 June 2014"
           },
-          "term_end2": {
-            "text": "25 May 2019"
-          },
-          "1blankname2": {
-            "text": "Chief Minister"
-          },
-          "1namedata2": {
-            "text": "N. Chandrababu Naidu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "N. Chandrababu Naidu"
-              }
-            ]
-          },
           "predecessor2": {
-            "text": "N. Chandrababu Naidu",
+            "text": "Y. S. Vijayamma",
             "links": [
               {
                 "type": "internal",
-                "page": "N. Chandrababu Naidu"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "N. Chandrababu Naidu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "N. Chandrababu Naidu"
+                "page": "Y. S. Vijayamma"
               }
             ]
           },
@@ -355,37 +308,6 @@
             ]
           },
           "office3": {
-            "text": "Member of Andhra Pradesh Legislative Assembly",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andhra Pradesh Legislative Assembly"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "19 June 2014"
-          },
-          "predecessor3": {
-            "text": "Y. S. Vijayamma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Y. S. Vijayamma"
-              }
-            ]
-          },
-          "constituency3": {
-            "text": "Pulivendula",
-            "links": [
-              {
-                "text": "Pulivendula",
-                "type": "internal",
-                "page": "Pulivendla (Assembly constituency)"
-              }
-            ]
-          },
-          "office4": {
             "text": "President of the YSR Congress Party",
             "links": [
               {
@@ -394,16 +316,118 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start3": {
             "text": "12 March 2011"
           },
-          "predecessor4": {
+          "predecessor3": {
             "text": "position established",
             "formatting": {
               "italic": [
                 "position established"
               ]
             }
+          },
+          "office4": {
+            "text": "Member of Parliament, Lok Sabha",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of Parliament, Lok Sabha"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "1 June 2009"
+          },
+          "term_end4": {
+            "text": "18 May 2014"
+          },
+          "predecessor4": {
+            "text": "Y. S. Vivekananda Reddy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Y. S. Vivekananda Reddy"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Y. S. Avinash Reddy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Y. S. Avinash Reddy"
+              }
+            ]
+          },
+          "constituency4": {
+            "text": "Kadapa",
+            "links": [
+              {
+                "text": "Kadapa",
+                "type": "internal",
+                "page": "Kadapa (Lok Sabha constituency)"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Leader of the Opposition in Andhra Pradesh Legislative Assembly",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leader of the Opposition"
+              },
+              {
+                "type": "internal",
+                "page": "Andhra Pradesh Legislative Assembly"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "19 June 2014"
+          },
+          "term_end5": {
+            "text": "25 May 2019"
+          },
+          "1blankname5": {
+            "text": "Chief Minister"
+          },
+          "1namedata5": {
+            "text": "N. Chandrababu Naidu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "N. Chandrababu Naidu"
+              }
+            ]
+          },
+          "predecessor5": {
+            "text": "N. Chandrababu Naidu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "N. Chandrababu Naidu"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "N. Chandrababu Naidu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "N. Chandrababu Naidu"
+              }
+            ]
+          },
+          "constituency5": {
+            "text": "Pulivendula",
+            "links": [
+              {
+                "text": "Pulivendula",
+                "type": "internal",
+                "page": "Pulivendla (Assembly constituency)"
+              }
+            ]
           },
           "birth_name": {
             "text": "Yeduguri Sandinti Jaganmohan Reddy"
