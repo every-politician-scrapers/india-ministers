@@ -31,7 +31,7 @@
         {
           "sentences": [
             {
-              "text": "Nitish Kumar (born 1 March 1951) is an Indian politician, who is serving as the 22nd Chief Minister of Bihar, a state in India, since 2015 and has served in that role on five previous occasions.",
+              "text": "Nitish Kumar (born 1 March 1951) is an Indian politician, who is serving as the 22nd Chief Minister of Bihar, a state in India, since 2016 and has served in that role on five previous occasions.",
               "links": [
                 {
                   "text": "22nd",
@@ -206,10 +206,10 @@
         },
         {
           "list": [
-            "Tejashwi Yadav (2015–2017)",
-            "Sushil Kumar Modi (2017–2020)",
-            "Renu Devi (2020–present)",
-            "Tarkishore Prasad (2020–present)"
+            "Tejashwi Yadav",
+            "Sushil Kumar Modi",
+            "Renu Devi",
+            "Tarkishore Prasad"
           ],
           "template": "ubl"
         }
@@ -278,11 +278,11 @@
             "text": "Nishant Kumar (son)"
           },
           "office1": {
-            "text": "22nd Chief Minister of Bihar",
+            "text": "22nd Chief Ministe of Bihar",
             "links": [
               {
                 "type": "internal",
-                "page": "Chief Minister of Bihar"
+                "page": "Chief Ministe of Bihar"
               }
             ]
           },
@@ -290,10 +290,10 @@
             "text": "Keshari Nath Tripathi\n\nRam Nath Kovind\n\nSatya Pal Malik\n\nLalji Tandon\n\nPhagu Chauhan"
           },
           "deputy1": {
-            "text": "Tejashwi Yadav (2015–2017)\n\nSushil Kumar Modi (2017–2020)\n\nRenu Devi (2020–present)\n\nTarkishore Prasad (2020–present)"
+            "text": "Tejashwi Yadav\n\nSushil Kumar Modi\n\nRenu Devi\n\nTarkishore Prasad"
           },
           "term_start1": {
-            "text": "22 February 2015"
+            "text": "22 February 2016"
           },
           "predecessor1": {
             "text": "Jitan Ram Manjhi",
@@ -320,7 +320,7 @@
             ]
           },
           "deputy2": {
-            "text": "Sushil Kumar Modi (2005–2013)",
+            "text": "Sushil Kumar Modi",
             "links": [
               {
                 "type": "internal",
