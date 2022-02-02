@@ -395,8 +395,7 @@
             "text": "Dr. Kamaljit Kaur"
           },
           "children": {
-            "text": "2",
-            "number": 2
+            "text": "2 sons"
           },
           "father": {
             "text": "Harsa Singh"
@@ -416,6 +415,9 @@
                 "page": "Punjab Technical University"
               }
             ]
+          },
+          "signature": {
+            "text": "Charanjit Singh Channi signature.svg"
           }
         }
       ]

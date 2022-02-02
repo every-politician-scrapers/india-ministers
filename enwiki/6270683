@@ -182,15 +182,21 @@
             "text": "July 1, 1941"
           },
           "birth_place": {
-            "text": "Malikpur, Ghazipur, Uttar Pradesh",
+            "text": "Malikpur, United Provinces, British India",
             "links": [
               {
+                "text": "Malikpur",
                 "type": "internal",
-                "page": "Malikpur, Ghazipur"
+                "page": "Ghazipur district"
+              },
+              {
+                "text": "United Provinces",
+                "type": "internal",
+                "page": "United Provinces (1937-50)"
               },
               {
                 "type": "internal",
-                "page": "Uttar Pradesh"
+                "page": "British India"
               }
             ]
           },
@@ -449,15 +455,6 @@
           },
           "website": {
             "text": "www.kalrajmishra.com"
-          },
-          "president": {
-            "text": "Ramnath Kovind",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ramnath Kovind"
-              }
-            ]
           }
         }
       ]
