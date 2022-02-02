@@ -524,9 +524,10 @@
             "text": "Vice President"
           },
           "1namedata": {
-            "text": "Mohammad Hamid Ansari\nVenkaiah Naidu",
+            "text": "MD. Hamid Ansari\nVenkaiah Naidu",
             "links": [
               {
+                "text": "MD. Hamid Ansari",
                 "type": "internal",
                 "page": "Mohammad Hamid Ansari"
               },
@@ -880,7 +881,7 @@
             "text": "Signature of Narendra Modi (Hindi).svg"
           },
           "website": {
-            "text": "Official website\nGovernment website"
+            "text": "Personal · PM India official"
           },
           "nickname": {
             "text": "see article",

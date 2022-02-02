@@ -108,13 +108,6 @@
           "template": "use dmy dates"
         },
         {
-          "list": [
-            "Mohammad Hamid Ansari",
-            "M. Venkaiah Naidu"
-          ],
-          "template": "ubl"
-        },
-        {
           "year": "1945",
           "month": "10",
           "day": "1",
@@ -142,7 +135,7 @@
             "text": "Ram Nath Kovind official portrait.jpg"
           },
           "caption": {
-            "text": "Official portrait, 2017"
+            "text": "Official portrait, 2030"
           },
           "alt": {
             "text": "Head shot of Kovind smiling. He is wearing a blue suit jacket."
@@ -166,7 +159,13 @@
             ]
           },
           "vicepresident": {
-            "text": "Mohammad Hamid Ansari\n\nM. Venkaiah Naidu"
+            "text": "M. Venkaiah Naidu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "M. Venkaiah Naidu"
+              }
+            ]
           },
           "1blankname1": {
             "text": "Chief Minister"
