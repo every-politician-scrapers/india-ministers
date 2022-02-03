@@ -313,31 +313,117 @@
               }
             ]
           },
+          "office3": {
+            "text": "Minister of Water Resources, River Development and Ganga Rejuvenation",
+            "links": [
+              {
+                "text": "Minister of Water Resources, River Development and Ganga Rejuvenation",
+                "type": "internal",
+                "page": "Ministry of Water Resources, River Development and Ganga Rejuvenation"
+              }
+            ]
+          },
           "term_start3": {
-            "text": "23 December 2009"
+            "text": "3 September 2017"
           },
           "term_end3": {
-            "text": "23 January 2013"
+            "text": "30 May 2019"
           },
-          "predecessor3": {
-            "text": "Rajnath Singh",
+          "primeminister3": {
+            "text": "Narendra Modi",
             "links": [
               {
                 "type": "internal",
-                "page": "Rajnath Singh"
+                "page": "Narendra Modi"
+              }
+            ]
+          },
+          "president3": {
+            "text": "Ram Nath Kovind",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ram Nath Kovind"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Uma Bharti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Uma Bharti"
               }
             ]
           },
           "successor3": {
-            "text": "Rajnath Singh",
+            "text": "Gajendra Singh Shekhawat",
             "links": [
               {
                 "type": "internal",
-                "page": "Rajnath Singh"
+                "page": "Gajendra Singh Shekhawat"
               }
             ]
           },
-          "office3": {
+          "office4": {
+            "text": "Minister of Rural Development & Panchayati Raj",
+            "links": [
+              {
+                "text": "Minister of Rural Development",
+                "type": "internal",
+                "page": "Ministry of Rural Development (India)"
+              },
+              {
+                "text": "Panchayati Raj",
+                "type": "internal",
+                "page": "Ministry of Panchayati Raj"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "4 June 2014"
+          },
+          "term_end4": {
+            "text": "9 November 2014"
+          },
+          "primeminister4": {
+            "text": "Narendra Modi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Narendra Modi"
+              }
+            ]
+          },
+          "president4": {
+            "text": "Pranab Mukherjee",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pranab Mukherjee"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Gopinath Munde",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gopinath Munde"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Birender Singh",
+            "links": [
+              {
+                "text": "Birender Singh",
+                "type": "internal",
+                "page": "Birender Singh (politician, born 1946)"
+              }
+            ]
+          },
+          "office5": {
             "text": "9th President of Bharatiya Janata Party",
             "links": [
               {
@@ -347,7 +433,31 @@
               }
             ]
           },
-          "office4": {
+          "term_start5": {
+            "text": "23 December 2009"
+          },
+          "term_end5": {
+            "text": "23 January 2013"
+          },
+          "predecessor5": {
+            "text": "Rajnath Singh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rajnath Singh"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Rajnath Singh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rajnath Singh"
+              }
+            ]
+          },
+          "office6": {
             "text": "Member of Parliament, Lok Sabha",
             "links": [
               {
@@ -356,7 +466,7 @@
               }
             ]
           },
-          "constituency4": {
+          "constituency6": {
             "text": "Nagpur",
             "links": [
               {
@@ -366,10 +476,10 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start6": {
             "text": "16 May 2014"
           },
-          "predecessor4": {
+          "predecessor6": {
             "text": "Vilas Muttemwar",
             "links": [
               {
@@ -377,6 +487,66 @@
                 "page": "Vilas Muttemwar"
               }
             ]
+          },
+          "office7": {
+            "text": "Leader of Opposition Maharashtra Legislative Council",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maharashtra Legislative Council"
+              }
+            ]
+          },
+          "term_start7": {
+            "text": "23 October 1999"
+          },
+          "term_end7": {
+            "text": "11 April 2005"
+          },
+          "predecessor7": {
+            "text": "Chhagan Bhujbal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chhagan Bhujbal"
+              }
+            ]
+          },
+          "successor7": {
+            "text": "Pandurang Fundkar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pandurang Fundkar"
+              }
+            ]
+          },
+          "office8": {
+            "text": "Member of Maharashtra Legislative Council",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maharashtra Legislative Council"
+              }
+            ]
+          },
+          "term_start8": {
+            "text": "20 July 1990"
+          },
+          "term_end8": {
+            "text": "16 May 2014"
+          },
+          "successor8": {
+            "text": "Anil Sole",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anil Sole"
+              }
+            ]
+          },
+          "constituency8": {
+            "text": "Nagpur Graduates"
           },
           "birth_date": {
             "text": "May 27, 1957"

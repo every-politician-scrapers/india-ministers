@@ -215,23 +215,6 @@
               }
             ]
           },
-          "governor1": {
-            "text": "Margaret Alva\nShivraj Patil\nShilendra Kumar Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Margaret Alva"
-              },
-              {
-                "type": "internal",
-                "page": "Shivraj Patil"
-              },
-              {
-                "type": "internal",
-                "page": "Shilendra Kumar Singh"
-              }
-            ]
-          },
           "term_start1": {
             "text": "December 13, 2008"
           },
@@ -253,23 +236,6 @@
               {
                 "type": "internal",
                 "page": "Vasundhara Raje"
-              }
-            ]
-          },
-          "governor2": {
-            "text": "Navrang Lal Tibrewal\nNirmal Chandra Jain\nKailashpati Mishra",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Navrang Lal Tibrewal"
-              },
-              {
-                "type": "internal",
-                "page": "Nirmal Chandra Jain"
-              },
-              {
-                "type": "internal",
-                "page": "Kailashpati Mishra"
               }
             ]
           },
