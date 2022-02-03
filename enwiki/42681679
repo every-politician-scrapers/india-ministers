@@ -135,7 +135,7 @@
             "text": "Ram Nath Kovind official portrait.jpg"
           },
           "caption": {
-            "text": "Official portrait, 2030"
+            "text": "Official portrait, 2020"
           },
           "alt": {
             "text": "Head shot of Kovind smiling. He is wearing a blue suit jacket."
@@ -249,8 +249,13 @@
             "text": "October 1, 1945"
           },
           "birth_place": {
-            "text": "Paraunkh, United Provinces, British India (present-day Kanpur Dehat district, Uttar Pradesh, India)",
+            "text": "Paraunkh, United Provinces, British India (present-day Uttar Pradesh, India)",
             "links": [
+              {
+                "text": "Paraunkh",
+                "type": "internal",
+                "page": "Kanpur Dehat district"
+              },
               {
                 "text": "United Provinces",
                 "type": "internal",
@@ -259,10 +264,6 @@
               {
                 "type": "internal",
                 "page": "British India"
-              },
-              {
-                "type": "internal",
-                "page": "Kanpur Dehat district"
               },
               {
                 "type": "internal",
