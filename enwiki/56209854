@@ -143,15 +143,7 @@
             "links": [
               {
                 "type": "internal",
-                "page": "Ahmedabad"
-              },
-              {
-                "type": "internal",
-                "page": "Gujarat"
-              },
-              {
-                "type": "internal",
-                "page": "India"
+                "page": "Ahmedabad, Gujarat"
               }
             ]
           },
@@ -231,7 +223,7 @@
               }
             ]
           },
-          "nickname": {
+          "sports_nickname": {
             "text": "Dada"
           }
         }
