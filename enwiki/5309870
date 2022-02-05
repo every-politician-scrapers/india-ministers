@@ -59,6 +59,13 @@
           "template": "short description"
         },
         {
+          "list": [
+            "the alpine skier",
+            "Arif Khan (skier)"
+          ],
+          "template": "for"
+        },
+        {
           "template": "date",
           "data": {
             "year": "2019",
