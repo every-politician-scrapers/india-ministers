@@ -306,6 +306,9 @@
           "image": {
             "text": "Anandiben Patel Ji.jpg"
           },
+          "caption": {
+            "text": "Patel in August 2014"
+          },
           "office": {
             "text": "Governor",
             "links": [
@@ -483,7 +486,7 @@
               {
                 "text": "Patan",
                 "type": "internal",
-                "page": "Patan (Vidhan Sabha constituency)"
+                "page": "Patan (Gujarat Vidhan Sabha constituency)"
               }
             ]
           },

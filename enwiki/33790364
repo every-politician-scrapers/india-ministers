@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Charanjit Singh Channi (born 1 March 1963) is an Indian politician and is the controversial Chief Minister of Punjab.",
+              "text": "Charanjit Singh Channi (born 1 March 1963) is an Indian politician and is the Chief Minister of Punjab.",
               "links": [
                 {
                   "text": "Chief Minister",
@@ -49,7 +49,7 @@
               ]
             },
             {
-              "text": "He was previously Minister of Technical Education and Training in Second Amarinder Singh ministry and leader of the opposition in the Punjab Legislative Assembly.",
+              "text": "He was Minister of Technical Education and Training in Second Amarinder Singh ministry and leader of the opposition in the Punjab Legislative Assembly.",
               "links": [
                 {
                   "type": "internal",
@@ -70,6 +70,10 @@
         }
       ],
       "templates": [
+        {
+          "description": "Indian politician (born 1963)",
+          "template": "short description"
+        },
         {
           "date": "April 2018",
           "template": "use dmy dates"
@@ -101,7 +105,7 @@
             "text": "Charanjit Singh Channi"
           },
           "image": {
-            "text": "Charanjit Singh Channi (cropped).png"
+            "text": "CHARANJITSINGHCHANNI.jpg"
           },
           "birth_date": {
             "text": "March 1, 1963"
@@ -111,16 +115,7 @@
             "links": [
               {
                 "type": "internal",
-                "page": "Chamkaur"
-              },
-              {
-                "text": "Punjab",
-                "type": "internal",
-                "page": "East Punjab"
-              },
-              {
-                "type": "internal",
-                "page": "India"
+                "page": "Chamkaur, Punjab"
               }
             ]
           },
@@ -396,12 +391,6 @@
           },
           "children": {
             "text": "2 sons"
-          },
-          "father": {
-            "text": "Harsa Singh"
-          },
-          "mother": {
-            "text": "Ajmer Kaur"
           },
           "alma_mater": {
             "text": "Panjab University (B.A., L.L.B.) and Punjab Technical University (MBA)",
