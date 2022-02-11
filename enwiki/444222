@@ -840,14 +840,12 @@
               }
             ]
           },
+          "nationality": {
+            "text": "Indian"
+          },
           "alma_mater": {
-            "text": "*Political Science\nUniversity of Delhi (BA)\nGujarat University (MA)",
+            "text": "University of Delhi (BA)\nGujarat University (MA)",
             "links": [
-              {
-                "text": "Political Science",
-                "type": "internal",
-                "page": "Political science"
-              },
               {
                 "type": "internal",
                 "page": "University of Delhi"
@@ -866,12 +864,7 @@
                 "type": "internal",
                 "page": "Master of Arts"
               }
-            ],
-            "formatting": {
-              "bold": [
-                "Political Science"
-              ]
-            }
+            ]
           },
           "awards": {
             "text": "List of state honours",

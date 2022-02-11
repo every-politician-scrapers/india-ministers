@@ -91,7 +91,7 @@
           "template": "use dmy dates"
         },
         {
-          "year": "1949",
+          "year": "1948",
           "month": "5",
           "day": "18",
           "df": "y",
@@ -110,7 +110,7 @@
             "text": "250px"
           },
           "birth_date": {
-            "text": "May 18, 1949"
+            "text": "May 18, 1948"
           },
           "birth_place": {
             "text": "Rupeta, Nagda, Central India Agency, Dominion of India (present-day Madhya Pradesh, India)",
