@@ -154,6 +154,25 @@
       ],
       "templates": [
         {
+          "description": "Indian politician",
+          "template": "short description"
+        },
+        {
+          "date": "February 2022",
+          "template": "use indian english"
+        },
+        {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "February 2022",
+          "template": "fanpov"
+        },
+        {
+          "template": "multiple issues"
+        },
+        {
           "description": "17th and current Chief Minister of Andhra Pradesh",
           "template": "short description"
         },
