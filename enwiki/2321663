@@ -54,7 +54,7 @@
         {
           "sentences": [
             {
-              "text": "Mamata Banerjee (Bengali: Mamata Bandyopadhyay; ; born 5 January 1955 ) is an Indian politician who is serving as the ninth and current chief minister of the Indian state of West Bengal since 20th May 2011, the first woman to hold the office.",
+              "text": "Mamata Banerjee (Bengali: Mamata Bandyopadhyay; born 5 January 1955) is an Indian politician who is serving as the ninth and current chief minister of the Indian state of West Bengal since 20th May 2011, the first woman to hold the office.",
               "links": [
                 {
                   "text": "Bengali",
@@ -83,6 +83,9 @@
               }
             },
             {
+              "text": "Having served many times as a Union Cabinet Minister, Mamata Banerjee became the Chief Minister of West Bengal for the first time in 2011."
+            },
+            {
               "text": "She founded the All India Trinamool Congress (AITC or TMC) in 1998 after separating from the Indian National Congress, and became its first chairperson.",
               "links": [
                 {
@@ -96,7 +99,7 @@
               ]
             },
             {
-              "text": "She is often referred to as Didi (meaning elder sister in Bengali).",
+              "text": "She is often referred to as 'Didi' (meaning elder sister in Bengali).",
               "links": [
                 {
                   "text": "Bengali",
@@ -106,7 +109,6 @@
               ],
               "formatting": {
                 "italic": [
-                  "Didi",
                   "elder sister"
                 ]
               }
@@ -517,11 +519,6 @@
             "31 May 2009 – 19 July 2011: Leader, All India Trinamool Congress Parliamentary Party, Lok Sabha"
           ],
           "template": "collapsible list"
-        },
-        {
-          "transcription": "mɔmota bɔndoˈpaddʱˈae̯",
-          "audio": "LL-Q9610 (ben)-Titodutta-মমতা বন্দ্যোপাধ্যায়.wav",
-          "template": "ipa"
         },
         {
           "name": "details",
