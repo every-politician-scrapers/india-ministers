@@ -83,12 +83,16 @@
             "text": "Tamilisai Soundararajan"
           },
           "honorific_prefix": {
-            "text": "Dr.",
+            "text": "The Honourable Dr.",
             "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              },
               {
                 "text": "Dr.",
                 "type": "internal",
-                "page": "Doctor (title)"
+                "page": "Doctor (medicine)"
               }
             ]
           },
