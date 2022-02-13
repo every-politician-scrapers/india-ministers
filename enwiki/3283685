@@ -79,7 +79,7 @@
               ]
             },
             {
-              "text": "He is also currently serving as a National Vice-president, member of the Parliamentary Board and Central Election Committee of the Bharatiya Janata Party.",
+              "text": "He is also currently serving as a National Vice-president, member of the Parliamentary Board and a member of the Central Election Committee of the Bharatiya Janata Party.",
               "links": [
                 {
                   "text": "National Vice-president",
@@ -109,6 +109,11 @@
             {
               "text": "As a leader of the BJP, Chouhan served as its general secretary and president of its Madhya Pradesh state unit.",
               "links": [
+                {
+                  "text": "BJP",
+                  "type": "internal",
+                  "page": "Bharatiya Janata Party"
+                },
                 {
                   "text": "general secretary",
                   "type": "internal",

@@ -285,11 +285,15 @@
             ]
           },
           "relatives": {
-            "text": "Sanjay Subrahmanyam (brother)",
+            "text": "Sanjay Subrahmanyam (brother), S. Vijay Kumar (brother)",
             "links": [
               {
                 "type": "internal",
                 "page": "Sanjay Subrahmanyam"
+              },
+              {
+                "type": "internal",
+                "page": "S. Vijay Kumar"
               }
             ]
           },
