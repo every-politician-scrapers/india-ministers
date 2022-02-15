@@ -65,6 +65,9 @@
       ],
       "templates": [
         {
+          "template": "india-bio-stub"
+        },
+        {
           "description": "IPS officer and from 2019 the Director of the Intelligence Bureau",
           "template": "short description"
         },
