@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Ram Nath Kovind (born 1 October 1945) is an Indian politician serving as the 14th and current president of India since his inauguration in 2017.",
+              "text": "Ram Nath Kovind (born 1 October 1945) is an Indian lawyer and politician serving as the 14th and current president of India since his inauguration in 2017.",
               "links": [
                 {
                   "text": "president of India",
@@ -89,7 +89,7 @@
       ],
       "templates": [
         {
-          "description": "14th president of India since 2017",
+          "description": "14th President of India",
           "template": "short description"
         },
         {
@@ -110,8 +110,8 @@
         {
           "year": "1945",
           "month": "10",
-          "day": "1",
-          "df": "y",
+          "day": "01",
+          "df": "yes",
           "template": "birth date and age"
         },
         {
@@ -135,7 +135,7 @@
             "text": "Ram Nath Kovind official portrait.jpg"
           },
           "caption": {
-            "text": "Official portrait, 2020"
+            "text": "Official portrait, 2017"
           },
           "alt": {
             "text": "Head shot of Kovind smiling. He is wearing a blue suit jacket."
@@ -264,14 +264,6 @@
               {
                 "type": "internal",
                 "page": "British India"
-              },
-              {
-                "type": "internal",
-                "page": "Uttar Pradesh"
-              },
-              {
-                "type": "internal",
-                "page": "India"
               }
             ]
           },
@@ -279,7 +271,7 @@
             "text": "Savita Kovind (m. 1974)"
           },
           "residence": {
-            "text": "Rashtrapati Bhawan, New Delhi, Delhi, India",
+            "text": "Rashtrapati Bhawan, New Delhi, Delhi",
             "links": [
               {
                 "type": "internal",
@@ -305,9 +297,12 @@
               {
                 "text": "Indian",
                 "type": "internal",
-                "page": "India"
+                "page": "Indian people"
               }
             ]
+          },
+          "occupation": {
+            "text": "Politician · Lawyer"
           },
           "alma_mater": {
             "text": "Kanpur University",

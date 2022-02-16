@@ -238,6 +238,39 @@
             ]
           },
           "office3": {
+            "text": "Acting Chief Justice of Andhra Pradesh High Court",
+            "links": [
+              {
+                "text": "Acting",
+                "type": "internal",
+                "page": "Acting (law)"
+              },
+              {
+                "type": "internal",
+                "page": "Chief Justice"
+              },
+              {
+                "type": "internal",
+                "page": "Andhra Pradesh High Court"
+              }
+            ]
+          },
+          "termstart3": {
+            "text": "10 March 2013"
+          },
+          "termend3": {
+            "text": "20 May 2013"
+          },
+          "appointer3": {
+            "text": "Pranab Mukherjee",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pranab Mukherjee"
+              }
+            ]
+          },
+          "office4": {
             "text": "Judge of Andhra Pradesh High Court",
             "links": [
               {
@@ -250,7 +283,7 @@
               }
             ]
           },
-          "nominator3": {
+          "nominator4": {
             "text": "Adarsh Sein Anand",
             "links": [
               {
@@ -259,7 +292,7 @@
               }
             ]
           },
-          "appointer3": {
+          "appointer4": {
             "text": "K. R. Narayanan",
             "links": [
               {
@@ -269,10 +302,10 @@
               }
             ]
           },
-          "termstart3": {
+          "termstart4": {
             "text": "27 June 2000"
           },
-          "termend3": {
+          "termend4": {
             "text": "1 September 2013"
           },
           "birth_name": {
