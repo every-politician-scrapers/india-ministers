@@ -92,7 +92,7 @@
           "template": "short description"
         },
         {
-          "date": "November 2021",
+          "date": "February 2022",
           "template": "use dmy dates"
         },
         {
@@ -210,10 +210,10 @@
             "number": 2003
           },
           "office1": {
-            "text": "Member of Chhattisgarh Legislative Assembly",
+            "text": "Member of the Chhattisgarh Legislative Assembly",
             "links": [
               {
-                "text": "Member of Chhattisgarh Legislative Assembly",
+                "text": "Member of the Chhattisgarh Legislative Assembly",
                 "type": "internal",
                 "page": "Chhattisgarh Legislative Assembly"
               }

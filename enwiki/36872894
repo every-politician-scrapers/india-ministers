@@ -29,13 +29,8 @@
         {
           "sentences": [
             {
-              "text": "Himanta Biswa Sarma (Assamese: হিমন্ত বিশ্ব শৰ্মা; 1 February 1969) is an Indian politician who serves as the 15th and current Chief Minister of Assam.",
+              "text": "Himanta Biswa Sarma (born 1 February 1969) is an Indian politician who serves as the 15th and current Chief Minister of Assam.",
               "links": [
-                {
-                  "text": "Assamese",
-                  "type": "internal",
-                  "page": "Assamese language"
-                },
                 {
                   "type": "internal",
                   "page": "Chief Minister of Assam"
@@ -125,7 +120,7 @@
           "template": "short description"
         },
         {
-          "date": "November 2020",
+          "date": "February 2022",
           "template": "use dmy dates"
         },
         {
@@ -428,9 +423,6 @@
           "spouse": {
             "text": "Riniki Bhuyan Sarma (m. 7 June 2001)"
           },
-          "parents": {
-            "text": "Kailash Nath Sarma Mrinalini Devi"
-          },
           "party": {
             "text": "Bharatiya Janata Party (2015–present)",
             "links": [
@@ -450,7 +442,8 @@
             ]
           },
           "children": {
-            "text": "Nandil (son), Sukanya (daughter)"
+            "text": "2",
+            "number": 2
           },
           "alma_mater": {
             "text": "*Cotton College (BA, MA)\n*BRM Government Law College (LLB)\n*Gauhati University (PhD)",
@@ -503,10 +496,10 @@
             ]
           },
           "nickname": {
-            "text": "Mama",
+            "text": "Bihari Mama",
             "formatting": {
               "italic": [
-                "Mama"
+                "Bihari Mama"
               ]
             }
           },

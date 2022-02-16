@@ -5,8 +5,8 @@
     "Indian police officers",
     "Living people",
     "Directors of Intelligence Bureau (India)",
-    "Year of birth missing (living people)",
-    "Alumni of the Netarhat Residential School"
+    "Alumni of the Netarhat Residential School",
+    "1959 births"
   ],
   "sections": [
     {
@@ -64,9 +64,6 @@
         }
       ],
       "templates": [
-        {
-          "template": "india-bio-stub"
-        },
         {
           "description": "IPS officer and from 2019 the Director of the Intelligence Bureau",
           "template": "short description"
@@ -138,7 +135,7 @@
             "text": "IPS",
             "links": [
               {
-                "text": " IPS",
+                "text": "IPS",
                 "type": "internal",
                 "page": "Indian Police Service"
               }
