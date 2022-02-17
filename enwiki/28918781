@@ -56,6 +56,20 @@
                   "page": "political party"
                 }
               ]
+            },
+            {
+              "text": "He represents Barhait constituency in the Jharkhand Legislative Assembly.",
+              "links": [
+                {
+                  "text": "Barhait",
+                  "type": "internal",
+                  "page": "Barhait (Vidhan Sabha constituency)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jharkhand Legislative Assembly"
+                }
+              ]
             }
           ]
         }

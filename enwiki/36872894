@@ -112,12 +112,12 @@
       ],
       "templates": [
         {
-          "date": "January 2022",
-          "template": "coi"
-        },
-        {
           "description": "15th and current Chief Minister Of Assam",
           "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "coi"
         },
         {
           "date": "February 2022",
@@ -496,10 +496,10 @@
             ]
           },
           "nickname": {
-            "text": "Bihari Mama",
+            "text": "Mama",
             "formatting": {
               "italic": [
-                "Bihari Mama"
+                "Mama"
               ]
             }
           },

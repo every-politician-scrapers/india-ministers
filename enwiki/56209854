@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Bhupendra Rajnikant Patel (born 15 July 1962) is an Indian politician and the current Chief Minister of Gujarat since September 2021.",
+              "text": "Bhupendrabhai Rajnikantbhai Patel (born 15 July 1962) is an Indian politician and the current Chief Minister of Gujarat since September 2021.",
               "links": [
                 {
                   "text": "Chief Minister of Gujarat",
@@ -32,8 +32,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Bhupendra Rajnikant Patel",
-                  "current"
+                  "Bhupendrabhai Rajnikantbhai Patel"
                 ]
               }
             },
@@ -97,7 +96,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Bhupendrabhai R Patel"
+            "text": "Bhupendra Patel"
           },
           "image": {
             "text": "Bhupendra PAtel Sanskrit.jpg"

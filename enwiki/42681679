@@ -93,24 +93,17 @@
           "template": "short description"
         },
         {
-          "part": "List of international trips as president",
-          "talk": "List of International Visits",
-          "reason": "The list is missing some of the International Visits made during his Presidency",
-          "date": "April 2021",
-          "template": "update"
-        },
-        {
           "date": "August 2020",
           "template": "use indian english"
         },
         {
-          "date": "September 2020",
+          "date": "February 2022",
           "template": "use dmy dates"
         },
         {
           "year": "1945",
           "month": "10",
-          "day": "01",
+          "day": "1",
           "df": "yes",
           "template": "birth date and age"
         },
@@ -195,13 +188,7 @@
             ]
           },
           "successor1": {
-            "text": "Keshari Nath Tripathi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Keshari Nath Tripathi"
-              }
-            ]
+            "text": "Keshari Nath Tripathi"
           },
           "office2": {
             "text": "Member of Parliament, Rajya Sabha",
