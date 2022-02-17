@@ -68,11 +68,7 @@
                   "page": "Madhya Pradesh"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "He is a former Member of Parliament in the Lok Sabha, representing the Guna constituency in Madhya Pradesh until his defeat in the 2019 Indian general election.",
               "links": [
@@ -137,11 +133,7 @@
                   "page": "Bharatiya Janata Party"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "Scindia is the son of the late Indian politician, Madhavrao Scindia, and a grandson of the last ruler of the princely state of Gwalior during the British Raj in India.",
               "links": [
@@ -162,6 +154,38 @@
                 {
                   "type": "internal",
                   "page": "British Raj"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Scindia is one of four Doon School alumni to leave Congress Party for BJP in recent times, along with R. P. N. Singh, Jitin Prasada and Amarinder Singh; traditionally the institution has had historic links with Congress since the Rajiv Gandhi's 'Doon Cabinet' era, and given Rahul Gandhi's own schooling at Doon.",
+              "links": [
+                {
+                  "text": "Doon School",
+                  "type": "internal",
+                  "page": "The Doon School"
+                },
+                {
+                  "type": "internal",
+                  "page": "R. P. N. Singh"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jitin Prasada"
+                },
+                {
+                  "type": "internal",
+                  "page": "Amarinder Singh"
+                },
+                {
+                  "text": "Rajiv Gandhi's 'Doon Cabinet' era",
+                  "type": "internal",
+                  "page": "The Doon School",
+                  "anchor": "Criticism of Rajiv Gandhi administration"
                 }
               ]
             }
