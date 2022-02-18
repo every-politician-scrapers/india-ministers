@@ -371,6 +371,15 @@
             "text": "4",
             "number": 4
           },
+          "alma_mater": {
+            "text": "Vikram University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vikram University"
+              }
+            ]
+          },
           "source": {
             "text": "http://loksabhaph.nic.in/Members/MemberBioprofile.aspx?mpsno=137&lastls=14"
           }
