@@ -129,6 +129,16 @@
                   "page": "Forbes list of The World's 100 Most Powerful Women"
                 }
               ]
+            },
+            {
+              "text": "Fortune ranked Nirmala Sitharaman as the most powerful woman in India.",
+              "links": [
+                {
+                  "text": "Fortune",
+                  "type": "internal",
+                  "page": "Fortune (magazine)"
+                }
+              ]
             }
           ]
         }

@@ -23,15 +23,16 @@
         {
           "sentences": [
             {
-              "text": "Narayan Tatya Rane (born 10 April 1952) is an Indian politician from Maharashtra state and former Chief Minister of Maharashtra.",
+              "text": "Narayan Tatya Rane (born 10 April 1952) is an Indian politician and former Chief Minister of Maharashtra.",
               "links": [
                 {
+                  "text": "Chief Minister",
                   "type": "internal",
-                  "page": "Maharashtra"
+                  "page": "Chief Minister of Maharashtra"
                 },
                 {
                   "type": "internal",
-                  "page": "Chief Minister of Maharashtra"
+                  "page": "Maharashtra"
                 }
               ],
               "formatting": {
@@ -41,18 +42,23 @@
               }
             },
             {
-              "text": "He is currently serving as the Minister of Micro, Small and Medium Enterprises of India.",
+              "text": "He currently serves as Minister of Micro, Small and Medium Enterprises in the Second Modi ministry.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Minister of Micro, Small and Medium Enterprises"
+                },
+                {
+                  "type": "internal",
+                  "page": "Second Modi ministry"
                 }
               ]
             },
             {
-              "text": "He was a Cabinet Minister for Industry, Port, Employment and Self-employment in the Government of Maharashtra.",
+              "text": "He has previously held Cabinet Ministry positions for Industry, Port, Employment and Self-employment; Revenue; and Industry in the Government of Maharashtra.",
               "links": [
                 {
+                  "text": "Cabinet Ministry positions",
                   "type": "internal",
                   "page": "Cabinet Minister"
                 },
@@ -67,7 +73,7 @@
         {
           "sentences": [
             {
-              "text": "He was a member of Shiv Sena and opposition leader of Vidhan Sabha until July 2005, before he joined Indian National Congress party.",
+              "text": "He was a member of Shiv Sena and opposition leader of Vidhan Sabha until July 2005, when he joined Indian National Congress party.",
               "links": [
                 {
                   "type": "internal",
@@ -89,7 +95,7 @@
               ]
             },
             {
-              "text": "In 2018, he declared support for Bharatiya Janata Party, and was elected to the Rajya Sabha on a BJP nomination.",
+              "text": "In 2018, he declared support for Bharatiya Janata Party and was elected to the Rajya Sabha on a BJP nomination.",
               "links": [
                 {
                   "type": "internal",
@@ -102,7 +108,7 @@
               ]
             },
             {
-              "text": "On 15 October 2019, he joined Bhartiya Janata Party and his party Maharashtra Swabhiman Paksha was also merged into BJP.",
+              "text": "On 15 October 2019, he joined Bhartiya Janata Party and merged his party, Maharashtra Swabhiman Paksha, into the BJP.",
               "links": [
                 {
                   "type": "internal",
@@ -119,12 +125,12 @@
       ],
       "templates": [
         {
-          "date": "August 2021",
-          "template": "copy edit"
-        },
-        {
           "description": "Indian politician",
           "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "copy edit"
         },
         {
           "date": "October 2011",
