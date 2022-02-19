@@ -18,7 +18,13 @@
         {
           "sentences": [
             {
-              "text": "Ram Chandra Prasad Singh (RCP Singh) is an Indian Politician and a former Indian Administrative Service officer currently serving as the Union Minister for Steel, Govt.",
+              "text": "Ram Chandra Prasad Singh is an Indian politician and former national president of Janata Dal (United).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Janata Dal (United)"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Ram Chandra Prasad Singh"
@@ -26,29 +32,53 @@
               }
             },
             {
-              "text": "of India since 8th July 2021."
+              "text": "He is also a Member of Parliament, Rajya Sabha from Bihar since 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Member of Parliament"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rajya Sabha"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bihar"
+                }
+              ]
             },
             {
-              "text": "In 2010, he took voluntary retirement and entered politics and joined the Janta Dal United party.."
+              "text": "He was a UP cadre IAS officer before joining politics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "IAS officer"
+                }
+              ]
             },
             {
-              "text": "He became a member of Parliament representing the state of Bihar in Rajya Sabha."
+              "text": "He was also principal secretary of Nitish Kumar.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nitish Kumar"
+                }
+              ]
             },
             {
-              "text": "He also served as the National President Of Janta Dal United before joining the Modi Cabinet as a Cabinet Minister."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He entered politics by joining the Janta Dal United after serving the public and nation as a Bureaucrat for a period of twenty eight years."
-            },
-            {
-              "text": "After taking voluntary retirement in 2010, he continued his journey in public service .He represents the state of Bihar in the upper House of Parliament- Rajya Sabha since July 2010.He qualified for the Indian Revenue in 1982."
-            },
-            {
-              "text": "Joined the Indian Administrative service in 1984 and was allotted the Uttar Pradesh Cadre."
+              "text": "He became Minister of Steel in Second Modi ministry when cabinet overhaul happened.",
+              "links": [
+                {
+                  "text": "Minister of Steel",
+                  "type": "internal",
+                  "page": "Ministry of Steel"
+                },
+                {
+                  "type": "internal",
+                  "page": "Second Modi ministry"
+                }
+              ]
             }
           ]
         }
@@ -59,7 +89,7 @@
           "template": "short description"
         },
         {
-          "date": "November 2020",
+          "date": "February 2022",
           "template": "use dmy dates"
         },
         {
@@ -77,6 +107,10 @@
           "spouse": "Girija Singh",
           "from": "1982",
           "template": "marriage"
+        },
+        {
+          "date": "December 2021",
+          "template": "cn"
         }
       ],
       "infoboxes": [
@@ -85,7 +119,7 @@
             "text": "File:RCP Singh jpg.jpg"
           },
           "name": {
-            "text": "Ram Chandra Prasad Singh"
+            "text": "Ramchandra Prasad Singh"
           },
           "nickname": {
             "text": "RCP Singh"
@@ -148,7 +182,7 @@
             ]
           },
           "term_start1": {
-            "text": "27 Dec 2020"
+            "text": "27 December 2020"
           },
           "term_end1": {
             "text": "31 July 2021"
@@ -214,7 +248,7 @@
             "text": "Girija Singh (m. 1982)"
           },
           "children": {
-            "text": "2 daughters (Lipi Singh and Lata Singh)",
+            "text": "2 (including Lipi Singh)",
             "links": [
               {
                 "type": "internal",
