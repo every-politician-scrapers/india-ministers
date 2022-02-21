@@ -27,7 +27,7 @@
         {
           "sentences": [
             {
-              "text": "Yogi Adityanath (born Ajay Mohan Bisht; 5 June, 1972 ) is an Indian Hindu monk and politician serving as the 22nd and current Chief Minister of Uttar Pradesh, in office since 19 March 2017.",
+              "text": "Yogi Adityanath (born Ajay Mohan Bisht; 5 June 1972 ) is an Indian Hindu monk and politician serving as the 22nd and current Chief Minister of Uttar Pradesh, in office since 19 March 2017.",
               "links": [
                 {
                   "text": "Hindu",
@@ -155,7 +155,7 @@
           "template": "use indian english"
         },
         {
-          "date": "April 2021",
+          "date": "February 2022",
           "template": "use dmy dates"
         },
         {
@@ -215,7 +215,7 @@
             ]
           },
           "ordination": {
-            "text": "12 September, 2014"
+            "text": "12 September 2014"
           },
           "predecessor": {
             "text": "Mahant Avaidyanath",
@@ -274,7 +274,7 @@
             ]
           },
           "term_start": {
-            "text": "19 March, 2017"
+            "text": "19 March 2017"
           },
           "predecessor": {
             "text": "Akhilesh Yadav",
@@ -335,7 +335,7 @@
             "text": "5 October 1998"
           },
           "term_end3": {
-            "text": "21 September, 2017"
+            "text": "21 September 2017"
           },
           "predecessor3": {
             "text": "Mahant Avaidyanath",
@@ -365,7 +365,7 @@
             ]
           },
           "term_start2": {
-            "text": "18 September, 2017"
+            "text": "18 September 2017"
           },
           "constituency2": {
             "text": "elected by Legislative Assembly members",
