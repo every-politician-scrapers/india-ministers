@@ -89,7 +89,7 @@
       ],
       "templates": [
         {
-          "description": "14th President of India",
+          "description": "Fourteenth & Incumbent President of India (since 2017)",
           "template": "short description"
         },
         {
@@ -111,6 +111,10 @@
           "spouse": "Savita Kovind",
           "from": "1974",
           "template": "marriage"
+        },
+        {
+          "file": "राम नाथ कोविन्द.ogg",
+          "template": "audio"
         }
       ],
       "infoboxes": [
