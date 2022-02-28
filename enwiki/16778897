@@ -129,34 +129,6 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "N. Biren Singh has been responsible for a crackdown on freedom of speech, leading to journalists being jailed for crimes such as stating that cow dung does not cure COVID-19.",
-              "links": [
-                {
-                  "text": "freedom of speech",
-                  "type": "internal",
-                  "page": "freedom of speech"
-                },
-                {
-                  "text": "journalists",
-                  "type": "internal",
-                  "page": "journalists"
-                },
-                {
-                  "text": "cow dung",
-                  "type": "internal",
-                  "page": "cow dung"
-                },
-                {
-                  "type": "internal",
-                  "page": "COVID-19"
-                }
-              ]
-            }
-          ]
         }
       ],
       "templates": [

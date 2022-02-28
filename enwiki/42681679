@@ -24,12 +24,11 @@
         {
           "sentences": [
             {
-              "text": "Ram Nath Kovind (born 1 October 1945) is an Indian lawyer and politician serving as the 14th and current president of India since his inauguration in 2017.",
+              "text": "Ram Nath Kovind (born 1 October 1945) is an Indian politician serving as the 14th and current President of India since from 25 July 2017.",
               "links": [
                 {
-                  "text": "president of India",
                   "type": "internal",
-                  "page": "president of India"
+                  "page": "President of India"
                 }
               ],
               "formatting": {
@@ -89,7 +88,7 @@
       ],
       "templates": [
         {
-          "description": "Fourteenth & Incumbent President of India (since 2017)",
+          "description": "President of India since 2017",
           "template": "short description"
         },
         {

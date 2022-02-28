@@ -116,10 +116,6 @@
           "template": "short description"
         },
         {
-          "date": "January 2022",
-          "template": "coi"
-        },
-        {
           "date": "February 2022",
           "template": "use dmy dates"
         },
