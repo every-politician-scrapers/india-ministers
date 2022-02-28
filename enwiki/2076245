@@ -85,7 +85,7 @@
           "template": "short description"
         },
         {
-          "date": "August 2020",
+          "date": "February 2022",
           "template": "use dmy dates"
         },
         {
@@ -349,8 +349,8 @@
               }
             ]
           },
-          "parents": {
-            "text": "Biju Patnaik\nGyan Patnaik",
+          "father": {
+            "text": "Biju Patnaik",
             "links": [
               {
                 "type": "internal",
@@ -359,11 +359,11 @@
             ]
           },
           "relatives": {
-            "text": "Geeta Mehta (sister) Sonny Mehta (brother-in-law)",
+            "text": "Gita Mehta (sister) Sonny Mehta (brother-in-law)",
             "links": [
               {
                 "type": "internal",
-                "page": "Geeta Mehta"
+                "page": "Gita Mehta"
               },
               {
                 "type": "internal",

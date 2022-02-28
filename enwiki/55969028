@@ -325,7 +325,7 @@
             "text": "April 22, 1960"
           },
           "birth_place": {
-            "text": "Pune, Bombay State, India\n(Now Maharashtra, India)",
+            "text": "Pune, Bombay State, India",
             "links": [
               {
                 "type": "internal",
@@ -334,14 +334,6 @@
               {
                 "type": "internal",
                 "page": "Bombay State"
-              },
-              {
-                "type": "internal",
-                "page": "India"
-              },
-              {
-                "type": "internal",
-                "page": "Maharashtra"
               },
               {
                 "type": "internal",

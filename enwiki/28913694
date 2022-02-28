@@ -481,12 +481,12 @@
             ]
           },
           "office9": {
-            "text": "Minister of Finance & Corporate Affairs",
+            "text": "Minister of Mines (Independent Charge)",
             "links": [
               {
-                "text": "Minister of Finance & Corporate Affairs",
+                "text": "Minister of Mines (Independent Charge)",
                 "type": "internal",
-                "page": "Minister of Finance (India)"
+                "page": "Ministry of Mines (India)"
               }
             ]
           },
@@ -500,36 +500,36 @@
             ]
           },
           "term_start9": {
-            "text": "14 May 2018"
+            "text": "5 July 2016"
           },
           "term_end9": {
-            "text": "23 August 2018"
+            "text": "3 September 2017"
           },
           "predecessor9": {
-            "text": "Arun Jaitley",
+            "text": "Narendra Singh Tomar",
             "links": [
               {
                 "type": "internal",
-                "page": "Arun Jaitley"
+                "page": "Narendra Singh Tomar"
               }
             ]
           },
           "successor9": {
-            "text": "Arun Jaitley",
+            "text": "Narendra Singh Tomar",
             "links": [
               {
                 "type": "internal",
-                "page": "Arun Jaitley"
+                "page": "Narendra Singh Tomar"
               }
             ]
           },
           "office10": {
-            "text": "Minister of Mines (Independent Charge)",
+            "text": "Minister of New and Renewable Energy (Independent Charge)",
             "links": [
               {
-                "text": "Minister of Mines (Independent Charge)",
+                "text": "Minister of New and Renewable Energy (Independent Charge)",
                 "type": "internal",
-                "page": "Ministry of Mines (India)"
+                "page": "Ministry of New and Renewable Energy (India)"
               }
             ]
           },
@@ -543,55 +543,12 @@
             ]
           },
           "term_start10": {
-            "text": "5 July 2016"
+            "text": "26 May 2014"
           },
           "term_end10": {
             "text": "3 September 2017"
           },
           "predecessor10": {
-            "text": "Narendra Singh Tomar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Singh Tomar"
-              }
-            ]
-          },
-          "successor10": {
-            "text": "Narendra Singh Tomar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Singh Tomar"
-              }
-            ]
-          },
-          "office11": {
-            "text": "Minister of New and Renewable Energy (Independent Charge)",
-            "links": [
-              {
-                "text": "Minister of New and Renewable Energy (Independent Charge)",
-                "type": "internal",
-                "page": "Ministry of New and Renewable Energy (India)"
-              }
-            ]
-          },
-          "primeminister11": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "term_start11": {
-            "text": "26 May 2014"
-          },
-          "term_end11": {
-            "text": "3 September 2017"
-          },
-          "predecessor11": {
             "text": "Farooq Abdullah",
             "links": [
               {
@@ -600,7 +557,7 @@
               }
             ]
           },
-          "successor11": {
+          "successor10": {
             "text": "Raj Kumar Singh",
             "links": [
               {
@@ -609,50 +566,7 @@
               }
             ]
           },
-          "office12": {
-            "text": "Minister of New and Renewable Energy (Independent Charge)",
-            "links": [
-              {
-                "text": "Minister of New and Renewable Energy (Independent Charge)",
-                "type": "internal",
-                "page": "Ministry of New and Renewable Energy (India)"
-              }
-            ]
-          },
-          "primeminister12": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "term_start12": {
-            "text": "26 May 2014"
-          },
-          "term_end12": {
-            "text": "3 September 2017"
-          },
-          "predecessor12": {
-            "text": "Jyotiraditya Scindia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jyotiraditya Scindia"
-              }
-            ]
-          },
-          "successor12": {
-            "text": "Raj Kumar Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Raj Kumar Singh"
-              }
-            ]
-          },
-          "office13": {
+          "office11": {
             "text": "Member of Parliament, Rajya Sabha",
             "links": [
               {
@@ -661,10 +575,10 @@
               }
             ]
           },
-          "term_start13": {
+          "term_start11": {
             "text": "5 July 2010"
           },
-          "constituency13": {
+          "constituency11": {
             "text": "Maharashtra",
             "links": [
               {

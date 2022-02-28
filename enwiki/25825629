@@ -510,16 +510,6 @@
           },
           "spouse": {
             "text": "G. Kavya"
-          },
-          "website": {
-            "text": "Official site",
-            "links": [
-              {
-                "text": "Official site",
-                "type": "external",
-                "site": "https://kishanreddy.com/"
-              }
-            ]
           }
         }
       ]
