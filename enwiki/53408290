@@ -120,19 +120,20 @@
             "text": "R. K. Mathur"
           },
           "predecessor": {
-            "text": "Position established",
-            "formatting": {
-              "italic": [
-                "Position established"
-              ]
-            }
-          },
-          "appointer": {
-            "text": "President of India (then Ram Nath Kovind)",
+            "text": "Satyapal Malik(J&K Governor)",
             "links": [
               {
                 "type": "internal",
-                "page": "President of India"
+                "page": "Satyapal Malik"
+              }
+            ]
+          },
+          "president": {
+            "text": "Ram Nath Kovind",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ram Nath Kovind"
               }
             ]
           },
