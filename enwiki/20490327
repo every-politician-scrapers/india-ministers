@@ -443,7 +443,7 @@
             "text": "December 21, 1972"
           },
           "birth_place": {
-            "text": "Jammalamadugu, Andhra Pradesh, India",
+            "text": "Jammalamadugu,\n\nAndhra Pradesh, India",
             "links": [
               {
                 "type": "internal",
@@ -504,7 +504,7 @@
             ]
           },
           "relatives": {
-            "text": "Y. S. Sharmila (sister)\nY. S. Avinash Reddy (cousin)\nY. S. Vivekananda Reddy (uncle)\nY. S. Raja Reddy (grandfather)",
+            "text": "Y. S. Sharmila (sister)\n\nY. S. Avinash Reddy (cousin)\n\nY. S. Vivekananda Reddy (uncle)\n\nY. S. Raja Reddy (grandfather)",
             "links": [
               {
                 "type": "internal",

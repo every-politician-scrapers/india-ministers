@@ -75,7 +75,7 @@
           "template": "short description"
         },
         {
-          "date": "February 2022",
+          "date": "March 2022",
           "template": "use dmy dates"
         },
         {
@@ -85,7 +85,7 @@
         {
           "year": "1963",
           "month": "3",
-          "day": "1",
+          "day": "12",
           "df": "y",
           "template": "birth date and age"
         },
@@ -108,7 +108,7 @@
             "text": "Charanjit Singh Channi (cropped).png"
           },
           "birth_date": {
-            "text": "March 1, 1963"
+            "text": "March 12, 1963"
           },
           "birth_place": {
             "text": "Chamkaur, Punjab, India",

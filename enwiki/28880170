@@ -124,7 +124,7 @@
           "template": "use indian english"
         },
         {
-          "date": "May 2020",
+          "date": "March 2022",
           "template": "use dmy dates"
         },
         {
@@ -466,20 +466,6 @@
             "text": "2016",
             "number": 2016
           },
-          "office6": {
-            "text": "Member of the Gujarat Legislative Assembly",
-            "links": [
-              {
-                "text": "Member",
-                "type": "internal",
-                "page": "Member of the Legislative Assembly (India)"
-              },
-              {
-                "type": "internal",
-                "page": "Gujarat Legislative Assembly"
-              }
-            ]
-          },
           "constituency6": {
             "text": "Patan",
             "links": [
@@ -497,20 +483,6 @@
           "term_end6": {
             "text": "2012",
             "number": 2012
-          },
-          "office7": {
-            "text": "Member of the Gujarat Legislative Assembly",
-            "links": [
-              {
-                "text": "Member",
-                "type": "internal",
-                "page": "Member of the Legislative Assembly (India)"
-              },
-              {
-                "type": "internal",
-                "page": "Gujarat Legislative Assembly"
-              }
-            ]
           },
           "constituency7": {
             "text": "Mandal",

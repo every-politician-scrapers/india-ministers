@@ -40,7 +40,7 @@
               }
             },
             {
-              "text": "He previously served as the Ambassador of India to the United States of America,Ambassador to Thailand and High Commissioner to Bangladesh.",
+              "text": "He previously served as the Ambassador of India to the United States of America, Ambassador to Thailand and High Commissioner to Bangladesh.",
               "links": [
                 {
                   "text": "Ambassador of India to the United States of America",
@@ -104,6 +104,9 @@
           },
           "alt": {
             "text": "Foreign Secretary Harsh Vardhan Shringla at Ministry of External Affairs, New Delhi"
+          },
+          "caption": {
+            "text": "Shringla in June 2020"
           },
           "office": {
             "text": "33rd Foreign Secretary of India",

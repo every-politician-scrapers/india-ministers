@@ -94,7 +94,7 @@
               ]
             },
             {
-              "text": "Later Served as an MP in Rajya Sabha from 2008 to 2014 from Uttarakhand and then the MP in the 16th Lok Sabha from Nainital-Udhamsingh Nagar constituency, earning him the distinction of being elected in both houses of State Legislature and both houses of National Parliament respectively.",
+              "text": "He later served as an MP in Rajya Sabha from 2008 to 2014 from Uttarakhand and then the MP in the 16th Lok Sabha from Nainital-Udhamsingh Nagar constituency, earning him the distinction of being elected in both houses of State Legislature and both houses of National Parliament respectively.",
               "links": [
                 {
                   "text": "MP",
@@ -135,7 +135,7 @@
           "template": "use indian english"
         },
         {
-          "date": "December 2020",
+          "date": "March 2022",
           "template": "use dmy dates"
         },
         {
@@ -185,6 +185,15 @@
           "term_start": {
             "text": "5 September 2019"
           },
+          "president": {
+            "text": "Ram Nath Kovind",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ram Nath Kovind"
+              }
+            ]
+          },
           "1blankname": {
             "text": "Chief Minister"
           },
@@ -216,6 +225,15 @@
               {
                 "type": "internal",
                 "page": "Governor of Goa"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Ram Nath Kovind",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ram Nath Kovind"
               }
             ]
           },
@@ -436,21 +454,6 @@
           },
           "website": {
             "text": "https://rajbhavan-maharashtra.gov.in"
-          },
-          "citizenship": {
-            "text": "🇮🇳 Indian",
-            "links": [
-              {
-                "text": "🇮🇳",
-                "type": "internal",
-                "page": "india"
-              },
-              {
-                "text": "Indian",
-                "type": "internal",
-                "page": "Indian people"
-              }
-            ]
           },
           "education": {
             "text": "Master of Arts",

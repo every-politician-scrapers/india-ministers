@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Kiren Rijiju (born 19 November 1971) is an Indian lawyer and politician from Arunachal Pradesh who is the current Minister of Law and Justice of India, in the Second Modi ministry from 7 July 2021.",
+              "text": "Kiren Rijiju is an Indian lawyer and a politician who serves as the Minister of Law and Justice in the Government of India.",
               "links": [
                 {
                   "text": "lawyer",
@@ -38,17 +38,9 @@
                   "page": "politician"
                 },
                 {
-                  "type": "internal",
-                  "page": "Arunachal Pradesh"
-                },
-                {
                   "text": "Minister of Law and Justice",
                   "type": "internal",
                   "page": "Ministry of Law and Justice (India)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Second Modi ministry"
                 }
               ],
               "formatting": {
@@ -56,15 +48,6 @@
                   "Kiren Rijiju"
                 ]
               }
-            },
-            {
-              "text": "He is a member of the Bharatiya Janata Party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bharatiya Janata Party"
-                }
-              ]
             }
           ]
         }

@@ -152,7 +152,7 @@
           "template": "engvarb"
         },
         {
-          "date": "September 2019",
+          "date": "March 2022",
           "template": "use dmy dates"
         },
         {
@@ -809,12 +809,12 @@
             "text": "June 12, 1957"
           },
           "birth_place": {
-            "text": "Morena, Madhya Pradesh, India",
+            "text": "Morar, Gwalior, Madhya Pradesh, India",
             "links": [
               {
-                "text": "Morena",
+                "text": "Gwalior",
                 "type": "internal",
-                "page": "Morena district"
+                "page": "Gwalior district"
               },
               {
                 "type": "internal",
