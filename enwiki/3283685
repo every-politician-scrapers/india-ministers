@@ -147,6 +147,15 @@
                   "page": "Lok Sabha"
                 }
               ]
+            },
+            {
+              "text": "Controversy"
+            },
+            {
+              "text": "When In a stern warning against “Love Jihad”, Madhya Pradesh chief minister Shiv Raj Singh Chouhan on said, “If someone plots religious conversion or does anything like this, they will be destroyed,” news agency ANI quoted Chouhan as saying."
+            },
+            {
+              "text": "This comes as the state is preparing to pass a controversial ordinance that outlaws marriages with an aim of religious conversions."
             }
           ]
         },
@@ -340,12 +349,12 @@
             ]
           },
           "office2": {
-            "text": "Vice President of Bharatiya Janata Party",
+            "text": "Vice President of Indian National Congress",
             "links": [
               {
-                "text": " Vice President of Bharatiya Janata Party",
+                "text": " Vice President of Indian National Congress",
                 "type": "internal",
-                "page": "Bharatiya Janata Party"
+                "page": "Indian National Congress"
               }
             ]
           },

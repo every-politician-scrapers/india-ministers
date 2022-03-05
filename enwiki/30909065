@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Hardeep Singh Puri (born 15 February 1952) is an Indian politician and former Indian diplomat who is currently serving as the Minister of Petroleum and Natural Gas and Minister of Housing and Urban Affairs in India.",
+              "text": "Hardeep Singh Puri (born 15 February 1952) is an Indian politician and former Indian diplomat who is currently serving as the Minister of Petroleum and Natural Gas and Minister of Housing and Urban Affairs in the Government of India.",
               "links": [
                 {
                   "text": "diplomat",
@@ -51,7 +51,11 @@
                   "Hardeep Singh Puri"
                 ]
               }
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "He is a 1974 batch Indian Foreign Service officer who served as the Permanent Representative of India to the United Nations from 2009 to 2013.",
               "links": [
