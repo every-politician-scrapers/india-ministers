@@ -230,7 +230,7 @@
               "text": "Modi was elected to the legislative assembly soon after."
             },
             {
-              "text": "His administration has been severely criticised for it's mismanagement and alleged complicity in 2002 Gujarat riots in which 1044 people were killed, three-quarters of whom were Muslim,.",
+              "text": "His administration has been considered complicit in the 2002 Gujarat riots in which 1044 people were killed, three-quarters of whom were Muslim, or otherwise criticised for its management of the crisis.",
               "links": [
                 {
                   "text": "2002 Gujarat riots",
@@ -240,7 +240,21 @@
               ]
             },
             {
-              "text": "Whle Modi faced several allegations related to riots, the Supreme Court of India-appointed Special Investigation Team found no evidence to initiate prosecution proceedings against Modi personally.",
+              "text": "The Supreme Court remarked that Narendra Modi was like a Modern-day Nero, looking the other way as innocent women and children were burning.",
+              "links": [
+                {
+                  "text": "Supreme Court",
+                  "type": "internal",
+                  "page": "Supreme Court of India"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nero"
+                }
+              ]
+            },
+            {
+              "text": "A Supreme Court of India-appointed Special Investigation Team found no evidence to initiate prosecution proceedings against Modi personally.",
               "links": [
                 {
                   "type": "internal",
@@ -249,7 +263,7 @@
               ]
             },
             {
-              "text": "Modi's policies as chief minister are credited with encouraging economic growth, but his administration has also been criticised for failing to improve the human development indices in the state."
+              "text": "While his policies as chief minister—credited with encouraging economic growth—have received praise, his administration has been criticised for failing to significantly improve health, poverty and education indices in the state."
             }
           ]
         },
