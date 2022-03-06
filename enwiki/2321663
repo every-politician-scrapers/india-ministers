@@ -290,10 +290,6 @@
           "links": []
         },
         {
-          "small": "yes",
-          "template": "pp-semi"
-        },
-        {
           "date": "November 2021",
           "template": "use dmy dates"
         },
