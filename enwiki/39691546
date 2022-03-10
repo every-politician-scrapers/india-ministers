@@ -1,506 +1,59 @@
 {
-  "title": "Giriraj Singh",
-  "pageID": 39691546,
-  "categories": [
-    "1952 births",
-    "Living people",
-    "Bharatiya Janata Party politicians from Bihar",
-    "People from Bihar",
-    "16th Lok Sabha members",
-    "People from Lakhisarai district",
-    "People from Nawada district",
-    "Lok Sabha members from Bihar",
-    "Narendra Modi ministry",
-    "Far-right politicians in India",
-    "17th Lok Sabha members",
-    "Magadh University alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Giriraj Singh (born 8 September 1952) is an Indian politician and the Minister of Rural Development and Panchayati Raj Department in the 23rd Ministry of the Republic of India with a cabinet minister rank.",
-              "links": [
-                {
-                  "text": "23rd Ministry of the Republic of India",
-                  "type": "internal",
-                  "page": "Second Modi ministry"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Giriraj Singh"
-                ]
-              }
-            },
-            {
-              "text": "He is the Member of Parliament from the Begusarai parliamentary constituency in the 17th Lok Sabha.",
-              "links": [
-                {
-                  "text": "Member of Parliament",
-                  "type": "internal",
-                  "page": "Member of Parliament (India)"
-                },
-                {
-                  "text": "Begusarai",
-                  "type": "internal",
-                  "page": "Begusarai (Lok Sabha constituency)"
-                },
-                {
-                  "text": "17th Lok Sabha",
-                  "type": "internal",
-                  "page": "17th Lok Sabha"
-                }
-              ]
-            },
-            {
-              "text": "He has also formerly served as Minister of Cooperative, Animal Husbandry and Fisheries Resources Development in the Government of Bihar.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Government of Bihar"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indian politician",
-          "template": "short description"
-        },
-        {
-          "date": "December 2014",
-          "template": "use indian english"
-        },
-        {
-          "date": "January 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1952",
-          "month": "09",
-          "day": "08",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "The Minister of State for Micro, Small & Medium Enterprises (IC), Shri Giriraj Singh addressing at the launch of the New Dress Code for Postman and Multi-Tasking Personnel of Department of Posts, in New Delhi.jpg"
-          },
-          "alt": {
-            "text": "Giriraj Singh"
-          },
-          "office": {
-            "text": "Minister of Rural Development & Panchayati Raj",
-            "links": [
-              {
-                "text": "Minister of Rural Development",
-                "type": "internal",
-                "page": "Ministry of Rural Development (India)"
-              },
-              {
-                "text": "Panchayati Raj",
-                "type": "internal",
-                "page": "Minister of Panchayati Raj"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Narendra Singh Tomar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Singh Tomar"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "7 July 2021"
-          },
-          "office1": {
-            "text": "Minister of Animal Husbandry, Dairying and Fisheries",
-            "links": [
-              {
-                "text": "Minister of Animal Husbandry, Dairying and Fisheries",
-                "type": "internal",
-                "page": "Ministry of Animal Husbandry, Dairying and Fisheries"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "ministry created",
-            "formatting": {
-              "italic": [
-                "ministry created"
-              ]
-            }
-          },
-          "primeminister1": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "30 May 2019"
-          },
-          "term_end1": {
-            "text": "7 July 2021"
-          },
-          "office2": {
-            "text": "Minister of Micro, Small and Medium Enterprises (Independent charge)",
-            "links": [
-              {
-                "text": "Minister of Micro, Small and Medium Enterprises (Independent charge)",
-                "type": "internal",
-                "page": "Ministry of Micro, Small and Medium Enterprises"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Kalraj Mishra",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kalraj Mishra"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Nitin Gadkari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nitin Gadkari"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "3 September 2017"
-          },
-          "term_end2": {
-            "text": "30 May 2019"
-          },
-          "office3": {
-            "text": "Minister of State for Micro, Small and Medium Enterprises",
-            "links": [
-              {
-                "text": "Minister of State for Micro, Small and Medium Enterprises",
-                "type": "internal",
-                "page": "Ministry of Micro, Small and Medium Enterprises"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "minister3": {
-            "text": "Kalraj Mishra",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kalraj Mishra"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "9 November 2014"
-          },
-          "term_end3": {
-            "text": "3 September 2017\nServed with H.P Chaudhary (From 5 July 16)",
-            "links": [
-              {
-                "text": "H.P Chaudhary",
-                "type": "internal",
-                "page": "Haribhai Parthibhai Chaudhary"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Member of Parliament Lok Sabha",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "Member of Parliament, Lok Sabha"
-              },
-              {
-                "type": "internal",
-                "page": "Lok Sabha"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "2019",
-            "number": 2019
-          },
-          "constituency4": {
-            "text": "Begusarai",
-            "links": [
-              {
-                "text": "Begusarai",
-                "type": "internal",
-                "page": "Begusarai (Lok Sabha constituency)"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Bhola Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bhola Singh"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "2014",
-            "number": 2014
-          },
-          "term_end5": {
-            "text": "2019",
-            "number": 2019
-          },
-          "constituency5": {
-            "text": "Nawada",
-            "links": [
-              {
-                "text": "Nawada",
-                "type": "internal",
-                "page": "Nawada (Lok Sabha constituency)"
-              }
-            ]
-          },
-          "predecessor5": {
-            "text": "Dr. Bhola Singh",
-            "links": [
-              {
-                "text": "Dr. Bhola Singh",
-                "type": "internal",
-                "page": "Bhola Singh"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Chandan Singh",
-            "links": [
-              {
-                "text": "Chandan Singh",
-                "type": "internal",
-                "page": "Chandan Singh (politician)"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Minister of Animal Husbandry & Fisheries Government of Bihar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Government of Bihar"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "26 November 2010"
-          },
-          "term_end6": {
-            "text": "16 June 2013"
-          },
-          "1blankname6": {
-            "text": "Chief Minister",
-            "links": [
-              {
-                "text": "Chief Minister",
-                "type": "internal",
-                "page": "Chief Minister of Bihar"
-              }
-            ]
-          },
-          "1namedata6": {
-            "text": "Nitish Kumar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nitish Kumar"
-              }
-            ]
-          },
-          "predecessor6": {
-            "text": "Ramnarayan Mandal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ramnarayan Mandal"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Minister of Cooperatives Government of Bihar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Government of Bihar"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "13 April 2008"
-          },
-          "term_end7": {
-            "text": "26 November 2010"
-          },
-          "1blankname7": {
-            "text": "Chief Minister",
-            "links": [
-              {
-                "text": "Chief Minister",
-                "type": "internal",
-                "page": "Chief Minister of Bihar"
-              }
-            ]
-          },
-          "1namedata7": {
-            "text": "Nitish Kumar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nitish Kumar"
-              }
-            ]
-          },
-          "predecessor7": {
-            "text": "Ramji Das Rishidev"
-          },
-          "successor7": {
-            "text": "Ramadhar Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ramadhar Singh"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Member of Bihar Legislative Council",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bihar Legislative Council"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "7 May 2002"
-          },
-          "term_end8": {
-            "text": "16 May 2014"
-          },
-          "constituency8": {
-            "text": "elected by Legislative Assembly members",
-            "formatting": {
-              "italic": [
-                "elected by Legislative Assembly members"
-              ]
-            }
-          },
-          "party": {
-            "text": "Bharatiya Janata Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "September 8, 1952"
-          },
-          "birth_place": {
-            "text": "Barahiya, Bihar, India",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Barahiya"
-              },
-              {
-                "type": "internal",
-                "page": "Bihar"
-              },
-              {
-                "type": "internal",
-                "page": "India"
-              }
-            ]
-          },
-          "children": {
-            "text": "1",
-            "number": 1
-          },
-          "alma_mater": {
-            "text": "Magadh University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Magadh University"
-              }
-            ]
-          },
-          "website": {
-            "text": "https://girirajsingh.in"
-          },
-          "spouse": {
-            "text": "Uma Sinha"
-          },
-          "successor1": {
-            "text": "Parshottam K. Rupala",
-            "links": [
-              {
-                "text": "Parshottam K. Rupala",
-                "type": "internal",
-                "page": "Parshottam Rupala"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Shandilya Giriraj Singh"
-          }
-        }
-      ]
-    }
-  ]
+  "image": "The Minister of State for Micro, Small & Medium Enterprises (IC), Shri Giriraj Singh addressing at the launch of the New Dress Code for Postman and Multi-Tasking Personnel of Department of Posts, in New Delhi.jpg",
+  "alt": "Giriraj Singh",
+  "office": "Minister of Rural Development & Panchayati Raj",
+  "predecessor": "Narendra Singh Tomar",
+  "primeminister": "Narendra Modi",
+  "term_start": "7 July 2021",
+  "office1": "Minister of Animal Husbandry, Dairying and Fisheries",
+  "predecessor1": "ministry created",
+  "primeminister1": "Narendra Modi",
+  "term_start1": "30 May 2019",
+  "term_end1": "7 July 2021",
+  "office2": "Minister of Micro, Small and Medium Enterprises (Independent charge)",
+  "primeminister2": "Narendra Modi",
+  "predecessor2": "Kalraj Mishra",
+  "successor2": "Nitin Gadkari",
+  "term_start2": "3 September 2017",
+  "term_end2": "30 May 2019",
+  "office3": "Minister of State for Micro, Small and Medium Enterprises",
+  "primeminister3": "Narendra Modi",
+  "minister3": "Kalraj Mishra",
+  "term_start3": "9 November 2014",
+  "term_end3": "3 September 2017\nServed with H.P Chaudhary (From 5 July 16)",
+  "office4": "Member of Parliament Lok Sabha",
+  "term_start4": "2019",
+  "constituency4": "Begusarai",
+  "predecessor4": "Bhola Singh",
+  "term_start5": "2014",
+  "term_end5": "2019",
+  "constituency5": "Nawada",
+  "predecessor5": "Dr. Bhola Singh",
+  "successor5": "Chandan Singh",
+  "office6": "Minister of Animal Husbandry & Fisheries Government of Bihar",
+  "term_start6": "26 November 2010",
+  "term_end6": "16 June 2013",
+  "1blankname6": "Chief Minister",
+  "1namedata6": "Nitish Kumar",
+  "predecessor6": "Ramnarayan Mandal",
+  "office7": "Minister of Cooperatives Government of Bihar",
+  "term_start7": "13 April 2008",
+  "term_end7": "26 November 2010",
+  "1blankname7": "Chief Minister",
+  "1namedata7": "Nitish Kumar",
+  "predecessor7": "Ramji Das Rishidev",
+  "successor7": "Ramadhar Singh",
+  "office8": "Member of Bihar Legislative Council",
+  "term_start8": "7 May 2002",
+  "term_end8": "16 May 2014",
+  "constituency8": "elected by Legislative Assembly members",
+  "party": "Bharatiya Janata Party",
+  "birth_date": "September 8, 1952",
+  "birth_place": "Barahiya, Bihar, India",
+  "children": "1",
+  "alma_mater": "Magadh University",
+  "website": "https://girirajsingh.in",
+  "spouse": "Uma Sinha",
+  "successor1": "Parshottam K. Rupala",
+  "birth_name": "Shandilya Giriraj Singh"
 }

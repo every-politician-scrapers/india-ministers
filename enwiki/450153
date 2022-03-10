@@ -1,592 +1,65 @@
 {
-  "title": "Venkaiah Naidu",
-  "pageID": 450153,
-  "categories": [
-    "1949 births",
-    "Bharatiya Janata Party politicians from Andhra Pradesh",
-    "Indian Hindus",
-    "Members of the Cabinet of India",
-    "Janata Party politicians",
-    "Living people",
-    "Narendra Modi ministry",
-    "People from Nellore",
-    "Ministers for Information and Broadcasting of India",
-    "Presidents of Bharatiya Janata Party",
-    "Rajya Sabha members from Karnataka",
-    "Rajya Sabha members from Rajasthan",
-    "Telugu people",
-    "Vice presidents of India"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Muppavarapu Venkaiah Naidu (born 1 July 1949) is an Indian politician serving as the 13th and current vice president of India since 2017.",
-              "links": [
-                {
-                  "text": "vice president of India",
-                  "type": "internal",
-                  "page": "vice president of India"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Muppavarapu Venkaiah Naidu"
-                ]
-              }
-            },
-            {
-              "text": "Previously, he served as the minister of Housing and Urban Poverty Alleviation, Urban Development and Information and Broadcasting in the Modi Cabinet.",
-              "links": [
-                {
-                  "text": "minister of Housing and Urban Poverty Alleviation",
-                  "type": "internal",
-                  "page": "Ministry of Housing and Urban Poverty Alleviation"
-                },
-                {
-                  "text": "Urban Development",
-                  "type": "internal",
-                  "page": "Ministry of Urban Development (India)"
-                },
-                {
-                  "text": "Information and Broadcasting",
-                  "type": "internal",
-                  "page": "Ministry of Information and Broadcasting (India)"
-                },
-                {
-                  "text": "Modi Cabinet",
-                  "type": "internal",
-                  "page": "First Modi ministry"
-                }
-              ]
-            },
-            {
-              "text": "A prominent leader of the Bharatiya Janata Party, he also served as its national president from 2002 to 2004.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bharatiya Janata Party"
-                }
-              ]
-            },
-            {
-              "text": "Earlier, he was the Union Cabinet Minister for Rural Development in the Atal Bihari Vajpayee government.",
-              "links": [
-                {
-                  "text": "Atal Bihari Vajpayee government",
-                  "type": "internal",
-                  "page": "Third Vajpayee ministry"
-                }
-              ]
-            },
-            {
-              "text": "He took the oath as vice president of India and the chairman of Rajya Sabha on 11 August 2017."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "13th and current Vice President of India (since 2017)",
-          "template": "short description"
-        },
-        {
-          "date": "August 2016",
-          "template": "use indian english"
-        },
-        {
-          "date": "February 2022",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "y",
-          "year": "1949",
-          "month": "7",
-          "day": "1",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Usha Naidu",
-          "from": "14 April 1970",
-          "template": "marriage"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Venkaiah Naidu"
-          },
-          "office": {
-            "text": "13th Vice President of India",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vice President of India"
-              }
-            ]
-          },
-          "image": {
-            "text": "Venkaiah Naidu official portrait.jpg"
-          },
-          "caption": {
-            "text": "Official portrait, 2017"
-          },
-          "predecessor": {
-            "text": "Mohammad Hamid Ansari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohammad Hamid Ansari"
-              }
-            ]
-          },
-          "president": {
-            "text": "Ram Nath Kovind",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ram Nath Kovind"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "signature": {
-            "text": "Signature of Venkaiah Naidu.svg"
-          },
-          "office2": {
-            "text": "Ministry of Urban Development, Ministry of Housing and Urban Poverty Alleviation",
-            "links": [
-              {
-                "text": "Ministry of Urban Development",
-                "type": "internal",
-                "page": "Minister of Urban Development (India)"
-              },
-              {
-                "text": "Ministry of Housing and Urban Poverty Alleviation",
-                "type": "internal",
-                "page": "Ministry of Housing and Urban Poverty Alleviation (India)"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Kamal Nath (Urban Development)\nGirija Vyas (Housing and Urban Poverty Alleviation)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kamal Nath"
-              },
-              {
-                "type": "internal",
-                "page": "Girija Vyas"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "party": {
-            "text": "Bharatiya Janata Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Information and Broadcasting",
-            "links": [
-              {
-                "text": "Minister of Information and Broadcasting",
-                "type": "internal",
-                "page": "Ministry of Information and Broadcasting (India)"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Arun Jaitley",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arun Jaitley"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Smriti Irani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Smriti Irani"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Narendra Singh Tomar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Singh Tomar"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Muppavarapu Venkaiah Naidu"
-          },
-          "birth_date": {
-            "text": "July 1, 1949"
-          },
-          "birth_place": {
-            "text": "Chavatapalem, Province of Madras, Dominion of India (present-day Andhra Pradesh, India)",
-            "links": [
-              {
-                "text": "Chavatapalem",
-                "type": "internal",
-                "page": "Nellore district"
-              },
-              {
-                "text": "Province of Madras",
-                "type": "internal",
-                "page": "Madras State"
-              },
-              {
-                "type": "internal",
-                "page": "Dominion of India"
-              },
-              {
-                "type": "internal",
-                "page": "Andhra Pradesh"
-              },
-              {
-                "type": "internal",
-                "page": "India"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Usha Naidu (m. 14 April 1970)"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "residence": {
-            "text": "Vice President House, New Delhi, Delhi, India",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vice President House"
-              },
-              {
-                "type": "internal",
-                "page": "New Delhi"
-              },
-              {
-                "type": "internal",
-                "page": "Delhi"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Andhra University (LLB)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andhra University"
-              },
-              {
-                "type": "internal",
-                "page": "LLB"
-              }
-            ]
-          },
-          "website": {
-            "text": "http://vicepresidentofindia.nic.in"
-          },
-          "term_start": {
-            "text": "11 August 2017"
-          },
-          "term_start1": {
-            "text": "5 July 2016"
-          },
-          "term_end1": {
-            "text": "17 July 2017"
-          },
-          "term_start2": {
-            "text": "26 May 2014"
-          },
-          "term_end2": {
-            "text": "17 July 2017"
-          },
-          "office3": {
-            "text": "Minister of Parliamentary Affairs",
-            "links": [
-              {
-                "text": "Minister of Parliamentary Affairs",
-                "type": "internal",
-                "page": "Minister of Parliamentary Affairs (India)"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "26 May 2014"
-          },
-          "term_end3": {
-            "text": "5 July 2016"
-          },
-          "predecessor3": {
-            "text": "Kamal Nath",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kamal Nath"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Ananth Kumar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ananth Kumar"
-              }
-            ]
-          },
-          "office4": {
-            "text": "President of Bharatiya Janata Party",
-            "links": [
-              {
-                "text": "President of Bharatiya Janata Party",
-                "type": "internal",
-                "page": "List of presidents of the Bharatiya Janata Party"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "1 July 2002"
-          },
-          "term_end4": {
-            "text": "5 October 2004"
-          },
-          "predecessor4": {
-            "text": "Jana Krishnamurthi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jana Krishnamurthi"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "L. K. Advani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "L. K. Advani"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister for Rural Development",
-            "links": [
-              {
-                "text": "Minister for Rural Development",
-                "type": "internal",
-                "page": "Ministry of Rural Development (India)"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Atal Bihari Vajpayee",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Atal Bihari Vajpayee"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "30 September 2000"
-          },
-          "term_end5": {
-            "text": "30 June 2002"
-          },
-          "predecessor5": {
-            "text": "Sunder Lal Patwa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sunder Lal Patwa"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Kashiram Rana (2003)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kashiram Rana"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Member of Parliament, Rajya Sabha",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of Parliament, Rajya Sabha"
-              }
-            ]
-          },
-          "constituency6": {
-            "text": "Rajasthan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rajasthan"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "5 July 2016"
-          },
-          "term_end6": {
-            "text": "10 August 2017"
-          },
-          "predecessor6": {
-            "text": "Anand Sharma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anand Sharma"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Alphons Kannanthanam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alphons Kannanthanam"
-              }
-            ]
-          },
-          "constituency7": {
-            "text": "Karnataka",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karnataka"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "27 March 1998"
-          },
-          "term_end7": {
-            "text": "5 July 2016"
-          },
-          "predecessor7": {
-            "text": "H. D. Deve Gowda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "H. D. Deve Gowda"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Nirmala Sitharaman",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nirmala Sitharaman"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Member of the Andhra Pradesh Legislative Assembly for Udayagiri",
-            "links": [
-              {
-                "text": "Member",
-                "type": "internal",
-                "page": "Member of Legislative Assembly (India)"
-              },
-              {
-                "type": "internal",
-                "page": "Andhra Pradesh Legislative Assembly"
-              },
-              {
-                "text": "Udayagiri",
-                "type": "internal",
-                "page": "Udayagiri (Assembly constituency)"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "1978",
-            "number": 1978
-          },
-          "term_end8": {
-            "text": "1985",
-            "number": 1985
-          },
-          "predecessor8": {
-            "text": "Ponneboyina Chenchuramaiah",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ponneboyina Chenchuramaiah"
-              }
-            ]
-          },
-          "successor8": {
-            "text": "Mekapati Rajamohan Reddy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mekapati Rajamohan Reddy"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Venkaiah Naidu",
+  "office": "13th Vice President of India",
+  "image": "Venkaiah Naidu official portrait.jpg",
+  "caption": "Official portrait, 2017",
+  "predecessor": "Mohammad Hamid Ansari",
+  "president": "Ram Nath Kovind",
+  "primeminister": "Narendra Modi",
+  "signature": "Signature of Venkaiah Naidu.svg",
+  "office2": "Ministry of Urban Development, Ministry of Housing and Urban Poverty Alleviation",
+  "predecessor2": "Kamal Nath (Urban Development)\nGirija Vyas (Housing and Urban Poverty Alleviation)",
+  "primeminister2": "Narendra Modi",
+  "party": "Bharatiya Janata Party",
+  "office1": "Minister of Information and Broadcasting",
+  "predecessor1": "Arun Jaitley",
+  "primeminister1": "Narendra Modi",
+  "successor1": "Smriti Irani",
+  "successor2": "Narendra Singh Tomar",
+  "birth_name": "Muppavarapu Venkaiah Naidu",
+  "birth_date": "July 1, 1949",
+  "birth_place": "Chavatapalem, Province of Madras, Dominion of India (present-day Andhra Pradesh, India)",
+  "spouse": "Usha Naidu (m. 14 April 1970)",
+  "children": "2",
+  "residence": "Vice President House, New Delhi, Delhi, India",
+  "alma_mater": "Andhra University (LLB)",
+  "website": "http://vicepresidentofindia.nic.in",
+  "term_start": "11 August 2017",
+  "term_start1": "5 July 2016",
+  "term_end1": "17 July 2017",
+  "term_start2": "26 May 2014",
+  "term_end2": "17 July 2017",
+  "office3": "Minister of Parliamentary Affairs",
+  "primeminister3": "Narendra Modi",
+  "term_start3": "26 May 2014",
+  "term_end3": "5 July 2016",
+  "predecessor3": "Kamal Nath",
+  "successor3": "Ananth Kumar",
+  "office4": "President of Bharatiya Janata Party",
+  "term_start4": "1 July 2002",
+  "term_end4": "5 October 2004",
+  "predecessor4": "Jana Krishnamurthi",
+  "successor4": "L. K. Advani",
+  "office5": "Minister for Rural Development",
+  "primeminister5": "Atal Bihari Vajpayee",
+  "term_start5": "30 September 2000",
+  "term_end5": "30 June 2002",
+  "predecessor5": "Sunder Lal Patwa",
+  "successor5": "Kashiram Rana (2003)",
+  "office6": "Member of Parliament, Rajya Sabha",
+  "constituency6": "Rajasthan",
+  "term_start6": "5 July 2016",
+  "term_end6": "10 August 2017",
+  "predecessor6": "Anand Sharma",
+  "successor6": "Alphons Kannanthanam",
+  "constituency7": "Karnataka",
+  "term_start7": "27 March 1998",
+  "term_end7": "5 July 2016",
+  "predecessor7": "H. D. Deve Gowda",
+  "successor7": "Nirmala Sitharaman",
+  "office8": "Member of the Andhra Pradesh Legislative Assembly for Udayagiri",
+  "term_start8": "1978",
+  "term_end8": "1985",
+  "predecessor8": "Ponneboyina Chenchuramaiah",
+  "successor8": "Mekapati Rajamohan Reddy"
 }

@@ -1,290 +1,31 @@
 {
-  "title": "Om Birla",
-  "pageID": 27927153,
-  "categories": [
-    "Living people",
-    "Rajasthan MLAs 2013–2018",
-    "1962 births",
-    "16th Lok Sabha members",
-    "Lok Sabha members from Rajasthan",
-    "Bharatiya Janata Party politicians from Rajasthan",
-    "People from Kota, Rajasthan",
-    "17th Lok Sabha members"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Om Birla MP (born 23 November 1962) is an Indian politician who is the 17th and current Speaker of the Lok Sabha.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Speaker of the Lok Sabha"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Om Birla"
-                ]
-              }
-            },
-            {
-              "text": "He serves a Member of Parliament for the Kota-bundi constituency in Rajasthan.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Rajasthan"
-                }
-              ]
-            },
-            {
-              "text": "Prior to parliament, he was elected thrice to the assembly of Rajasthan."
-            },
-            {
-              "text": "He belongs to the Bharatiya Janata Party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bharatiya Janata Party"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "17th Speaker of the Lok Sabha",
-          "template": "short description"
-        },
-        {
-          "date": "October 2013",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "October 2013",
-          "template": "use indian english"
-        },
-        {
-          "date": "June 2014",
-          "template": "engvarb"
-        },
-        {
-          "year": "1962",
-          "month": "11",
-          "day": "23",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "https://ombirla.com"
-          ],
-          "template": "officialsite"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament (India)"
-              }
-            ]
-          },
-          "image": {
-            "text": "Om Birla (2021) (cropped).jpg"
-          },
-          "imagesize": {
-            "text": "220px"
-          },
-          "caption": {
-            "text": "Birla in Vienna, September 2021",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vienna"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Speaker of the Lok Sabha"
-          },
-          "term_start1": {
-            "text": "19 June 2019"
-          },
-          "deputy1": {
-            "text": "none",
-            "formatting": {
-              "italic": [
-                "none"
-              ]
-            }
-          },
-          "predecessor1": {
-            "text": "Sumitra Mahajan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sumitra Mahajan"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of Parliament, Lok Sabha",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of Parliament"
-              },
-              {
-                "type": "internal",
-                "page": "Lok Sabha"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "16 May 2014"
-          },
-          "constituency2": {
-            "text": "Kota",
-            "links": [
-              {
-                "text": "Kota",
-                "type": "internal",
-                "page": "Kota (Lok Sabha constituency)"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Ijyaraj Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ijyaraj Singh"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Member of Rajasthan Legislative Assembly",
-            "links": [
-              {
-                "text": "Member of Rajasthan Legislative Assembly",
-                "type": "internal",
-                "page": "Rajasthan Legislative Assembly"
-              }
-            ]
-          },
-          "constituency4": {
-            "text": "Kota South"
-          },
-          "predecessor4": {
-            "text": "Shanti Kumar Dhariwal (from Kota before bifurcation)"
-          },
-          "successor4": {
-            "text": "Sandeep Sharma"
-          },
-          "term_start4": {
-            "text": "December 2003"
-          },
-          "term_end4": {
-            "text": "May 2015"
-          },
-          "birth_date": {
-            "text": "November 23, 1962"
-          },
-          "birth_place": {
-            "text": "Kota, Rajasthan, India",
-            "links": [
-              {
-                "text": "Kota",
-                "type": "internal",
-                "page": "Kota, Rajasthan"
-              },
-              {
-                "type": "internal",
-                "page": "Rajasthan"
-              },
-              {
-                "type": "internal",
-                "page": "India"
-              }
-            ]
-          },
-          "parents": {
-            "text": "Shrikrishna Birla \nShakuntla Devi"
-          },
-          "spouse": {
-            "text": "Amita Birla"
-          },
-          "nationality": {
-            "text": "Indian"
-          },
-          "alma_mater": {
-            "text": "Govt. Commerce College, Kota\nMaharshi Dayanand Saraswati University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maharshi Dayanand Saraswati University"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Politician"
-              }
-            ]
-          },
-          "party": {
-            "text": "Bharatiya Janata Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "National Democratic Alliance",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Democratic Alliance"
-              }
-            ]
-          },
-          "residence": {
-            "text": "20, Akbar Road, New Delhi, Delhi, India",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Akbar Road"
-              },
-              {
-                "type": "internal",
-                "page": "New Delhi"
-              },
-              {
-                "type": "internal",
-                "page": "Delhi"
-              }
-            ]
-          },
-          "order1": {
-            "text": "17th"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-suffix": "MP",
+  "image": "Om Birla (2021) (cropped).jpg",
+  "imagesize": "220px",
+  "caption": "Birla in Vienna, September 2021",
+  "office1": "Speaker of the Lok Sabha",
+  "term_start1": "19 June 2019",
+  "deputy1": "none",
+  "predecessor1": "Sumitra Mahajan",
+  "office2": "Member of Parliament, Lok Sabha",
+  "term_start2": "16 May 2014",
+  "constituency2": "Kota",
+  "predecessor2": "Ijyaraj Singh",
+  "office4": "Member of Rajasthan Legislative Assembly",
+  "constituency4": "Kota South",
+  "predecessor4": "Shanti Kumar Dhariwal (from Kota before bifurcation)",
+  "successor4": "Sandeep Sharma",
+  "term_start4": "December 2003",
+  "term_end4": "May 2015",
+  "birth_date": "November 23, 1962",
+  "birth_place": "Kota, Rajasthan, India",
+  "parents": "Shrikrishna Birla \nShakuntla Devi",
+  "spouse": "Amita Birla",
+  "nationality": "Indian",
+  "alma_mater": "Govt. Commerce College, Kota\nMaharshi Dayanand Saraswati University",
+  "occupation": "Politician",
+  "party": "Bharatiya Janata Party",
+  "otherparty": "National Democratic Alliance",
+  "residence": "20, Akbar Road, New Delhi, Delhi, India",
+  "order1": "17th"
 }

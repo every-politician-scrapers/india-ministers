@@ -1,328 +1,41 @@
 {
-  "title": "Rajendra Arlekar",
-  "pageID": 41604325,
-  "categories": [
-    "1954 births",
-    "Living people",
-    "Speakers of the Goa Legislative Assembly",
-    "People from Panaji",
-    "Members of the Goa Legislative Assembly",
-    "Bharatiya Janata Party politicians from Goa",
-    "Governors of Himachal Pradesh"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Rajendra Arlekar is an Indian statesman who is current and 21st Governor of Himachal Pradesh.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Governor of Himachal Pradesh"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Rajendra Arlekar"
-                ]
-              }
-            },
-            {
-              "text": "He was a Cabinet Minister in the Government of Goa and a former speaker of the Goa Legislative Assembly.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Government of Goa"
-                },
-                {
-                  "type": "internal",
-                  "page": "Goa Legislative Assembly"
-                }
-              ]
-            },
-            {
-              "text": "He is a leader of Bharatiya Janata Party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bharatiya Janata Party"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indian politician",
-          "template": "short description"
-        },
-        {
-          "date": "October 2018",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "October 2018",
-          "template": "use indian english"
-        },
-        {
-          "year": "1954",
-          "month": "04",
-          "day": "23",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Rajendra Arlekar"
-          },
-          "image": {
-            "text": "Rajendra Arlekar.jpg"
-          },
-          "birth_date": {
-            "text": "April 23, 1954"
-          },
-          "birth_place": {
-            "text": "Panaji, Goa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Panaji"
-              },
-              {
-                "type": "internal",
-                "page": "Goa"
-              }
-            ]
-          },
-          "office1": {
-            "text": "21st Governor of Himachal Pradesh",
-            "links": [
-              {
-                "text": "Governor of Himachal Pradesh",
-                "type": "internal",
-                "page": "List of governors of Himachal Pradesh"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "13 July 2021"
-          },
-          "1blankname1": {
-            "text": "Chief Minister"
-          },
-          "1namedata1": {
-            "text": "Jairam Thakur",
-            "links": [
-              {
-                "text": "Jairam Thakur",
-                "type": "internal",
-                "page": "Jai Ram Thakur"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Bandaru Dattatreya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bandaru Dattatreya"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Forest, Environment, and the Panchayat of Goa",
-            "links": [
-              {
-                "text": "Goa",
-                "type": "internal",
-                "page": "Government of Goa"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 October 2015"
-          },
-          "term_end2": {
-            "text": "2017",
-            "number": 2017
-          },
-          "office3": {
-            "text": "Member of the Goa Legislative Assembly",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Goa Legislative Assembly"
-              }
-            ]
-          },
-          "termstart3": {
-            "text": "2012",
-            "number": 2012
-          },
-          "term_end3": {
-            "text": "2017",
-            "number": 2017
-          },
-          "predecessor3": {
-            "text": "Dayanand Sopte",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dayanand Sopte"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Manohar Ajgaonkar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Manohar Ajgaonkar"
-              }
-            ]
-          },
-          "constituency3": {
-            "text": "Pernem",
-            "links": [
-              {
-                "text": "Pernem",
-                "type": "internal",
-                "page": "Pernem (Goa Assembly constituency)"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Member of the Goa Legislative Assembly",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Goa Legislative Assembly"
-              }
-            ]
-          },
-          "termstart4": {
-            "text": "2002",
-            "number": 2002
-          },
-          "term_end4": {
-            "text": "2007",
-            "number": 2007
-          },
-          "predecessor4": {
-            "text": "Jose Philip D'Souza",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jose Philip D'Souza"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Jose Philip D'Souza",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jose Philip D'Souza"
-              }
-            ]
-          },
-          "constituency4": {
-            "text": "Vasco",
-            "links": [
-              {
-                "text": "Vasco",
-                "type": "internal",
-                "page": "Vasco Da Gama (Goa Assembly constituency)"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Speaker of Goa Legislative Assembly",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Goa Legislative Assembly"
-              }
-            ]
-          },
-          "termstart5": {
-            "text": "2012",
-            "number": 2012
-          },
-          "termend5": {
-            "text": "2015",
-            "number": 2015
-          },
-          "predecessor5": {
-            "text": "Pratapsingh Rane",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pratapsingh Rane"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Anant Shet",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anant Shet"
-              }
-            ]
-          },
-          "citizenship": {
-            "text": "India"
-          },
-          "party": {
-            "text": "Bharatiya Janata Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Anagha Arlekar"
-          },
-          "relations": {
-            "text": "Married"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "profession": {
-            "text": "Politician"
-          },
-          "committees": {
-            "text": "Chairman, Business Advisory Committee"
-          },
-          "website": {
-            "text": "http://www.rajendraarlekar.in"
-          },
-          "blank1": {
-            "text": "Designation"
-          },
-          "data1": {
-            "text": "Former Speaker of the Goa Legislative Assembly",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Goa Legislative Assembly"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Rajendra Arlekar",
+  "image": "Rajendra Arlekar.jpg",
+  "birth_date": "April 23, 1954",
+  "birth_place": "Panaji, Goa",
+  "office1": "21st Governor of Himachal Pradesh",
+  "term_start1": "13 July 2021",
+  "1blankname1": "Chief Minister",
+  "1namedata1": "Jairam Thakur",
+  "predecessor1": "Bandaru Dattatreya",
+  "office2": "Minister of Forest, Environment, and the Panchayat of Goa",
+  "term_start2": "1 October 2015",
+  "term_end2": "2017",
+  "office3": "Member of the Goa Legislative Assembly",
+  "termstart3": "2012",
+  "term_end3": "2017",
+  "predecessor3": "Dayanand Sopte",
+  "successor3": "Manohar Ajgaonkar",
+  "constituency3": "Pernem",
+  "office4": "Member of the Goa Legislative Assembly",
+  "termstart4": "2002",
+  "term_end4": "2007",
+  "predecessor4": "Jose Philip D'Souza",
+  "successor4": "Jose Philip D'Souza",
+  "constituency4": "Vasco",
+  "office5": "Speaker of Goa Legislative Assembly",
+  "termstart5": "2012",
+  "termend5": "2015",
+  "predecessor5": "Pratapsingh Rane",
+  "successor5": "Anant Shet",
+  "citizenship": "India",
+  "party": "Bharatiya Janata Party",
+  "spouse": "Anagha Arlekar",
+  "relations": "Married",
+  "children": "2",
+  "profession": "Politician",
+  "committees": "Chairman, Business Advisory Committee",
+  "website": "http://www.rajendraarlekar.in",
+  "blank1": "Designation",
+  "data1": "Former Speaker of the Goa Legislative Assembly"
 }

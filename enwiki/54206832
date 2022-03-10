@@ -1,284 +1,35 @@
 {
-  "title": "Phagu Chauhan",
-  "pageID": 54206832,
-  "categories": [
-    "Uttar Pradesh MLAs 2017–2022",
-    "Bharatiya Janata Party politicians from Uttar Pradesh",
-    "People from Mau district",
-    "1948 births",
-    "Living people",
-    "Lok Dal politicians",
-    "Bahujan Samaj Party politicians from Uttar Pradesh",
-    "Janata Dal politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Phagu Chauhan (born 1 January 1948) is an Indian politician serving as the 29th and current Governor of Bihar.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Governor of Bihar"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Phagu Chauhan"
-                ]
-              }
-            },
-            {
-              "text": "He is a former member of 17th Legislative Assembly of Uttar Pradesh from Ghosi, a seat he won for a record six times, representing various parties like Lok Dal, Bahujan Samaj Party, and Bharatiya Janata Party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Uttar Pradesh"
-                },
-                {
-                  "text": "Ghosi",
-                  "type": "internal",
-                  "page": "Ghosi (Assembly constituency)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Lok Dal"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bahujan Samaj Party"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bharatiya Janata Party"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indian politician",
-          "template": "short description"
-        },
-        {
-          "date": "November 2019",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "April 2019",
-          "template": "use indian english"
-        },
-        {
-          "df": "yes",
-          "list": [
-            "1948",
-            "01",
-            "01"
-          ],
-          "template": "birth date and  age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Phagu Chauhan"
-          },
-          "image": {
-            "text": "Phagu Chauhan.jpg"
-          },
-          "constituency4": {
-            "text": "Ghosi, Mau",
-            "links": [
-              {
-                "text": "Ghosi",
-                "type": "internal",
-                "page": "Ghosi (Assembly constituency)"
-              },
-              {
-                "text": "Mau",
-                "type": "internal",
-                "page": "Mau district"
-              }
-            ]
-          },
-          "office": {
-            "text": "29th Governor of Bihar",
-            "links": [
-              {
-                "text": "Governor of Bihar",
-                "type": "internal",
-                "page": "List of governors of Bihar"
-              }
-            ]
-          },
-          "1blankname": {
-            "text": "Chief Minister"
-          },
-          "1namedata": {
-            "text": "Nitish Kumar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nitish Kumar"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Lalji Tandon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lalji Tandon"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "29 July 2019"
-          },
-          "office1": {
-            "text": "Member of Legislative Assembly for\nGhosi",
-            "links": [
-              {
-                "text": "Member of Legislative Assembly",
-                "type": "internal",
-                "page": "Member of the Legislative Assembly (India)"
-              },
-              {
-                "text": "Ghosi",
-                "type": "internal",
-                "page": "Ghosi (Assembly constituency)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "March 2017"
-          },
-          "term_end1": {
-            "text": "July 2019"
-          },
-          "predecessor1": {
-            "text": "Shudhakar Singh"
-          },
-          "term_start2": {
-            "text": "October 1996"
-          },
-          "term_end2": {
-            "text": "March 2012"
-          },
-          "predecessor2": {
-            "text": "Achaibar Bharti"
-          },
-          "successor2": {
-            "text": "Shudhakar Singh"
-          },
-          "term_start3": {
-            "text": "June 1991"
-          },
-          "term_end3": {
-            "text": "December 1992"
-          },
-          "predecessor3": {
-            "text": "Subhash"
-          },
-          "successor3": {
-            "text": "Achaibar Bharti"
-          },
-          "term_start4": {
-            "text": "March 1985"
-          },
-          "term_end4": {
-            "text": "November 1989"
-          },
-          "predecessor4": {
-            "text": "Kedar"
-          },
-          "successor4": {
-            "text": "Subhash"
-          },
-          "birth_place": {
-            "text": "Sekhupur, Azamgarh, United Provinces, India",
-            "links": [
-              {
-                "text": "Azamgarh",
-                "type": "internal",
-                "page": "Azamgarh district"
-              },
-              {
-                "text": "United Provinces",
-                "type": "internal",
-                "page": "United Provinces (1937–50)"
-              },
-              {
-                "text": "India",
-                "type": "internal",
-                "page": "Dominion of India"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Indian"
-          },
-          "party": {
-            "text": "Bharatiya Janata Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "National Democratic Alliance",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Democratic Alliance"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Muhari Devi"
-          },
-          "children": {
-            "text": "7",
-            "number": 7
-          },
-          "residence": {
-            "text": "Sekhupur, Azamgarh, Uttar Pradesh\nVijayant Khand, Gomtinagar, Lucknow, Uttar Pradesh",
-            "links": [
-              {
-                "text": "Azamgarh",
-                "type": "internal",
-                "page": "Azamgarh district"
-              },
-              {
-                "type": "internal",
-                "page": "Uttar Pradesh"
-              },
-              {
-                "type": "internal",
-                "page": "Lucknow"
-              },
-              {
-                "type": "internal",
-                "page": "Uttar Pradesh"
-              }
-            ]
-          },
-          "education": {
-            "text": "Graduate"
-          },
-          "profession": {
-            "text": "Politician · agriculturist"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Phagu Chauhan",
+  "image": "Phagu Chauhan.jpg",
+  "constituency4": "Ghosi, Mau",
+  "office": "29th Governor of Bihar",
+  "1blankname": "Chief Minister",
+  "1namedata": "Nitish Kumar",
+  "predecessor": "Lalji Tandon",
+  "term_start": "29 July 2019",
+  "office1": "Member of Legislative Assembly for\nGhosi",
+  "term_start1": "March 2017",
+  "term_end1": "July 2019",
+  "predecessor1": "Shudhakar Singh",
+  "term_start2": "October 1996",
+  "term_end2": "March 2012",
+  "predecessor2": "Achaibar Bharti",
+  "successor2": "Shudhakar Singh",
+  "term_start3": "June 1991",
+  "term_end3": "December 1992",
+  "predecessor3": "Subhash",
+  "successor3": "Achaibar Bharti",
+  "term_start4": "March 1985",
+  "term_end4": "November 1989",
+  "predecessor4": "Kedar",
+  "successor4": "Subhash",
+  "birth_place": "Sekhupur, Azamgarh, United Provinces, India",
+  "nationality": "Indian",
+  "party": "Bharatiya Janata Party",
+  "otherparty": "National Democratic Alliance",
+  "spouse": "Muhari Devi",
+  "children": "7",
+  "residence": "Sekhupur, Azamgarh, Uttar Pradesh\nVijayant Khand, Gomtinagar, Lucknow, Uttar Pradesh",
+  "education": "Graduate",
+  "profession": "Politician · agriculturist"
 }

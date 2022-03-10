@@ -1,867 +1,102 @@
 {
-  "title": "Narendra Singh Tomar",
-  "pageID": 30594202,
-  "categories": [
-    "1957 births",
-    "Living people",
-    "Jiwaji University alumni",
-    "15th Lok Sabha members",
-    "16th Lok Sabha members",
-    "People from Gwalior",
-    "Lok Sabha members from Madhya Pradesh",
-    "Mining ministers of India",
-    "Rajya Sabha members from Madhya Pradesh",
-    "Labour ministers of India",
-    "Bharatiya Janata Party politicians from Madhya Pradesh",
-    "Narendra Modi ministry",
-    "Agriculture Ministers of India",
-    "Steel Ministers of India",
-    "Members of the Cabinet of India"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Narendra Singh Tomar (born 12 June 1957) is an Indian politician and a member of the 17th Lok Sabha.",
-              "links": [
-                {
-                  "text": "17th Lok Sabha",
-                  "type": "internal",
-                  "page": "17th Lok Sabha"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Narendra Singh Tomar"
-                ]
-              }
-            },
-            {
-              "text": "He is the incumbent Minister of Agriculture & Farmers Welfare.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Minister of Agriculture & Farmers Welfare"
-                }
-              ]
-            },
-            {
-              "text": "He has been Minister of Rural Development, Minister of Panchayati Raj, Minister of Mines and Minister of Parliamentary Affairs in the Government of India during different periods of the First and Second Modi ministry.",
-              "links": [
-                {
-                  "text": "Minister of Rural Development",
-                  "type": "internal",
-                  "page": "Ministry of Rural Development (India)"
-                },
-                {
-                  "text": "Minister of Panchayati Raj",
-                  "type": "internal",
-                  "page": "Ministry of Panchayati Raj"
-                },
-                {
-                  "text": "Minister of Mines",
-                  "type": "internal",
-                  "page": "Ministry of Mines (India)"
-                },
-                {
-                  "text": "Minister of Parliamentary Affairs",
-                  "type": "internal",
-                  "page": "Minister of Parliamentary Affairs (India)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Government of India"
-                },
-                {
-                  "text": "First",
-                  "type": "internal",
-                  "page": "First Modi ministry"
-                },
-                {
-                  "type": "internal",
-                  "page": "Second Modi ministry"
-                }
-              ]
-            },
-            {
-              "text": "He is a leader of Bharatiya Janata Party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bharatiya Janata Party"
-                }
-              ]
-            },
-            {
-              "text": "He was also a member of Fifteenth Lok Sabha from 2009 to 2014 from Morena and Sixteenth Lok Sabha from 2014 to 2019 from Gwalior.",
-              "links": [
-                {
-                  "text": "Fifteenth",
-                  "type": "internal",
-                  "page": "15th Lok Sabha"
-                },
-                {
-                  "type": "internal",
-                  "page": "Lok Sabha"
-                },
-                {
-                  "text": "Morena",
-                  "type": "internal",
-                  "page": "Morena (Lok Sabha constituency)"
-                },
-                {
-                  "text": "Sixteenth",
-                  "type": "internal",
-                  "page": "16th Lok Sabha"
-                },
-                {
-                  "type": "internal",
-                  "page": "Lok Sabha"
-                },
-                {
-                  "text": "Gwalior",
-                  "type": "internal",
-                  "page": "Gwalior (Lok Sabha constituency)"
-                }
-              ]
-            },
-            {
-              "text": "In 2019, he changed his constituency and was re-elected to the Lok Sabha from Morena.",
-              "links": [
-                {
-                  "text": "Morena",
-                  "type": "internal",
-                  "page": "Morena (Lok Sabha constituency)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indian politician",
-          "template": "short description"
-        },
-        {
-          "date": "June 2014",
-          "template": "engvarb"
-        },
-        {
-          "date": "March 2022",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Ministry"
-          ],
-          "template": "centre"
-        },
-        {
-          "list": [
-            "Term"
-          ],
-          "template": "centre"
-        },
-        {
-          "year": "1957",
-          "month": "06",
-          "day": "12",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "File:Shri Narendra Singh Tomar Minister.jpg"
-          },
-          "office": {
-            "text": "Minister of Agriculture and Farmer Welfare",
-            "links": [
-              {
-                "text": "Minister of Agriculture and Farmer Welfare",
-                "type": "internal",
-                "page": "Ministry of Agriculture and Farmers Welfare"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "30 May 2019"
-          },
-          "predecessor": {
-            "text": "Radha Mohan Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Radha Mohan Singh"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Rural Development & Panchayati Raj",
-            "links": [
-              {
-                "text": "Minister of Rural Development",
-                "type": "internal",
-                "page": "Ministry of Rural Development (India)"
-              },
-              {
-                "text": "Panchayati Raj",
-                "type": "internal",
-                "page": "Ministry of Panchayati Raj"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "5 July 2016"
-          },
-          "term_end1": {
-            "text": "7 July 2021"
-          },
-          "predecessor1": {
-            "text": "Chaudhary Birender Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chaudhary Birender Singh"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Giriraj Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Giriraj Singh"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Food Processing Industries",
-            "links": [
-              {
-                "text": "Minister of Food Processing Industries",
-                "type": "internal",
-                "page": "Ministry of Food Processing Industries"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "18 September 2020"
-          },
-          "term_end2": {
-            "text": "7 July 2021"
-          },
-          "predecessor2": {
-            "text": "Harsimrat Kaur Badal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Harsimrat Kaur Badal"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Pashupati Kumar Paras",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pashupati Kumar Paras"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Parliamentary Affairs",
-            "links": [
-              {
-                "text": "Minister of Parliamentary Affairs",
-                "type": "internal",
-                "page": "Ministry of Parliamentary Affairs (India)"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "13 November 2018"
-          },
-          "term_end3": {
-            "text": "30 May 2019"
-          },
-          "predecessor3": {
-            "text": "Ananth Kumar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ananth Kumar"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Pralhad Joshi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pralhad Joshi"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Mines",
-            "links": [
-              {
-                "text": "Minister of Mines",
-                "type": "internal",
-                "page": "Minister of Mines (India)"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "3 September 2017"
-          },
-          "term_end4": {
-            "text": "30 May 2019"
-          },
-          "predecessor4": {
-            "text": "Piyush Goyal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Piyush Goyal"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Pralhad Joshi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pralhad Joshi"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "predecessor5": {
-            "text": "Dinsha Patel",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dinsha Patel"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Piyush Goyal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Piyush Goyal"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "26 May 2014"
-          },
-          "term_end5": {
-            "text": "5 July 2016"
-          },
-          "office6": {
-            "text": "Minister of Housing and Urban Affairs (Additional Charge)",
-            "links": [
-              {
-                "text": "Minister of Housing and Urban Affairs",
-                "type": "internal",
-                "page": "Ministry of Housing and Urban Affairs"
-              }
-            ]
-          },
-          "primeminister6": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "18 July 2017"
-          },
-          "term_end6": {
-            "text": "3 September 2017"
-          },
-          "predecessor6": {
-            "text": "M. Venkaiah Naidu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "M. Venkaiah Naidu"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Hardeep Singh Puri",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hardeep Singh Puri"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Minister of Steel",
-            "links": [
-              {
-                "text": "Minister of Steel",
-                "type": "internal",
-                "page": "Ministry of Steel"
-              }
-            ]
-          },
-          "primeminister7": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "26 May 2014"
-          },
-          "term_end7": {
-            "text": "5 July 2016"
-          },
-          "predecessor7": {
-            "text": "Beni Prasad Verma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Beni Prasad Verma"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Chaudhary Birender Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chaudhary Birender Singh"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Minister of Labour and Employment",
-            "links": [
-              {
-                "text": "Minister of Labour and Employment",
-                "type": "internal",
-                "page": "Minister of Labour and Employment (India)"
-              }
-            ]
-          },
-          "primeminister8": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "26 May 2014"
-          },
-          "term_end8": {
-            "text": "9 November 2014"
-          },
-          "predecessor8": {
-            "text": "Sis Ram Ola",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sis Ram Ola"
-              }
-            ]
-          },
-          "successor8": {
-            "text": "Bandaru Dattatreya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bandaru Dattatreya"
-              }
-            ]
-          },
-          "office9": {
-            "text": "Member of Parliament Lok Sabha",
-            "links": [
-              {
-                "text": "Member of Parliament Lok Sabha",
-                "type": "internal",
-                "page": "Member of Parliament, Lok Sabha"
-              }
-            ]
-          },
-          "constituency9": {
-            "text": "Morena",
-            "links": [
-              {
-                "text": "Morena",
-                "type": "internal",
-                "page": "Morena (Lok Sabha constituency)"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "23 May 2019"
-          },
-          "predecessor9": {
-            "text": "Anoop Mishra",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anoop Mishra"
-              }
-            ]
-          },
-          "constituency10": {
-            "text": "Gwalior",
-            "links": [
-              {
-                "text": "Gwalior",
-                "type": "internal",
-                "page": "Gwalior (Lok Sabha constituency)"
-              }
-            ]
-          },
-          "term_start10": {
-            "text": "2014",
-            "number": 2014
-          },
-          "term_end10": {
-            "text": "2019",
-            "number": 2019
-          },
-          "predecessor10": {
-            "text": "Yashodhara Raje Scindia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yashodhara Raje Scindia"
-              }
-            ]
-          },
-          "successor10": {
-            "text": "Vivek Shejwalkar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vivek Shejwalkar"
-              }
-            ]
-          },
-          "constituency11": {
-            "text": "Morena",
-            "links": [
-              {
-                "text": "Morena",
-                "type": "internal",
-                "page": "Morena (Lok Sabha constituency)"
-              }
-            ]
-          },
-          "term_start11": {
-            "text": "2009",
-            "number": 2009
-          },
-          "term_end11": {
-            "text": "2014",
-            "number": 2014
-          },
-          "predecessor11": {
-            "text": "Ashok Chhaviram Argal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ashok Chhaviram Argal"
-              }
-            ]
-          },
-          "successor11": {
-            "text": "Anoop Mishra",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anoop Mishra"
-              }
-            ]
-          },
-          "office12": {
-            "text": "Member of Parliament Rajya Sabha",
-            "links": [
-              {
-                "text": "Member of Parliament Rajya Sabha",
-                "type": "internal",
-                "page": "Member of Parliament, Rajya Sabha"
-              }
-            ]
-          },
-          "term_start12": {
-            "text": "20 January 2009"
-          },
-          "term_end12": {
-            "text": "16 May 2009"
-          },
-          "predecessor12": {
-            "text": "Laxminarayan Sharma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Laxminarayan Sharma"
-              }
-            ]
-          },
-          "constituency12": {
-            "text": "Madhya Pradesh",
-            "links": [
-              {
-                "text": "Madhya Pradesh",
-                "type": "internal",
-                "page": "List of Rajya Sabha members from Madhya Pradesh"
-              }
-            ]
-          },
-          "office13": {
-            "text": "President Bharatiya Janata Party, Madhya Pradesh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party, Madhya Pradesh"
-              }
-            ]
-          },
-          "term_start13": {
-            "text": "20 November 2006"
-          },
-          "term_end13": {
-            "text": "March 2010"
-          },
-          "predecessor13": {
-            "text": "Satyanarayan Jatiya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Satyanarayan Jatiya"
-              }
-            ]
-          },
-          "successor13": {
-            "text": "Prabhat Jha",
-            "links": [
-              {
-                "text": "Prabhat Jha",
-                "type": "internal",
-                "page": "Prabhat Jha (politician)"
-              }
-            ]
-          },
-          "office14": {
-            "text": "Cabinet Minister Government of Madhya Pradesh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cabinet Minister"
-              },
-              {
-                "type": "internal",
-                "page": "Government of Madhya Pradesh"
-              }
-            ]
-          },
-          "term_start14": {
-            "text": "8 December 2003"
-          },
-          "term_end14": {
-            "text": "25 August 2007"
-          },
-          "2blankname14": {
-            "text": "Minister of Rural Development & Panchayat Raj"
-          },
-          "2namedata14": {
-            "text": "8 December 2003 - 25 August 2007"
-          },
-          "3blankname14": {
-            "text": "Minister of Public Relations"
-          },
-          "3namedata14": {
-            "text": "4 December 2005 - 25 August 2007"
-          },
-          "4blankname14": {
-            "text": "Minister of Fisheries"
-          },
-          "4namedata14": {
-            "text": "8 December 2003 - 1 July 2004"
-          },
-          "5blankname14": {
-            "text": "Minister of Animal Husbandry"
-          },
-          "5namedata14": {
-            "text": "8 December 2003 - 30 January 2004"
-          },
-          "office15": {
-            "text": "Member of Madhya Pradesh Legislative Assembly",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Madhya Pradesh Legislative Assembly"
-              }
-            ]
-          },
-          "term_start15": {
-            "text": "1998",
-            "number": 1998
-          },
-          "term_end15": {
-            "text": "2008",
-            "number": 2008
-          },
-          "constituency15": {
-            "text": "Gwalior",
-            "links": [
-              {
-                "text": "Gwalior",
-                "type": "internal",
-                "page": "Gwalior (Vidhan Sabha constituency)"
-              }
-            ]
-          },
-          "predecessor15": {
-            "text": "Raghuvir Singh"
-          },
-          "successor15": {
-            "text": "Pradhuman Singh Tomar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pradhuman Singh Tomar"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "June 12, 1957"
-          },
-          "birth_place": {
-            "text": "Morar, Gwalior, Madhya Pradesh, India",
-            "links": [
-              {
-                "text": "Gwalior",
-                "type": "internal",
-                "page": "Gwalior district"
-              },
-              {
-                "type": "internal",
-                "page": "Madhya Pradesh"
-              },
-              {
-                "type": "internal",
-                "page": "India"
-              }
-            ]
-          },
-          "party": {
-            "text": "Bharatiya Janata Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "residence": {
-            "text": "Gwalior",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gwalior"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Kiran Tomar"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "alma_mater": {
-            "text": "Jiwaji University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jiwaji University"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "image": "File:Shri Narendra Singh Tomar Minister.jpg",
+  "office": "Minister of Agriculture and Farmer Welfare",
+  "primeminister": "Narendra Modi",
+  "term_start": "30 May 2019",
+  "predecessor": "Radha Mohan Singh",
+  "office1": "Minister of Rural Development & Panchayati Raj",
+  "primeminister1": "Narendra Modi",
+  "term_start1": "5 July 2016",
+  "term_end1": "7 July 2021",
+  "predecessor1": "Chaudhary Birender Singh",
+  "successor1": "Giriraj Singh",
+  "office2": "Minister of Food Processing Industries",
+  "primeminister2": "Narendra Modi",
+  "term_start2": "18 September 2020",
+  "term_end2": "7 July 2021",
+  "predecessor2": "Harsimrat Kaur Badal",
+  "successor2": "Pashupati Kumar Paras",
+  "office3": "Minister of Parliamentary Affairs",
+  "primeminister3": "Narendra Modi",
+  "term_start3": "13 November 2018",
+  "term_end3": "30 May 2019",
+  "predecessor3": "Ananth Kumar",
+  "successor3": "Pralhad Joshi",
+  "office4": "Minister of Mines",
+  "primeminister4": "Narendra Modi",
+  "term_start4": "3 September 2017",
+  "term_end4": "30 May 2019",
+  "predecessor4": "Piyush Goyal",
+  "successor4": "Pralhad Joshi",
+  "primeminister5": "Narendra Modi",
+  "predecessor5": "Dinsha Patel",
+  "successor5": "Piyush Goyal",
+  "term_start5": "26 May 2014",
+  "term_end5": "5 July 2016",
+  "office6": "Minister of Housing and Urban Affairs (Additional Charge)",
+  "primeminister6": "Narendra Modi",
+  "term_start6": "18 July 2017",
+  "term_end6": "3 September 2017",
+  "predecessor6": "M. Venkaiah Naidu",
+  "successor6": "Hardeep Singh Puri",
+  "office7": "Minister of Steel",
+  "primeminister7": "Narendra Modi",
+  "term_start7": "26 May 2014",
+  "term_end7": "5 July 2016",
+  "predecessor7": "Beni Prasad Verma",
+  "successor7": "Chaudhary Birender Singh",
+  "office8": "Minister of Labour and Employment",
+  "primeminister8": "Narendra Modi",
+  "term_start8": "26 May 2014",
+  "term_end8": "9 November 2014",
+  "predecessor8": "Sis Ram Ola",
+  "successor8": "Bandaru Dattatreya",
+  "office9": "Member of Parliament Lok Sabha",
+  "constituency9": "Morena",
+  "term_start9": "23 May 2019",
+  "predecessor9": "Anoop Mishra",
+  "constituency10": "Gwalior",
+  "term_start10": "2014",
+  "term_end10": "2019",
+  "predecessor10": "Yashodhara Raje Scindia",
+  "successor10": "Vivek Shejwalkar",
+  "constituency11": "Morena",
+  "term_start11": "2009",
+  "term_end11": "2014",
+  "predecessor11": "Ashok Chhaviram Argal",
+  "successor11": "Anoop Mishra",
+  "office12": "Member of Parliament Rajya Sabha",
+  "term_start12": "20 January 2009",
+  "term_end12": "16 May 2009",
+  "predecessor12": "Laxminarayan Sharma",
+  "constituency12": "Madhya Pradesh",
+  "office13": "President Bharatiya Janata Party, Madhya Pradesh",
+  "term_start13": "20 November 2006",
+  "term_end13": "March 2010",
+  "predecessor13": "Satyanarayan Jatiya",
+  "successor13": "Prabhat Jha",
+  "office14": "Cabinet Minister Government of Madhya Pradesh",
+  "term_start14": "8 December 2003",
+  "term_end14": "25 August 2007",
+  "2blankname14": "Minister of Rural Development & Panchayat Raj",
+  "2namedata14": "8 December 2003 - 25 August 2007",
+  "3blankname14": "Minister of Public Relations",
+  "3namedata14": "4 December 2005 - 25 August 2007",
+  "4blankname14": "Minister of Fisheries",
+  "4namedata14": "8 December 2003 - 1 July 2004",
+  "5blankname14": "Minister of Animal Husbandry",
+  "5namedata14": "8 December 2003 - 30 January 2004",
+  "office15": "Member of Madhya Pradesh Legislative Assembly",
+  "term_start15": "1998",
+  "term_end15": "2008",
+  "constituency15": "Gwalior",
+  "predecessor15": "Raghuvir Singh",
+  "successor15": "Pradhuman Singh Tomar",
+  "birth_date": "June 12, 1957",
+  "birth_place": "Morar, Gwalior, Madhya Pradesh, India",
+  "party": "Bharatiya Janata Party",
+  "residence": "Gwalior",
+  "spouse": "Kiran Tomar",
+  "children": "3",
+  "alma_mater": "Jiwaji University"
 }

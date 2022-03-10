@@ -1,495 +1,54 @@
 {
-  "title": "Uddhav Thackeray",
-  "pageID": 2503798,
-  "categories": [
-    "1960 births",
-    "Living people",
-    "Chief Ministers of Maharashtra",
-    "Marathi politicians",
-    "Maharashtra politicians",
-    "Shiv Sena politicians",
-    "Indian Hindus",
-    "Marathi people",
-    "Politicians from Mumbai",
-    "Bal Thackeray",
-    "Far-right politicians in India",
-    "Thackeray family (Maharashtra)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Uddhav Balasaheb Thackeray (Marathi pronunciation: [ud̪ʱːəʋ ʈʰaːkɾeː], born 27 July 1960) is an Indian politician who is the 19th and current Chief Minister of Maharashtra.",
-              "links": [
-                {
-                  "text": "[ud̪ʱːəʋ ʈʰaːkɾeː",
-                  "type": "internal",
-                  "page": "Help:IPA/Marathi"
-                },
-                {
-                  "type": "internal",
-                  "page": "Chief Minister of Maharashtra"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Uddhav Balasaheb Thackeray"
-                ]
-              }
-            },
-            {
-              "text": "He is also the president of Shiv Sena.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Shiv Sena"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indian politician and 19th Chief Minister of Maharashtra",
-          "template": "short description"
-        },
-        {
-          "date": "March 2022",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "June 2020",
-          "template": "use indian english"
-        },
-        {
-          "df": "y",
-          "year": "1960",
-          "month": "07",
-          "day": "27",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "As Chief Minister, Thackeray directly handles portfolios for General Administration, Law and the Judiciary, Information and Public Relations, Information Technologies, and any other departments not allocated to another minister."
-          ],
-          "template": "efn"
-        },
-        {
-          "list": [
-            "Additional Ministries"
-          ],
-          "template": "collapsed infobox section begin"
-        },
-        {
-          "template": "collapsed infobox section end"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Uddhav Thackeray"
-          },
-          "birth_date": {
-            "text": "July 27, 1960"
-          },
-          "birth_name": {
-            "text": "Uddhav Bal Thackeray"
-          },
-          "birth_place": {
-            "text": "Bombay, Maharashtra, India (now Mumbai)",
-            "links": [
-              {
-                "text": "Bombay",
-                "type": "internal",
-                "page": "Mumbai"
-              },
-              {
-                "type": "internal",
-                "page": "Maharashtra"
-              },
-              {
-                "type": "internal",
-                "page": "India"
-              },
-              {
-                "type": "internal",
-                "page": "Mumbai"
-              }
-            ]
-          },
-          "image": {
-            "text": "The Chief Minister of Maharashtra, Shri Uddhav Thackeray calling on the Prime Minister, Shri Narendra Modi, in New Delhi on February 21, 2020 (Uddhav Thackeray) (cropped).jpg"
-          },
-          "caption": {
-            "text": "Official Portrait, 2019"
-          },
-          "residence": {
-            "text": "Varsha Bungalow, South Mumbai, Mumbai, Maharashtra, India",
-            "links": [
-              {
-                "type": "internal",
-                "page": "South Mumbai"
-              }
-            ]
-          },
-          "office": {
-            "text": "19th Chief Minister of Maharashtra",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chief Minister of Maharashtra"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "28 November 2019"
-          },
-          "governor": {
-            "text": "Bhagat Singh Koshyari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bhagat Singh Koshyari"
-              }
-            ]
-          },
-          "deputy": {
-            "text": "Ajit Pawar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ajit Pawar"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Devendra Fadnavis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Devendra Fadnavis"
-              }
-            ]
-          },
-          "governor1": {
-            "text": "Bhagat Singh Koshyari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bhagat Singh Koshyari"
-              }
-            ]
-          },
-          "1blankname1": {
-            "text": "Ministry and Departments",
-            "links": [
-              {
-                "text": "Ministry and Departments",
-                "type": "internal",
-                "page": "Thackeray ministry"
-              }
-            ]
-          },
-          "1namedata1": {
-            "text": "*General Administration\n*Law and Judiciary \n*Information and Public Relations\n*Information Technology\nOther departments not allocated to any Minister.\n*Forests Department",
-            "links": [
-              {
-                "text": "General Administration",
-                "type": "internal",
-                "page": "Ministry of General Administration (Maharashtra)"
-              },
-              {
-                "text": "Law and Judiciary",
-                "type": "internal",
-                "page": "Ministry of Law and Judiciary Government of Maharashtra"
-              },
-              {
-                "text": "Information and Public Relations",
-                "type": "internal",
-                "page": "Ministry of Information and Public Relations (Maharashtra)"
-              },
-              {
-                "text": "Information Technology",
-                "type": "internal",
-                "page": "Ministry of Information Technology (Maharashtra)"
-              },
-              {
-                "text": "Forests Department",
-                "type": "internal",
-                "page": "Ministry of Forests Department of Maharashtra"
-              }
-            ],
-            "formatting": {
-              "bold": [
-                "Other departments not allocated to any Minister."
-              ],
-              "italic": [
-                "Other departments not allocated to any Minister."
-              ]
-            }
-          },
-          "term_start1": {
-            "text": "28 November 2019"
-          },
-          "predecessor1": {
-            "text": "Devendra Fadnavis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Devendra Fadnavis"
-              }
-            ]
-          },
-          "office2": {
-            "text": "[[List of Leader of the House of the Maharashtra Legislative Assembly|Leader of the House of the\nMaharashtra Legislative Assembly]]"
-          },
-          "governor2": {
-            "text": "Bhagat Singh Koshyari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bhagat Singh Koshyari"
-              }
-            ]
-          },
-          "1blankname2": {
-            "text": "Speaker"
-          },
-          "1namedata2": {
-            "text": "Nana Patole",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nana Patole"
-              }
-            ]
-          },
-          "2blankname2": {
-            "text": "Deputy Leader"
-          },
-          "2namedata2": {
-            "text": "Ajit Pawar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ajit Pawar"
-              }
-            ]
-          },
-          "termstart2": {
-            "text": "28 November 2019"
-          },
-          "predecessor2": {
-            "text": "Devendra Fadnavis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Devendra Fadnavis"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of Legislative Council Maharashtra",
-            "links": [
-              {
-                "text": "Member of Legislative Council Maharashtra",
-                "type": "internal",
-                "page": "Maharashtra Legislative Council"
-              }
-            ]
-          },
-          "governor3": {
-            "text": "Bhagat Singh Koshyari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bhagat Singh Koshyari"
-              }
-            ]
-          },
-          "1blankname3": {
-            "text": "Chairman"
-          },
-          "1namedata3": {
-            "text": "Ramraje Naik Nimbalkar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ramraje Naik Nimbalkar"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "14 May 2020"
-          },
-          "constituency3": {
-            "text": "Elected by MLAs"
-          },
-          "office4": {
-            "text": "2nd President of Shiv Sena",
-            "links": [
-              {
-                "text": "President of Shiv Sena",
-                "type": "internal",
-                "page": "Shiv Sena"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "23 January 2013 Working President (2003–13)"
-          },
-          "predecessor4": {
-            "text": "Bal Thackeray",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bal Thackeray"
-              }
-            ]
-          },
-          "office5": {
-            "text": "President of Maha Vikas Aghadi",
-            "links": [
-              {
-                "text": "President of Maha Vikas Aghadi",
-                "type": "internal",
-                "page": "Maha Vikas Aghadi"
-              }
-            ]
-          },
-          "1blankname5": {
-            "text": "Chairperson"
-          },
-          "1namedata5": {
-            "text": "Sharad Pawar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sharad Pawar"
-              }
-            ]
-          },
-          "2blankname5": {
-            "text": "Secretary"
-          },
-          "2namedata5": {
-            "text": "Balasaheb Thorat",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Balasaheb Thorat"
-              }
-            ]
-          },
-          "predecessor5": {
-            "text": "Position established"
-          },
-          "term_start5": {
-            "text": "26 November 2019"
-          },
-          "office6": {
-            "text": "Editor-in-chief of Saamana",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Saamana"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "20 June 2006"
-          },
-          "term_end6": {
-            "text": "28 November 2019"
-          },
-          "predecessor6": {
-            "text": "Bal Thackeray",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bal Thackeray"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Rashmi Thackeray",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rashmi Thackeray"
-              }
-            ]
-          },
-          "party": {
-            "text": "Shiv Sena",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shiv Sena"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Rashmi Thackeray",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rashmi Thackeray"
-              }
-            ]
-          },
-          "children": {
-            "text": "Aditya Thackeray Tejas Thackeray",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aditya Thackeray"
-              },
-              {
-                "type": "internal",
-                "page": "Tejas Thackeray"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Sir J.J. Institute of Applied Art",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sir J.J. Institute of Applied Art"
-              }
-            ]
-          },
-          "father": {
-            "text": "Bal Thackeray",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bal Thackeray"
-              }
-            ]
-          },
-          "relatives": {
-            "text": "See Thackeray Family",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Thackeray Family"
-              }
-            ],
-            "formatting": {
-              "italic": [
-                "See Thackeray Family"
-              ]
-            }
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Uddhav Thackeray",
+  "birth_date": "July 27, 1960",
+  "birth_name": "Uddhav Bal Thackeray",
+  "birth_place": "Bombay, Maharashtra, India (now Mumbai)",
+  "image": "The Chief Minister of Maharashtra, Shri Uddhav Thackeray calling on the Prime Minister, Shri Narendra Modi, in New Delhi on February 21, 2020 (Uddhav Thackeray) (cropped).jpg",
+  "caption": "Official Portrait, 2019",
+  "residence": "Varsha Bungalow, South Mumbai, Mumbai, Maharashtra, India",
+  "office": "19th Chief Minister of Maharashtra",
+  "term_start": "28 November 2019",
+  "governor": "Bhagat Singh Koshyari",
+  "deputy": "Ajit Pawar",
+  "predecessor": "Devendra Fadnavis",
+  "governor1": "Bhagat Singh Koshyari",
+  "1blankname1": "Ministry and Departments",
+  "1namedata1": "*General Administration\n*Law and Judiciary \n*Information and Public Relations\n*Information Technology\nOther departments not allocated to any Minister.\n*Forests Department",
+  "term_start1": "28 November 2019",
+  "predecessor1": "Devendra Fadnavis",
+  "office2": "[[List of Leader of the House of the Maharashtra Legislative Assembly|Leader of the House of the\nMaharashtra Legislative Assembly]]",
+  "governor2": "Bhagat Singh Koshyari",
+  "1blankname2": "Speaker",
+  "1namedata2": "Nana Patole",
+  "2blankname2": "Deputy Leader",
+  "2namedata2": "Ajit Pawar",
+  "termstart2": "28 November 2019",
+  "predecessor2": "Devendra Fadnavis",
+  "office3": "Member of Legislative Council Maharashtra",
+  "governor3": "Bhagat Singh Koshyari",
+  "1blankname3": "Chairman",
+  "1namedata3": "Ramraje Naik Nimbalkar",
+  "term_start3": "14 May 2020",
+  "constituency3": "Elected by MLAs",
+  "office4": "2nd President of Shiv Sena",
+  "term_start4": "23 January 2013 Working President (2003–13)",
+  "predecessor4": "Bal Thackeray",
+  "office5": "President of Maha Vikas Aghadi",
+  "1blankname5": "Chairperson",
+  "1namedata5": "Sharad Pawar",
+  "2blankname5": "Secretary",
+  "2namedata5": "Balasaheb Thorat",
+  "predecessor5": "Position established",
+  "term_start5": "26 November 2019",
+  "office6": "Editor-in-chief of Saamana",
+  "term_start6": "20 June 2006",
+  "term_end6": "28 November 2019",
+  "predecessor6": "Bal Thackeray",
+  "successor6": "Rashmi Thackeray",
+  "party": "Shiv Sena",
+  "spouse": "Rashmi Thackeray",
+  "children": "Aditya Thackeray Tejas Thackeray",
+  "alma_mater": "Sir J.J. Institute of Applied Art",
+  "father": "Bal Thackeray",
+  "relatives": "See Thackeray Family"
 }

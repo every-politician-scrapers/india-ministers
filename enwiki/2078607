@@ -1,377 +1,43 @@
 {
-  "title": "N. Rangaswamy",
-  "pageID": 2078607,
-  "categories": [
-    "1950 births",
-    "Living people",
-    "Chief ministers of Puducherry",
-    "Indian National Congress politicians from Puducherry",
-    "All India NR Congress politicians",
-    "Indian political party founders",
-    "Chief ministers from Indian National Congress",
-    "Leaders of the Opposition in Puducherry",
-    "State cabinet ministers of Puducherry",
-    "Puducherry MLAs 2011–2016",
-    "Puducherry MLAs 2016–2021",
-    "Puducherry MLAs 2021–2026",
-    "Puducherry MLAs 1991–1996",
-    "Puducherry MLAs 1996–2001",
-    "Puducherry MLAs 2001–2006",
-    "Puducherry MLAs 2006–2011"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Nadesan Krishnasamy Rangasamy (born 4 August 1950) is an Indian politician who is the Chief Minister of the Union Territory of Puducherry.",
-              "links": [
-                {
-                  "text": "Chief Minister",
-                  "type": "internal",
-                  "page": "Chief Ministers of India"
-                },
-                {
-                  "type": "internal",
-                  "page": "Union Territory"
-                },
-                {
-                  "text": "Puducherry",
-                  "type": "internal",
-                  "page": "Puducherry (union territory)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Nadesan Krishnasamy Rangasamy"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as Chief Minister of Puducherry from 2001 to 2008 as a member of the Indian National Congress and then from 2011 to 2016 as a member of his own party, the All India N.R. Congress.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Indian National Congress"
-                },
-                {
-                  "type": "internal",
-                  "page": "All India N.R. Congress"
-                }
-              ]
-            },
-            {
-              "text": "He holds the record of becoming Chief Minister within three months after creating his own party."
-            },
-            {
-              "text": "He also holds concessive record of becoming Chief Minister of Puducherry for fourth time."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indian politician",
-          "template": "short description"
-        },
-        {
-          "date": "October 2019",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "October 2019",
-          "template": "use indian english"
-        },
-        {
-          "date": "January 2017",
-          "template": "blp sources"
-        },
-        {
-          "list": [
-            "Kiran Bedi",
-            "Tamilisai Soundararajan"
-          ],
-          "template": "ubl"
-        },
-        {
-          "year": "1950",
-          "month": "08",
-          "day": "04",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "N. Rangasamy"
-          },
-          "image": {
-            "text": "N Rangaswamy.jpg"
-          },
-          "caption": {
-            "text": "N. Rangasamy in March 2015"
-          },
-          "office": {
-            "text": "9th Chief Minister of Puducherry",
-            "links": [
-              {
-                "text": "Chief Minister of Puducherry",
-                "type": "internal",
-                "page": "List of Chief Ministers of Puducherry"
-              }
-            ]
-          },
-          "status": {
-            "text": "Incumbent",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Incumbent"
-              }
-            ]
-          },
-          "lieutenant_governor": {
-            "text": "Tamilisai Soundararajan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tamilisai Soundararajan"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "7 May 2021"
-          },
-          "predecessor": {
-            "text": "President's Rule",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President's Rule"
-              }
-            ]
-          },
-          "constituency": {
-            "text": "Thattanchavady",
-            "links": [
-              {
-                "text": "Thattanchavady",
-                "type": "internal",
-                "page": "Thattanchavady (Union Territory Assembly constituency)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "16 May 2011"
-          },
-          "term_end1": {
-            "text": "6 June 2016"
-          },
-          "constituency1": {
-            "text": "Indira Nagar",
-            "links": [
-              {
-                "text": "Indira Nagar",
-                "type": "internal",
-                "page": "Indira Nagar (Union Territory Assembly constituency)"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "V. Vaithilingam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "V. Vaithilingam"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "V. Narayanasamy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "V. Narayanasamy"
-              }
-            ]
-          },
-          "constituency2": {
-            "text": "Thattanchavady",
-            "links": [
-              {
-                "text": "Thattanchavady",
-                "type": "internal",
-                "page": "Thattanchavady (Union Territory Assembly constituency)"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "P Shanmugam",
-            "links": [
-              {
-                "text": "P Shanmugam",
-                "type": "internal",
-                "page": "P. Shanmugam"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "V. Vaithilingam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "V. Vaithilingam"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "27 October 2001"
-          },
-          "term_end2": {
-            "text": "4 September 2008"
-          },
-          "office3": {
-            "text": "Leader of Opposition of the Puducherry Legislative Assembly",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Leader of Opposition"
-              },
-              {
-                "type": "internal",
-                "page": "Puducherry Legislative Assembly"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Agriculture, Puducherry",
-            "links": [
-              {
-                "text": "Minister of Agriculture",
-                "type": "internal",
-                "page": "Agriculture minister"
-              },
-              {
-                "text": "Puducherry",
-                "type": "internal",
-                "page": "Puducherry (union territory)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "4 June 1991"
-          },
-          "term_end4": {
-            "text": "13 May 1996"
-          },
-          "1blankname4": {
-            "text": "Chief Minister"
-          },
-          "1namedata4": {
-            "text": "V. Vaithilingam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "V. Vaithilingam"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister of Education, Puducherry",
-            "links": [
-              {
-                "text": "Minister of Education",
-                "type": "internal",
-                "page": "Education minister"
-              },
-              {
-                "text": "Puducherry",
-                "type": "internal",
-                "page": "Puducherry (union territory)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "March 2000"
-          },
-          "term_end5": {
-            "text": "October 2001"
-          },
-          "1blankname5": {
-            "text": "Chief Minister"
-          },
-          "1namedata5": {
-            "text": "P. Shanmugam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "P. Shanmugam"
-              }
-            ]
-          },
-          "office6": {
-            "text": "President of All India N.R. Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "All India N.R. Congress"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "7 February 2011"
-          },
-          "lieutenant_governor3": {
-            "text": "Kiran Bedi\n\nTamilisai Soundararajan"
-          },
-          "term_start3": {
-            "text": "16 May 2016"
-          },
-          "term_end3": {
-            "text": "22 February 2021"
-          },
-          "party": {
-            "text": "All India NR Congress (2011—present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "All India NR Congress"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Nadesan Rangasamy"
-          },
-          "birth_date": {
-            "text": "August 4, 1950"
-          },
-          "birth_place": {
-            "text": "Pondicherry",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pondicherry"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "National Democratic Alliance (2014—present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Democratic Alliance"
-              }
-            ]
-          },
-          "residence": {
-            "text": "No 9, Vinayagar Koil Street, Thilaspet, Puducherry, India"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "N. Rangasamy",
+  "image": "N Rangaswamy.jpg",
+  "caption": "N. Rangasamy in March 2015",
+  "office": "9th Chief Minister of Puducherry",
+  "status": "Incumbent",
+  "lieutenant_governor": "Tamilisai Soundararajan",
+  "term_start": "7 May 2021",
+  "predecessor": "President's Rule",
+  "constituency": "Thattanchavady",
+  "term_start1": "16 May 2011",
+  "term_end1": "6 June 2016",
+  "constituency1": "Indira Nagar",
+  "predecessor1": "V. Vaithilingam",
+  "successor1": "V. Narayanasamy",
+  "constituency2": "Thattanchavady",
+  "predecessor2": "P Shanmugam",
+  "successor2": "V. Vaithilingam",
+  "term_start2": "27 October 2001",
+  "term_end2": "4 September 2008",
+  "office3": "Leader of Opposition of the Puducherry Legislative Assembly",
+  "office4": "Minister of Agriculture, Puducherry",
+  "term_start4": "4 June 1991",
+  "term_end4": "13 May 1996",
+  "1blankname4": "Chief Minister",
+  "1namedata4": "V. Vaithilingam",
+  "office5": "Minister of Education, Puducherry",
+  "term_start5": "March 2000",
+  "term_end5": "October 2001",
+  "1blankname5": "Chief Minister",
+  "1namedata5": "P. Shanmugam",
+  "office6": "President of All India N.R. Congress",
+  "term_start6": "7 February 2011",
+  "lieutenant_governor3": "Kiran Bedi\n\nTamilisai Soundararajan",
+  "term_start3": "16 May 2016",
+  "term_end3": "22 February 2021",
+  "party": "All India NR Congress (2011—present)",
+  "birth_name": "Nadesan Rangasamy",
+  "birth_date": "August 4, 1950",
+  "birth_place": "Pondicherry",
+  "otherparty": "Indian National Congress (until 2011)",
+  "residence": "No 9, Vinayagar Koil Street, Thilaspet, Puducherry, India"
 }

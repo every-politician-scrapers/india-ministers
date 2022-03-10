@@ -1,212 +1,24 @@
 {
-  "title": "La. Ganesan",
-  "pageID": 6699870,
-  "categories": [
-    "Bharatiya Janata Party politicians from Tamil Nadu",
-    "Living people",
-    "National Democratic Alliance candidates in the 2014 Indian general election",
-    "Rajya Sabha members from Madhya Pradesh",
-    "1945 births",
-    "Rajya Sabha members from the Bharatiya Janata Party",
-    "People from Thanjavur"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "'''La."
-            },
-            {
-              "text": "Ganesan''' (born 16 February 1945) is an Indian politician and incumbent Governor of Manipur since August 27, 2021.",
-              "links": [
-                {
-                  "text": "Governor of Manipur",
-                  "type": "internal",
-                  "page": "List of governors of Manipur"
-                }
-              ]
-            },
-            {
-              "text": "Prior to governor, he was senior leader of Tamil Nadu Bharatiya Janata Party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bharatiya Janata Party"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indian politician",
-          "template": "short description"
-        },
-        {
-          "date": "February 2016",
-          "template": "use indian english"
-        },
-        {
-          "date": "February 2016",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1945",
-          "month": "2",
-          "day": "16",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "La. Ganesan"
-          },
-          "image": {
-            "text": "La Ganesan Ji (cropped).jpg"
-          },
-          "office": {
-            "text": "17th Governor of Manipur",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Manipur"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "27 August 2021"
-          },
-          "president": {
-            "text": "Ram Nath Kovind",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ram Nath Kovind"
-              }
-            ]
-          },
-          "1blankname": {
-            "text": "Chief Minister"
-          },
-          "1namedata": {
-            "text": "N. Biren Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "N. Biren Singh"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Ganga Prasad\n(Additional Charge)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ganga Prasad"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Member of Parliament, Rajya Sabha",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of Parliament, Rajya Sabha"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "6 October 2016"
-          },
-          "term_end1": {
-            "text": "2 April 2018"
-          },
-          "1blankname1": {
-            "text": "Leader of the House"
-          },
-          "1namedata1": {
-            "text": "Arun Jaitley",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arun Jaitley"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Najma Heptullah",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Najma Heptullah"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Kailash Soni",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kailash Soni"
-              }
-            ]
-          },
-          "constituency1": {
-            "text": "Madhya Pradesh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Madhya Pradesh"
-              }
-            ]
-          },
-          "party": {
-            "text": "Bharatiya Janata Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "February 16, 1945"
-          },
-          "birth_place": {
-            "text": "Thanjavur, Madras State, India\n(present-day Tamil Nadu)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Thanjavur"
-              },
-              {
-                "type": "internal",
-                "page": "Madras State"
-              },
-              {
-                "type": "internal",
-                "page": "India"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Indian"
-          },
-          "profession": {
-            "text": "Politician"
-          },
-          "education": {
-            "text": "S.S.L.C."
-          }
-        }
-      ]
-    }
-  ]
+  "name": "La. Ganesan",
+  "image": "La Ganesan Ji (cropped).jpg",
+  "office": "17th Governor of Manipur",
+  "term_start": "27 August 2021",
+  "president": "Ram Nath Kovind",
+  "1blankname": "Chief Minister",
+  "1namedata": "N. Biren Singh",
+  "predecessor": "Ganga Prasad\n(Additional Charge)",
+  "office1": "Member of Parliament, Rajya Sabha",
+  "term_start1": "6 October 2016",
+  "term_end1": "2 April 2018",
+  "1blankname1": "Leader of the House",
+  "1namedata1": "Arun Jaitley",
+  "predecessor1": "Najma Heptullah",
+  "successor1": "Kailash Soni",
+  "constituency1": "Madhya Pradesh",
+  "party": "Bharatiya Janata Party",
+  "birth_date": "February 16, 1945",
+  "birth_place": "Thanjavur, Madras State, India\n(present-day Tamil Nadu)",
+  "nationality": "Indian",
+  "profession": "Politician",
+  "education": "S.S.L.C."
 }
