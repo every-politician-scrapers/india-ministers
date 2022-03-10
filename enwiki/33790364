@@ -1,415 +1,51 @@
 {
-  "title": "Charanjit Singh Channi",
-  "pageID": 33790364,
-  "categories": [
-    "Living people",
-    "People from Punjab, India",
-    "Chief Ministers of Punjab, India",
-    "Chief ministers from Indian National Congress",
-    "1963 births",
-    "People from Sahibzada Ajit Singh Nagar district",
-    "Punjab, India MLAs 2012–2017",
-    "Indian National Congress politicians",
-    "Punjab, India MLAs 2017–2022"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Charanjit Singh Channi (born 1 March 1963) is an Indian politician and is the Chief Minister of Punjab.",
-              "links": [
-                {
-                  "text": "Chief Minister",
-                  "type": "internal",
-                  "page": "Chief minister (India)"
-                },
-                {
-                  "text": "Punjab",
-                  "type": "internal",
-                  "page": "Punjab, India"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Charanjit Singh Channi"
-                ]
-              }
-            },
-            {
-              "text": "He is a member of the Indian National Congress.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Indian National Congress"
-                }
-              ]
-            },
-            {
-              "text": "He was Minister of Technical Education and Training in Second Amarinder Singh ministry and leader of the opposition in the Punjab Legislative Assembly.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Second Amarinder Singh ministry"
-                },
-                {
-                  "text": "leader of the opposition",
-                  "type": "internal",
-                  "page": "List of leaders of the opposition in the Punjab Legislative Assembly"
-                },
-                {
-                  "type": "internal",
-                  "page": "Punjab Legislative Assembly"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indian politician (born 1963)",
-          "template": "short description"
-        },
-        {
-          "date": "March 2022",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "April 2018",
-          "template": "use indian english"
-        },
-        {
-          "year": "1963",
-          "month": "3",
-          "day": "12",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Additional Ministries"
-          ],
-          "template": "collapsed infobox section begin"
-        },
-        {
-          "template": "collapsed infobox section end"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Charanjit Singh Channi"
-          },
-          "image": {
-            "text": "Charanjit Singh Channi (cropped).png"
-          },
-          "birth_date": {
-            "text": "March 12, 1963"
-          },
-          "birth_place": {
-            "text": "Chamkaur, Punjab, India",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chamkaur, Punjab"
-              }
-            ]
-          },
-          "residence": {
-            "text": "Kharar, SAS Nagar, Mohali",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kharar, SAS Nagar"
-              }
-            ]
-          },
-          "office": {
-            "text": "16th Chief Minister of Punjab",
-            "links": [
-              {
-                "text": "Chief Minister of Punjab",
-                "type": "internal",
-                "page": "List of chief ministers of Punjab (India)"
-              }
-            ]
-          },
-          "termstart": {
-            "text": "20 September 2021"
-          },
-          "governor": {
-            "text": "Banwarilal Purohit",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Banwarilal Purohit"
-              }
-            ]
-          },
-          "source": {
-            "text": "http://punjabassembly.nic.in/index.php/ministers/knowyourminister/8/"
-          },
-          "deputy": {
-            "text": "*Sukhjinder Singh Randhawa\n*Om Parkash Soni",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sukhjinder Singh Randhawa"
-              },
-              {
-                "type": "internal",
-                "page": "Om Parkash Soni"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Amarinder Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Amarinder Singh"
-              }
-            ]
-          },
-          "1blankname1": {
-            "text": "Ministry and Departments",
-            "links": [
-              {
-                "text": "Ministry and Departments",
-                "type": "internal",
-                "page": "Channi ministry"
-              }
-            ]
-          },
-          "1namedata1": {
-            "text": "*Conservation of Land and Water.\n*Civil Aviation.\n*Justice\n*Excise.\n*General Administration.\n*Hospitality.\n*Tourism & Cultural Affairs.\n*Mining and Geology\n*Investment Promotion.\n*Information & Public Relations.\n*Legal & Legislative Affairs.\n*Personnel.\n*Environment.\n*Vigilance.\n*Power.\nOther departments not allocated to any Minister shall vest with the Chief Minister..",
-            "formatting": {
-              "bold": [
-                "Other departments not allocated to any Minister shall vest with the Chief Minister.."
-              ],
-              "italic": [
-                "Other departments not allocated to any Minister shall vest with the Chief Minister.."
-              ]
-            }
-          },
-          "term_start1": {
-            "text": "20 September 2021"
-          },
-          "predecessor1": {
-            "text": "Amarinder Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Amarinder Singh"
-              }
-            ]
-          },
-          "office2": {
-            "text": "[[List of leaders of the house in the Punjab Legislative Assembly|Leader of the House of the\nPunjab Legislative Assembly]]"
-          },
-          "governor2": {
-            "text": "Banwarilal Purohit",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Banwarilal Purohit"
-              }
-            ]
-          },
-          "1blankname2": {
-            "text": "Speaker"
-          },
-          "1namedata2": {
-            "text": "Rana Kanwar Pal Singh",
-            "links": [
-              {
-                "text": "Rana Kanwar Pal Singh",
-                "type": "internal",
-                "page": "Rana K. P. Singh"
-              }
-            ]
-          },
-          "2blankname2": {
-            "text": "Deputy Leader"
-          },
-          "2namedata2": {
-            "text": "*Om Parkash Soni\n*Sukhjinder Singh Randhawa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Om Parkash Soni"
-              },
-              {
-                "type": "internal",
-                "page": "Sukhjinder Singh Randhawa"
-              }
-            ]
-          },
-          "termstart2": {
-            "text": "20 September 2021"
-          },
-          "predecessor2": {
-            "text": "Amarinder Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Amarinder Singh"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of the Punjab Legislative Assembly",
-            "links": [
-              {
-                "text": "Member of the Punjab Legislative Assembly",
-                "type": "internal",
-                "page": "Punjab Legislative Assembly"
-              }
-            ]
-          },
-          "constituency3": {
-            "text": "Chamkaur Sahib",
-            "links": [
-              {
-                "text": "Chamkaur Sahib",
-                "type": "internal",
-                "page": "Chamkaur Sahib Assembly Constituency"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "30 January 2007"
-          },
-          "predecessor3": {
-            "text": "Satwant Kaur",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Satwant Kaur"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Cabinet Minister, Government of Punjab",
-            "links": [
-              {
-                "text": "Cabinet Minister",
-                "type": "internal",
-                "page": "Second Amarinder Singh ministry"
-              },
-              {
-                "text": "Government of Punjab",
-                "type": "internal",
-                "page": "Government of Punjab (India)"
-              }
-            ]
-          },
-          "2blankname4": {
-            "text": "Ministry"
-          },
-          "2namedata4": {
-            "text": "* Technical Education & Industrial Training.\n* Employment Generation.\n* Tourism and Cultural Affairs"
-          },
-          "governor4": {
-            "text": "V. P. Singh Badnore\nBanwarilal Purohit",
-            "links": [
-              {
-                "type": "internal",
-                "page": "V. P. Singh Badnore"
-              },
-              {
-                "type": "internal",
-                "page": "Banwarilal Purohit"
-              }
-            ]
-          },
-          "1blankname4": {
-            "text": "Chief Minister"
-          },
-          "1namedata4": {
-            "text": "Amarinder Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Amarinder Singh"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "16 March 2017"
-          },
-          "term_end4": {
-            "text": "18 September 2021"
-          },
-          "office5": {
-            "text": "Leader of opposition in Punjab assembly",
-            "links": [
-              {
-                "text": "Leader of opposition in Punjab assembly",
-                "type": "internal",
-                "page": "List of leaders of the opposition in the Punjab Legislative Assembly"
-              }
-            ]
-          },
-          "term5": {
-            "text": "11 December 2015 – 11 November 2016"
-          },
-          "predecessor5": {
-            "text": "Sunil Kumar Jakhar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sunil Kumar Jakhar"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Harvinder Singh Phoolka",
-            "links": [
-              {
-                "text": "Harvinder Singh Phoolka",
-                "type": "internal",
-                "page": "H. S. Phoolka"
-              }
-            ]
-          },
-          "party": {
-            "text": "Indian National Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Indian National Congress"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Dr. Kamaljit Kaur"
-          },
-          "children": {
-            "text": "2 sons"
-          },
-          "alma_mater": {
-            "text": "Panjab University (B.A., L.L.B.) and Punjab Technical University (MBA)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Panjab University"
-              },
-              {
-                "type": "internal",
-                "page": "Punjab Technical University"
-              }
-            ]
-          },
-          "signature": {
-            "text": "Charanjit Singh Channi signature.svg"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Charanjit Singh Channi",
+  "status": "Outgoing",
+  "image": "Charanjit Singh Channi (cropped).png",
+  "birth_date": "March 12, 1963",
+  "birth_place": "Chamkaur, Punjab, India",
+  "residence": "Kharar, SAS Nagar, Mohali",
+  "office": "16th Chief Minister of Punjab",
+  "termstart": "20 September 2021",
+  "governor": "Banwarilal Purohit",
+  "source": "http://punjabassembly.nic.in/index.php/ministers/knowyourminister/8/",
+  "deputy": "*Sukhjinder Singh Randhawa\n*Om Parkash Soni",
+  "predecessor": "Amarinder Singh",
+  "successor": "Bhagwant Mann",
+  "1blankname1": "Ministry and Departments",
+  "1namedata1": "*Conservation of Land and Water.\n*Civil Aviation.\n*Justice\n*Excise.\n*General Administration.\n*Hospitality.\n*Tourism & Cultural Affairs.\n*Mining and Geology\n*Investment Promotion.\n*Information & Public Relations.\n*Legal & Legislative Affairs.\n*Personnel.\n*Environment.\n*Vigilance.\n*Power.\nOther departments not allocated to any Minister shall vest with the Chief Minister..",
+  "term_start1": "20 September 2021",
+  "predecessor1": "Amarinder Singh",
+  "successor1": "Bhagwant Mann",
+  "office2": "[[List of leaders of the house in the Punjab Legislative Assembly|Leader of the House of the\nPunjab Legislative Assembly]]",
+  "governor2": "Banwarilal Purohit",
+  "1blankname2": "Speaker",
+  "1namedata2": "Rana Kanwar Pal Singh",
+  "2blankname2": "Deputy Leader",
+  "2namedata2": "*Om Parkash Soni\n*Sukhjinder Singh Randhawa",
+  "termstart2": "20 September 2021",
+  "predecessor2": "Amarinder Singh",
+  "successor2": "Bhagwant Mann",
+  "office3": "Member of the Punjab Legislative Assembly",
+  "constituency3": "Chamkaur Sahib",
+  "term_start3": "30 January 2007",
+  "term_end3": "10 March 2022",
+  "predecessor3": "Satwant Kaur",
+  "office4": "Cabinet Minister, Government of Punjab",
+  "2blankname4": "Ministry",
+  "2namedata4": "* Technical Education & Industrial Training.\n* Employment Generation.\n* Tourism and Cultural Affairs",
+  "governor4": "V. P. Singh Badnore\nBanwarilal Purohit",
+  "1blankname4": "Chief Minister",
+  "1namedata4": "Amarinder Singh",
+  "term_start4": "16 March 2017",
+  "term_end4": "18 September 2021",
+  "office5": "Leader of opposition in Punjab assembly",
+  "term5": "11 December 2015 – 11 November 2016",
+  "predecessor5": "Sunil Kumar Jakhar",
+  "successor5": "Harvinder Singh Phoolka",
+  "party": "Indian National Congress",
+  "spouse": "Dr. Kamaljit Kaur",
+  "children": "2 sons",
+  "alma_mater": "Panjab University (B.A., L.L.B.) and Punjab Technical University (MBA)",
+  "signature": "Charanjit Singh Channi signature.svg"
 }

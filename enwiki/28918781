@@ -1,522 +1,60 @@
 {
-  "title": "Hemant Soren",
-  "pageID": 28918781,
-  "categories": [
-    "1975 births",
-    "Living people",
-    "Santali people",
-    "Jharkhand Mukti Morcha politicians",
-    "Deputy chief ministers of Jharkhand",
-    "Rajya Sabha members from Jharkhand",
-    "Kendriya Vidyalaya alumni",
-    "People from Ramgarh district",
-    "Chief Ministers of Jharkhand",
-    "Jharkhand MLAs 2009–2014",
-    "Jharkhand MLAs 2014–2019",
-    "Leaders of the Opposition in Jharkhand"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Hemant Soren (born 10 August 1975) is an Indian politician from Jharkhand, who is the current Chief Minister of Jharkhand.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Jharkhand"
-                },
-                {
-                  "type": "internal",
-                  "page": "Chief Minister of Jharkhand"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Hemant Soren"
-                ]
-              }
-            },
-            {
-              "text": "Previously, he had also served as the Chief Minister of Jharkhand from July 2013 to December 2014."
-            },
-            {
-              "text": "He is also the president of the Jharkhand Mukti Morcha, a political party in Jharkhand.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Jharkhand Mukti Morcha"
-                },
-                {
-                  "text": "political party",
-                  "type": "internal",
-                  "page": "political party"
-                }
-              ]
-            },
-            {
-              "text": "He represents Barhait constituency in the Jharkhand Legislative Assembly.",
-              "links": [
-                {
-                  "text": "Barhait",
-                  "type": "internal",
-                  "page": "Barhait (Vidhan Sabha constituency)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Jharkhand Legislative Assembly"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "April 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "description": "Chief Minister of Jharkhand",
-          "template": "short description"
-        },
-        {
-          "year": "1975",
-          "month": "8",
-          "day": "10",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Hemant Soren"
-          },
-          "image": {
-            "text": "File:Chief Minister of Jharkhand Shri Hemant Soren.jpg"
-          },
-          "office": {
-            "text": "5th Chief Minister of Jharkhand",
-            "links": [
-              {
-                "text": "Chief Minister of Jharkhand",
-                "type": "internal",
-                "page": "List of Chief Ministers of Jharkhand"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "29 December 2019"
-          },
-          "governor": {
-            "text": "Draupadi Murmu\nRamesh Bais",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Draupadi Murmu"
-              },
-              {
-                "type": "internal",
-                "page": "Ramesh Bais"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Raghubar Das",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Raghubar Das"
-              }
-            ]
-          },
-          "governor1": {
-            "text": "Syed Ahmed",
-            "links": [
-              {
-                "text": "Syed Ahmed",
-                "type": "internal",
-                "page": "Syed Ahmed (politician)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "13 July 2013"
-          },
-          "term_end1": {
-            "text": "28 December 2014"
-          },
-          "predecessor1": {
-            "text": "President's rule",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President's rule"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Raghubar Das",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Raghubar Das"
-              }
-            ]
-          },
-          "office2": {
-            "text": "[[List of leaders of the opposition in the Jharkhand Legislative Assembly|Leader of the Opposition,\nJharkhand Legislative Assembly]]"
-          },
-          "governor2": {
-            "text": "Syed Ahmed\nDraupadi Murmu",
-            "links": [
-              {
-                "text": "Syed Ahmed",
-                "type": "internal",
-                "page": "Syed Ahmed (politician)"
-              },
-              {
-                "type": "internal",
-                "page": "Draupadi Murmu"
-              }
-            ]
-          },
-          "1blankname2": {
-            "text": "Chief Minister"
-          },
-          "1namedata2": {
-            "text": "Raghubar Das",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Raghubar Das"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "7 January 2015"
-          },
-          "term_end2": {
-            "text": "28 December 2019"
-          },
-          "predecessor2": {
-            "text": "Arjun Munda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arjun Munda"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Babulal Marandi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Babulal Marandi"
-              }
-            ]
-          },
-          "office3": {
-            "text": "President of Jharkhand Mukti Morcha",
-            "links": [
-              {
-                "text": "President of Jharkhand Mukti Morcha",
-                "type": "internal",
-                "page": "Jharkhand Mukti Morcha"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "13 July 2013"
-          },
-          "predecessor3": {
-            "text": "Shibu Soren",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shibu Soren"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Deputy Chief Minister of Jharkhand",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Chief Minister of Jharkhand"
-              }
-            ]
-          },
-          "governor4": {
-            "text": "M. O. H. Farook\nSyed Ahmed",
-            "links": [
-              {
-                "type": "internal",
-                "page": "M. O. H. Farook"
-              },
-              {
-                "text": "Syed Ahmed",
-                "type": "internal",
-                "page": "Syed Ahmed (politician)"
-              }
-            ]
-          },
-          "1blankname4": {
-            "text": "Chief Minister"
-          },
-          "1namedata4": {
-            "text": "Arjun Munda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arjun Munda"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "11 September 2010"
-          },
-          "term_end4": {
-            "text": "18 January 2013"
-          },
-          "alongside4": {
-            "text": "Sudesh Mahto",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sudesh Mahto"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "President's rule",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President's rule"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "President's rule",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President's rule"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Member of Jharkhand Legislative Assembly",
-            "links": [
-              {
-                "text": "Member of Jharkhand Legislative Assembly",
-                "type": "internal",
-                "page": "Jharkhand Legislative Assembly"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "2014",
-            "number": 2014
-          },
-          "constituency5": {
-            "text": "Barhait",
-            "links": [
-              {
-                "text": "Barhait",
-                "type": "internal",
-                "page": "Barhait (Vidhan Sabha constituency)"
-              }
-            ]
-          },
-          "predecessor5": {
-            "text": "Hemlal Murmu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hemlal Murmu"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "23 December 2019"
-          },
-          "term_end6": {
-            "text": "6 January 2020"
-          },
-          "constituency6": {
-            "text": "Dumka",
-            "links": [
-              {
-                "text": "Dumka",
-                "type": "internal",
-                "page": "Dumka (Vidhan Sabha constituency)"
-              }
-            ]
-          },
-          "predecessor6": {
-            "text": "Louis Marandi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Louis Marandi"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Basant Soren",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Basant Soren"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "2009",
-            "number": 2009
-          },
-          "term_end7": {
-            "text": "2014",
-            "number": 2014
-          },
-          "constituency7": {
-            "text": "Dumka",
-            "links": [
-              {
-                "text": "Dumka",
-                "type": "internal",
-                "page": "Dumka (Vidhan Sabha constituency)"
-              }
-            ]
-          },
-          "predecessor7": {
-            "text": "Stephen Marandi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stephen Marandi"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Louis Marandi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Louis Marandi"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Member of Parliament, Rajya Sabha",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "Member of the Rajya Sabha"
-              },
-              {
-                "type": "internal",
-                "page": "Rajya Sabha"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "24 June 2009"
-          },
-          "term_end8": {
-            "text": "7 July 2010"
-          },
-          "constituency8": {
-            "text": "Jharkhand",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jharkhand"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Kalpana Soren"
-          },
-          "birth_date": {
-            "text": "August 10, 1975"
-          },
-          "birth_place": {
-            "text": "Nemara, Ramgarh, Bihar (now in Jharkhand) India",
-            "links": [
-              {
-                "text": "Ramgarh, Bihar",
-                "type": "internal",
-                "page": "Ramgarh district"
-              },
-              {
-                "type": "internal",
-                "page": "Jharkhand"
-              },
-              {
-                "type": "internal",
-                "page": "India"
-              }
-            ]
-          },
-          "website": {
-            "text": "cm.jharkhand.gov.in"
-          },
-          "party": {
-            "text": "Jharkhand Mukti Morcha /United Progressives alliance",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jharkhand Mukti Morcha"
-              },
-              {
-                "type": "internal",
-                "page": "United Progressives alliance"
-              }
-            ]
-          },
-          "father": {
-            "text": "Shibu Soren",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shibu Soren"
-              }
-            ]
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "nationality": {
-            "text": "Indian",
-            "links": [
-              {
-                "text": "Indian",
-                "type": "internal",
-                "page": "Indian people"
-              }
-            ]
-          },
-          "relations": {
-            "text": "Basant Soren (Brother)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Basant Soren"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Hemant Soren",
+  "image": "File:Chief Minister of Jharkhand Shri Hemant Soren.jpg",
+  "office": "5th Chief Minister of Jharkhand",
+  "term_start": "29 December 2019",
+  "governor": "Draupadi Murmu\nRamesh Bais",
+  "predecessor": "Raghubar Das",
+  "governor1": "Syed Ahmed",
+  "term_start1": "13 July 2013",
+  "term_end1": "28 December 2014",
+  "predecessor1": "President's rule",
+  "successor1": "Raghubar Das",
+  "office2": "[[List of leaders of the opposition in the Jharkhand Legislative Assembly|Leader of the Opposition,\nJharkhand Legislative Assembly]]",
+  "governor2": "Syed Ahmed\nDraupadi Murmu",
+  "1blankname2": "Chief Minister",
+  "1namedata2": "Raghubar Das",
+  "term_start2": "7 January 2015",
+  "term_end2": "28 December 2019",
+  "predecessor2": "Arjun Munda",
+  "successor2": "Babulal Marandi",
+  "office3": "President of Jharkhand Mukti Morcha",
+  "term_start3": "13 July 2013",
+  "predecessor3": "Shibu Soren",
+  "office4": "Deputy Chief Minister of Jharkhand",
+  "governor4": "M. O. H. Farook\nSyed Ahmed",
+  "1blankname4": "Chief Minister",
+  "1namedata4": "Arjun Munda",
+  "term_start4": "11 September 2010",
+  "term_end4": "18 January 2013",
+  "alongside4": "Sudesh Mahto",
+  "predecessor4": "President's rule",
+  "successor4": "President's rule",
+  "office5": "Member of Jharkhand Legislative Assembly",
+  "term_start5": "2014",
+  "constituency5": "Barhait",
+  "predecessor5": "Hemlal Murmu",
+  "term_start6": "23 December 2019",
+  "term_end6": "6 January 2020",
+  "constituency6": "Dumka",
+  "predecessor6": "Louis Marandi",
+  "successor6": "Basant Soren",
+  "term_start7": "2009",
+  "term_end7": "2014",
+  "constituency7": "Dumka",
+  "predecessor7": "Stephen Marandi",
+  "successor7": "Louis Marandi",
+  "office8": "Member of Parliament, Rajya Sabha",
+  "term_start8": "24 June 2009",
+  "term_end8": "7 July 2010",
+  "constituency8": "Jharkhand",
+  "spouse": "Kalpana Soren",
+  "birth_date": "August 10, 1975",
+  "birth_place": "Nemara, Ramgarh, Bihar (now in Jharkhand) India",
+  "website": "cm.jharkhand.gov.in",
+  "party": "Jharkhand Mukti Morcha /United Progressives alliance",
+  "father": "Shibu Soren",
+  "children": "2",
+  "nationality": "Indian",
+  "relations": "Basant Soren (Brother)"
 }

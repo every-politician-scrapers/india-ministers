@@ -1,407 +1,46 @@
 {
-  "title": "Kiren Rijiju",
-  "pageID": 4237840,
-  "categories": [
-    "1971 births",
-    "Living people",
-    "Bharatiya Janata Party politicians from Arunachal Pradesh",
-    "People from West Kameng district",
-    "Indian Buddhists",
-    "Faculty of Law, University of Delhi alumni",
-    "Lok Sabha members from Arunachal Pradesh",
-    "14th Lok Sabha members",
-    "16th Lok Sabha members",
-    "Union ministers of state of India",
-    "Ministry of Home Affairs (India)",
-    "Narendra Modi ministry",
-    "17th Lok Sabha members",
-    "National Democratic Alliance candidates in the 2019 Indian general election"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Kiren Rijiju is an Indian lawyer and a politician who serves as the Minister of Law and Justice in the Government of India.",
-              "links": [
-                {
-                  "text": "lawyer",
-                  "type": "internal",
-                  "page": "lawyer"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "text": "Minister of Law and Justice",
-                  "type": "internal",
-                  "page": "Ministry of Law and Justice (India)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Kiren Rijiju"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indian politician",
-          "template": "short description"
-        },
-        {
-          "date": "April 2017",
-          "template": "engvarb"
-        },
-        {
-          "date": "April 2017",
-          "template": "use dmy dates"
-        },
-        {
-          "template": "date",
-          "data": {
-            "year": 1971,
-            "month": 11,
-            "date": 19
-          }
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Kiren Rijiju"
-          },
-          "image": {
-            "text": "Kiren Rijiju addressing at the inauguration of the Social Infrastructure (Local shopping complex, Banquet Hall, Senior Secondary School) under East Kidwai Nagar Redevelopment Project, in New Delhi.jpg"
-          },
-          "office": {
-            "text": "Minister of Law and Justice",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Law and Justice"
-              }
-            ]
-          },
-          "image_size": {
-            "text": "250px"
-          },
-          "primeminister": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "termstart": {
-            "text": "7 July 2021"
-          },
-          "predecessor": {
-            "text": "Ravi Shankar Prasad",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ravi Shankar Prasad"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of State (Independent Charge) for Youth Affairs and Sports",
-            "links": [
-              {
-                "text": "Minister of State (Independent Charge) for Youth Affairs and Sports",
-                "type": "internal",
-                "page": "Ministry of Youth Affairs and Sports"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Col. Rajyavardhan Singh Rathore",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Col. Rajyavardhan Singh Rathore"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "30 May 2019"
-          },
-          "term_end1": {
-            "text": "7 July 2021"
-          },
-          "successor1": {
-            "text": "Anurag Thakur as Cabinet Minister",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anurag Thakur"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of State for Minority Affairs",
-            "links": [
-              {
-                "text": "Minister of State for Minority Affairs",
-                "type": "internal",
-                "page": "Ministry of Minority Affairs"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "30 May 2019"
-          },
-          "term_end2": {
-            "text": "7 July 2021"
-          },
-          "primeminister2": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "minister2": {
-            "text": "Mukhtar Abbas Naqvi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mukhtar Abbas Naqvi"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Virendra Kumar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Virendra Kumar"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "John Barla",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Barla"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of State for Home Affairs",
-            "links": [
-              {
-                "text": "Minister of State for Home Affairs",
-                "type": "internal",
-                "page": "Ministry of Home Affairs (India)"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "minister3": {
-            "text": "Rajnath Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rajnath Singh"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "R. P. N. Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "R. P. N. Singh"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Nityanand Rai, G. Kishan Reddy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nityanand Rai"
-              },
-              {
-                "type": "internal",
-                "page": "G. Kishan Reddy"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "26 May 2014"
-          },
-          "term_end3": {
-            "text": "30 May 2019\nServed along with H. P. Chaudhary (2014-16) and H. G. Ahir (2016-19)",
-            "links": [
-              {
-                "text": "H. P. Chaudhary",
-                "type": "internal",
-                "page": "Haribhai Parthibhai Chaudhary"
-              },
-              {
-                "text": "H. G. Ahir",
-                "type": "internal",
-                "page": "Hansraj Gangaram Ahir"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Member of Parliament, Lok Sabha",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "Member of parliament (India)"
-              },
-              {
-                "type": "internal",
-                "page": "Lok Sabha"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "16 May 2014"
-          },
-          "predecessor4": {
-            "text": "Takam Sanjoy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Takam Sanjoy"
-              }
-            ]
-          },
-          "constituency4": {
-            "text": "Arunachal West",
-            "links": [
-              {
-                "text": "Arunachal West",
-                "type": "internal",
-                "page": "Arunachal West (Lok Sabha constituency)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "2004",
-            "number": 2004
-          },
-          "term_end5": {
-            "text": "2009",
-            "number": 2009
-          },
-          "predecessor5": {
-            "text": "Jarbom Gamlin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jarbom Gamlin"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Takam Sanjoy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Takam Sanjoy"
-              }
-            ]
-          },
-          "constituency5": {
-            "text": "Arunachal West",
-            "links": [
-              {
-                "text": "Arunachal West",
-                "type": "internal",
-                "page": "Arunachal West (Lok Sabha constituency)"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "19 November 1971"
-          },
-          "birth_place": {
-            "text": "Nafra, West Kameng district, Arunachal Pradesh, India",
-            "links": [
-              {
-                "type": "internal",
-                "page": "West Kameng district"
-              },
-              {
-                "type": "internal",
-                "page": "Arunachal Pradesh"
-              },
-              {
-                "type": "internal",
-                "page": "India"
-              }
-            ]
-          },
-          "residence": {
-            "text": "9, Krishna Menon Marg, New Delhi – 110011"
-          },
-          "party": {
-            "text": "Bharatiya Janata Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Joram Rina Rijiju"
-          },
-          "alma_mater": {
-            "text": "Delhi University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Delhi University"
-              }
-            ]
-          },
-          "website": {
-            "text": "sites.google.com/site/kirenrijiju/"
-          },
-          "education": {
-            "text": "B.A., LL.B"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Kiren Rijiju",
+  "image": "Kiren Rijiju addressing at the inauguration of the Social Infrastructure (Local shopping complex, Banquet Hall, Senior Secondary School) under East Kidwai Nagar Redevelopment Project, in New Delhi.jpg",
+  "office": "Minister of Law and Justice",
+  "image_size": "250px",
+  "primeminister": "Narendra Modi",
+  "termstart": "7 July 2021",
+  "predecessor": "Ravi Shankar Prasad",
+  "office1": "Minister of State (Independent Charge) for Youth Affairs and Sports",
+  "primeminister1": "Narendra Modi",
+  "predecessor1": "Col. Rajyavardhan Singh Rathore",
+  "term_start1": "30 May 2019",
+  "term_end1": "7 July 2021",
+  "successor1": "Anurag Thakur as Cabinet Minister",
+  "office2": "Minister of State for Minority Affairs",
+  "term_start2": "30 May 2019",
+  "term_end2": "7 July 2021",
+  "primeminister2": "Narendra Modi",
+  "minister2": "Mukhtar Abbas Naqvi",
+  "predecessor2": "Virendra Kumar",
+  "successor2": "John Barla",
+  "office3": "Minister of State for Home Affairs",
+  "primeminister3": "Narendra Modi",
+  "minister3": "Rajnath Singh",
+  "predecessor3": "R. P. N. Singh",
+  "successor3": "Nityanand Rai, G. Kishan Reddy",
+  "term_start3": "26 May 2014",
+  "term_end3": "30 May 2019\nServed along with H. P. Chaudhary (2014-16) and H. G. Ahir (2016-19)",
+  "office4": "Member of Parliament, Lok Sabha",
+  "term_start4": "16 May 2014",
+  "predecessor4": "Takam Sanjoy",
+  "constituency4": "Arunachal West",
+  "term_start5": "2004",
+  "term_end5": "2009",
+  "predecessor5": "Jarbom Gamlin",
+  "successor5": "Takam Sanjoy",
+  "constituency5": "Arunachal West",
+  "birth_date": "19 November 1971",
+  "birth_place": "Nafra, West Kameng district, Arunachal Pradesh, India",
+  "residence": "9, Krishna Menon Marg, New Delhi – 110011",
+  "party": "Bharatiya Janata Party",
+  "spouse": "Joram Rina Rijiju",
+  "alma_mater": "Delhi University",
+  "website": "sites.google.com/site/kirenrijiju/",
+  "education": "B.A., LL.B"
 }

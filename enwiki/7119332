@@ -1,476 +1,54 @@
 {
-  "title": "Dharmendra Pradhan",
-  "pageID": 7119332,
-  "categories": [
-    "1969 births",
-    "Living people",
-    "People from Odisha",
-    "Odisha politicians",
-    "Bharatiya Janata Party politicians from Odisha",
-    "14th Lok Sabha members",
-    "People from Angul district",
-    "Rajya Sabha members from Bihar",
-    "Lok Sabha members from Odisha",
-    "Narendra Modi ministry",
-    "People from Debagarh district",
-    "Members of the Cabinet of India",
-    "Steel Ministers of India",
-    "Petroleum and Natural Gas Ministers of India",
-    "Education Ministers of India"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Dharmendra Pradhan (born 26 June 1969) is an Indian politician serving as the Minister of Education and Minister of Skill Development and Entrepreneurship in the Government of India.",
-              "links": [
-                {
-                  "text": "Minister of Education",
-                  "type": "internal",
-                  "page": "Ministry of Education (India)"
-                },
-                {
-                  "text": "Minister of Skill Development and Entrepreneurship",
-                  "type": "internal",
-                  "page": "Ministry of Skill Development and Entrepreneurship"
-                },
-                {
-                  "type": "internal",
-                  "page": "Government of India"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Dharmendra Pradhan"
-                ]
-              }
-            },
-            {
-              "text": "He has also been the Minister of Petroleum & Natural Gas and Minister of Steel.",
-              "links": [
-                {
-                  "text": "Minister of Petroleum & Natural Gas",
-                  "type": "internal",
-                  "page": "Ministry of Petroleum and Natural Gas"
-                },
-                {
-                  "text": "Minister of Steel",
-                  "type": "internal",
-                  "page": "Ministry of Steel"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Pradhan was promoted to a Cabinet Minister on 3 September 2017."
-            },
-            {
-              "text": "Shri Pradhan currently represents Madhya Pradesh in the Rajya Sabha as Member of Parliament."
-            },
-            {
-              "text": "Earlier, he was a member of the 14th Lok Sabha."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indian politician",
-          "template": "short description"
-        },
-        {
-          "date": "March 2020",
-          "template": "blp sources"
-        },
-        {
-          "date": "December 2015",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "December 2015",
-          "template": "use indian english"
-        },
-        {
-          "year": "1969",
-          "month": "6",
-          "day": "26",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "office": {
-            "text": "Minister of Education",
-            "links": [
-              {
-                "text": "Minister of Education",
-                "type": "internal",
-                "page": "Ministry of Education (India)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "7 July 2021"
-          },
-          "predecessor": {
-            "text": "Ramesh Pokhriyal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ramesh Pokhriyal"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "native_name_lang": {
-            "text": "Odia"
-          },
-          "image": {
-            "text": "The Union Minister for Petroleum & Natural Gas and Steel, Shri Dharmendra Pradhan holding a press conference on Cabinet Decisions, in New Delhi on December 30, 2020.jpg"
-          },
-          "image_size": {
-            "text": "250px"
-          },
-          "office4": {
-            "text": "Minister of Petroleum and Natural Gas",
-            "links": [
-              {
-                "text": "Minister of Petroleum and Natural Gas",
-                "type": "internal",
-                "page": "Ministry of Petroleum and Natural Gas"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Veerappa Moily",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Veerappa Moily"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "26 May 2014"
-          },
-          "term_end4": {
-            "text": "6 July 2021"
-          },
-          "successor4": {
-            "text": "Hardeep Singh Puri",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hardeep Singh Puri"
-              }
-            ]
-          },
-          "date": {
-            "text": "29 June 2019"
-          },
-          "office3": {
-            "text": "Minister of Steel",
-            "links": [
-              {
-                "text": "Minister of Steel",
-                "type": "internal",
-                "page": "Ministry of Steel (India)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "30 May 2019"
-          },
-          "predecessor3": {
-            "text": "Chaudhary Birender Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chaudhary Birender Singh"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Ramchandra Prasad Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ramchandra Prasad Singh"
-              }
-            ]
-          },
-          "term_end3": {
-            "text": "7 July 2021"
-          },
-          "office1": {
-            "text": "Minister of Skill Development and Entrepreneurship",
-            "links": [
-              {
-                "text": "Minister of Skill Development and Entrepreneurship",
-                "type": "internal",
-                "page": "Ministry of Skill Development and Entrepreneurship"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "7 July 2021"
-          },
-          "predecessor1": {
-            "text": "Mahendra Nath Pandey",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahendra Nath Pandey"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Rajiv Pratap Rudy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rajiv Pratap Rudy"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Mahendra Nath Pandey",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahendra Nath Pandey"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "3 September 2017"
-          },
-          "term_end2": {
-            "text": "30 May 2019"
-          },
-          "office5": {
-            "text": "Member of Parliament, Rajya Sabha",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of Parliament, Rajya Sabha"
-              }
-            ]
-          },
-          "constituency5": {
-            "text": "Madhya Pradesh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Madhya Pradesh"
-              }
-            ]
-          },
-          "predecessor5": {
-            "text": "Prakash Javadekar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prakash Javadekar"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "3 April 2018"
-          },
-          "constituency6": {
-            "text": "Bihar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bihar"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "3 April 2012"
-          },
-          "term_end6": {
-            "text": "2 April 2018"
-          },
-          "successor6": {
-            "text": "Manoj Jha",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Manoj Jha"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Member of Parliament, Lok Sabha",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of Parliament, Lok Sabha"
-              }
-            ]
-          },
-          "constituency7": {
-            "text": "Deogarh",
-            "links": [
-              {
-                "text": "Deogarh",
-                "type": "internal",
-                "page": "Deogarh (Lok Sabha constituency)"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "17 May 2004"
-          },
-          "term_end7": {
-            "text": "18 May 2009"
-          },
-          "predecessor7": {
-            "text": "Debendra Pradhan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Debendra Pradhan"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Constituency abolished",
-            "formatting": {
-              "italic": [
-                "Constituency abolished"
-              ]
-            }
-          },
-          "father": {
-            "text": "Debendra Pradhan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Debendra Pradhan"
-              }
-            ]
-          },
-          "mother": {
-            "text": "Basanta Manjari Pradhan"
-          },
-          "birth_date": {
-            "text": "June 26, 1969"
-          },
-          "birth_place": {
-            "text": "Talcher, Odisha, India",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Talcher"
-              },
-              {
-                "type": "internal",
-                "page": "Odisha"
-              },
-              {
-                "type": "internal",
-                "page": "India"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Mridula Pradhan"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "party": {
-            "text": "Bharatiya Janata Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Utkal University (M.A)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Utkal University"
-              },
-              {
-                "text": "M.A",
-                "type": "internal",
-                "page": "Master of Arts"
-              }
-            ]
-          },
-          "residence": {
-            "text": "Talcher, Odisha, India",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Talcher"
-              },
-              {
-                "type": "internal",
-                "page": "Odisha"
-              },
-              {
-                "type": "internal",
-                "page": "India"
-              }
-            ]
-          },
-          "website": {
-            "text": "http://dpradhanbjp.com"
-          }
-        }
-      ]
-    }
-  ]
+  "office": "Minister of Education",
+  "term_start": "7 July 2021",
+  "predecessor": "Ramesh Pokhriyal",
+  "primeminister": "Narendra Modi",
+  "native_name_lang": "Odia",
+  "image": "The Union Minister for Petroleum & Natural Gas and Steel, Shri Dharmendra Pradhan holding a press conference on Cabinet Decisions, in New Delhi on December 30, 2020.jpg",
+  "image_size": "250px",
+  "office4": "Minister of Petroleum and Natural Gas",
+  "predecessor4": "Veerappa Moily",
+  "primeminister4": "Narendra Modi",
+  "term_start4": "26 May 2014",
+  "term_end4": "6 July 2021",
+  "successor4": "Hardeep Singh Puri",
+  "date": "29 June 2019",
+  "office3": "Minister of Steel",
+  "term_start3": "30 May 2019",
+  "predecessor3": "Chaudhary Birender Singh",
+  "primeminister3": "Narendra Modi",
+  "successor3": "Ramchandra Prasad Singh",
+  "term_end3": "7 July 2021",
+  "office1": "Minister of Skill Development and Entrepreneurship",
+  "term_start1": "7 July 2021",
+  "predecessor1": "Mahendra Nath Pandey",
+  "predecessor2": "Rajiv Pratap Rudy",
+  "primeminister1": "Narendra Modi",
+  "successor2": "Mahendra Nath Pandey",
+  "term_start2": "3 September 2017",
+  "term_end2": "30 May 2019",
+  "office5": "Member of Parliament, Rajya Sabha",
+  "constituency5": "Madhya Pradesh",
+  "predecessor5": "Prakash Javadekar",
+  "term_start5": "3 April 2018",
+  "constituency6": "Bihar",
+  "term_start6": "3 April 2012",
+  "term_end6": "2 April 2018",
+  "successor6": "Manoj Jha",
+  "office7": "Member of Parliament, Lok Sabha",
+  "constituency7": "Deogarh",
+  "term_start7": "17 May 2004",
+  "term_end7": "18 May 2009",
+  "predecessor7": "Debendra Pradhan",
+  "successor7": "Constituency abolished",
+  "father": "Debendra Pradhan",
+  "mother": "Basanta Manjari Pradhan",
+  "birth_date": "June 26, 1969",
+  "birth_place": "Talcher, Odisha, India",
+  "spouse": "Mridula Pradhan",
+  "children": "2",
+  "party": "Bharatiya Janata Party",
+  "alma_mater": "Utkal University (M.A)",
+  "residence": "Talcher, Odisha, India",
+  "website": "http://dpradhanbjp.com"
 }

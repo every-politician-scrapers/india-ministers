@@ -1,190 +1,20 @@
 {
-  "title": "B. D. Mishra",
-  "pageID": 55392810,
-  "categories": [
-    "Governors of Arunachal Pradesh",
-    "Indian military personnel",
-    "University of Allahabad alumni",
-    "University of Madras alumni",
-    "1939 births",
-    "Living people",
-    "Jiwaji University alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "B. D. Mishra is a former brigadier of the Indian Army.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Indian Army"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "B. D. Mishra"
-                ]
-              }
-            },
-            {
-              "text": "He is the present governor of Arunachal Pradesh.",
-              "links": [
-                {
-                  "text": "governor of Arunachal Pradesh",
-                  "type": "internal",
-                  "page": "governor of Arunachal Pradesh"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "October 2018",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1939",
-          "month": "7",
-          "day": "20",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "B. D. Mishra"
-          },
-          "image": {
-            "text": "The Minister of State for Tourism (IC), Shri Alphons Kannanthanam meeting the Governor of Arunachal Pradesh, Brigadier (Retd.) (Dr.) B.D. Mishra, in New Delhi on July 31, 2018 (cropped).JPG"
-          },
-          "birth_date": {
-            "text": "July 20, 1939"
-          },
-          "birth_place": {
-            "text": "Kathauta, Bhadohi district, United Provinces, British India (present-day Uttar Pradesh, India)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bhadohi district"
-              },
-              {
-                "text": "United Provinces",
-                "type": "internal",
-                "page": "United Provinces (1937–50)"
-              },
-              {
-                "type": "internal",
-                "page": "British India"
-              },
-              {
-                "type": "internal",
-                "page": "Uttar Pradesh"
-              }
-            ]
-          },
-          "residence": {
-            "text": "Raj Bhavan, Itanagar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Raj Bhavan, Itanagar"
-              }
-            ]
-          },
-          "office": {
-            "text": "19th Governor of Arunachal Pradesh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Arunachal Pradesh"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "3 October 2017"
-          },
-          "1blankname": {
-            "text": "Chief Minister"
-          },
-          "1namedata": {
-            "text": "Pema Khandu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pema Khandu"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Padmanabha Acharya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Padmanabha Acharya"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Ms. Neelam Misra"
-          },
-          "children": {
-            "text": "one son and one daughter"
-          },
-          "source": {
-            "text": "http://arunachalgovernor.gov.in/html/profile.htm"
-          },
-          "allegiance": {
-            "text": "India"
-          },
-          "branch": {
-            "text": "Indian Army",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Indian Army"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1961 - 1995"
-          },
-          "honorific_prefix": {
-            "text": "Brigadier",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brigadier"
-              }
-            ]
-          },
-          "battles": {
-            "text": "Sino-Indian War, Indo-Pakistani War, 1965 & Bangladesh Liberation War",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sino-Indian War"
-              },
-              {
-                "text": "Indo-Pakistani War, 1965",
-                "type": "internal",
-                "page": "Indo-Pakistani War of 1965"
-              },
-              {
-                "type": "internal",
-                "page": "Bangladesh Liberation War"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "B. D. Mishra",
+  "image": "The Minister of State for Tourism (IC), Shri Alphons Kannanthanam meeting the Governor of Arunachal Pradesh, Brigadier (Retd.) (Dr.) B.D. Mishra, in New Delhi on July 31, 2018 (cropped).JPG",
+  "birth_date": "July 20, 1939",
+  "birth_place": "Kathauta, Bhadohi district, United Provinces, British India (present-day Uttar Pradesh, India)",
+  "residence": "Raj Bhavan, Itanagar",
+  "office": "19th Governor of Arunachal Pradesh",
+  "term_start": "3 October 2017",
+  "1blankname": "Chief Minister",
+  "1namedata": "Pema Khandu",
+  "predecessor": "Padmanabha Acharya",
+  "spouse": "Ms. Neelam Misra",
+  "children": "one son and one daughter",
+  "source": "http://arunachalgovernor.gov.in/html/profile.htm",
+  "allegiance": "India",
+  "branch": "Indian Army",
+  "serviceyears": "1961 - 1995",
+  "honorific_prefix": "Brigadier",
+  "battles": "Sino-Indian War, Indo-Pakistani War, 1965 & Bangladesh Liberation War"
 }

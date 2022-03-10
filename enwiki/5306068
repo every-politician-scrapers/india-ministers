@@ -1,349 +1,39 @@
 {
-  "title": "Mukhtar Abbas Naqvi",
-  "pageID": 5306068,
-  "categories": [
-    "Bharatiya Janata Party politicians from Uttar Pradesh",
-    "Politicians from Allahabad",
-    "People from Rampur, Uttar Pradesh",
-    "University of Allahabad alumni",
-    "1957 births",
-    "Living people",
-    "Indian Shia Muslims",
-    "Rajya Sabha members from Uttar Pradesh",
-    "12th Lok Sabha members",
-    "Lok Sabha members from Uttar Pradesh",
-    "Indians imprisoned during the Emergency (India)",
-    "Narendra Modi ministry",
-    "Rajya Sabha members from Jharkhand",
-    "Janata Party (Secular) politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mukhtar Abbas Naqvi (born 15 October 1957) is an Indian politician and the Deputy Leader of the House in Rajya Sabha and Union Minister of Minority Affairs.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Rajya Sabha"
-                },
-                {
-                  "text": "Union Minister of Minority Affairs.",
-                  "type": "internal",
-                  "page": "Ministry of Minority Affairs"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mukhtar Abbas Naqvi"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indian politician",
-          "template": "short description"
-        },
-        {
-          "date": "August 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "December 2015",
-          "template": "use indian english"
-        },
-        {
-          "small": "yes",
-          "template": "pp-semi-blp"
-        },
-        {
-          "df": "y",
-          "year": "1957",
-          "month": "10",
-          "day": "15",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "Mukhtar Abbas Naqvi addressing a press conference on the achievements of the Ministry of Minority Affairs, during 3 years of NDA Government, in New Delhi.jpg"
-          },
-          "office1": {
-            "text": "Minister of Minority Affairs",
-            "links": [
-              {
-                "text": "Minister of Minority Affairs",
-                "type": "internal",
-                "page": "Ministry of Minority Affairs (India)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "12 July 2016"
-          },
-          "primeminister1": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Najma Heptullah",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Najma Heptullah"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Deputy Leader of the House in Rajya Sabha",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rajya Sabha"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "19 July 2021"
-          },
-          "leader2": {
-            "text": "Piyush Goyal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Piyush Goyal"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Piyush Goyal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Piyush Goyal"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of State for Minority Affairs",
-            "links": [
-              {
-                "text": "Minister of State for Minority Affairs",
-                "type": "internal",
-                "page": "Ministry of Minority Affairs (India)"
-              }
-            ]
-          },
-          "minister4": {
-            "text": "Najma Heptullah",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Najma Heptullah"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "26 May 2014"
-          },
-          "term_end4": {
-            "text": "12 July 2016"
-          },
-          "primeminister4": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Ninong Ering",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ninong Ering"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Virendra Kumar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Virendra Kumar"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister of State for Parliamentary Affairs",
-            "links": [
-              {
-                "text": "Minister of State for Parliamentary Affairs",
-                "type": "internal",
-                "page": "Ministry of Parliamentary Affairs (India)"
-              }
-            ]
-          },
-          "minister5": {
-            "text": "M.Venkaiah Naidu Ananth Kumar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "M.Venkaiah Naidu"
-              },
-              {
-                "type": "internal",
-                "page": "Ananth Kumar"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "26 May 2014"
-          },
-          "term_end5": {
-            "text": "3 September 2017"
-          },
-          "primeminister5": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "predecessor5": {
-            "text": "V Narayanasamy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "V Narayanasamy"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Vijay Goel",
-            "links": [
-              {
-                "text": "Vijay Goel",
-                "type": "internal",
-                "page": "Vijay Goel (politician)"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Member of Parliament, Rajya Sabha",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of Parliament, Rajya Sabha"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "8 July 2016"
-          },
-          "constituency6": {
-            "text": "Jharkhand",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jharkhand"
-              }
-            ]
-          },
-          "predecessor6": {
-            "text": "M. J. Akbar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "M. J. Akbar"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "5 July 2010"
-          },
-          "term_end7": {
-            "text": "4 July 2016"
-          },
-          "constituency7": {
-            "text": "Uttar Pradesh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Uttar Pradesh"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "October 15, 1957"
-          },
-          "birth_place": {
-            "text": "Allahabad, Uttar Pradesh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Allahabad"
-              },
-              {
-                "type": "internal",
-                "page": "Uttar Pradesh"
-              }
-            ]
-          },
-          "party": {
-            "text": "Bharatiya Janata Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Asian Academy of Higher Studies, Noida",
-            "links": [
-              {
-                "text": "Asian Academy of Higher Studies, Noida",
-                "type": "internal",
-                "page": "Asian Academy of Film & Television"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Seema Naqvi"
-          },
-          "children": {
-            "text": "1",
-            "number": 1
-          },
-          "religion": {
-            "text": "Shia Islam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shia Islam"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "image": "Mukhtar Abbas Naqvi addressing a press conference on the achievements of the Ministry of Minority Affairs, during 3 years of NDA Government, in New Delhi.jpg",
+  "office1": "Minister of Minority Affairs",
+  "term_start1": "12 July 2016",
+  "primeminister1": "Narendra Modi",
+  "predecessor1": "Najma Heptullah",
+  "office2": "Deputy Leader of the House in Rajya Sabha",
+  "term_start2": "19 July 2021",
+  "leader2": "Piyush Goyal",
+  "predecessor2": "Piyush Goyal",
+  "office4": "Minister of State for Minority Affairs",
+  "minister4": "Najma Heptullah",
+  "term_start4": "26 May 2014",
+  "term_end4": "12 July 2016",
+  "primeminister4": "Narendra Modi",
+  "predecessor4": "Ninong Ering",
+  "successor4": "Virendra Kumar",
+  "office5": "Minister of State for Parliamentary Affairs",
+  "minister5": "M.Venkaiah Naidu Ananth Kumar",
+  "term_start5": "26 May 2014",
+  "term_end5": "3 September 2017",
+  "primeminister5": "Narendra Modi",
+  "predecessor5": "V Narayanasamy",
+  "successor5": "Vijay Goel",
+  "office6": "Member of Parliament, Rajya Sabha",
+  "term_start6": "8 July 2016",
+  "constituency6": "Jharkhand",
+  "predecessor6": "M. J. Akbar",
+  "term_start7": "5 July 2010",
+  "term_end7": "4 July 2016",
+  "constituency7": "Uttar Pradesh",
+  "birth_date": "October 15, 1957",
+  "birth_place": "Allahabad, Uttar Pradesh",
+  "party": "Bharatiya Janata Party",
+  "alma_mater": "Asian Academy of Higher Studies, Noida",
+  "spouse": "Seema Naqvi",
+  "children": "1",
+  "religion": "Shia Islam"
 }

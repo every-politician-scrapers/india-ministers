@@ -1,214 +1,23 @@
 {
-  "title": "Pushkar Singh Dhami",
-  "pageID": 52891516,
-  "categories": [
-    "People from Udham Singh Nagar district",
-    "Chief Ministers of Uttarakhand",
-    "Chief ministers from Bharatiya Janata Party",
-    "Bharatiya Janata Party politicians from Uttarakhand",
-    "Members of the Uttarakhand Legislative Assembly",
-    "Living people",
-    "21st-century Indian politicians",
-    "1975 births"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Pushkar Singh Dhami (born 16 September 1975) is an Indian politician and member of the Bharatiya Janata Party serving as the 11th and the current Chief Minister of Uttarakhand.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bharatiya Janata Party"
-                },
-                {
-                  "type": "internal",
-                  "page": "Uttarakhand"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Pushkar Singh Dhami"
-                ]
-              }
-            },
-            {
-              "text": "Dhami is a member of the Uttarakhand Legislative Assembly from the Udham Singh Nagar Khatima constituency in Udham Singh Nagar district.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Uttarakhand Legislative Assembly"
-                },
-                {
-                  "text": "Udham Singh Nagar Khatima constituency",
-                  "type": "internal",
-                  "page": "Khatima (Uttarakhand Assembly constituency)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Udham Singh Nagar district"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "10th Chief Minister of Uttarakhand, India",
-          "template": "short description"
-        },
-        {
-          "date": "May 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "June 2017",
-          "template": "use indian english"
-        },
-        {
-          "year": "1975",
-          "month": "09",
-          "day": "16",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "Chandi Bhatt With CM Dhami.jpg"
-          },
-          "image_size": {
-            "text": "250px"
-          },
-          "caption": {
-            "text": "Pushkar Singh Dhami (left) with Chandi Bhatt"
-          },
-          "birth_date": {
-            "text": "September 16, 1975"
-          },
-          "birth_place": {
-            "text": "Pithoragarh, Uttarakhand, India",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pithoragarh"
-              },
-              {
-                "type": "internal",
-                "page": "Uttarakhand"
-              },
-              {
-                "type": "internal",
-                "page": "India"
-              }
-            ]
-          },
-          "residence": {
-            "text": "Khatima, Udham Singh Nagar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Khatima"
-              },
-              {
-                "type": "internal",
-                "page": "Udham Singh Nagar"
-              }
-            ]
-          },
-          "order": {
-            "text": "11th"
-          },
-          "office": {
-            "text": "Chief Minister of Uttarakhand"
-          },
-          "term_start": {
-            "text": "4 July 2021"
-          },
-          "governor": {
-            "text": "Baby Rani Maurya Gurmit Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Baby Rani Maurya"
-              },
-              {
-                "text": "Gurmit Singh",
-                "type": "internal",
-                "page": "Gurmit Singh (general)"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Tirath Singh Rawat",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tirath Singh Rawat"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Member of the Uttarakhand Legislative Assembly",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Uttarakhand Legislative Assembly"
-              }
-            ]
-          },
-          "constituency1": {
-            "text": "Khatima",
-            "links": [
-              {
-                "text": "Khatima",
-                "type": "internal",
-                "page": "Khatima (Uttarakhand Assembly constituency)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "2012",
-            "number": 2012
-          },
-          "party": {
-            "text": "Bharatiya Janata Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Geeta Dhami"
-          },
-          "children": {
-            "text": "2 sons"
-          },
-          "website": {
-            "text": "http://www.pushkarsinghdhami.in"
-          },
-          "alma_mater": {
-            "text": "University of Lucknow",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Lucknow"
-              }
-            ]
-          },
-          "education": {
-            "text": "Post Graduation in (MHRM&IR) LLB, Diploma in Public Administration"
-          }
-        }
-      ]
-    }
-  ]
+  "image": "File:Pushkar Singh Dhami.jpg",
+  "image_size": "250px",
+  "caption": "Pushkar Singh Dhami",
+  "birth_date": "September 16, 1975",
+  "birth_place": "Pithoragarh, Uttarakhand, India",
+  "residence": "Khatima, Udham Singh Nagar",
+  "order": "10th",
+  "office": "Chief Minister of Uttarakhand",
+  "term_start": "4 July 2021",
+  "governor": "Baby Rani Maurya Gurmit Singh",
+  "predecessor": "Tirath Singh Rawat",
+  "office1": "Member of the Uttarakhand Legislative Assembly",
+  "constituency1": "Khatima",
+  "term_start1": "2012",
+  "party": "BJP",
+  "spouse": "Geeta Dhami",
+  "children": "2 sons",
+  "website": "http://www.pushkarsinghdhami.in",
+  "alma_mater": "University of Lucknow",
+  "education": "Post Graduation in (MHRM&IR) LLB, Diploma in Public Administration",
+  "term_end1": "10 March 2022"
 }

@@ -1,386 +1,48 @@
 {
-  "title": "Tamilisai Soundararajan",
-  "pageID": 42940621,
-  "categories": [
-    "1961 births",
-    "20th-century Indian medical doctors",
-    "21st-century Indian medical doctors",
-    "21st-century Indian politicians",
-    "21st-century Indian women politicians",
-    "Bharatiya Janata Party politicians from Tamil Nadu",
-    "Governors of Telangana",
-    "Indian women medical doctors",
-    "Lieutenant Governors of Puducherry",
-    "Living people",
-    "People from Kanyakumari district"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Tamilisai Soundararajan (born 2 June 1961) is an Indian politician serving as the 2nd and current Governor of Telangana, also current Lieutenant Governor of Puducherry (Additional charge) as of 18 February 2021.",
-              "links": [
-                {
-                  "text": "Governor of Telangana",
-                  "type": "internal",
-                  "page": "List of governors of Telangana"
-                },
-                {
-                  "type": "internal",
-                  "page": "Lieutenant Governor of Puducherry"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Tamilisai Soundararajan"
-                ]
-              }
-            },
-            {
-              "text": "She was the National Secretary and Tamil Nadu State Unit President of the BJP prior to this appointment.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Tamil Nadu"
-                },
-                {
-                  "type": "internal",
-                  "page": "BJP"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "2nd Governor of Telangana",
-          "template": "short description"
-        },
-        {
-          "date": "October 2019",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "October 2019",
-          "template": "use indian english"
-        },
-        {
-          "df": "yes",
-          "year": "1961",
-          "month": "06",
-          "day": "02",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Tamilisai Soundararajan"
-          },
-          "honorific_prefix": {
-            "text": "The Honourable Dr.",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              },
-              {
-                "text": "Dr.",
-                "type": "internal",
-                "page": "Doctor (medicine)"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "June 2, 1961"
-          },
-          "birth_place": {
-            "text": "Kaliyakkavilai, Kanyakumari, Madras State, India\n(present-day Tamil Nadu)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kaliyakkavilai"
-              },
-              {
-                "text": "Kanyakumari",
-                "type": "internal",
-                "page": "Kanyakumari District"
-              },
-              {
-                "type": "internal",
-                "page": "Madras State"
-              },
-              {
-                "type": "internal",
-                "page": "India"
-              }
-            ]
-          },
-          "image": {
-            "text": "Dr-Tamilisai-Soundararajan.jpg"
-          },
-          "office": {
-            "text": "2nd Governor of Telangana",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Telangana"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "8 September 2019"
-          },
-          "1blankname": {
-            "text": "Chief Minister"
-          },
-          "1namedata": {
-            "text": "K. Chandrasekhar Rao",
-            "links": [
-              {
-                "type": "internal",
-                "page": "K. Chandrasekhar Rao"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "E. S. L. Narasimhan",
-            "links": [
-              {
-                "text": "E. S. L. Narasimhan",
-                "type": "internal",
-                "page": "Ekkadu Srinivasan Lakshmi Narasimhan"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Lieutenant Governor of Puducherry",
-            "links": [
-              {
-                "text": "Lieutenant Governor of Puducherry",
-                "type": "internal",
-                "page": "List of lieutenant governors of Puducherry"
-              }
-            ]
-          },
-          "status1": {
-            "text": "(Additional Charge)"
-          },
-          "term_start1": {
-            "text": "18 February 2021"
-          },
-          "1blankname1": {
-            "text": "Chief Minister"
-          },
-          "1namedata1": {
-            "text": "V. Narayanasamy N. Rangaswamy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "V. Narayanasamy"
-              },
-              {
-                "type": "internal",
-                "page": "N. Rangaswamy"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Kiran Bedi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kiran Bedi"
-              }
-            ]
-          },
-          "office2": {
-            "text": "President of Bharatiya Janata Party, Tamil Nadu",
-            "links": [
-              {
-                "text": "Bharatiya Janata Party, Tamil Nadu",
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "16 August 2014"
-          },
-          "term_end2": {
-            "text": "1 September 2019"
-          },
-          "predecessor2": {
-            "text": "Pon Radhakrishnan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pon Radhakrishnan"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "L. Murugan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "L. Murugan"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Director (Independent Charge),\nBharat Petroleum Corporation of India",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharat Petroleum"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "16 September 2017"
-          },
-          "term_end3": {
-            "text": "1 September 2019"
-          },
-          "office4": {
-            "text": "National Secretary of Bharatiya Janata Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "2013",
-            "number": 2013
-          },
-          "term_end4": {
-            "text": "2014",
-            "number": 2014
-          },
-          "office5": {
-            "text": "Vice-President of Bharatiya Janata Party (Tamil Nadu)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "2010",
-            "number": 2010
-          },
-          "term_end5": {
-            "text": "2013",
-            "number": 2013
-          },
-          "office6": {
-            "text": "General Secretary of Bharatiya Janata Party (Tamil Nadu)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "2007",
-            "number": 2007
-          },
-          "term_end6": {
-            "text": "2010",
-            "number": 2010
-          },
-          "office7": {
-            "text": "All India Co-Convenor of Bharatiya Janata Party Medical Wing (Southern States)"
-          },
-          "term_start7": {
-            "text": "2005",
-            "number": 2005
-          },
-          "term_end7": {
-            "text": "2007",
-            "number": 2007
-          },
-          "office8": {
-            "text": "General Secretary of Bharatiya Janata Party Medical Wing (Tamil Nadu)"
-          },
-          "term_start8": {
-            "text": "2001",
-            "number": 2001
-          },
-          "term_end8": {
-            "text": "2005",
-            "number": 2005
-          },
-          "spouse": {
-            "text": "Dr. P. Soundararajan"
-          },
-          "parents": {
-            "text": "Kumari Ananthan (Father)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kumari Ananthan"
-              }
-            ]
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "residence": {
-            "text": "Chennai, Tamil Nadu, India",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chennai"
-              },
-              {
-                "type": "internal",
-                "page": "Tamil Nadu"
-              },
-              {
-                "type": "internal",
-                "page": "India"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Madras Medical College (MBBS)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Madras Medical College"
-              },
-              {
-                "type": "internal",
-                "page": "MBBS"
-              }
-            ]
-          },
-          "party": {
-            "text": "Bharatiya Janata Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Physician · politician"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Tamilisai Soundararajan",
+  "honorific_prefix": "The Honourable Dr.",
+  "birth_date": "June 2, 1961",
+  "birth_place": "Kaliyikkavila, Kanyakumari, Madras State, India\n(present-day Tamil Nadu)",
+  "image": "Dr-Tamilisai-Soundararajan.jpg",
+  "office": "2nd Governor of Telangana",
+  "term_start": "8 September 2019",
+  "1blankname": "Chief Minister",
+  "1namedata": "K. Chandrasekhar Rao",
+  "predecessor": "E. S. L. Narasimhan",
+  "office1": "Lieutenant Governor of Puducherry",
+  "status1": "(Additional Charge)",
+  "term_start1": "18 February 2021",
+  "1blankname1": "Chief Minister",
+  "1namedata1": "V. Narayanasamy N. Rangaswamy",
+  "predecessor1": "Kiran Bedi",
+  "office2": "President of Bharatiya Janata Party, Tamil Nadu",
+  "term_start2": "16 August 2014",
+  "term_end2": "1 September 2019",
+  "predecessor2": "Pon Radhakrishnan",
+  "successor2": "L. Murugan",
+  "office3": "Director (Independent Charge),\nBharat Petroleum Corporation of India",
+  "term_start3": "16 September 2017",
+  "term_end3": "1 September 2019",
+  "office4": "National Secretary of Bharatiya Janata Party",
+  "term_start4": "2013",
+  "term_end4": "2014",
+  "office5": "Vice-President of Bharatiya Janata Party (Tamil Nadu)",
+  "term_start5": "2010",
+  "term_end5": "2013",
+  "office6": "General Secretary of Bharatiya Janata Party (Tamil Nadu)",
+  "term_start6": "2007",
+  "term_end6": "2010",
+  "office7": "All India Co-Convenor of Bharatiya Janata Party Medical Wing (Southern States)",
+  "term_start7": "2005",
+  "term_end7": "2007",
+  "office8": "General Secretary of Bharatiya Janata Party Medical Wing (Tamil Nadu)",
+  "term_start8": "2001",
+  "term_end8": "2005",
+  "spouse": "Dr. P. Soundararajan",
+  "parents": "Kumari Ananthan (Father)",
+  "children": "2",
+  "residence": "Chennai, Tamil Nadu, India",
+  "alma_mater": "Madras Medical College (MBBS)",
+  "party": "Bharatiya Janata Party",
+  "profession": "Physician · politician"
 }

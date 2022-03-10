@@ -1,421 +1,49 @@
 {
-  "title": "Mansukh Mandaviya",
-  "pageID": 47951281,
-  "categories": [
-    "Rajya Sabha members from Gujarat",
-    "1970 births",
-    "Living people",
-    "Rajya Sabha members from Gujarat",
-    "People from Bhavnagar district",
-    "Narendra Modi ministry",
-    "Bharatiya Janata Party politicians from Gujarat",
-    "Gujarat MLAs 2002–2007"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mansukh Laxmanbhai Mandaviya (born 1 June 1972) is an Indian politician currently serving as the Minister of Health & Family Welfare and Chemical and Fertilizers of India.",
-              "links": [
-                {
-                  "text": "Minister of Health & Family Welfare",
-                  "type": "internal",
-                  "page": "Ministry of Health and Family Welfare"
-                },
-                {
-                  "text": "Chemical and Fertilizers of India",
-                  "type": "internal",
-                  "page": "Ministry of Chemicals and Fertilizers"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mansukh Laxmanbhai Mandaviya"
-                ]
-              }
-            },
-            {
-              "text": "He is also a."
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "file": "File:Mansukh Mandaviya.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Mansukh_Mandaviya.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Mansukh_Mandaviya.jpg",
-          "caption": "Mansukh Mandaviya taking oath as Union Minister",
-          "links": []
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indian politician (b. 1972)",
-          "template": "short description"
-        },
-        {
-          "date": "December 2015",
-          "template": "use indian english"
-        },
-        {
-          "date": "December 2015",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "July 2021",
-          "template": "rewrite"
-        },
-        {
-          "year": "1972",
-          "month": "06",
-          "day": "01",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Neeta Mandaviya",
-          "from": "1995",
-          "template": "marriage"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Dr. Mansukh Mandaviya"
-          },
-          "image": {
-            "text": "The Minister of State for Road Transport & Highways, Shipping and Chemicals & Fertilizers, Shri Mansukh L. Mandaviya addressing the gathering at the launch of the Road Safety Awareness Programme, in New Delhi.JPG"
-          },
-          "office": {
-            "text": "Minister of Health and Family Welfare",
-            "links": [
-              {
-                "text": "Minister of Health and Family Welfare",
-                "type": "internal",
-                "page": "Ministry of Health and Family Welfare"
-              }
-            ]
-          },
-          "president": {
-            "text": "Ram Nath Kovind",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ram Nath Kovind"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra  Modi"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "7 July 2021"
-          },
-          "predecessor": {
-            "text": "Harsh Vardhan",
-            "links": [
-              {
-                "text": "Harsh Vardhan",
-                "type": "internal",
-                "page": "Harsh Vardhan (Delhi politician)"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Chemicals and Fertilizers",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Chemicals and Fertilizers"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "D. V. Sadananda Gowda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "D. V. Sadananda Gowda"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "7 July 2021"
-          },
-          "office3": {
-            "text": "Minister of State for Chemicals & Fertilizers",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of State"
-              },
-              {
-                "text": "Chemicals & Fertilizers",
-                "type": "internal",
-                "page": "Ministry of Chemicals and Fertilizers"
-              }
-            ]
-          },
-          "minister3": {
-            "text": "D. V. Sadananda Gowda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "D. V. Sadananda Gowda"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "31 May 2019"
-          },
-          "term_end3": {
-            "text": "7 July 2021"
-          },
-          "predecessor3": {
-            "text": "Rao Inderjit Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rao Inderjit Singh"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Bhagwanth Khuba",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bhagwanth Khuba"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of State for Road Transport & Highways",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of State"
-              },
-              {
-                "text": "Road Transport & Highways",
-                "type": "internal",
-                "page": "Ministry of Road Transport and Highways"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "5 July 2016"
-          },
-          "term_end4": {
-            "text": "30 May 2019"
-          },
-          "primeminister4": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "minister4": {
-            "text": "Nitin Gadkari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nitin Gadkari"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Krishan Pal Gurjar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Krishan Pal Gurjar"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Vijay Kumar Singh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vijay Kumar Singh"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Member of Parliament, Rajya Sabha",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of Parliament, Rajya Sabha"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "24 April 2012"
-          },
-          "constituency5": {
-            "text": "Gujarat",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gujarat"
-              }
-            ]
-          },
-          "predecessor5": {
-            "text": "Kanjibhai Patel",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kanjibhai Patel"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Chairman of Gujarat Agro Industries Corporation Limited"
-          },
-          "term_start6": {
-            "text": "2011",
-            "number": 2011
-          },
-          "term_end6": {
-            "text": "2012",
-            "number": 2012
-          },
-          "office7": {
-            "text": "Member of Gujarat Legislative Assembly",
-            "links": [
-              {
-                "text": "Member of  Gujarat Legislative Assembly",
-                "type": "internal",
-                "page": "Gujarat Legislative Assembly"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "2002",
-            "number": 2002
-          },
-          "term_end7": {
-            "text": "2007",
-            "number": 2007
-          },
-          "constituency7": {
-            "text": "Palitana",
-            "links": [
-              {
-                "text": "Palitana",
-                "type": "internal",
-                "page": "Palitana (Vidhan Sabha constituency)"
-              }
-            ]
-          },
-          "predecessor7": {
-            "text": "constituency cteated",
-            "formatting": {
-              "italic": [
-                "constituency cteated"
-              ]
-            }
-          },
-          "successor7": {
-            "text": "Mahendrasinh Sarvaiya"
-          },
-          "birth_date": {
-            "text": "June 1, 1972"
-          },
-          "birth_place": {
-            "text": "Hanol, Gujarat, India",
-            "links": [
-              {
-                "text": "Hanol",
-                "type": "internal",
-                "page": "Bhavnagar district"
-              },
-              {
-                "type": "internal",
-                "page": "Gujarat"
-              }
-            ]
-          },
-          "party": {
-            "text": "Bharatiya Janata Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Neeta Mandaviya (m. 1995)"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "education": {
-            "text": "M.A., Ph.D"
-          },
-          "alma_mater": {
-            "text": "* M.A. in Political Science from Bhavnagar University, \n* Ph.D from Gujarat Institute of Development Research",
-            "links": [
-              {
-                "text": "M.A.",
-                "type": "internal",
-                "page": "Master of Arts"
-              },
-              {
-                "type": "internal",
-                "page": "Bhavnagar University"
-              },
-              {
-                "type": "internal",
-                "page": "Ph.D"
-              }
-            ]
-          },
-          "website": {
-            "text": "http://mansukhmandaviya.in"
-          },
-          "profession": {
-            "text": "Politician"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Dr. Mansukh Mandaviya",
+  "image": "The Minister of State for Road Transport & Highways, Shipping and Chemicals & Fertilizers, Shri Mansukh L. Mandaviya addressing the gathering at the launch of the Road Safety Awareness Programme, in New Delhi.JPG",
+  "office": "Minister of Health and Family Welfare",
+  "president": "Ram Nath Kovind",
+  "primeminister": "Narendra Modi",
+  "term_start": "7 July 2021",
+  "predecessor": "Harsh Vardhan",
+  "office2": "Minister of Chemicals and Fertilizers",
+  "primeminister2": "Narendra Modi",
+  "predecessor2": "D. V. Sadananda Gowda",
+  "term_start2": "7 July 2021",
+  "office3": "Minister of State for Chemicals & Fertilizers",
+  "minister3": "D. V. Sadananda Gowda",
+  "primeminister3": "Narendra Modi",
+  "term_start3": "31 May 2019",
+  "term_end3": "7 July 2021",
+  "predecessor3": "Rao Inderjit Singh",
+  "successor3": "Bhagwanth Khuba",
+  "office4": "Minister of State for Road Transport & Highways",
+  "term_start4": "5 July 2016",
+  "term_end4": "30 May 2019",
+  "primeminister4": "Narendra Modi",
+  "minister4": "Nitin Gadkari",
+  "predecessor4": "Krishan Pal Gurjar",
+  "successor4": "Vijay Kumar Singh",
+  "office5": "Member of Parliament, Rajya Sabha",
+  "term_start5": "24 April 2012",
+  "constituency5": "Gujarat",
+  "predecessor5": "Kanjibhai Patel",
+  "office6": "Chairman of Gujarat Agro Industries Corporation Limited",
+  "term_start6": "2011",
+  "term_end6": "2012",
+  "office7": "Member of Gujarat Legislative Assembly",
+  "term_start7": "2002",
+  "term_end7": "2007",
+  "constituency7": "Palitana",
+  "predecessor7": "constituency cteated",
+  "successor7": "Mahendrasinh Sarvaiya",
+  "birth_date": "June 1, 1972",
+  "birth_place": "Hanol, Gujarat, India",
+  "party": "Bharatiya Janata Party",
+  "spouse": "Neeta Mandaviya (m. 1995)",
+  "children": "2",
+  "education": "M.A., Ph.D",
+  "alma_mater": "* M.A. in Political Science from Bhavnagar University, \n* Ph.D from Gujarat Institute of Development Research",
+  "website": "http://mansukhmandaviya.in",
+  "profession": "Politician"
 }

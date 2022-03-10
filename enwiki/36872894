@@ -1,518 +1,59 @@
 {
-  "title": "Himanta Biswa Sarma",
-  "pageID": 36872894,
-  "categories": [
-    "1969 births",
-    "Living people",
-    "Chief Ministers of Assam",
-    "Chief ministers from Bharatiya Janata Party",
-    "Indian National Congress politicians from Assam",
-    "Members of the Assam Legislative Assembly",
-    "Bharatiya Janata Party politicians from Assam",
-    "Politicians from Guwahati",
-    "Gauhati University alumni",
-    "Cotton College, Guwahati alumni",
-    "People from Assam",
-    "People from Guwahati",
-    "People from Kamrup district",
-    "State cabinet ministers of Assam",
-    "Assam MLAs 2016–2021",
-    "Assam MLAs 2006–2011",
-    "Assam MLAs 2021–2026",
-    "Badminton in India"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Himanta Biswa Sarma (born 1 February 1969) is an Indian politician who serves as the 15th and current Chief Minister of Assam.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chief Minister of Assam"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Himanta Biswa Sarma"
-                ]
-              }
-            },
-            {
-              "text": "A former member of the Indian National Congress political party, Sarma crossed the floor to join the Bharatiya Janata Party on 23 August 2015.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Indian National Congress"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bharatiya Janata Party"
-                }
-              ]
-            },
-            {
-              "text": "He is a five time Member of the Assam Legislative Assembly from Jalukbari, having first been elected in 2001.",
-              "links": [
-                {
-                  "text": "Member of the Assam Legislative Assembly",
-                  "type": "internal",
-                  "page": "Assam Legislative Assembly"
-                },
-                {
-                  "text": "Jalukbari",
-                  "type": "internal",
-                  "page": "Jalukbari (Vidhan Sabha constituency)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Sarma cited mismanagement by Rahul Gandhi as the reason for his defection from the Indian National Congress party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Rahul Gandhi"
-                }
-              ]
-            },
-            {
-              "text": "He led the BJP's successful state election campaign in 2016 and was sworn in as a Cabinet Minister on 24 May 2016."
-            },
-            {
-              "text": "The BJP appointed him the convener (leader) of the North-East Democratic Alliance (NEDA), a regional sub-group of the federal National Democratic Alliance (NDA), aimed at increasing the party's political strength in North-East India.",
-              "links": [
-                {
-                  "text": "BJP",
-                  "type": "internal",
-                  "page": "Bharatiya Janata Party"
-                },
-                {
-                  "type": "internal",
-                  "page": "North-East Democratic Alliance"
-                },
-                {
-                  "type": "internal",
-                  "page": "National Democratic Alliance"
-                }
-              ]
-            },
-            {
-              "text": "He is often called 'Mama' (meaning maternal uncle) by voters in Assam."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "15th and current Chief Minister Of Assam",
-          "template": "short description"
-        },
-        {
-          "date": "February 2022",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "January 2016",
-          "template": "use indian english"
-        },
-        {
-          "df": "yes",
-          "year": "1969",
-          "month": "02",
-          "day": "01",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Riniki Bhuyan Sarma",
-          "from": "7 June 2001",
-          "template": "marriage"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Himanta Biswa Sarma"
-          },
-          "image": {
-            "text": "Himanta Biswa Sarma,.jpg"
-          },
-          "image_size": {
-            "text": "250px"
-          },
-          "caption": {
-            "text": "Sarma in 2021"
-          },
-          "birth_date": {
-            "text": "February 1, 1969"
-          },
-          "birth_place": {
-            "text": "Jorhat, Assam, India",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jorhat"
-              },
-              {
-                "type": "internal",
-                "page": "Assam"
-              },
-              {
-                "type": "internal",
-                "page": "India"
-              }
-            ]
-          },
-          "order": {
-            "text": "15th"
-          },
-          "office": {
-            "text": "Chief Minister of Assam 2021",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chief Minister of Assam 2021"
-              }
-            ]
-          },
-          "governor": {
-            "text": "Jagdish Mukhi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jagdish Mukhi"
-              }
-            ]
-          },
-          "status": {
-            "text": "Incumbent",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Incumbent"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "10 May 2021"
-          },
-          "office6": {
-            "text": "Member of the Assam Legislative Assembly",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Assam Legislative Assembly"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "2001",
-            "number": 2001
-          },
-          "predecessor6": {
-            "text": "Bhrigu Kumar Phukan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bhrigu Kumar Phukan"
-              }
-            ]
-          },
-          "constituency6": {
-            "text": "Jalukbari",
-            "links": [
-              {
-                "text": "Jalukbari",
-                "type": "internal",
-                "page": "Jalukbari (Vidhan Sabha constituency)"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of the Government of Assam",
-            "links": [
-              {
-                "text": "Minister",
-                "type": "internal",
-                "page": "Minister (government)"
-              },
-              {
-                "type": "internal",
-                "page": "Government of Assam"
-              }
-            ]
-          },
-          "1blankname1": {
-            "text": "Chief Minister",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chief Minister"
-              }
-            ]
-          },
-          "1namedata1": {
-            "text": "Sarbananda Sonowal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sarbananda Sonowal"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "24 May 2016"
-          },
-          "term_end1": {
-            "text": "9 May 2021"
-          },
-          "2blankname1": {
-            "text": "Ministry"
-          },
-          "2namedata1": {
-            "text": "Finance, Planning and Development, Health and Family Welfare, Education, Public Works"
-          },
-          "1blankname2": {
-            "text": "Chief Minister",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chief Minister"
-              }
-            ]
-          },
-          "1namedata2": {
-            "text": "Tarun Gogoi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tarun Gogoi"
-              }
-            ]
-          },
-          "2blankname2": {
-            "text": "Ministry"
-          },
-          "2namedata2": {
-            "text": "Finance, Health & Family Welfare, Public Works, Transformation & Development"
-          },
-          "term_start2": {
-            "text": "2011",
-            "number": 2011
-          },
-          "term_end2": {
-            "text": "2014",
-            "number": 2014
-          },
-          "1blankname3": {
-            "text": "Chief Minister",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chief Minister"
-              }
-            ]
-          },
-          "1namedata3": {
-            "text": "Tarun Gogoi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tarun Gogoi"
-              }
-            ]
-          },
-          "2blankname3": {
-            "text": "Ministry"
-          },
-          "2namedata3": {
-            "text": "Health and Family Welfare, Finance, Public Works, Culture"
-          },
-          "term_start3": {
-            "text": "2006",
-            "number": 2006
-          },
-          "term_end3": {
-            "text": "2011",
-            "number": 2011
-          },
-          "office4": {
-            "text": "Minister of State of the Government of Assam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of State"
-              },
-              {
-                "type": "internal",
-                "page": "Government of Assam"
-              }
-            ]
-          },
-          "1blankname4": {
-            "text": "Chief Minister",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chief Minister"
-              }
-            ]
-          },
-          "1namedata4": {
-            "text": "Tarun Gogoi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tarun Gogoi"
-              }
-            ]
-          },
-          "2blankname4": {
-            "text": "Ministry"
-          },
-          "2namedata4": {
-            "text": "Finance, Planning and Development"
-          },
-          "term_start4": {
-            "text": "1 September 2004"
-          },
-          "term_end4": {
-            "text": "June 2006"
-          },
-          "1blankname5": {
-            "text": "Chief Minister",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chief Minister"
-              }
-            ]
-          },
-          "1namedata5": {
-            "text": "Tarun Gogoi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tarun Gogoi"
-              }
-            ]
-          },
-          "2blankname5": {
-            "text": "Ministry"
-          },
-          "2namedata5": {
-            "text": "Agriculture, Planning and Development"
-          },
-          "term_start5": {
-            "text": "7 June 2002"
-          },
-          "term_end5": {
-            "text": "31 August 2004"
-          },
-          "spouse": {
-            "text": "Riniki Bhuyan Sarma (m. 7 June 2001)"
-          },
-          "party": {
-            "text": "Bharatiya Janata Party (2015–present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Indian National Congress (1991–2015)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Indian National Congress"
-              }
-            ]
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "alma_mater": {
-            "text": "*Cotton College (BA, MA)\n*BRM Government Law College (LLB)\n*Gauhati University (PhD)",
-            "links": [
-              {
-                "text": "Cotton College",
-                "type": "internal",
-                "page": "Cotton University"
-              },
-              {
-                "text": "BA",
-                "type": "internal",
-                "page": "Bachelor of Arts"
-              },
-              {
-                "text": "MA",
-                "type": "internal",
-                "page": "Master of Arts"
-              },
-              {
-                "type": "internal",
-                "page": "BRM Government Law College"
-              },
-              {
-                "text": "LLB",
-                "type": "internal",
-                "page": "Bachelor of Laws"
-              },
-              {
-                "type": "internal",
-                "page": "Gauhati University"
-              },
-              {
-                "text": "PhD",
-                "type": "internal",
-                "page": "Doctor of Philosophy"
-              }
-            ]
-          },
-          "website": {
-            "text": "Himanta Biswa Sarma"
-          },
-          "predecessor": {
-            "text": "Sarbananda Sonowal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sarbananda Sonowal"
-              }
-            ]
-          },
-          "nickname": {
-            "text": "Mama",
-            "formatting": {
-              "italic": [
-                "Mama"
-              ]
-            }
-          },
-          "citizenship": {
-            "text": "India",
-            "links": [
-              {
-                "type": "internal",
-                "page": "India"
-              }
-            ]
-          },
-          "signature": {
-            "text": "Signature of Himanta Biswa Sarma.svg"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Himanta Biswa Sarma",
+  "image": "Himanta Biswa Sarma,.jpg",
+  "image_size": "250px",
+  "caption": "Sarma in 2021",
+  "birth_date": "February 1, 1969",
+  "birth_place": "Jorhat, Assam, India",
+  "order": "15th",
+  "office": "Chief Minister of Assam 2021",
+  "governor": "Jagdish Mukhi",
+  "status": "Incumbent",
+  "term_start": "10 May 2021",
+  "office6": "Member of the Assam Legislative Assembly",
+  "term_start6": "2001",
+  "predecessor6": "Bhrigu Kumar Phukan",
+  "constituency6": "Jalukbari",
+  "office1": "Minister of the Government of Assam",
+  "1blankname1": "Chief Minister",
+  "1namedata1": "Sarbananda Sonowal",
+  "term_start1": "24 May 2016",
+  "term_end1": "9 May 2021",
+  "2blankname1": "Ministry",
+  "2namedata1": "Finance, Planning and Development, Health and Family Welfare, Education, Public Works",
+  "1blankname2": "Chief Minister",
+  "1namedata2": "Tarun Gogoi",
+  "2blankname2": "Ministry",
+  "2namedata2": "Finance, Health & Family Welfare, Public Works, Transformation & Development",
+  "term_start2": "2011",
+  "term_end2": "2014",
+  "1blankname3": "Chief Minister",
+  "1namedata3": "Tarun Gogoi",
+  "2blankname3": "Ministry",
+  "2namedata3": "Health and Family Welfare, Finance, Public Works, Culture",
+  "term_start3": "2006",
+  "term_end3": "2011",
+  "office4": "Minister of State of the Government of Assam",
+  "1blankname4": "Chief Minister",
+  "1namedata4": "Tarun Gogoi",
+  "2blankname4": "Ministry",
+  "2namedata4": "Finance, Planning and Development",
+  "term_start4": "1 September 2004",
+  "term_end4": "June 2006",
+  "1blankname5": "Chief Minister",
+  "1namedata5": "Tarun Gogoi",
+  "2blankname5": "Ministry",
+  "2namedata5": "Agriculture, Planning and Development",
+  "term_start5": "7 June 2002",
+  "term_end5": "31 August 2004",
+  "spouse": "Riniki Bhuyan Sarma (m. 7 June 2001)",
+  "party": "Bharatiya Janata Party (2015–present)",
+  "otherparty": "Indian National Congress (1991–2015)",
+  "children": "2",
+  "alma_mater": "*Cotton College (BA, MA)\n*BRM Government Law College (LLB)\n*Gauhati University (PhD)",
+  "website": "Himanta Biswa Sarma",
+  "predecessor": "Sarbananda Sonowal",
+  "nickname": "Mama",
+  "citizenship": "India",
+  "signature": "Signature of Himanta Biswa Sarma.svg"
 }

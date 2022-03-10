@@ -1,293 +1,39 @@
 {
-  "title": "R. N. Ravi",
-  "pageID": 61712869,
-  "categories": [
-    "1952 births",
-    "Living people",
-    "Governors of Nagaland",
-    "People from Bihar"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ravindra Narayana Ravi (born 3 April 1951) is an Indian politician and former bureaucrat serving as the current and 15th Governor of Tamil Nadu.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Governor of Tamil Nadu"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Ravindra Narayana Ravi"
-                ]
-              }
-            },
-            {
-              "text": "He served as the 18th Governor of Nagaland from 1 August 2019 to 9 September 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Governor of Nagaland"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "15th Governor of Tamil Nadu",
-          "template": "short description"
-        },
-        {
-          "date": "September 2019",
-          "template": "use indian english"
-        },
-        {
-          "date": "September 2019",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1951",
-          "month": "4",
-          "day": "3",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Ravindra Narayana Ravi"
-          },
-          "image": {
-            "text": "R.N. Ravi.jpg"
-          },
-          "nationality": {
-            "text": "Indian"
-          },
-          "office": {
-            "text": "15th Governor of Tamil Nadu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Tamil Nadu"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "18 September 2021"
-          },
-          "predecessor": {
-            "text": "Banwarilal Purohit",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Banwarilal Purohit"
-              }
-            ]
-          },
-          "1blankname": {
-            "text": "Chief Minister"
-          },
-          "1namedata": {
-            "text": "M. K. Stalin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "M. K. Stalin"
-              }
-            ]
-          },
-          "office1": {
-            "text": "18th Governor of Nagaland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Nagaland"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 August 2019"
-          },
-          "term_end1": {
-            "text": "17 September 2021"
-          },
-          "predecessor1": {
-            "text": "Padmanabha Acharya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Padmanabha Acharya"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Jagdish Mukhi (additional charge)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jagdish Mukhi"
-              }
-            ]
-          },
-          "1blankname1": {
-            "text": "Chief Minister"
-          },
-          "1namedata1": {
-            "text": "Neiphiu Rio",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Neiphiu Rio"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Governor of Meghalaya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Meghalaya"
-              }
-            ]
-          },
-          "status2": {
-            "text": "Additional Charge"
-          },
-          "term_start2": {
-            "text": "18 December 2019"
-          },
-          "term_end2": {
-            "text": "26 January 2020"
-          },
-          "predecessor2": {
-            "text": "Tathagata Roy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tathagata Roy"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Tathagata Roy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tathagata Roy"
-              }
-            ]
-          },
-          "1blankname2": {
-            "text": "Chief Minister"
-          },
-          "1namedata2": {
-            "text": "Conrad Sangma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Conrad Sangma"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy National Security Advisor of India",
-            "links": [
-              {
-                "text": "National Security Advisor of India",
-                "type": "internal",
-                "page": "National Security Advisor (India)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "05 October 2018"
-          },
-          "term_end3": {
-            "text": "31 July 2019"
-          },
-          "office4": {
-            "text": "Interlocutor of India-Naga Peace Talks"
-          },
-          "term_start4": {
-            "text": "September 2014"
-          },
-          "term_end4": {
-            "text": "September 2021"
-          },
-          "predecessor4": {
-            "text": "Office Established"
-          },
-          "successor4": {
-            "text": "Office Abolished"
-          },
-          "birth_date": {
-            "text": "April 3, 1951"
-          },
-          "birth_place": {
-            "text": "Patna, Bihar, India",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Patna"
-              },
-              {
-                "type": "internal",
-                "page": "Bihar"
-              },
-              {
-                "type": "internal",
-                "page": "India"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Laxmi Ravi"
-          },
-          "residence": {
-            "text": "Raj Bhavan, Tamil Nadu",
-            "links": [
-              {
-                "text": "Raj Bhavan",
-                "type": "internal",
-                "page": "Raj Bhavan, Chennai"
-              },
-              {
-                "type": "internal",
-                "page": "Tamil Nadu"
-              }
-            ]
-          },
-          "website": {
-            "text": "Governor Profile",
-            "links": [
-              {
-                "text": "Governor Profile",
-                "type": "external",
-                "site": "http://www.tnrajbhavan.gov.in/"
-              }
-            ]
-          },
-          "source": {
-            "text": "",
-            "links": [
-              {
-                "text": "",
-                "type": "external",
-                "site": "https://www.nagaland.gov.in/portal/portal/StatePortal/Government/Governor"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Ravindra Narayana Ravi",
+  "image": "R.N. Ravi.jpg",
+  "nationality": "Indian",
+  "office": "15th Governor of Tamil Nadu",
+  "term_start": "18 September 2021",
+  "predecessor": "Banwarilal Purohit",
+  "1blankname": "Chief Minister",
+  "1namedata": "M. K. Stalin",
+  "office1": "18th Governor of Nagaland",
+  "term_start1": "1 August 2019",
+  "term_end1": "17 September 2021",
+  "predecessor1": "Padmanabha Acharya",
+  "successor1": "Jagdish Mukhi (additional charge)",
+  "1blankname1": "Chief Minister",
+  "1namedata1": "Neiphiu Rio",
+  "office2": "Governor of Meghalaya",
+  "status2": "Additional Charge",
+  "term_start2": "18 December 2019",
+  "term_end2": "26 January 2020",
+  "predecessor2": "Tathagata Roy",
+  "successor2": "Tathagata Roy",
+  "1blankname2": "Chief Minister",
+  "1namedata2": "Conrad Sangma",
+  "office3": "Deputy National Security Advisor of India",
+  "term_start3": "05 October 2018",
+  "term_end3": "31 July 2019",
+  "office4": "Interlocutor of India-Naga Peace Talks",
+  "term_start4": "September 2014",
+  "term_end4": "September 2021",
+  "predecessor4": "Office Established",
+  "successor4": "Office Abolished",
+  "birth_date": "April 3, 1951",
+  "birth_place": "Patna, Bihar, India",
+  "spouse": "Laxmi Ravi",
+  "residence": "Raj Bhavan, Tamil Nadu",
+  "website": "Governor Profile",
+  "source": ""
 }

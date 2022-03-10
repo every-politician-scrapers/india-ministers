@@ -1,287 +1,36 @@
 {
-  "title": "Harsh Vardhan Shringla",
-  "pageID": 59734891,
-  "categories": [
-    "1962 births",
-    "Living people",
-    "People from Mumbai",
-    "People from Darjeeling",
-    "Indian diplomats",
-    "St. Stephen's College, Delhi alumni",
-    "Ambassadors of India to the United States",
-    "Indian Foreign Service officers",
-    "Mayo College alumni",
-    "Ambassadors of India to Thailand",
-    "High Commissioners of India to Bangladesh"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Harsh Vardhan Shringla (born 1962) is an Indian Foreign Service Officer serving as the 33rd and current Foreign Secretary of India, since 29 January 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Indian Foreign Service"
-                },
-                {
-                  "type": "internal",
-                  "page": "Foreign Secretary of India"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Harsh Vardhan Shringla"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as the Ambassador of India to the United States of America, Ambassador to Thailand and High Commissioner to Bangladesh.",
-              "links": [
-                {
-                  "text": "Ambassador of India to the United States of America",
-                  "type": "internal",
-                  "page": "List of ambassadors of India to the United States"
-                },
-                {
-                  "text": "High Commissioner to Bangladesh",
-                  "type": "internal",
-                  "page": "List of High Commissioners of India to Bangladesh"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Indian diplomat (born 1962)",
-          "template": "short description"
-        },
-        {
-          "date": "December 2019",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "January 2019",
-          "template": "use indian english"
-        },
-        {
-          "year": "1962",
-          "month": "5",
-          "day": "1",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "state": {
-            "text": "autocollapse"
-          },
-          "name": {
-            "text": "Harsh Vardhan Shringla"
-          },
-          "honorific_suffix": {
-            "text": "IFS",
-            "links": [
-              {
-                "text": "IFS",
-                "type": "internal",
-                "page": "Indian Foreign Service"
-              }
-            ]
-          },
-          "image": {
-            "text": "FS_2021_-_01_UFK.jpg"
-          },
-          "imagesize": {
-            "text": "260px"
-          },
-          "alt": {
-            "text": "Foreign Secretary Harsh Vardhan Shringla at Ministry of External Affairs, New Delhi"
-          },
-          "caption": {
-            "text": "Shringla in June 2020"
-          },
-          "office": {
-            "text": "33rd Foreign Secretary of India",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Foreign Secretary of India"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "29 January 2020"
-          },
-          "primeminister": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "minister": {
-            "text": "Subrahmanyam Jaishankar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Subrahmanyam Jaishankar"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Vijay Keshav Gokhale",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vijay Keshav Gokhale"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Ambassador of India to the United States",
-            "links": [
-              {
-                "text": "Ambassador of India to the United States",
-                "type": "internal",
-                "page": "List of ambassadors of India to the United States"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "9 January 2019"
-          },
-          "term_end1": {
-            "text": "11 January 2020"
-          },
-          "predecessor1": {
-            "text": "Navtej Sarna",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Navtej Sarna"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Taranjit Singh Sandhu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Taranjit Singh Sandhu"
-              }
-            ]
-          },
-          "office2": {
-            "text": "High Commissioner of India to Bangladesh",
-            "links": [
-              {
-                "text": "High Commissioner of India to Bangladesh",
-                "type": "internal",
-                "page": "List of High Commissioners of India to Bangladesh"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "January 2016"
-          },
-          "term_end2": {
-            "text": "January 2019"
-          },
-          "predecessor2": {
-            "text": "Pankaj Saran",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pankaj Saran"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Riva Ganguly Das",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Riva Ganguly Das"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Ambassador of India to Thailand"
-          },
-          "term_start3": {
-            "text": "January 2014"
-          },
-          "term_end3": {
-            "text": "January 2016"
-          },
-          "predecessor3": {
-            "text": "Anil Wadhwa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anil Wadhwa"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Bhagwant Singh Bishnoi"
-          },
-          "birth_date": {
-            "text": "May 1, 1962"
-          },
-          "birth_place": {
-            "text": "Mumbai, Maharashtra, India",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mumbai, Maharashtra"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Hemal Shringla"
-          },
-          "children": {
-            "text": "1",
-            "number": 1
-          },
-          "alma_mater": {
-            "text": "St. Stephen's College, Delhi (BA)\nMayo College, Ajmer",
-            "links": [
-              {
-                "type": "internal",
-                "page": "St. Stephen's College, Delhi"
-              },
-              {
-                "text": "BA",
-                "type": "internal",
-                "page": "Bachelor of Arts"
-              },
-              {
-                "text": "Mayo College, Ajmer",
-                "type": "internal",
-                "page": "Mayo College"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Diplomat"
-          },
-          "website": {
-            "text": "https://mea.gov.in/fs.htm"
-          }
-        }
-      ]
-    }
-  ]
+  "state": "autocollapse",
+  "name": "Harsh Vardhan Shringla",
+  "honorific_suffix": "IFS",
+  "image": "FS_2021_-_01_UFK.jpg",
+  "imagesize": "260px",
+  "alt": "Foreign Secretary Harsh Vardhan Shringla at Ministry of External Affairs, New Delhi",
+  "caption": "Shringla in June 2020",
+  "office": "33rd Foreign Secretary of India",
+  "term_start": "29 January 2020",
+  "primeminister": "Narendra Modi",
+  "minister": "Subrahmanyam Jaishankar",
+  "predecessor": "Vijay Keshav Gokhale",
+  "office1": "Ambassador of India to the United States",
+  "term_start1": "9 January 2019",
+  "term_end1": "11 January 2020",
+  "predecessor1": "Navtej Sarna",
+  "successor1": "Taranjit Singh Sandhu",
+  "office2": "High Commissioner of India to Bangladesh",
+  "term_start2": "January 2016",
+  "term_end2": "January 2019",
+  "predecessor2": "Pankaj Saran",
+  "successor2": "Riva Ganguly Das",
+  "office3": "Ambassador of India to Thailand",
+  "term_start3": "January 2014",
+  "term_end3": "January 2016",
+  "predecessor3": "Anil Wadhwa",
+  "successor3": "Bhagwant Singh Bishnoi",
+  "birth_date": "May 1, 1962",
+  "birth_place": "Mumbai, Maharashtra, India",
+  "spouse": "Hemal Shringla",
+  "children": "1",
+  "alma_mater": "St. Stephen's College, Delhi (BA)\nMayo College, Ajmer",
+  "occupation": "Diplomat",
+  "website": "https://mea.gov.in/fs.htm"
 }

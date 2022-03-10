@@ -1,709 +1,78 @@
 {
-  "title": "Sarbananda Sonowal",
-  "pageID": 7149468,
-  "categories": [
-    "People from Dibrugarh district",
-    "Living people",
-    "1961 births",
-    "Assamese people",
-    "Gauhati University alumni",
-    "Dibrugarh University alumni",
-    "14th Lok Sabha members",
-    "Asom Gana Parishad politicians",
-    "Bharatiya Janata Party politicians from Assam",
-    "Lok Sabha members from Assam",
-    "16th Lok Sabha members",
-    "Ministry of Youth Affairs and Sports",
-    "Union ministers of state of India with independent charge",
-    "Assam MLAs 2001–2006",
-    "Assam MLAs 2016–2021",
-    "Chief Ministers of Assam",
-    "Chief ministers from Bharatiya Janata Party",
-    "Ministry of Skill Development and Entrepreneurship",
-    "Narendra Modi ministry",
-    "Assam MLAs 2021–2026"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Sarbananda Sonowal (Assamese: সৰ্বানন্দ সোণোৱাল / IPA: xɔɹbanɔndɔ xʊnʊwal, Born: 31 October 1962) is an Indian politician from Assam who is the current Minister of Ports, Shipping and Waterways and Minister of AYUSH in the Government of India.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Assam"
-                },
-                {
-                  "text": "Minister of Ports, Shipping and Waterways",
-                  "type": "internal",
-                  "page": "Ministry of Ports, Shipping and Waterways"
-                },
-                {
-                  "text": "Minister of AYUSH",
-                  "type": "internal",
-                  "page": "Ministry of AYUSH"
-                },
-                {
-                  "type": "internal",
-                  "page": "Government of India"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Sarbananda Sonowal"
-                ]
-              }
-            },
-            {
-              "text": "He is a Member of Parliament in the Rajya Sabha (Upper House of India's Parliament) from Assam and also a member of the Cabinet Committee on Political Affairs.",
-              "links": [
-                {
-                  "text": "Member of Parliament",
-                  "type": "internal",
-                  "page": "Member of Parliament (India)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Rajya Sabha"
-                },
-                {
-                  "type": "internal",
-                  "page": "Assam"
-                },
-                {
-                  "type": "internal",
-                  "page": "Cabinet Committee on Political Affairs"
-                }
-              ]
-            },
-            {
-              "text": "He is a former Chief Minister of Assam and a former MLA in Assam Legislative Assembly.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chief Minister of Assam"
-                }
-              ]
-            },
-            {
-              "text": "Sonowal earlier served as the Assam state President of Bharatiya Janata Party (BJP) from 2012 to 2014 and again in 2015 to 2016.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bharatiya Janata Party"
-                }
-              ]
-            },
-            {
-              "text": "He has also served as the Minister for Sports and Youth Affairs, Government of India, from 2014 to 2016."
-            },
-            {
-              "text": "He was chosen to be the Chief Minister of Assam after the 2016 Assam Legislative Assembly election and he became the first Chief Minister of the state from Bharatiya Janata Party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chief Minister of Assam"
-                },
-                {
-                  "text": "2016 Assam Legislative Assembly election",
-                  "type": "internal",
-                  "page": "2016 Assam Legislative Assembly election"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bharatiya Janata Party"
-                }
-              ]
-            },
-            {
-              "text": "During the cabinet reshuffle on 7th July 2021, he was inducted to the 2nd Modi Cabinet.",
-              "links": [
-                {
-                  "text": "2nd Modi Cabinet",
-                  "type": "internal",
-                  "page": "Second Modi ministry"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Union Cabinet Minister in Government of India",
-          "template": "short description"
-        },
-        {
-          "date": "May 2020",
-          "template": "use indian english"
-        },
-        {
-          "date": "May 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "yes",
-          "year": "1962",
-          "month": "10",
-          "day": "31",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "Chief Minister of Assam Sarbananda Sonowal.jpg"
-          },
-          "caption": {
-            "text": "Official Portrait, 2017"
-          },
-          "birth_date": {
-            "text": "October 31, 1962"
-          },
-          "birth_place": {
-            "text": "Mulukgaon, Dibrugarh district, Assam, India",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dibrugarh district"
-              },
-              {
-                "type": "internal",
-                "page": "Assam"
-              },
-              {
-                "type": "internal",
-                "page": "India"
-              }
-            ]
-          },
-          "office": {
-            "text": "Minister of Ports, Shipping and Waterways",
-            "links": [
-              {
-                "text": "Minister of Ports, Shipping and Waterways",
-                "type": "internal",
-                "page": "Ministry of Ports, Shipping and Waterways"
-              }
-            ]
-          },
-          "president": {
-            "text": "Ram Nath Kovind",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ram Nath Kovind"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "7 July 2021"
-          },
-          "predecessor": {
-            "text": "Mansukh L. Mandaviya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mansukh L. Mandaviya"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of AYUSH",
-            "links": [
-              {
-                "text": "Minister of AYUSH",
-                "type": "internal",
-                "page": "Ministry of AYUSH"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Ram Nath Kovind",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ram Nath Kovind"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "7 July 2021"
-          },
-          "predecessor1": {
-            "text": "Shripad Naik",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shripad Naik"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of Parliament, Rajya Sabha",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of Parliament, Rajya Sabha"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Biswajit Daimary",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Biswajit Daimary"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 October 2021"
-          },
-          "constituency2": {
-            "text": "Assam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Assam"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of the Cabinet Committee on Political Affairs",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cabinet Committee on Political Affairs"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "12 July 2021"
-          },
-          "primeminister3": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "order4": {
-            "text": "14th"
-          },
-          "office4": {
-            "text": "Chief Minister of Assam"
-          },
-          "governor4": {
-            "text": "Padmanabha Acharya Banwarilal Purohit Jagdish Mukhi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Padmanabha Acharya"
-              },
-              {
-                "type": "internal",
-                "page": "Banwarilal Purohit"
-              },
-              {
-                "type": "internal",
-                "page": "Jagdish Mukhi"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Tarun Gogoi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tarun Gogoi"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Himanta Biswa Sarma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Himanta Biswa Sarma"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "24 May 2016"
-          },
-          "term_end4": {
-            "text": "10 May 2021"
-          },
-          "office9": {
-            "text": "Member of the Assam Legislative Assembly",
-            "links": [
-              {
-                "text": "Member",
-                "type": "internal",
-                "page": "Member of the Legislative Assembly (India)"
-              },
-              {
-                "type": "internal",
-                "page": "Assam Legislative Assembly"
-              }
-            ]
-          },
-          "constituency9": {
-            "text": "Majuli",
-            "links": [
-              {
-                "text": "Majuli",
-                "type": "internal",
-                "page": "Majuli (Vidhan Sabha constituency)"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "19 May 2016"
-          },
-          "term_end9": {
-            "text": "28 September 2021"
-          },
-          "predecessor9": {
-            "text": "Rajib Lochan Pegu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rajib Lochan Pegu"
-              }
-            ]
-          },
-          "constituency10": {
-            "text": "Moran",
-            "links": [
-              {
-                "text": "Moran",
-                "type": "internal",
-                "page": "Moran Town"
-              }
-            ]
-          },
-          "term_start10": {
-            "text": "2001",
-            "number": 2001
-          },
-          "term_end10": {
-            "text": "2004",
-            "number": 2004
-          },
-          "predecessor10": {
-            "text": "Joy Chandra Nagbanshi"
-          },
-          "successor10": {
-            "text": "Jibantara Ghatowar"
-          },
-          "office5": {
-            "text": "Minister of Youth Affairs and Sports",
-            "links": [
-              {
-                "text": "Minister of Youth Affairs and Sports",
-                "type": "internal",
-                "page": "Ministry of Youth Affairs and Sports"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "predecessor5": {
-            "text": "Jitendra Singh",
-            "links": [
-              {
-                "text": "Jitendra Singh",
-                "type": "internal",
-                "page": "Jitendra Singh (Congress politician)"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Dr. Jitendra Singh",
-            "links": [
-              {
-                "text": "Dr. Jitendra Singh",
-                "type": "internal",
-                "page": "Jitendra Singh (BJP politician)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "26 May 2014"
-          },
-          "term_end5": {
-            "text": "23 May 2016"
-          },
-          "office6": {
-            "text": "Minister of State for Entrepreneurship and Skill Development",
-            "links": [
-              {
-                "text": "Minister of State for Entrepreneurship and Skill Development",
-                "type": "internal",
-                "page": "Ministry of Skill Development and Entrepreneurship"
-              }
-            ]
-          },
-          "primeminister6": {
-            "text": "Narendra Modi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Narendra Modi"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "26 May 2014"
-          },
-          "term_end6": {
-            "text": "9 November 2014"
-          },
-          "predecessor6": {
-            "text": "Office established"
-          },
-          "successor6": {
-            "text": "Rajiv Pratap Rudy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rajiv Pratap Rudy"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Member of Parliament, Lok Sabha",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of Parliament, Lok Sabha"
-              }
-            ]
-          },
-          "constituency7": {
-            "text": "Lakhimpur",
-            "links": [
-              {
-                "text": "Lakhimpur",
-                "type": "internal",
-                "page": "Lakhimpur (Lok Sabha constituency)"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "16 May 2014"
-          },
-          "term_end7": {
-            "text": "23 May 2016"
-          },
-          "predecessor7": {
-            "text": "Ranee Narah",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ranee Narah"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Pradan Baruah",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pradan Baruah"
-              }
-            ]
-          },
-          "constituency8": {
-            "text": "Dibrugarh",
-            "links": [
-              {
-                "text": "Dibrugarh",
-                "type": "internal",
-                "page": "Dibrugarh (Lok Sabha constituency)"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "13 May 2004"
-          },
-          "term_end8": {
-            "text": "15 May 2009"
-          },
-          "predecessor8": {
-            "text": "Paban Singh Ghatowar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paban Singh Ghatowar"
-              }
-            ]
-          },
-          "successor8": {
-            "text": "Paban Singh Ghatowar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paban Singh Ghatowar"
-              }
-            ]
-          },
-          "office11": {
-            "text": "President of Assam BJP"
-          },
-          "term_start11": {
-            "text": "2012",
-            "number": 2012
-          },
-          "term_end11": {
-            "text": "2014",
-            "number": 2014
-          },
-          "predecessor11": {
-            "text": "Ranjit Dutta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ranjit Dutta"
-              }
-            ]
-          },
-          "successor11": {
-            "text": "Siddhartha Bhattacharya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Siddhartha Bhattacharya"
-              }
-            ]
-          },
-          "term_start12": {
-            "text": "2015",
-            "number": 2015
-          },
-          "term_end12": {
-            "text": "2016",
-            "number": 2016
-          },
-          "predecessor12": {
-            "text": "Siddhartha Bhattacharya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Siddhartha Bhattacharya"
-              }
-            ]
-          },
-          "successor12": {
-            "text": "Ranjeet Kumar Dass",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ranjeet Kumar Dass"
-              }
-            ]
-          },
-          "party": {
-            "text": "Bharatiya Janata Party (2011-present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bharatiya Janata Party"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Asom Gana Parishad (2001-11)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Asom Gana Parishad"
-              }
-            ]
-          },
-          "parents": {
-            "text": "Jibeswar Sonowal (Father) Dineswari Sonowal (Mother)"
-          },
-          "alma_mater": {
-            "text": "*DHSK College, Dibrugarh University (B.A.)\n*Gauhati University (LL.B, B.C.J)",
-            "links": [
-              {
-                "text": "DHSK College",
-                "type": "internal",
-                "page": "Dibrugarh Hanumanbax Surajmall Kanoi College"
-              },
-              {
-                "type": "internal",
-                "page": "Dibrugarh University"
-              },
-              {
-                "text": "B.A.",
-                "type": "internal",
-                "page": "Bachelor of Arts"
-              },
-              {
-                "type": "internal",
-                "page": "Gauhati University"
-              },
-              {
-                "text": "LL.B",
-                "type": "internal",
-                "page": "Bachelor of Laws"
-              },
-              {
-                "text": "B.C.J",
-                "type": "internal",
-                "page": "Bachelor of Journalism"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Politician"
-          },
-          "residence": {
-            "text": "29, Pandit Ravi Shankar Shukla Lane, New Delhi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "New Delhi"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "image": "Chief Minister of Assam Sarbananda Sonowal.jpg",
+  "caption": "Official Portrait, 2017",
+  "birth_date": "October 31, 1962",
+  "birth_place": "Mulukgaon, Dibrugarh district, Assam, India",
+  "office": "Minister of Ports, Shipping and Waterways",
+  "president": "Ram Nath Kovind",
+  "primeminister": "Narendra Modi",
+  "term_start": "7 July 2021",
+  "predecessor": "Mansukh L. Mandaviya",
+  "office1": "Minister of AYUSH",
+  "president1": "Ram Nath Kovind",
+  "primeminister1": "Narendra Modi",
+  "term_start1": "7 July 2021",
+  "predecessor1": "Shripad Naik",
+  "office2": "Member of Parliament, Rajya Sabha",
+  "predecessor2": "Biswajit Daimary",
+  "term_start2": "1 October 2021",
+  "constituency2": "Assam",
+  "office3": "Member of the Cabinet Committee on Political Affairs",
+  "term_start3": "12 July 2021",
+  "primeminister3": "Narendra Modi",
+  "order4": "14th",
+  "office4": "Chief Minister of Assam",
+  "governor4": "Padmanabha Acharya Banwarilal Purohit Jagdish Mukhi",
+  "predecessor4": "Tarun Gogoi",
+  "successor4": "Himanta Biswa Sarma",
+  "term_start4": "24 May 2016",
+  "term_end4": "10 May 2021",
+  "office9": "Member of the Assam Legislative Assembly",
+  "constituency9": "Majuli",
+  "term_start9": "19 May 2016",
+  "term_end9": "28 September 2021",
+  "predecessor9": "Rajib Lochan Pegu",
+  "constituency10": "Moran",
+  "term_start10": "2001",
+  "term_end10": "2004",
+  "predecessor10": "Joy Chandra Nagbanshi",
+  "successor10": "Jibantara Ghatowar",
+  "office5": "Minister of Youth Affairs and Sports",
+  "primeminister5": "Narendra Modi",
+  "predecessor5": "Jitendra Singh",
+  "successor5": "Dr. Jitendra Singh",
+  "term_start5": "26 May 2014",
+  "term_end5": "23 May 2016",
+  "office6": "Minister of State for Entrepreneurship and Skill Development",
+  "primeminister6": "Narendra Modi",
+  "term_start6": "26 May 2014",
+  "term_end6": "9 November 2014",
+  "predecessor6": "Office established",
+  "successor6": "Rajiv Pratap Rudy",
+  "office7": "Member of Parliament, Lok Sabha",
+  "constituency7": "Lakhimpur",
+  "term_start7": "16 May 2014",
+  "term_end7": "23 May 2016",
+  "predecessor7": "Ranee Narah",
+  "successor7": "Pradan Baruah",
+  "constituency8": "Dibrugarh",
+  "term_start8": "13 May 2004",
+  "term_end8": "15 May 2009",
+  "predecessor8": "Paban Singh Ghatowar",
+  "successor8": "Paban Singh Ghatowar",
+  "office11": "President of Assam BJP",
+  "term_start11": "2012",
+  "term_end11": "2014",
+  "predecessor11": "Ranjit Dutta",
+  "successor11": "Siddhartha Bhattacharya",
+  "term_start12": "2015",
+  "term_end12": "2016",
+  "predecessor12": "Siddhartha Bhattacharya",
+  "successor12": "Ranjeet Kumar Dass",
+  "party": "Bharatiya Janata Party (2011-present)",
+  "otherparty": "Asom Gana Parishad (2001-11)",
+  "parents": "Jibeswar Sonowal (Father) Dineswari Sonowal (Mother)",
+  "alma_mater": "*DHSK College, Dibrugarh University (B.A.)\n*Gauhati University (LL.B, B.C.J)",
+  "profession": "Politician",
+  "residence": "29, Pandit Ravi Shankar Shukla Lane, New Delhi"
 }
