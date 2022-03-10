@@ -1,6 +1,5 @@
 {
   "name": "Charanjit Singh Channi",
-  "status": "Outgoing",
   "image": "Charanjit Singh Channi (cropped).png",
   "birth_date": "March 12, 1963",
   "birth_place": "Chamkaur, Punjab, India",
@@ -24,6 +23,7 @@
   "2blankname2": "Deputy Leader",
   "2namedata2": "*Om Parkash Soni\n*Sukhjinder Singh Randhawa",
   "termstart2": "20 September 2021",
+  "termend2": "10 March 2022",
   "predecessor2": "Amarinder Singh",
   "successor2": "Bhagwant Mann",
   "office3": "Member of the Punjab Legislative Assembly",
@@ -47,5 +47,6 @@
   "spouse": "Dr. Kamaljit Kaur",
   "children": "2 sons",
   "alma_mater": "Panjab University (B.A., L.L.B.) and Punjab Technical University (MBA)",
-  "signature": "Charanjit Singh Channi signature.svg"
+  "signature": "Charanjit Singh Channi signature.svg",
+  "termend": "10 March 2022"
 }
