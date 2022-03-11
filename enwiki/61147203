@@ -1,6 +1,6 @@
 {
-  "name": "Arvinda Kumar",
-  "office": "Intelligence Bureau",
+  "name": "Arvind Kumar",
+  "office": "Director of the Intelligence Bureau",
   "predecessor": "Rajiv Jain",
   "primeminister": "Narendra Modi",
   "birth_date": "September 30, 1959",
@@ -8,6 +8,5 @@
   "nationality": "Indian",
   "occupation": "Civil Servant",
   "term_start": "30 June 2019",
-  "honorific_suffix": "IPS",
-  "honorific_prefix": "Director General of Intelligence Bureau"
+  "honorific_suffix": "IPS"
 }
