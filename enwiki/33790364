@@ -10,7 +10,7 @@
   "source": "http://punjabassembly.nic.in/index.php/ministers/knowyourminister/8/",
   "deputy": "*Sukhjinder Singh Randhawa\n*Om Parkash Soni",
   "predecessor": "Amarinder Singh",
-  "successor": "Bhagwant Mann",
+  "preceding": "Bhagwant Mann",
   "1blankname1": "Ministry and Departments",
   "1namedata1": "*Conservation of Land and Water.\n*Civil Aviation.\n*Justice\n*Excise.\n*General Administration.\n*Hospitality.\n*Tourism & Cultural Affairs.\n*Mining and Geology\n*Investment Promotion.\n*Information & Public Relations.\n*Legal & Legislative Affairs.\n*Personnel.\n*Environment.\n*Vigilance.\n*Power.\nOther departments not allocated to any Minister shall vest with the Chief Minister..",
   "term_start1": "20 September 2021",
@@ -47,6 +47,5 @@
   "spouse": "Dr. Kamaljit Kaur",
   "children": "2 sons",
   "alma_mater": "Panjab University (B.A., L.L.B.) and Punjab Technical University (MBA)",
-  "signature": "Charanjit Singh Channi signature.svg",
-  "termend": "10 March 2022"
+  "signature": "Charanjit Singh Channi signature.svg"
 }
