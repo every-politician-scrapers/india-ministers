@@ -1,0 +1,879 @@
+id,name,relationship,relative,relativename
+Q10218,Rahul Gandhi,father,Q4593,Rajiv Gandhi
+Q10218,Rahul Gandhi,mother,Q163225,Sonia Gandhi
+Q10218,Rahul Gandhi,sibling,Q607685,Priyanka Vadra
+Q1058,Narendra Modi,father,Q66606210,Damodardas Mulchand Modi
+Q1058,Narendra Modi,mother,Q105529920,Heeraben Modi
+Q1058,Narendra Modi,spouse,Q16947607,Jashodaben Narendrabhai Modi
+Q106811781,Deepti Kiran Maheshwari,mother,Q6414812,Kiran Maheshwari
+Q1190856,Naveen Patnaik,father,Q3526595,Biju Patnaik
+Q1190856,Naveen Patnaik,relative,Q7562067,Sonny Mehta
+Q1190856,Naveen Patnaik,sibling,Q23879683,Geeta Mehta
+Q1190856,Naveen Patnaik,sibling,Q538719,Gita Mehta
+Q1206954,Kapil Sibal,spouse,Q26242991,Nina Sibal
+Q12070269,Kabir Suman,spouse,Q7396131,Sabina Yasmin
+Q12447464,Mridula Sinha,spouse,Q17661801,Ram Kripal Sinha
+Q1287413,Kamal Nath,child,Q62773778,Nakul Nath
+Q1287413,Kamal Nath,relative,Q5250527,Deepak Puri
+Q1287413,Kamal Nath,sibling,Q65962526,Nita Puri
+Q1287413,Kamal Nath,spouse,Q15940986,Alka Nath
+Q13110345,E. P. Jayarajan,relative,Q13113248,P. Jayarajan
+Q13110345,E. P. Jayarajan,relative,Q7117373,P. K. Sreemathy
+Q13110345,E. P. Jayarajan,relative,Q7117530,P. Satheedevi
+Q13115267,Hibi Eden,father,Q65321337,ജോർജ് ഈഡൻ
+Q13219724,K. B. Ganesh Kumar,father,Q7273485,R. Balakrishna Pillai
+Q1338044,Vijay Bahuguna,child,Q67143708,Saurabh Bahuguna
+Q1338044,Vijay Bahuguna,father,Q5712859,Hemwati Nandan Bahuguna
+Q1338044,Vijay Bahuguna,mother,Q19805480,Kamala Bahuguna
+Q1338044,Vijay Bahuguna,sibling,Q7336472,Rita Bahuguna Joshi
+Q13564486,K. Muraleedharan,father,Q3521777,K. Karunakaran
+Q13564486,K. Muraleedharan,sibling,Q16137057,Padmaja Venugopal
+Q13587355,Sujatha Singh,father,Q6061749,T. V. Rajeswar
+Q13619621,Hemant Soren,father,Q3630358,Shibu Soren
+Q13619621,Hemant Soren,sibling,Q24398797,Durga Soren
+Q13619621,Hemant Soren,sibling,Q62716212,Anjani Soren
+Q1391309,Manohar Parrikar,spouse,Q22583629,Medha Parrikar
+Q1428118,Anbumani Ramadoss,father,Q7387807,S. Ramadoss
+Q14475684,Sandeep Dikshit,mother,Q464900,Sheila Dikshit
+Q14480969,Y. S. Vivekananda Reddy,child,Q106601201,Suneetha Narreddy
+Q14480969,Y. S. Vivekananda Reddy,father,Q47403425,Y. S. Raja Reddy
+Q14480969,Y. S. Vivekananda Reddy,mother,Q106601144,Jayamma Yeduguri Sandinti
+Q15113996,Meenakshi Lekhi,spouse,Q22278833,Aman Lekhi
+Q156347,Lata Mangeshkar,father,Q5250040,Deenanath Mangeshkar
+Q156347,Lata Mangeshkar,sibling,Q3288794,Usha Mangeshkar
+Q156347,Lata Mangeshkar,sibling,Q38393,Asha Bhosle
+Q156347,Lata Mangeshkar,sibling,Q5923672,Hridaynath Mangeshkar
+Q156347,Lata Mangeshkar,sibling,Q6807586,Meena Khadikar
+Q15724394,Nalinikanta Mohanty,child,Q17385578,Anshuman Mohanty
+Q15725132,Ulaka Rama Chandra,child,Q63079548,Saptagiri Shankar Ulaka
+Q15725132,Ulaka Rama Chandra,child,Q63079554,Siba Sankar Ulaka
+Q15725132,Ulaka Rama Chandra,spouse,Q63079572,Ratnamani Ulaka
+Q15725132,Ulaka Rama Chandra,spouse,Q63079583,Janaki Ulaka
+Q15730377,Krishna Bose,child,Q7424307,Sarmila Bose
+Q15730377,Krishna Bose,child,Q7635065,Sugata Bose
+Q15730377,Krishna Bose,child,Q7636959,Sumantra Bose
+Q15730377,Krishna Bose,spouse,Q16005989,Sisir Kumar Bose
+Q158136,Kirron Kher,child,Q16875890,Tara Alisha Berry
+Q158136,Kirron Kher,child,Q7513553,Sikandar Kher
+Q158136,Kirron Kher,spouse,Q560163,Anupam Kher
+Q15844979,Kalpataru Das,child,Q61510117,Pranab Kumar Balabantaray
+Q15941049,Sandhya Bauri,child,Q7649141,Susmita Bauri
+Q15955910,Hema Gomang,child,Q63221866,Sisir Gomango
+Q15955910,Hema Gomang,sibling,Q61510216,Trinath Gomango
+Q15955910,Hema Gomang,spouse,Q5091746,Giridhar Gomango
+Q15992996,Mukesh Gadhvi,father,Q16902854,B.K. Gadhvi
+Q15993397,Amar Roy Pradhan,child,Q24572489,Arghya Roy Pradhan
+Q1609586,Moon Moon Sen,child,Q46018,Raima Sen
+Q1609586,Moon Moon Sen,child,Q748926,Riya Sen
+Q1609586,Moon Moon Sen,mother,Q467343,Rama Dasgupta
+Q16105255,Hukmdev Narayan Yadav,child,Q64141260,Ashok Kumar Yadav
+Q16106092,Shyama Singh,mother,Q24566023,Madhuri Singh
+Q16106092,Shyama Singh,sibling,Q15127434,Nand Kishore Singh
+Q16106092,Shyama Singh,spouse,Q1897475,Nikhil Kumar
+Q16135968,Mani C. Kappan,father,Q97302992,Cherian J. Kappan
+Q16154549,Harsimrat Kaur Badal,father,Q16660440,Satyajit Singh Majithia
+Q16154549,Harsimrat Kaur Badal,sibling,Q16215906,Bikram Singh Majithia
+Q16154549,Harsimrat Kaur Badal,spouse,Q7635786,Sukhbir Singh Badal
+Q16186580,Prasun Banerjee,sibling,Q4077304,P. K. Banerjee
+Q16186720,Subrahmanyam Jaishankar,father,Q6324033,K. Subrahmanyam
+Q16186825,Jayaram Pangi,child,Q64123059,Ashok Pangi
+Q16186825,Jayaram Pangi,sibling,Q61510107,Prafulla Kumar Pangi
+Q16186858,Anam Vivekananda Reddy,sibling,Q4751171,Anam Ramanarayana Reddy
+Q16186897,Lakshman Singh,father,Q16197687,Balbhadra Singh
+Q16189075,Gajendra Singh Khimsar,child,Q110276137,Dhananjai Singh Khimsar
+Q16194579,Maheshwar Hazari,father,Q16909954,Ramsewak Hazari
+Q16194629,Dinesh Kashyap,father,Q4851004,Baliram Kashyap
+Q16194996,Abhay Chautala,child,Q106670848,Karan Singh Chautala
+Q16194996,Abhay Chautala,child,Q106670854,Arjun Singh Chautala
+Q16194996,Abhay Chautala,father,Q3195894,Om Prakash Chautala
+Q16195659,Abha Mahato,spouse,Q23761918,Shailendra Mahato
+Q16213761,Jyotiraditya Scindia,child,Q77607742,Ananya Raje Scindia
+Q16213761,Jyotiraditya Scindia,child,Q87475740,Mahanaryaman Scindia
+Q16213761,Jyotiraditya Scindia,father,Q1854649,Madhavrao Scindia
+Q16213761,Jyotiraditya Scindia,sibling,Q34292986,Chitrangada Singh
+Q16213761,Jyotiraditya Scindia,spouse,Q16215543,Priyadarshini Raje Scindia
+Q16215207,Shruti Choudhry,father,Q16016390,Chaudhary Surender Singh
+Q16215207,Shruti Choudhry,mother,Q16739170,Kiran Choudhary
+Q16215207,Shruti Choudhry,relative,Q3634914,Bansi Lal
+Q16215749,Milind Murli Deora,father,Q6938775,Murli Deora
+Q16215749,Milind Murli Deora,mother,Q56257180,Hema Deora
+Q16215749,Milind Murli Deora,relative,Q16258427,Manmohan Shetty
+Q16215749,Milind Murli Deora,sibling,Q66123816,Mukul Deora
+Q16215749,Milind Murli Deora,spouse,Q66123424,Pooja Shetty
+Q16221537,Nilesh Narayan Rane,father,Q3631470,Narayan Rane
+Q16221537,Nilesh Narayan Rane,sibling,Q10960360,Nitesh Narayan Rane
+Q16221747,Gaurav Gogoi,father,Q3349343,Tarun Gogoi
+Q16221747,Gaurav Gogoi,spouse,Q102315425,Elizabeth Colburn Gogoi
+Q16237847,Raghav Lakhanpal,father,Q19898334,Nirbhay Pal Sharma
+Q163225,Sonia Gandhi,child,Q10218,Rahul Gandhi
+Q163225,Sonia Gandhi,child,Q607685,Priyanka Vadra
+Q163225,Sonia Gandhi,spouse,Q4593,Rajiv Gandhi
+Q1652493,Sushma Swaraj,child,Q22807787,Bansuri Swaraj
+Q1652493,Sushma Swaraj,spouse,Q7653845,Swaraj Kaushal
+Q16728004,Chirag Paswan,father,Q6036905,Ram Vilas Paswan
+Q16728004,Chirag Paswan,relative,Q28227517,Pashupati Kumar Paras
+Q16728004,Chirag Paswan,relative,Q7288447,Ram Chandra Paswan
+Q16728896,Devendra Fadnavis,spouse,Q29073957,Amruta Fadnavis
+Q16739170,Kiran Choudhary,child,Q16215207,Shruti Choudhry
+Q16739170,Kiran Choudhary,spouse,Q16016390,Chaudhary Surender Singh
+Q16845347,Ram Nath Kovind,spouse,Q33311930,Savita Kovind
+Q1686500,Parkash Singh Badal,child,Q63066638,Parneet Kaur
+Q1686500,Parkash Singh Badal,child,Q7635786,Sukhbir Singh Badal
+Q16890553,Dushyant Chautala,father,Q4699661,Ajay Singh Chautala
+Q16890659,Rajveer Singh,father,Q3633385,Kalyan Singh
+Q16897893,Kapil Krishna Thakur,mother,Q62018385,Binapani Devi
+Q16897893,Kapil Krishna Thakur,sibling,Q6738494,Manjul Krishna Thakur
+Q16897896,Konda Vishweshwar Reddy,child,Q72219210,Anindith Reddy
+Q16897896,Konda Vishweshwar Reddy,spouse,Q62568128,Sangeetha Reddy
+Q16900559,Arka Keshari Deo,father,Q4907442,Bikram Keshari Deo
+Q16900559,Arka Keshari Deo,mother,Q63184990,Nayanshree Devi
+Q16900559,Arka Keshari Deo,relative,Q61510092,Nitesh Gangadeb
+Q16900559,Arka Keshari Deo,sibling,Q63184993,Arundhati Debi
+Q16901165,Mamtaz Sanghamita,father,Q7660276,Syed Abul Mansur Habibullah
+Q16901165,Mamtaz Sanghamita,spouse,Q7049799,Noor Alam Chowdhury
+Q16901254,Hemendra Chandra Singh,spouse,Q18325951,Pratyusha Rajeshwari Singh
+Q16902075,Akshay Yadav,father,Q7288475,Ram Gopal Yadav
+Q16902163,Jitendra Chaudhury,sibling,Q92140142,Pravat Chowdhury
+Q16902176,Kaushal Kishore,spouse,Q30251881,Jai Devi
+Q16907470,Heena Gavit,father,Q16907906,Vijaykumar Gavit
+Q16908996,Ladu Kishore Swain,spouse,Q63994063,Manjula Swain
+Q16956874,Geeta Koda,spouse,Q3382907,Madhu Koda
+Q17198781,Tamilisai Soundararajan,father,Q6443604,Kumari Ananthan
+Q17385578,Anshuman Mohanty,father,Q15724394,Nalinikanta Mohanty
+Q1749549,Sumalata,spouse,Q2721714,Ambareesh
+Q1766088,Altamas Kabir,father,Q6176455,Jehangir Kabir
+Q1766088,Altamas Kabir,relative,Q5939753,Humayun Kabir
+Q18062107,Chiranjib Biswal,father,Q23891552,Basant Kumar Biswal
+Q18062107,Chiranjib Biswal,sibling,Q7293136,Ranjib Biswal
+Q18145581,Tej Pratap Singh Yadav,father,Q62579150,Ranveer Singh Yadav
+Q18145581,Tej Pratap Singh Yadav,mother,Q62744052,Mridula Yadav
+Q18145581,Tej Pratap Singh Yadav,relative,Q3503625,"Anuppur, Madhya Pradesh"
+Q18145581,Tej Pratap Singh Yadav,relative,Q561812,Chiranjeev Rao
+Q18145581,Tej Pratap Singh Yadav,spouse,Q25231308,Raj Lakshmi Yadav
+Q18216864,Jaivardhan Singh,father,Q3520250,Digvijaya Singh
+Q18325951,Pratyusha Rajeshwari Singh,spouse,Q16901254,Hemendra Chandra Singh
+Q18327340,Pritam Munde,father,Q3633455,Gopinath Munde
+Q1854649,Madhavrao Scindia,child,Q16213761,Jyotiraditya Scindia
+Q1854649,Madhavrao Scindia,child,Q34292986,Chitrangada Singh
+Q1854649,Madhavrao Scindia,father,Q3760549,George Jivajirao Scindia
+Q1854649,Madhavrao Scindia,mother,Q1452301,Vijayaraje Scindia
+Q1854649,Madhavrao Scindia,sibling,Q2997305,Vasundhara Raje
+Q1854649,Madhavrao Scindia,sibling,Q8049755,Yashodhara Raje Scindia
+Q18640288,Prasad Kumar Harichandan,relative,Q61575178,Suresh Kumar Routray
+Q18640288,Prasad Kumar Harichandan,spouse,Q62608587,Snehashree Harichandan
+Q18648989,Sarojini Hembram,father,Q61053332,Chaitanya Prasad Majhi
+Q1896096,Janaki Ballav Patnaik,child,Q62671680,Pruthvi Ballabh Patnaik
+Q1896096,Janaki Ballav Patnaik,child,Q62672642,Sudatta Patnaik
+Q1896096,Janaki Ballav Patnaik,spouse,Q6167612,Jayanti Patnaik
+Q1897475,Nikhil Kumar,spouse,Q16106092,Shyama Singh
+Q19517706,Pravat Tripathy,child,Q62555402,Devi Ranjan Tripathy
+Q195616,Shashi Tharoor,spouse,Q7638829,Sunanda Pushkar
+Q19662756,Sunil Jakhar,father,Q3497331,Balram Jakhar
+Q1992008,Govinda,child,Q20630463,Tina Ahuja
+Q1992008,Govinda,father,Q18354507,Arun Kumar Ahuja
+Q1992008,Govinda,mother,Q16208347,Nirmala Devi
+Q1992008,Govinda,sibling,Q15646222,Kirti Kumar
+Q1992008,Govinda,sibling,Q96694338,Pushpa Anand
+Q1992008,Govinda,spouse,Q22302591,Sunita Ahuja
+Q20090300,Renuka Bishnoi,child,Q21620882,Chaitanya Bishnoi
+Q20090300,Renuka Bishnoi,child,Q63860325,Bhavya Bishnoi
+Q20090300,Renuka Bishnoi,spouse,Q6442875,Kuldeep Bishnoi
+Q2038656,Vinod Khanna,child,Q26695029,Sakshi Khanna
+Q2038656,Vinod Khanna,child,Q26695549,Shraddha Khanna
+Q2038656,Vinod Khanna,child,Q3117676,Rahul Khanna
+Q2038656,Vinod Khanna,child,Q421581,Akshaye Khanna
+Q2038656,Vinod Khanna,spouse,Q22959816,Geetanjali Khanna
+Q20560973,K. Ajith,father,Q16135013,എം.കെ. കേശവൻ
+Q20561285,K. K. Rema,spouse,Q9661446,T. P. Chandrasekharan
+Q20562895,Y. V. Subba Reddy,child,Q106916558,Yerram Vikranth Reddy
+Q20562895,Y. V. Subba Reddy,father,Q106916560,Chinna Poli Reddy Yerramreddy
+Q20562895,Y. V. Subba Reddy,mother,Q106916562,Pitchamma Yerramreddy
+Q2063696,Y. S. Rajasekhara Reddy,child,Q3531971,Y. S. Jaganmohan Reddy
+Q2063696,Y. S. Rajasekhara Reddy,child,Q8045769,Y. S. Sharmila
+Q2063696,Y. S. Rajasekhara Reddy,spouse,Q8045771,Y. S. Vijayamma
+Q20716260,K. S. Sabarinathan,father,Q5512311,G. Karthikeyan
+Q20716260,K. S. Sabarinathan,spouse,Q105988314,Divya S. Iyer
+Q2107874,Prashanta Nanda,sibling,Q15725231,Srikant Gautam
+Q21176436,Kumudini Patnaik,child,Q62397112,Anita Subhadarshini
+Q21176436,Kumudini Patnaik,spouse,Q61575128,Ram Krushna Patnaik
+Q21598317,Ranjit Kumar Panja,sibling,Q4699789,Ajit Kumar Panja
+Q21827250,Sarat Kumar Kar,sibling,Q29955816,Rajat Kumar Kar
+Q22277026,Hanuman Beniwal,sibling,Q72201345,Narayan Beniwal
+Q2319562,Javed Akhtar,child,Q3070885,Zoya Akhtar
+Q2319562,Javed Akhtar,child,Q590853,Farhan Akhtar
+Q2319562,Javed Akhtar,father,Q3498015,Jan Nisar Akhtar
+Q2319562,Javed Akhtar,sibling,Q7405394,Salman Akhtar
+Q2319562,Javed Akhtar,spouse,Q465863,Shabana Azmi
+Q2319562,Javed Akhtar,spouse,Q764803,Honey Irani
+Q235454,K. R. Narayanan,spouse,Q20737795,Usha Narayanan
+Q23908915,N. Jayaraj,father,Q6323684,K. Narayana Kurup
+Q24007160,Jameela Prakasam,father,Q20559146,R. Prakasam
+Q24007160,Jameela Prakasam,spouse,Q16259464,Neelalohithadasan Nadar
+Q24037,B. Y. Raghavendra,father,Q795241,B. S. Yeddyurappa
+Q24228863,Bijayshree Routray,child,Q62555393,Bishnubrata Routray
+Q24228863,Bijayshree Routray,father,Q5092131,Nilamani Routray
+Q24255138,Bishnu Charan Das,child,Q100320657,Bijay Shankar Das
+Q24285755,Pushpalata Das,spouse,Q23073899,Omeo Kumar Das
+Q24572489,Arghya Roy Pradhan,father,Q15993397,Amar Roy Pradhan
+Q24952534,K. D. Prasenan,relative,Q13110323,Alathur R. Krishnan
+Q251790,H. D. Kumaraswamy,child,Q26923524,Nikhil Kumarswamy
+Q251790,H. D. Kumaraswamy,father,Q377870,H. D. Deve Gowda
+Q251790,H. D. Kumaraswamy,sibling,Q5628154,H. D. Revanna
+Q251790,H. D. Kumaraswamy,spouse,Q53999083,Anitha Kumaraswamy
+Q251790,H. D. Kumaraswamy,spouse,Q6448629,Radhika Kumaraswamy
+Q25589441,V. R. Sunil Kumar,father,Q16136653,വി.കെ. രാജൻ
+Q2600379,Agatha Sangma,father,Q2741772,P. A. Sangma
+Q2600379,Agatha Sangma,sibling,Q15978423,James Sangma
+Q2600379,Agatha Sangma,sibling,Q5162596,Conrad Sangma
+Q270100,Navjot Singh Sidhu,spouse,Q6982509,Navjot Kaur Sidhu
+Q27057843,Nandini Devi,relative,Q61650236,Ananta Narayan Singh Deo
+Q27057843,Nandini Devi,relative,Q61652359,Shanti Devi
+Q27057843,Nandini Devi,spouse,Q61556053,Kishore Chandra Singh Deo
+Q2721714,Ambareesh,spouse,Q1749549,Sumalata
+Q2723680,Keshubhai Patel,child,Q22337589,Bharat Patel
+Q2723680,Keshubhai Patel,spouse,Q22337588,Leela Patel
+Q2723759,Yashwant Sinha,child,Q18157036,Sumant Sinha
+Q2728260,Kirti Azad,father,Q4900694,Bhagwat Jha Azad
+Q2728775,Varun Gandhi,father,Q730045,Sanjay Gandhi
+Q2728775,Varun Gandhi,mother,Q2739159,Maneka Gandhi
+Q2736550,Mulayam Singh Yadav,child,Q417657,Akhilesh Yadav
+Q2736550,Mulayam Singh Yadav,sibling,Q62579133,Ratan Singh Yadav
+Q2736550,Mulayam Singh Yadav,sibling,Q62579271,Abhay Ram Singh Yadav
+Q2736550,Mulayam Singh Yadav,sibling,Q62579394,Rajpal Singh Yadav
+Q2736550,Mulayam Singh Yadav,sibling,Q7499421,Shivpal Singh Yadav
+Q2739159,Maneka Gandhi,child,Q2728775,Varun Gandhi
+Q2739159,Maneka Gandhi,spouse,Q730045,Sanjay Gandhi
+Q2741772,P. A. Sangma,child,Q15978423,James Sangma
+Q2741772,P. A. Sangma,child,Q2600379,Agatha Sangma
+Q2741772,P. A. Sangma,child,Q5162596,Conrad Sangma
+Q2745305,Omar Abdullah,father,Q3517911,Farooq Abdullah
+Q2745305,Omar Abdullah,sibling,Q62746064,Sara Pilot
+Q27513053,Atanu Sabyasachi Nayak,father,Q61717558,Rajakishore Nayak
+Q27513053,Atanu Sabyasachi Nayak,mother,Q107721744,Nirmalprava Nayak
+Q27514472,Lalatendu Bidyadhar Mohapatra,child,Q28736639,Upasna Mohapatra
+Q27514472,Lalatendu Bidyadhar Mohapatra,sibling,Q64590480,Lalitendu Bidyadhar Mohapatra
+Q27663792,Suman Haripriya,mother,Q4907275,Bijoya Chakravarty
+Q277422,Mukesh,father,Q7072143,O. Madhavan
+Q277422,Mukesh,mother,Q16136904,Vijayakumari
+Q277422,Mukesh,spouse,Q16137769,Methil Devika
+Q277422,Mukesh,spouse,Q3524574,Saritha
+Q27947641,Dibyendu Adhikari,father,Q7530834,Sisir Adhikari
+Q27947641,Dibyendu Adhikari,sibling,Q104626849,Soumendu Adhikari
+Q27947641,Dibyendu Adhikari,sibling,Q7650495,Suvendu Adhikari
+Q27990470,Manmath Nath Das,sibling,Q3635724,Manoj Das
+Q28227517,Pashupati Kumar Paras,relative,Q16728004,Chirag Paswan
+Q28227517,Pashupati Kumar Paras,sibling,Q6036905,Ram Vilas Paswan
+Q28227517,Pashupati Kumar Paras,sibling,Q7288447,Ram Chandra Paswan
+Q29452463,Pradeep Maharathy,child,Q108800467,Rudra Pratap Maharathy
+Q29452463,Pradeep Maharathy,child,Q99927321,Pallavi Maharathi
+Q29452463,Pradeep Maharathy,relative,Q99926894,Ardhedu Sahu
+Q29904010,Pratap Keshari Deb,father,Q29904502,Sharat Kumar Dev
+Q29904010,Pratap Keshari Deb,mother,Q7648981,Sushree Devi
+Q2997305,Vasundhara Raje,child,Q5316897,Dushyant Singh
+Q2997305,Vasundhara Raje,father,Q3760549,George Jivajirao Scindia
+Q2997305,Vasundhara Raje,mother,Q1452301,Vijayaraje Scindia
+Q2997305,Vasundhara Raje,sibling,Q1854649,Madhavrao Scindia
+Q2997305,Vasundhara Raje,sibling,Q8049755,Yashodhara Raje Scindia
+Q301947,Dnyandeo Yashwantrao Patil,child,Q4699697,Dr Ajeenkya D Y Patil
+Q30601065,Pratap Singh,child,Q110095791,Sunil Kumar
+Q3123705,Paresh Rawal,spouse,Q7653917,Swaroop Sampat
+Q313243,Chiranjeevi,child,Q107299195,Chiranjeevi Sushmitha
+Q313243,Chiranjeevi,child,Q107299271,Sreeja Konidela
+Q313243,Chiranjeevi,child,Q3765047,Ram Charan Teja
+Q313243,Chiranjeevi,father,Q107299095,Venkat Rao Konidela
+Q313243,Chiranjeevi,mother,Q107299096,Anjana Devi Konidela
+Q313243,Chiranjeevi,relative,Q12990834,Allu Aravind
+Q313243,Chiranjeevi,relative,Q21063745,Sai Dharam Tej
+Q313243,Chiranjeevi,relative,Q4733330,Allu Rama Lingaiah
+Q313243,Chiranjeevi,relative,Q642827,Allu Arjun
+Q313243,Chiranjeevi,sibling,Q13651734,Nagendra Babu
+Q313243,Chiranjeevi,sibling,Q6067643,Pawan Kalyan
+Q313243,Chiranjeevi,spouse,Q107299068,Surekha Konidela
+Q313515,Salman Khurshid,father,Q6403123,Khurshed Alam Khan
+Q313515,Salman Khurshid,mother,Q62579970,Saeeda Khurshid
+Q314351,Sachin Pilot,father,Q7286080,Rajesh Pilot
+Q314351,Sachin Pilot,spouse,Q62746064,Sara Pilot
+Q3195894,Om Prakash Chautala,child,Q16194996,Abhay Chautala
+Q3195894,Om Prakash Chautala,child,Q4699661,Ajay Singh Chautala
+Q3195894,Om Prakash Chautala,father,Q1764533,Chaudhary Devi Lal
+Q3210225,Asaduddin Owaisi,father,Q3764420,Sultan Salahuddin Owaisi
+Q3210225,Asaduddin Owaisi,sibling,Q3195789,Akbaruddin Owaisi
+Q33168,K. Chandrashekar Rao,child,Q25748324,K. T. Rama Rao
+Q33168,K. Chandrashekar Rao,child,Q6323498,K. Kavitha
+Q3345004,Ashok Gehlot,child,Q61715200,Vaibhav Gehlot
+Q3345095,Mohammad Azharuddin,spouse,Q3595327,Sangeeta Bijlani
+Q3345623,Ashok Chavan,father,Q5607249,Shankarrao Chavan
+Q3347275,Priya Ranjan Dasmunsi,spouse,Q5250462,Deepa Dasmunsi
+Q3347330,Gopalkrishna Gandhi,father,Q732728,Devdas Gandhi
+Q3347330,Gopalkrishna Gandhi,mother,Q99924218,Lakshmi Rajagopalachari
+Q3347330,Gopalkrishna Gandhi,sibling,Q100146686,Tara Gandhi Bhattacharjee
+Q3347330,Gopalkrishna Gandhi,sibling,Q1595192,Ramchandra Gandhi
+Q3347330,Gopalkrishna Gandhi,sibling,Q734521,Rajmohan Gandhi
+Q3349343,Tarun Gogoi,child,Q16221747,Gaurav Gogoi
+Q3349343,Tarun Gogoi,sibling,Q5279668,Dip Gogoi
+Q3349817,Debashree Roy,spouse,Q7250587,Prosenjit Chatterjee
+Q33635,Hema Malini,child,Q4694945,Ahana Deol
+Q33635,Hema Malini,child,Q48622,Esha Deol
+Q33635,Hema Malini,spouse,Q379157,Dharmendra
+Q3382907,Madhu Koda,spouse,Q16956874,Geeta Koda
+Q3497331,Balram Jakhar,child,Q19662756,Sunil Jakhar
+Q3503625,"Anuppur, Madhya Pradesh",child,Q101139897,××××××
+Q3503625,"Anuppur, Madhya Pradesh",child,Q14317045,Tejashwi Yadav
+Q3503625,"Anuppur, Madhya Pradesh",child,Q21516723,Tej Pratap Yadav
+Q3503625,"Anuppur, Madhya Pradesh",child,Q22572409,Misa Bharati Devi
+Q3503625,"Anuppur, Madhya Pradesh",child,Q25231308,Raj Lakshmi Yadav
+Q3503625,"Anuppur, Madhya Pradesh",relative,Q93303139,G.Chiranjeev Rao
+Q3503625,"Anuppur, Madhya Pradesh",sibling,Q7397883,Sadhu Yadav
+Q3503625,"Anuppur, Madhya Pradesh",sibling,Q7631238,Subhash Prasad Yadav
+Q3503625,"Anuppur, Madhya Pradesh",spouse,Q561812,Chiranjeev Rao
+Q3504490,Sushilkumar Shinde,child,Q18563984,Praniti Shinde
+Q3506475,Rajnath Singh,child,Q16217622,Pankaj Singh
+Q3506475,Rajnath Singh,child,Q22320790,Neeraj Singh
+Q3506475,Rajnath Singh,child,Q22320794,Anamika Singh
+Q3506475,Rajnath Singh,father,Q104652456,Rambadan Singh
+Q3506475,Rajnath Singh,mother,Q104651554,Gujrati Devi
+Q3506475,Rajnath Singh,spouse,Q22320781,Savitri Singh
+Q3517911,Farooq Abdullah,child,Q2745305,Omar Abdullah
+Q3517911,Farooq Abdullah,child,Q62746064,Sara Pilot
+Q3517911,Farooq Abdullah,father,Q983328,Sheikh Muhammad Abdullah
+Q3517911,Farooq Abdullah,sibling,Q62745045,Khalida Shah
+Q3517911,Farooq Abdullah,sibling,Q7492953,Sheikh Mustafa Kamal
+Q3518013,Nara Chandrababu Naidu,child,Q13561072,Nara Lokesh
+Q3518013,Nara Chandrababu Naidu,spouse,Q95682919,Nara Bhuvaneshwari
+Q3518383,Jaya Prada,spouse,Q27058613,Srikanth Nahata
+Q3518489,Jaswant Singh,child,Q47546603,Manvendra Singh
+Q3518489,Jaswant Singh,father,Q104628970,Thakur Sardar Singh Rathore
+Q3518489,Jaswant Singh,mother,Q104629947,Kunwar Baisa
+Q3520217,Prithviraj Chavan,father,Q16007372,Dajisaheb Chavan
+Q3520217,Prithviraj Chavan,mother,Q16015954,Premalakaki Chavan
+Q3520354,Prem Kumar Dhumal,child,Q4777895,Anurag Thakur
+Q3520901,N. Santosh Hegde,father,Q5796923,K. S. Hegde
+Q3521777,K. Karunakaran,child,Q13564486,K. Muraleedharan
+Q3523063,Bhupinder Singh Hooda,child,Q5250584,Deepender Singh Hooda
+Q3523063,Bhupinder Singh Hooda,father,Q7290753,Ranbir Singh Hooda
+Q3523083,Dayanidhi Maran,child,Q106988976,Divya Dayanidhi Maran
+Q3523083,Dayanidhi Maran,child,Q106988977,Karan Dayanidhi Maran
+Q3523083,Dayanidhi Maran,father,Q3523458,Murasoli Maran
+Q3523083,Dayanidhi Maran,mother,Q106988960,Mallika Maran
+Q3523083,Dayanidhi Maran,sibling,Q3519776,Kalanithi Maran
+Q3523458,Murasoli Maran,child,Q3519776,Kalanithi Maran
+Q3523458,Murasoli Maran,child,Q3523083,Dayanidhi Maran
+Q3523458,Murasoli Maran,child,Q91153515,Anbukarasi Maran
+Q3523458,Murasoli Maran,father,Q106988946,Shanmugasundaram
+Q3523458,Murasoli Maran,mother,Q106988945,Shanmugasundari
+Q3531971,Y. S. Jaganmohan Reddy,child,Q106914905,Harsha Reddy
+Q3531971,Y. S. Jaganmohan Reddy,child,Q106914910,Varsha Reddy
+Q3531971,Y. S. Jaganmohan Reddy,father,Q2063696,Y. S. Rajasekhara Reddy
+Q3531971,Y. S. Jaganmohan Reddy,spouse,Q106914916,YS Bharathi Reddy
+Q3532853,G. K. Vasan,father,Q5512301,G. K. Moopanar
+Q3533627,Prafulla Kumar Mahanta,spouse,Q44201021,Joyasree Goswami Mahanta
+Q3534319,Surjit Singh Barnala,spouse,Q7646401,Surjit Kaur Barnala
+Q3595242,Shatrughan Sinha,child,Q23931710,Kush Sinha
+Q3595242,Shatrughan Sinha,child,Q614907,Sonakshi Sinha
+Q3595242,Shatrughan Sinha,child,Q6706095,Luv Sinha
+Q3595242,Shatrughan Sinha,spouse,Q7228701,Poonam Sinha
+Q3595385,Pinarayi Vijayan,relative,Q80189102,P. A. Mohammed Riyas
+Q3595480,Raj Babbar,child,Q2364996,Prateik Babbar
+Q3595480,Raj Babbar,child,Q2752875,Aarya Babbar
+Q3595480,Raj Babbar,child,Q6305121,Juhi Babbar
+Q3595480,Raj Babbar,spouse,Q3635980,Nadira Babbar
+Q3595480,Raj Babbar,spouse,Q467960,Smita Patil
+Q3595515,A. K. Balan,relative,Q20563492,P. K. Kunjachan
+Q3595630,Brajesh Mishra,father,Q5317941,Dwarka Prasad Mishra
+Q3595930,Bijoy Krishna Handique,father,Q6437431,Krishna Kanta Handique
+Q3629480,Arun Jaitley,child,Q104450355,Rohan Jaitley
+Q3629480,Arun Jaitley,relative,Q20679407,Girdhari Lal Dogra
+Q3629480,Arun Jaitley,spouse,Q104450375,Sangeeta Jaitely
+Q3630187,B. C. Khanduri,child,Q98413028,Ritu Khanduri
+Q3630358,Shibu Soren,child,Q13619621,Hemant Soren
+Q3630358,Shibu Soren,child,Q24398797,Durga Soren
+Q3630358,Shibu Soren,child,Q62716212,Anjani Soren
+Q3631470,Narayan Rane,child,Q10960360,Nitesh Narayan Rane
+Q3631470,Narayan Rane,child,Q16221537,Nilesh Narayan Rane
+Q3633236,Amarinder Singh,child,Q7293062,Raninder Singh
+Q3633236,Amarinder Singh,father,Q620287,Yadavindra Singh
+Q3633236,Amarinder Singh,mother,Q7286312,Rajmata Mohinder Kaur of Patiala
+Q3633236,Amarinder Singh,spouse,Q7240540,Preneet Kaur
+Q3633385,Kalyan Singh,child,Q16890659,Rajveer Singh
+Q3633455,Gopinath Munde,child,Q17198374,Pankaja Munde
+Q3633455,Gopinath Munde,child,Q18327340,Pritam Munde
+Q3634346,Uddhav Thackeray,child,Q4683091,Aditya Thackeray
+Q3634346,Uddhav Thackeray,child,Q97980022,Tejas Thackeray
+Q3634346,Uddhav Thackeray,father,Q61193,Bal Thackeray
+Q3634346,Uddhav Thackeray,spouse,Q17997007,Rashmi Thackeray
+Q3652147,Navaneet Kaur,spouse,Q19604969,Ravi Rana
+Q3751683,Raghunath Mohapatra,child,Q106906609,Prashant Mohapatra
+Q376255,G. M. C. Balayogi,spouse,Q42597604,Vijaya Kumari Ganti
+Q3764382,Nedurumalli Janardhana Reddy,spouse,Q16797144,Nedurumalli Rajyalakshmi
+Q3764420,Sultan Salahuddin Owaisi,child,Q3195789,Akbaruddin Owaisi
+Q3764420,Sultan Salahuddin Owaisi,child,Q3210225,Asaduddin Owaisi
+Q3764490,G. Venkatswamy,child,Q5512543,G. Vivekanand
+Q377358,P. Chidambaram,child,Q47545347,Karthik Chidambaram
+Q377789,Dilip Kumar,sibling,Q17332535,Nasir Khan
+Q377789,Dilip Kumar,spouse,Q942959,Saira Banu
+Q377870,H. D. Deve Gowda,child,Q251790,H. D. Kumaraswamy
+Q377870,H. D. Deve Gowda,child,Q5628154,H. D. Revanna
+Q377903,Sunil Dutt,child,Q310867,Sanjay Dutt
+Q377903,Sunil Dutt,child,Q7246465,Priya Dutt
+Q377903,Sunil Dutt,spouse,Q159169,Nargis
+Q379157,Dharmendra,child,Q4694945,Ahana Deol
+Q379157,Dharmendra,child,Q48619,Bobby Deol
+Q379157,Dharmendra,child,Q48622,Esha Deol
+Q379157,Dharmendra,child,Q944546,Sunny Deol
+Q379157,Dharmendra,spouse,Q33635,Hema Malini
+Q379604,Mithun Chakraborty,child,Q109591985,Namashi Chakraborty
+Q379604,Mithun Chakraborty,child,Q13564562,Mahaakshay Chakraborty
+Q379604,Mithun Chakraborty,child,Q26694810,Dishani Chakraborty
+Q379604,Mithun Chakraborty,child,Q26694822,Ushmey Chakraborty
+Q379604,Mithun Chakraborty,spouse,Q270691,Sridevi
+Q379604,Mithun Chakraborty,spouse,Q3765218,Yogeeta Bali
+Q39142625,Kanak Vardhan Singh Deo,father,Q63135178,Raj Raj Singh Deo
+Q39142625,Kanak Vardhan Singh Deo,spouse,Q7417918,Sangeeta Kumari Singh Deo
+Q417657,Akhilesh Yadav,father,Q2736550,Mulayam Singh Yadav
+Q417657,Akhilesh Yadav,relative,Q17072574,Aditya Yadav
+Q417657,Akhilesh Yadav,relative,Q18145581,Tej Pratap Singh Yadav
+Q417657,Akhilesh Yadav,relative,Q5269371,Dharmendra Yadav
+Q417657,Akhilesh Yadav,relative,Q7288475,Ram Gopal Yadav
+Q417657,Akhilesh Yadav,relative,Q7499421,Shivpal Singh Yadav
+Q417657,Akhilesh Yadav,spouse,Q5277786,Dimple Yadav
+Q41914,Manmohan Singh,child,Q17486484,Daman Singh
+Q41914,Manmohan Singh,child,Q4748664,Amrit Singh
+Q41914,Manmohan Singh,child,Q7898321,Upinder Singh
+Q41914,Manmohan Singh,spouse,Q5620296,Gursharan Kaur
+Q4285853,Bhartruhari Mahtab,father,Q5092244,Harekrishna Mahatab
+Q4647540,Abu Barkat Ataur Ghani Khan Choudhury,sibling,Q17402716,Rubi Noor
+Q4647540,Abu Barkat Ataur Ghani Khan Choudhury,sibling,Q4670199,Abu Hasem Khan Choudhury
+Q4648386,A. Sampath,father,Q16137205,K. Anirudhan
+Q464900,Sheila Dikshit,child,Q14475684,Sandeep Dikshit
+Q464900,Sheila Dikshit,relative,Q7881031,Uma Shankar Dikshit
+Q464932,Jaya Bachchan,child,Q187058,Abhishek Bachchan
+Q464932,Jaya Bachchan,child,Q2774229,Shweta Bachchan Nanda
+Q464932,Jaya Bachchan,father,Q61080203,Tarun Kumar Bhaduri
+Q464932,Jaya Bachchan,spouse,Q9570,Amitabh Bachchan
+Q465018,Jayaram Jayalalithaa,father,Q107159257,Jayaram Rangachar
+Q465018,Jayaram Jayalalithaa,mother,Q107159255,Veda Jayaram
+Q465863,Shabana Azmi,father,Q82066,Kaifi Azmi
+Q465863,Shabana Azmi,mother,Q7490763,Shaukat Kaifi
+Q465863,Shabana Azmi,sibling,Q4837267,Baba Azmi
+Q465863,Shabana Azmi,spouse,Q2319562,Javed Akhtar
+Q4667397,Abhijit Mukherjee,father,Q57446,Pranab Mukherjee
+Q4667397,Abhijit Mukherjee,mother,Q15734075,Suvra Mukherjee
+Q4667397,Abhijit Mukherjee,sibling,Q17411301,Sharmistha Mukherjee
+Q4670199,Abu Hasem Khan Choudhury,sibling,Q17402716,Rubi Noor
+Q4670199,Abu Hasem Khan Choudhury,sibling,Q4647540,Abu Barkat Ataur Ghani Khan Choudhury
+Q467201,Meira Kumar,father,Q1471625,Jagjivan Ram
+Q467231,Kanimozhi,child,Q107069793,Aditya Aravindan
+Q467231,Kanimozhi,father,Q470875,Muthuvel Karunanidhi
+Q467231,Kanimozhi,mother,Q107069714,Rajathi Ammal
+Q467231,Kanimozhi,sibling,Q540605,M. K. Alagiri
+Q467231,Kanimozhi,sibling,Q983475,M. K. Stalin
+Q4673984,Achyuta Samanta,sibling,Q29841194,Iti Samanta
+Q468324,Lal Krishna Advani,child,Q22320903,Jayant Advani
+Q468324,Lal Krishna Advani,child,Q7238678,Pratibha Advani
+Q468324,Lal Krishna Advani,spouse,Q22320877,Kamla Advani
+Q4699660,Ajay Singh,child,Q2815590,Arunoday Singh
+Q4699661,Ajay Singh Chautala,child,Q16890553,Dushyant Chautala
+Q4699661,Ajay Singh Chautala,father,Q3195894,Om Prakash Chautala
+Q4699661,Ajay Singh Chautala,spouse,Q21063129,Naina Singh Chautala
+Q4699789,Ajit Kumar Panja,sibling,Q21598317,Ranjit Kumar Panja
+Q4699805,Ajit Singh,child,Q6167558,Jayant Chaudhary
+Q4699805,Ajit Singh,father,Q319824,Charan Singh
+Q4700329,Akash Dasnayak,father,Q28769975,Mayadhar Nayak
+Q470875,Muthuvel Karunanidhi,child,Q106989050,Selvi Selvam
+Q470875,Muthuvel Karunanidhi,child,Q107069479,M. K. Tamilarasu
+Q470875,Muthuvel Karunanidhi,child,Q3534673,M. K. Muthu
+Q470875,Muthuvel Karunanidhi,child,Q467231,Kanimozhi
+Q470875,Muthuvel Karunanidhi,child,Q540605,M. K. Alagiri
+Q470875,Muthuvel Karunanidhi,child,Q983475,M. K. Stalin
+Q470875,Muthuvel Karunanidhi,father,Q106988947,Muthuvel M
+Q470875,Muthuvel Karunanidhi,mother,Q106988952,Anjugam Muthuvel
+Q470875,Muthuvel Karunanidhi,relative,Q3519776,Kalanithi Maran
+Q470875,Muthuvel Karunanidhi,relative,Q3523083,Dayanidhi Maran
+Q470875,Muthuvel Karunanidhi,relative,Q3523458,Murasoli Maran
+Q470875,Muthuvel Karunanidhi,spouse,Q106989056,Dayalu Ammal
+Q470875,Muthuvel Karunanidhi,spouse,Q107069714,Rajathi Ammal
+Q470875,Muthuvel Karunanidhi,spouse,Q107069736,Padmavathi Karunanidhi
+Q4746875,Amit Shah,child,Q85770988,Jay Shah
+Q4746875,Amit Shah,spouse,Q102201570,Sonal Shah
+Q4751386,Ananga Udaya Singh Deo,child,Q16206723,Arkesh Singh Deo
+Q4751386,Ananga Udaya Singh Deo,child,Q6352693,Kalikesh Narayan Singh Deo
+Q4751386,Ananga Udaya Singh Deo,father,Q5092831,Rajendra Narayan Singh Deo
+Q4751386,Ananga Udaya Singh Deo,sibling,Q63135178,Raj Raj Singh Deo
+Q47528409,Sajda Ahmed,spouse,Q7636617,Sultan Ahmed
+Q4770056,Anoop Jacob,father,Q7668490,T. M. Jacob
+Q4777709,Anubhav Mohanty,spouse,Q4864991,Barsha Priyadarshini
+Q4777851,Anupriya Patel,father,Q7560922,Sone Lal Patel
+Q4777851,Anupriya Patel,spouse,Q53567770,Ashish Singh Patel
+Q4777895,Anurag Thakur,father,Q3520354,Prem Kumar Dhumal
+Q47854,Pratibha Patil,child,Q18164373,Raosaheb Shekhawat
+Q47854,Pratibha Patil,spouse,Q5267565,Devisingh Ransingh Shekhawat
+Q4790607,Arijit Pasayat,father,Q41791591,Biswanath Pasayat
+Q4791555,Arjun Charan Sethi,child,Q62672197,Abhimanyu Sethi
+Q4832168,Azam Khan,child,Q28529861,Abdullah Azam Khan
+Q4843231,Baijayant Panda,father,Q17147403,Bansidhar Panda
+Q4843231,Baijayant Panda,mother,Q30273361,Ila Panda
+Q4843231,Baijayant Panda,spouse,Q47513709,Jagi Mangat Panda
+Q4851004,Baliram Kashyap,child,Q16194629,Dinesh Kashyap
+Q4902138,Bhuma Nagi Reddy,child,Q106916499,Bhuma Akhila Priya
+Q4902138,Bhuma Nagi Reddy,child,Q106916514,Bhuma Naga Mounika
+Q4902138,Bhuma Nagi Reddy,child,Q106916516,Bhuma Jagat Vikhyat Reddy
+Q4902138,Bhuma Nagi Reddy,mother,Q106916519,Easwari Bhuma
+Q4902138,Bhuma Nagi Reddy,spouse,Q16619869,Shobha Nagi Reddy
+Q4907275,Bijoya Chakravarty,child,Q27663792,Suman Haripriya
+Q4907442,Bikram Keshari Deo,child,Q16900559,Arka Keshari Deo
+Q4907442,Bikram Keshari Deo,child,Q63184993,Arundhati Debi
+Q4907442,Bikram Keshari Deo,father,Q42291820,Pratap Keshari Deo
+Q4907442,Bikram Keshari Deo,relative,Q15724290,Dibyasingha Deba
+Q4907442,Bikram Keshari Deo,relative,Q6355306,Kamakhya Prasad Singh Deo
+Q4907442,Bikram Keshari Deo,sibling,Q61717576,Udit Pratap Deo
+Q4907442,Bikram Keshari Deo,sibling,Q63185027,Krishna Devi
+Q4907442,Bikram Keshari Deo,spouse,Q63184990,Nayanshree Devi
+Q4948854,Botsa Jhansi Lakshmi,spouse,Q4948855,Botsa Satyanarayana
+Q4967969,Brij Bhushan Sharan Singh,spouse,Q15940996,Ketki Devi Singh
+Q5071486,Chandresh Kumari,father,Q15998242,Hanwant Singh
+Q5071486,Chandresh Kumari,mother,Q6437450,Krishna Kumari
+Q5071486,Chandresh Kumari,sibling,Q5517518,Gaj Singh
+Q5091883,Hemananda Biswal,child,Q62377809,Sunita Biswal
+Q5091883,Hemananda Biswal,child,Q62605267,Amita Biswal
+Q5162596,Conrad Sangma,father,Q2741772,P. A. Sangma
+Q5162596,Conrad Sangma,sibling,Q15978423,James Sangma
+Q5162596,Conrad Sangma,sibling,Q2600379,Agatha Sangma
+Q5203796,D. Ramanaidu,child,Q5208548,Daggubati Suresh Babu
+Q5203796,D. Ramanaidu,child,Q5208551,Venkatesh Daggubati
+Q5203796,D. Ramanaidu,child,Q62567266,Lakshmi Daggubati
+Q5203796,D. Ramanaidu,spouse,Q62567523,Daggubati Rajeswari
+Q5208549,Daggubati Purandeswari,father,Q2646553,N. T. Rama Rao
+Q5208549,Daggubati Purandeswari,sibling,Q6963169,Nandamuri Balakrishna
+Q5208549,Daggubati Purandeswari,sibling,Q6963171,Nandamuri Harikrishna
+Q5208549,Daggubati Purandeswari,spouse,Q5208550,Daggubati Venkateswara Rao
+Q5248055,Debendra Pradhan,child,Q5269370,Dharmendra Pradhan
+Q5250462,Deepa Dasmunsi,spouse,Q3347275,Priya Ranjan Dasmunsi
+Q5250584,Deepender Singh Hooda,father,Q3523063,Bhupinder Singh Hooda
+Q5269370,Dharmendra Pradhan,father,Q5248055,Debendra Pradhan
+Q5269371,Dharmendra Yadav,father,Q62579271,Abhay Ram Singh Yadav
+Q52712702,Ruchi Ghanashyam,spouse,Q4699847,Ajjampur Rangaiah Ghanashyam
+Q5276384,Digvijay Singh,spouse,Q7262512,Putul Kumari
+Q5276815,Dilip Singh Judeo,child,Q65030991,Yudhvir Singh Judev
+Q5277786,Dimple Yadav,spouse,Q417657,Akhilesh Yadav
+Q5279668,Dip Gogoi,sibling,Q3349343,Tarun Gogoi
+Q5279689,Dipak Misra,father,Q105693220,Raghunatha Mishra
+Q5279689,Dipak Misra,relative,Q12448533,Ranganath Mishra
+Q5285012,Diya Kumari,child,Q5854217,Padmanabh Singh
+Q5285012,Diya Kumari,child,Q78223753,Princess Gauravi Kumari of Jaipur
+Q5285012,Diya Kumari,father,Q854922,Bhawani Singh
+Q5316897,Dushyant Singh,mother,Q2997305,Vasundhara Raje
+Q540605,M. K. Alagiri,child,Q5243064,Dayanidhi Azhagiri
+Q540605,M. K. Alagiri,father,Q470875,Muthuvel Karunanidhi
+Q540605,M. K. Alagiri,sibling,Q467231,Kanimozhi
+Q540605,M. K. Alagiri,sibling,Q983475,M. K. Stalin
+Q5512311,G. Karthikeyan,child,Q20716260,K. S. Sabarinathan
+Q5512311,G. Karthikeyan,relative,Q105988314,Divya S. Iyer
+Q5512543,G. Vivekanand,father,Q3764490,G. Venkatswamy
+Q55406,Shyam Benegal,relative,Q149136,Guru Dutt
+Q55406,Shyam Benegal,relative,Q55647621,Atma Ram
+Q55406,Shyam Benegal,relative,Q6480386,Lalita Lajmi
+Q561812,Chiranjeev Rao,child,Q101139897,××××××
+Q561812,Chiranjeev Rao,child,Q14317045,Tejashwi Yadav
+Q561812,Chiranjeev Rao,child,Q21516723,Tej Pratap Yadav
+Q561812,Chiranjeev Rao,child,Q22572409,Misa Bharati Devi
+Q561812,Chiranjeev Rao,child,Q22572414,Rohini Devi
+Q561812,Chiranjeev Rao,child,Q25231308,Raj Lakshmi Yadav
+Q561812,Chiranjeev Rao,relative,Q7397883,Sadhu Yadav
+Q561812,Chiranjeev Rao,relative,Q7631238,Subhash Prasad Yadav
+Q561812,Chiranjeev Rao,relative,Q93303139,G.Chiranjeev Rao
+Q561812,Chiranjeev Rao,spouse,Q3503625,"Anuppur, Madhya Pradesh"
+Q5628624,H. Vasanthakumar,child,Q7929215,Vijay Vasanth
+Q5628624,H. Vasanthakumar,sibling,Q6443604,Kumari Ananthan
+Q5655835,Hardeep Singh Puri,spouse,Q6479913,Lakshmi Puri
+Q57446,Pranab Mukherjee,child,Q17411301,Sharmistha Mukherjee
+Q57446,Pranab Mukherjee,child,Q4667397,Abhijit Mukherjee
+Q57446,Pranab Mukherjee,spouse,Q15734075,Suvra Mukherjee
+Q5765114,Himanta Biswa Sarma,spouse,Q108555649,Riniki Bhuyan Sharma
+Q59155,Arvind Kejriwal,spouse,Q22687803,Sunita Kejriwal
+Q6036905,Ram Vilas Paswan,child,Q16728004,Chirag Paswan
+Q6036905,Ram Vilas Paswan,sibling,Q28227517,Pashupati Kumar Paras
+Q6036905,Ram Vilas Paswan,sibling,Q7288447,Ram Chandra Paswan
+Q6061749,T. V. Rajeswar,child,Q13587355,Sujatha Singh
+Q61053332,Chaitanya Prasad Majhi,child,Q18648989,Sarojini Hembram
+Q61487419,Debashish Samantaray,father,Q61686073,Nityananda Samntaray
+Q61487422,Usha Devi,relative,Q61717567,Satchidananda Deo
+Q61488585,Bed Prakash Agarawalla,spouse,Q88568492,Sabitri Agarwalla
+Q61488588,Bhagaban Kanhar,father,Q61715921,Sadananda Konhar
+Q61488634,Dambarudhara Ulaka,father,Q110871867,Syamaghana Ulaka
+Q61488636,Damodara Rout,child,Q63994641,Sambit Routray
+Q61488754,Padmanabh Behera,spouse,Q61575066,Bishnu Priya Behera
+Q61488757,Parsuram Panigrahi,child,Q61510045,Jyoti Prakash Panigrahi
+Q61488762,Prafulla Majhi,relative,Q61556036,Gajadhar Majhi
+Q61488768,Prafulla Chandra Ghadai,child,Q61488811,Pritiranjan Gharai
+Q61488795,Pravat Ranjan Biswal,child,Q62556399,Souvic Biswal
+Q61488811,Pritiranjan Gharai,father,Q61488768,Prafulla Chandra Ghadai
+Q61488811,Pritiranjan Gharai,spouse,Q29317087,Jhillik Bhattacharya
+Q61488819,Puspendra Singh Deo,father,Q61717530,Chandrabhanu Singh Deo
+Q61488819,Puspendra Singh Deo,mother,Q61575150,Roshni Singh Deo
+Q61488912,Siddharth Sekhar Singh,father,Q61650243,Bibhuti Bhusan Singh Mardaraj
+Q61488924,Subal Sahu,spouse,Q61510170,Rita Sahu
+Q61509984,Bedabyasa Nayak,father,Q61556078,Niladri Nayak
+Q61509992,Bibhuti Bhusan Harichandan,sibling,Q61556023,Biswabhusan Harichandan
+Q61510000,Debesh Acharya,father,Q61555990,Ananda Acharya
+Q61510000,Debesh Acharya,relative,Q20829520,Krutartha Acharya
+Q61510000,Debesh Acharya,relative,Q7238453,Prasanna Acharya
+Q61510059,Krishna Chandra Sagaria,spouse,Q64153761,Anita Sagaria
+Q61510081,Muktikanta Mandal,spouse,Q62559369,Manjulata Mandal
+Q61510092,Nitesh Gangadeb,father,Q61650292,Pradipta Gangdev
+Q61510092,Nitesh Gangadeb,relative,Q16900559,Arka Keshari Deo
+Q61510092,Nitesh Gangadeb,spouse,Q63184993,Arundhati Debi
+Q61510107,Prafulla Kumar Pangi,sibling,Q16186825,Jayaram Pangi
+Q61510117,Pranab Kumar Balabantaray,father,Q15844979,Kalpataru Das
+Q61510124,Priyadarshi Mishra,relative,Q7238462,Prasanna Kumar Patasani
+Q61510124,Priyadarshi Mishra,spouse,Q62568345,Rosalin Patasani Mishra
+Q61510168,Raseswari Panigrahi,sibling,Q7586349,Shriballav Panigrahi
+Q61510170,Rita Sahu,spouse,Q61488924,Subal Sahu
+Q61510216,Trinath Gomango,relative,Q5091746,Giridhar Gomango
+Q61510216,Trinath Gomango,sibling,Q15955910,Hema Gomang
+Q61510222,Tukuni Sahu,spouse,Q64153844,Abhimanyu Sahu
+Q61555990,Ananda Acharya,child,Q61510000,Debesh Acharya
+Q61555990,Ananda Acharya,father,Q20829520,Krutartha Acharya
+Q61555990,Ananda Acharya,sibling,Q7238453,Prasanna Acharya
+Q61555991,Ananta Prasad Sethi,child,Q61650279,Kumar Shree Chiranjibi
+Q61555991,Ananta Prasad Sethi,child,Q62581190,Madhusmita Sethi
+Q61555994,Anantaram Majhi,child,Q61556097,Purna Chandra Majhi
+Q61556023,Biswabhusan Harichandan,child,Q62567945,Pruthwiraj Harichandan
+Q61556023,Biswabhusan Harichandan,sibling,Q61509992,Bibhuti Bhusan Harichandan
+Q61556036,Gajadhar Majhi,relative,Q61488762,Prafulla Majhi
+Q61556045,Jayadev Jena,child,Q63999140,Sangram Keshari Jena
+Q61556050,Kartik Mahapatra,spouse,Q61650265,Indurani Mohapatra
+Q61556053,Kishore Chandra Singh Deo,father,Q61650236,Ananta Narayan Singh Deo
+Q61556053,Kishore Chandra Singh Deo,mother,Q61652359,Shanti Devi
+Q61556053,Kishore Chandra Singh Deo,spouse,Q27057843,Nandini Devi
+Q61556078,Niladri Nayak,child,Q61509984,Bedabyasa Nayak
+Q61556097,Purna Chandra Majhi,father,Q61555994,Anantaram Majhi
+Q61556131,Shankarsan Naik,spouse,Q61556140,Sushama Patel
+Q61556140,Sushama Patel,spouse,Q61556131,Shankarsan Naik
+Q61575048,Bhagabat Behera,spouse,Q61575101,Mandakini Behera
+Q61575066,Bishnu Priya Behera,spouse,Q61488754,Padmanabh Behera
+Q61575099,Manas Ranjan Mallik,father,Q61652306,Hrudananda Mallick
+Q61575099,Manas Ranjan Mallik,sibling,Q62598192,Sanjeev Mallick
+Q61575101,Mandakini Behera,spouse,Q61575048,Bhagabat Behera
+Q61575128,Ram Krushna Patnaik,child,Q62397112,Anita Subhadarshini
+Q61575128,Ram Krushna Patnaik,spouse,Q21176436,Kumudini Patnaik
+Q61575150,Roshni Singh Deo,child,Q61488819,Puspendra Singh Deo
+Q61575150,Roshni Singh Deo,spouse,Q61717530,Chandrabhanu Singh Deo
+Q61575178,Suresh Kumar Routray,child,Q62608587,Snehashree Harichandan
+Q61575178,Suresh Kumar Routray,relative,Q18640288,Prasad Kumar Harichandan
+Q6159584,Jarbom Gamlin,spouse,Q24906414,Shakuntala Gamlin
+Q6166629,Jayadev Galla,father,Q7288693,Ramachandra Naidu Galla
+Q6166629,Jayadev Galla,mother,Q4802164,Aruna Kumari Galla
+Q6166629,Jayadev Galla,sibling,Q15699733,Ghattamaneni Ramesh Babu
+Q6166629,Jayadev Galla,sibling,Q6750446,Manjula Ghattamaneni
+Q6167558,Jayant Chaudhary,father,Q4699805,Ajit Singh
+Q6167685,Jayasudha,sibling,Q7631262,Subhashini
+Q6167685,Jayasudha,spouse,Q7041301,Nitin Kapoor
+Q6191080,Jhina Hikaka,spouse,Q62605376,Kaushalya Hikaka
+Q62559369,Manjulata Mandal,spouse,Q61510081,Muktikanta Mandal
+Q62662902,Chandrani Murmu,relative,Q47450805,Harihar Soren
+Q62773778,Nakul Nath,father,Q1287413,Kamal Nath
+Q62773778,Nakul Nath,mother,Q15940986,Alka Nath
+Q6279404,Jose K. Mani,father,Q6323584,K. M. Mani
+Q63079548,Saptagiri Shankar Ulaka,father,Q15725132,Ulaka Rama Chandra
+Q63079548,Saptagiri Shankar Ulaka,mother,Q63079572,Ratnamani Ulaka
+Q63107416,Prajwal Revanna,father,Q5628154,H. D. Revanna
+Q6319418,Jyoti Mirdha,spouse,Q106674512,Shri Narender Gehlaut
+Q6323498,K. Kavitha,father,Q33168,K. Chandrashekar Rao
+Q6323498,K. Kavitha,sibling,Q25748324,K. T. Rama Rao
+Q6323584,K. M. Mani,child,Q6279404,Jose K. Mani
+Q6323727,K. P. Mohanan,father,Q21151521,P. R. Kurup
+Q6347927,Kailash Vijayvargiya,child,Q59782208,Akash Vijayvargiya
+Q6349597,Kakoli Ghosh Dastidar,spouse,Q7633455,Sudarshan Ghosh Dastidar
+Q6352693,Kalikesh Narayan Singh Deo,father,Q4751386,Ananga Udaya Singh Deo
+Q6352693,Kalikesh Narayan Singh Deo,sibling,Q16206723,Arkesh Singh Deo
+Q6355306,Kamakhya Prasad Singh Deo,father,Q63406775,Shankar Pratap Singhdeo
+Q6355306,Kamakhya Prasad Singh Deo,mother,Q63406722,Ratnaprava Devi
+Q6355306,Kamakhya Prasad Singh Deo,relative,Q4907442,Bikram Keshari Deo
+Q6355306,Kamakhya Prasad Singh Deo,relative,Q61717576,Udit Pratap Deo
+Q6355306,Kamakhya Prasad Singh Deo,spouse,Q63185027,Krishna Devi
+Q6365721,Kanwal Sibal,father,Q24578742,Hira Lall Sibal
+Q63992931,Shantanu Thakur,father,Q6738494,Manjul Krishna Thakur
+Q63993592,B. N. Bache Gowda,child,Q63993621,Sharath Kumar Bachegowda
+Q64003223,Chunibala Hansda,child,Q61776706,Birbaha Hansda
+Q64003223,Chunibala Hansda,spouse,Q81399828,Naren Hansda
+Q64005634,Shardaben Patel,spouse,Q4764691,Anilkumar Patel
+Q64141260,Ashok Kumar Yadav,father,Q16105255,Hukmdev Narayan Yadav
+Q6437529,Krishnam Raju,sibling,Q23833018,Uppalapati Surya Narayana Raju
+Q6442875,Kuldeep Bishnoi,child,Q106705891,Sia Bishnoi
+Q6442875,Kuldeep Bishnoi,child,Q21620882,Chaitanya Bishnoi
+Q6442875,Kuldeep Bishnoi,child,Q63860325,Bhavya Bishnoi
+Q6442875,Kuldeep Bishnoi,father,Q4900831,Bhajan Lal
+Q6442875,Kuldeep Bishnoi,sibling,Q5071011,Chander Mohan
+Q6442875,Kuldeep Bishnoi,spouse,Q20090300,Renuka Bishnoi
+Q64590509,Madan Mohan Dutta,child,Q100284924,Manas Kumar Dutta
+Q6480368,Lalit Mansingh,father,Q5885192,Mayadhar Mansingh
+Q6480368,Lalit Mansingh,mother,Q61023353,Hemalata Mansingh
+Q6480368,Lalit Mansingh,spouse,Q7560756,Sonal Mansingh
+Q6480433,Lalji Tandon,child,Q28794086,Ashutosh Tandon
+Q66459265,Kathir Anand,father,Q5316137,Durai Murugan
+Q6712766,M. K. Muneer,father,Q5006501,C. H. Mohammed Koya
+Q6726422,Madan Prasad Jaiswal,child,Q7418438,Sanjay Jaiswal
+Q6733859,Mahesh Kumar Kanodia,sibling,Q6965830,Naresh Kanodia
+Q6749904,Manish Tewari,mother,Q24934708,Amrit Tewari
+Q6794023,Mausam Noor,mother,Q17402716,Rubi Noor
+Q6794023,Mausam Noor,spouse,Q87961185,Mirza Kayesh Begg
+Q6796738,Maya Singh,spouse,Q93702809,Dhyanendra Singh
+Q6807594,Meena Singh,spouse,Q4699785,Ajit Kumar Singh
+Q6809265,Mehbooba Mufti,father,Q6095720,Mufti Mohammad Sayeed
+Q6809265,Mehbooba Mufti,sibling,Q62747989,Tassaduq Hussain
+Q6933652,Mukul Wasnik,father,Q59305653,Balkrishna Ramchandra Wasnik
+Q6960784,Nalamada Uttam Kumar Reddy,spouse,Q23887623,Nalamada Padmavathi Reddy
+Q6963171,Nandamuri Harikrishna,child,Q3498996,N. T. Rama Rao Jr.
+Q6963171,Nandamuri Harikrishna,child,Q6963172,Nandamuri Kalyan Ram
+Q6963171,Nandamuri Harikrishna,father,Q2646553,N. T. Rama Rao
+Q6963171,Nandamuri Harikrishna,sibling,Q5208549,Daggubati Purandeswari
+Q6963171,Nandamuri Harikrishna,sibling,Q6963169,Nandamuri Balakrishna
+Q6965444,Narasingha Mishra,child,Q62376717,Samarendra Mishra
+Q6965444,Narasingha Mishra,father,Q61944557,Yudhishthir Misra
+Q6982575,Navtej Sarna,father,Q25876107,Mohinder Singh Sarna
+Q6986878,Neena Verma,spouse,Q15135821,Vikram Verma
+Q7039898,Niranjan Patnaik,child,Q62580799,Navajyoti Patnaik
+Q7039898,Niranjan Patnaik,sibling,Q15725391,Soumya Ranjan Patnaik
+Q7039898,Niranjan Patnaik,sibling,Q17581452,Amiya Ranjan Patnaik
+Q7040049,Nirmala Sitharaman,spouse,Q17386575,Parakala Prabhakar
+Q7072165,O. Rajagopal,child,Q7505974,Shyamaprasad
+Q7077154,Naveen Jindal,father,Q260004,O. P. Jindal
+Q7077154,Naveen Jindal,mother,Q541662,Savitri Jindal
+Q7077154,Naveen Jindal,sibling,Q16730305,Prithviraj Jindal
+Q7077154,Naveen Jindal,sibling,Q7295449,Ratan Jindal
+Q7077154,Naveen Jindal,sibling,Q7402688,Sajjan Jindal
+Q7117171,P. C. Thomas,father,Q7117565,P. T. Chacko
+Q7117346,P. K. Abdu Rabb,father,Q6323104,K. Avukader Kutty Naha
+Q7117388,P. Karunakaran,spouse,Q16934599,Laila Gopalan
+Q7121263,P. K. Basheer,father,Q99688884,P. Seethi Haji
+Q7133113,Pappu Yadav,spouse,Q7293123,Ranjeet Ranjan
+Q7194808,Pinaki Misra,father,Q18912880,Lokanath Misra
+Q7199798,Piyush Goyal,father,Q7917878,Ved Prakash Goyal
+Q72192354,Prince Raj,father,Q7288447,Ram Chandra Paswan
+Q7228700,Poonam Mahajan Rao,father,Q7238271,Pramod Mahajan
+Q7228700,Poonam Mahajan Rao,sibling,Q7283602,Rahul Mahajan
+Q7238178,Prakash Javadekar,spouse,Q17306076,Prachee Prakash Javadekar
+Q7238453,Prasanna Acharya,father,Q20829520,Krutartha Acharya
+Q7238453,Prasanna Acharya,relative,Q61510000,Debesh Acharya
+Q7238453,Prasanna Acharya,sibling,Q61555990,Ananda Acharya
+Q7238462,Prasanna Kumar Patasani,child,Q62568345,Rosalin Patasani Mishra
+Q7238462,Prasanna Kumar Patasani,relative,Q61510124,Priyadarshi Mishra
+Q7238597,Pratap Singh Bajwa,spouse,Q16197713,Charanjit Kaur Bajwa
+Q7238683,Pratibha Singh,spouse,Q777478,Virbhadra Singh
+Q7240540,Preneet Kaur,child,Q7293062,Raninder Singh
+Q7240540,Preneet Kaur,spouse,Q3633236,Amarinder Singh
+Q7246465,Priya Dutt,father,Q377903,Sunil Dutt
+Q7246465,Priya Dutt,mother,Q159169,Nargis
+Q7246465,Priya Dutt,sibling,Q310867,Sanjay Dutt
+Q7262512,Putul Kumari,spouse,Q5276384,Digvijay Singh
+Q7273492,R. Bindu,spouse,Q4648490,A. Vijayaraghavan
+Q7273899,R. P. N. Singh,spouse,Q16226424,Sonia Singh
+Q7285321,Raj Kumari Chauhan,child,Q16232429,Arvind Kumar Singh
+Q7285321,Raj Kumari Chauhan,spouse,Q16737006,Thakur Jaivir Singh
+Q7286042,Rajendrasinh Ghanshyamsinh Rana,relative,Q7387791,S. R. Rana
+Q7286080,Rajesh Pilot,child,Q314351,Sachin Pilot
+Q7288447,Ram Chandra Paswan,child,Q72192354,Prince Raj
+Q7288447,Ram Chandra Paswan,relative,Q16728004,Chirag Paswan
+Q7288447,Ram Chandra Paswan,sibling,Q28227517,Pashupati Kumar Paras
+Q7288447,Ram Chandra Paswan,sibling,Q6036905,Ram Vilas Paswan
+Q7288475,Ram Gopal Yadav,child,Q16902075,Akshay Yadav
+Q7288475,Ram Gopal Yadav,sibling,Q2736550,Mulayam Singh Yadav
+Q7288475,Ram Gopal Yadav,sibling,Q7499421,Shivpal Singh Yadav
+Q7289389,Ramesh Chandra Majhi,sibling,Q63220680,Prakash Majhi
+Q7292542,Ranee Narah,spouse,Q27663837,Bharat Narah
+Q7293123,Ranjeet Ranjan,spouse,Q7133113,Pappu Yadav
+Q7293136,Ranjib Biswal,father,Q23891552,Basant Kumar Biswal
+Q7293136,Ranjib Biswal,sibling,Q18062107,Chiranjib Biswal
+Q7295830,Ratna De,father,Q16888917,Gopal Das Nag
+Q7296641,Ravi Kishan,child,Q68791676,Riva Kishan
+Q7317733,Anumula Revanth Reddy,child,Q109465819,Nymisha Reddy Anumula
+Q7336472,Rita Bahuguna Joshi,father,Q5712859,Hemwati Nandan Bahuguna
+Q7336472,Rita Bahuguna Joshi,mother,Q19805480,Kamala Bahuguna
+Q7336472,Rita Bahuguna Joshi,sibling,Q1338044,Vijay Bahuguna
+Q7379115,Ruma Pal,sibling,Q4802249,Arundhati Ghose
+Q7379115,Ruma Pal,sibling,Q82727861,Bhaskar Ghose
+Q7379115,Ruma Pal,spouse,Q16734030,Samaraditya Pal
+Q7380215,Rupatai Patil Nilangekar,father,Q7406368,Shivajirao Patil Nilangekar
+Q7417918,Sangeeta Kumari Singh Deo,spouse,Q39142625,Kanak Vardhan Singh Deo
+Q7418417,Sanjay Bhoi,father,Q16707873,Krupasindhu Bhoi
+Q7418438,Sanjay Jaiswal,father,Q6726422,Madan Prasad Jaiswal
+Q7418480,Sanjay Singh Chauhan,father,Q5088081,Chaudhary Narain Singh
+Q7423687,Buta Singh,child,Q18763826,Arvinder Singh Lovely
+Q7426439,Satpal Maharaj,sibling,Q965199,Prem Rawat
+Q7426439,Satpal Maharaj,spouse,Q23771845,Amrita Rawat
+Q7427196,Saugata Roy,sibling,Q7688028,Tathagata Roy
+Q7445880,Seema Upadhyay,spouse,Q21932048,Ramveer Upadhyay
+Q7489368,Sharad Yadav,child,Q100400651,Subhashini Raj Rao
+Q7496081,Shibu Baby John,father,Q4838347,Baby John
+Q7505951,Shyama Charan Gupta,spouse,Q17305988,Jamunotri Gupta
+Q7505952,Shyama Charan Shukla,child,Q106705824,Uma Tiwari
+Q7505952,Shyama Charan Shukla,child,Q16145817,Amitesh Shukla
+Q7505952,Shyama Charan Shukla,father,Q7296782,Ravishankar Shukla
+Q7505952,Shyama Charan Shukla,sibling,Q7928167,Vidya Charan Shukla
+Q7508087,Siddhanta Mahapatra,spouse,Q29639636,Mama Mishra
+Q7530834,Sisir Adhikari,child,Q104626849,Soumendu Adhikari
+Q7530834,Sisir Adhikari,child,Q27947641,Dibyendu Adhikari
+Q7530834,Sisir Adhikari,child,Q7650495,Suvendu Adhikari
+Q7546539,Smriti Irani,spouse,Q58174096,Zubin Irani
+Q7586387,Srikantadatta Narasimharaja Wadiyar,child,Q19507278,Yaduveer Krishnadatta Chamaraja Wadiyar
+Q7586387,Srikantadatta Narasimharaja Wadiyar,father,Q1391321,Jayachamarajendra Wadiyar
+Q7586387,Srikantadatta Narasimharaja Wadiyar,mother,Q7843872,Tripura Sundari Ammani
+Q7631907,Subrata Bose,father,Q4094983,Sarat Chandra Bose
+Q7635065,Sugata Bose,father,Q16005989,Sisir Kumar Bose
+Q7635065,Sugata Bose,mother,Q15730377,Krishna Bose
+Q7635065,Sugata Bose,sibling,Q7424307,Sarmila Bose
+Q7635065,Sugata Bose,sibling,Q7636959,Sumantra Bose
+Q7635786,Sukhbir Singh Badal,father,Q1686500,Parkash Singh Badal
+Q7635786,Sukhbir Singh Badal,sibling,Q63066638,Parneet Kaur
+Q7635786,Sukhbir Singh Badal,spouse,Q16154549,Harsimrat Kaur Badal
+Q7636617,Sultan Ahmed,spouse,Q47528409,Sajda Ahmed
+Q7645148,Supriya Sule,father,Q982813,Sharad Pawar
+Q7649141,Susmita Bauri,mother,Q15941049,Sandhya Bauri
+Q7650495,Suvendu Adhikari,father,Q7530834,Sisir Adhikari
+Q7650495,Suvendu Adhikari,sibling,Q104626849,Soumendu Adhikari
+Q7650495,Suvendu Adhikari,sibling,Q27947641,Dibyendu Adhikari
+Q7668490,T. M. Jacob,child,Q4770056,Anoop Jacob
+Q7684462,Tapas Paul,child,Q7554715,Sohini Paul
+Q7688028,Tathagata Roy,sibling,Q7427196,Saugata Roy
+Q7688029,Tathagata Satapathy,mother,Q467189,Nandini Satpathy
+Q777478,Virbhadra Singh,child,Q56645967,Abhilasha Kumari
+Q777478,Virbhadra Singh,spouse,Q7238683,Pratibha Singh
+Q7851858,Tukoji Rao Pawar,father,Q6437528,Krishnajirao III
+Q7856746,Tushar Amarsinh Chaudhary,father,Q2722486,Amarsinh Chaudhary
+Q7908735,Vaiko,child,Q20751384,Durai Vaiyapuri
+Q7929323,Vijaysingh Mohite-Patil,child,Q7293189,Ranjitsinh Mohite-Patil
+Q7933688,Viren J. Shah,father,Q41751666,Jeewanlal Motichand Shah
+Q7936029,Maharaja Vishvendra Singh,father,Q4967989,Brijendra Singh
+Q7936029,Maharaja Vishvendra Singh,spouse,Q15941003,Maharani Divya Singh
+Q795241,B. S. Yeddyurappa,child,Q24037,B. Y. Raghavendra
+Q799689,Badruddin Ajmal,child,Q107089414,Abdur Rehman Ajmal
+Q799689,Badruddin Ajmal,child,Q27663847,Abdur Rahim Ajmal
+Q80189102,P. A. Mohammed Riyas,relative,Q3595385,Pinarayi Vijayan
+Q8049755,Yashodhara Raje Scindia,father,Q3760549,George Jivajirao Scindia
+Q8049755,Yashodhara Raje Scindia,mother,Q1452301,Vijayaraje Scindia
+Q8049755,Yashodhara Raje Scindia,sibling,Q1854649,Madhavrao Scindia
+Q8049755,Yashodhara Raje Scindia,sibling,Q2997305,Vasundhara Raje
+Q88568492,Sabitri Agarwalla,spouse,Q61488585,Bed Prakash Agarawalla
+Q92140142,Pravat Chowdhury,sibling,Q16902163,Jitendra Chaudhury
+Q944546,Sunny Deol,child,Q44726445,Karan Deol
+Q944546,Sunny Deol,father,Q379157,Dharmendra
+Q944546,Sunny Deol,sibling,Q4694945,Ahana Deol
+Q944546,Sunny Deol,sibling,Q48619,Bobby Deol
+Q944546,Sunny Deol,sibling,Q48622,Esha Deol
+Q9488,Sachin,child,Q22327435,Sara Tendulkar
+Q9488,Sachin,child,Q22327439,Arjun Tendulkar
+Q9488,Sachin,father,Q24906003,Ramesh Tendulkar
+Q9488,Sachin,spouse,Q22327426,Anjali Tendulkar
+Q98108920,Shyamal Chakraborty,child,Q7901910,Ushasie Chakraborty
+Q982813,Sharad Pawar,child,Q7645148,Supriya Sule
+Q982813,Sharad Pawar,sibling,Q64128367,Anantrao Pawar
+Q982817,Vilasrao Deshmukh,child,Q16197755,Dhiraj Deshmukh
+Q982817,Vilasrao Deshmukh,child,Q4746839,Amit Deshmukh
+Q982817,Vilasrao Deshmukh,child,Q738291,Riteish Deshmukh
+Q983475,M. K. Stalin,child,Q3524779,Udhayanidhi Stalin
+Q983475,M. K. Stalin,father,Q470875,Muthuvel Karunanidhi
+Q983475,M. K. Stalin,mother,Q19547618,தயாளு அம்மாள்
+Q983475,M. K. Stalin,sibling,Q467231,Kanimozhi
+Q983475,M. K. Stalin,sibling,Q540605,M. K. Alagiri
+Q983744,Krishan Kant,father,Q17068360,Lala Achint Ram
+Q983744,Krishan Kant,mother,Q17403706,Satyavati Devi
