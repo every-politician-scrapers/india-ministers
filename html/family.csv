@@ -149,8 +149,8 @@ Q18062107,Chiranjib Biswal,father,Q23891552,Basant Kumar Biswal
 Q18062107,Chiranjib Biswal,sibling,Q7293136,Ranjib Biswal
 Q18145581,Tej Pratap Singh Yadav,father,Q62579150,Ranveer Singh Yadav
 Q18145581,Tej Pratap Singh Yadav,mother,Q62744052,Mridula Yadav
-Q18145581,Tej Pratap Singh Yadav,relative,Q3503625,"Anuppur, Madhya Pradesh"
-Q18145581,Tej Pratap Singh Yadav,relative,Q561812,Chiranjeev Rao
+Q18145581,Tej Pratap Singh Yadav,relative,Q3503625,Rabri Devi
+Q18145581,Tej Pratap Singh Yadav,relative,Q561812,Lalu Prasad Yadav
 Q18145581,Tej Pratap Singh Yadav,spouse,Q25231308,Raj Lakshmi Yadav
 Q18216864,Jaivardhan Singh,father,Q3520250,Digvijaya Singh
 Q18325951,Pratyusha Rajeshwari Singh,spouse,Q16901254,Hemendra Chandra Singh
@@ -319,15 +319,15 @@ Q33635,Hema Malini,child,Q48622,Esha Deol
 Q33635,Hema Malini,spouse,Q379157,Dharmendra
 Q3382907,Madhu Koda,spouse,Q16956874,Geeta Koda
 Q3497331,Balram Jakhar,child,Q19662756,Sunil Jakhar
-Q3503625,"Anuppur, Madhya Pradesh",child,Q101139897,××××××
-Q3503625,"Anuppur, Madhya Pradesh",child,Q14317045,Tejashwi Yadav
-Q3503625,"Anuppur, Madhya Pradesh",child,Q21516723,Tej Pratap Yadav
-Q3503625,"Anuppur, Madhya Pradesh",child,Q22572409,Misa Bharati Devi
-Q3503625,"Anuppur, Madhya Pradesh",child,Q25231308,Raj Lakshmi Yadav
-Q3503625,"Anuppur, Madhya Pradesh",relative,Q93303139,G.Chiranjeev Rao
-Q3503625,"Anuppur, Madhya Pradesh",sibling,Q7397883,Sadhu Yadav
-Q3503625,"Anuppur, Madhya Pradesh",sibling,Q7631238,Subhash Prasad Yadav
-Q3503625,"Anuppur, Madhya Pradesh",spouse,Q561812,Chiranjeev Rao
+Q3503625,Rabri Devi,child,Q101139897,Anushka Yadav
+Q3503625,Rabri Devi,child,Q14317045,Tejashwi Yadav
+Q3503625,Rabri Devi,child,Q21516723,Tej Pratap Yadav
+Q3503625,Rabri Devi,child,Q22572409,Misa Bharati Devi
+Q3503625,Rabri Devi,child,Q25231308,Raj Lakshmi Yadav
+Q3503625,Rabri Devi,relative,Q93303139,Chiranjeev Rao
+Q3503625,Rabri Devi,sibling,Q7397883,Sadhu Yadav
+Q3503625,Rabri Devi,sibling,Q7631238,Subhash Prasad Yadav
+Q3503625,Rabri Devi,spouse,Q561812,Lalu Prasad Yadav
 Q3504490,Sushilkumar Shinde,child,Q18563984,Praniti Shinde
 Q3506475,Rajnath Singh,child,Q16217622,Pankaj Singh
 Q3506475,Rajnath Singh,child,Q22320790,Neeraj Singh
@@ -575,16 +575,16 @@ Q5512543,G. Vivekanand,father,Q3764490,G. Venkatswamy
 Q55406,Shyam Benegal,relative,Q149136,Guru Dutt
 Q55406,Shyam Benegal,relative,Q55647621,Atma Ram
 Q55406,Shyam Benegal,relative,Q6480386,Lalita Lajmi
-Q561812,Chiranjeev Rao,child,Q101139897,××××××
-Q561812,Chiranjeev Rao,child,Q14317045,Tejashwi Yadav
-Q561812,Chiranjeev Rao,child,Q21516723,Tej Pratap Yadav
-Q561812,Chiranjeev Rao,child,Q22572409,Misa Bharati Devi
-Q561812,Chiranjeev Rao,child,Q22572414,Rohini Devi
-Q561812,Chiranjeev Rao,child,Q25231308,Raj Lakshmi Yadav
-Q561812,Chiranjeev Rao,relative,Q7397883,Sadhu Yadav
-Q561812,Chiranjeev Rao,relative,Q7631238,Subhash Prasad Yadav
-Q561812,Chiranjeev Rao,relative,Q93303139,G.Chiranjeev Rao
-Q561812,Chiranjeev Rao,spouse,Q3503625,"Anuppur, Madhya Pradesh"
+Q561812,Lalu Prasad Yadav,child,Q101139897,Anushka Yadav
+Q561812,Lalu Prasad Yadav,child,Q14317045,Tejashwi Yadav
+Q561812,Lalu Prasad Yadav,child,Q21516723,Tej Pratap Yadav
+Q561812,Lalu Prasad Yadav,child,Q22572409,Misa Bharati Devi
+Q561812,Lalu Prasad Yadav,child,Q22572414,Rohini Devi
+Q561812,Lalu Prasad Yadav,child,Q25231308,Raj Lakshmi Yadav
+Q561812,Lalu Prasad Yadav,relative,Q7397883,Sadhu Yadav
+Q561812,Lalu Prasad Yadav,relative,Q7631238,Subhash Prasad Yadav
+Q561812,Lalu Prasad Yadav,relative,Q93303139,Chiranjeev Rao
+Q561812,Lalu Prasad Yadav,spouse,Q3503625,Rabri Devi
 Q5628624,H. Vasanthakumar,child,Q7929215,Vijay Vasanth
 Q5628624,H. Vasanthakumar,sibling,Q6443604,Kumari Ananthan
 Q5655835,Hardeep Singh Puri,spouse,Q6479913,Lakshmi Puri
@@ -709,6 +709,7 @@ Q6442875,Kuldeep Bishnoi,father,Q4900831,Bhajan Lal
 Q6442875,Kuldeep Bishnoi,sibling,Q5071011,Chander Mohan
 Q6442875,Kuldeep Bishnoi,spouse,Q20090300,Renuka Bishnoi
 Q64590509,Madan Mohan Dutta,child,Q100284924,Manas Kumar Dutta
+Q6479913,Lakshmi Puri,spouse,Q5655835,Hardeep Singh Puri
 Q6480368,Lalit Mansingh,father,Q5885192,Mayadhar Mansingh
 Q6480368,Lalit Mansingh,mother,Q61023353,Hemalata Mansingh
 Q6480368,Lalit Mansingh,spouse,Q7560756,Sonal Mansingh
