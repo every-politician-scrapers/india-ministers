@@ -4,6 +4,25 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
+class OfficeholderNonTable < OfficeholderListBase::OfficeholderBase
+  def empty?
+    false
+  end
+
+  def combo_date?
+    true
+  end
+
+  def raw_combo_date
+    raise 'need to define a raw_combo_date'
+  end
+
+  def name_node
+    raise 'need to define a name_node'
+  end
+end
+
+
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   # decorator UnspanAllTables
@@ -18,16 +37,12 @@ class OfficeholderList < OfficeholderListBase
     noko.xpath("//h2[.//span[contains(.,'#{header_column}')]][last()]//following-sibling::ol//li[a]")
   end
 
-  class Officeholder < OfficeholderBase
-    def combo_date?
-      true
-    end
-
+  class Officeholder < OfficeholderNonTable
     def raw_combo_date
       noko.xpath('text()').text.split(',').reject { |txt| txt.include? 'acting' }.last.tidy
     end
 
-    def name_cell
+    def name_node
       noko.css('a')
     end
   end
