@@ -1,6 +1,6 @@
 {
   "name": "Venkaiah Naidu",
-  "office": "13th Vice President of India",
+  "office": "Vice President of India",
   "image": "Venkaiah Naidu official portrait.jpg",
   "caption": "Official portrait, 2017",
   "predecessor": "Mohammad Hamid Ansari",
@@ -18,10 +18,10 @@
   "successor2": "Narendra Singh Tomar",
   "birth_name": "Muppavarapu Venkaiah Naidu",
   "birth_date": "July 1, 1949",
-  "birth_place": "Chavatapalem, Province of Madras, Dominion of India (present-day Andhra Pradesh, India)",
+  "birth_place": "Chavatapalem, Madras Province, Dominion of India (present-day Andhra Pradesh, India)",
   "spouse": "Usha Naidu (m. 14 April 1970)",
   "children": "2",
-  "residence": "Vice President House, New Delhi, Delhi, India",
+  "residence": "Vice President House, New Delhi, India",
   "alma_mater": "Andhra University (LLB)",
   "website": "http://vicepresidentofindia.nic.in",
   "term_start": "11 August 2017",
@@ -61,5 +61,6 @@
   "term_start8": "1978",
   "term_end8": "1985",
   "predecessor8": "Ponneboyina Chenchuramaiah",
-  "successor8": "Mekapati Rajamohan Reddy"
+  "successor8": "Mekapati Rajamohan Reddy",
+  "order": "13th"
 }
