@@ -1,5 +1,4 @@
 {
-  "honorific-prefix": "Hon'ble the Chief Justice of India",
   "name": "N. V. Ramana",
   "image": "N. V. Ramana.jpg",
   "caption": "Ramana in 2021",
@@ -7,6 +6,8 @@
   "office": "Chief Justice of India",
   "termstart": "24 April 2021",
   "appointer": "Ram Nath Kovind",
+  "president": "Ram Nath Kovind",
+  "primeminister": "Narendra Modi",
   "predecessor": "Sharad Arvind Bobde",
   "office1": "Judge of Supreme Court of India",
   "term_start1": "17 February 2014",
@@ -31,5 +32,6 @@
   "termend4": "1 September 2013",
   "birth_name": "Nuthalapati Venkata Ramana",
   "birth_date": "August 27, 1957",
-  "birth_place": "Ponnavaram, Andhra Pradesh, India"
+  "birth_place": "Ponnavaram, Andhra Pradesh, India",
+  "residence": "5, Krishna Menon Marg, Sunehri Bagh, New Delhi, Delhi, India"
 }
