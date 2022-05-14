@@ -20,8 +20,12 @@ class OfficeholderList < OfficeholderListBase
       %w[no image name constituency start end duration assembly party].freeze
     end
 
+    def ignore_before
+      2000
+    end
+
     def empty?
-      itemLabel.include? 'Vacant'
+      itemLabel.include?('Vacant') || super
     end
   end
 end
