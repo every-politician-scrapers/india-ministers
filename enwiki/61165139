@@ -1,5 +1,7 @@
 {
   "name": "Ashwini Vaishnaw",
+  "birth_date": "July 18, 1970",
+  "birth_place": "Jodhpur, Rajasthan",
   "office": "Minister of Railways",
   "primeminister": "Narendra Modi",
   "term_start": "7 July 2021",
@@ -16,10 +18,13 @@
   "constituency3": "Odisha",
   "term_start3": "28 June 2019",
   "party": "Bharatiya Janata Party",
-  "spouse": "Sunita Vaishnav",
+  "spouse": "Sunita Vaishnav (m. 1995)",
   "children": "2",
-  "education": "B.Tech, M.Tech MBA",
+  "father": "Dau Lal Vaishnaw",
+  "mother": "Saraswati Vaishnaw",
+  "education": "B. E, M.Tech, MBA",
   "alma_mater": "Wharton School of the University of Pennsylvania\n\nIIT Kanpur\n\nM.B.M. Engineering College, Jai Narain Vyas University",
   "occupation": "Former IAS officer, Entrepreneur\nFormer Managing Director, GE Transportation\nFormer Vice President, Siemens",
-  "website": "https://ashwinivaishnaw.in"
+  "website": "https://ashwinivaishnaw.in",
+  "source": "https://rajyasabha.nic.in/rsnew/member_site/Main.aspx"
 }

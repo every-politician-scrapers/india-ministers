@@ -1,6 +1,6 @@
 {
-  "honorific-prefix": "Lt. Gen (Retd.)",
-  "honorific-suffix": "PVSM, AVSM, UYSM, VSM",
+  "honorific-prefix": "Lt. Gen",
+  "honorific-suffix": "PVSM, UYSM, AVSM, VSM| (Retd.)",
   "name": "Gurmit Singh",
   "residence": "Raj Bhavan, Dehradun",
   "office": "8th Governor of Uttarakhand",
@@ -13,6 +13,6 @@
   "term_end1": "January 2016",
   "predecessor1": "Jai Prakash Nehra (PVSM, AVSM**)",
   "successor1": "Jagbir Singh Cheema (PVSM, AVSM, VSM)",
-  "awards": "Param Vishisht Seva Medal ribbon.svg Param Vishisht Seva Medal\nAti Vishisht Seva Medal ribbon.svg Ati Vishisht Seva Medal\nUttam Yudh Seva Medal ribbon.svg Uttam Yudh Seva Medal\nVishisht Seva Medal ribbon.svgsht Seva Medal",
+  "awards": "Param Vishisht Seva Medal ribbon.svg Param Vishisht Seva Medal\nUttam Yudh Seva Medal ribbon.svg Uttam Yudh Seva Medal\nAti Vishisht Seva Medal ribbon.svg Ati Vishisht Seva Medal\nVishisht Seva Medal ribbon.svgsht Seva Medal",
   "website": "https://governoruk.gov.in"
 }
