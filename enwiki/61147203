@@ -1,12 +1,13 @@
 {
-  "name": "Arijit Shil",
-  "office": "Deputy Commissioner of the Intelligence Bureau",
-  "predecessor": "Debasish Jain",
+  "name": "Arvinda Kumar",
+  "office": "Intelligence Bureau",
+  "predecessor": "Rajiv Jain",
   "primeminister": "Narendra Modi",
-  "birth_date": "August 23, 1995",
-  "birth_place": "West Bengal",
+  "birth_date": "September 30, 1959",
+  "birth_place": "Bihar",
   "nationality": "Indian",
-  "occupation": "Civil Servant",
-  "term_start": "23 June 2020",
-  "honorific_suffix": "IPS"
+  "occupation": "IPS",
+  "term_start": "30 June 2019",
+  "honorific_suffix": "IPS",
+  "honorific_prefix": "Director General of Intelligence Bureau"
 }
