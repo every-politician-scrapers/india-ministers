@@ -1,4 +1,5 @@
 id,name,relationship,relative,relativename
+Q100320657,Bijay Shankar Das,father,Q24255138,Bishnu Charan Das
 Q10218,Rahul Gandhi,father,Q4593,Rajiv Gandhi
 Q10218,Rahul Gandhi,mother,Q163225,Sonia Gandhi
 Q10218,Rahul Gandhi,sibling,Q607685,Priyanka Vadra
@@ -496,6 +497,7 @@ Q470875,Muthuvel Karunanidhi,relative,Q3523458,Murasoli Maran
 Q470875,Muthuvel Karunanidhi,spouse,Q106989056,Dayalu Ammal
 Q470875,Muthuvel Karunanidhi,spouse,Q107069714,Rajathi Ammal
 Q470875,Muthuvel Karunanidhi,spouse,Q107069736,Padmavathi Karunanidhi
+Q47463042,Biplab Kumar Deb,spouse,Q112114534,Niti Deb
 Q4746875,Amit Shah,child,Q85770988,Jay Shah
 Q4746875,Amit Shah,spouse,Q102201570,Sonal Shah
 Q4751386,Ananga Udaya Singh Deo,child,Q16206723,Arkesh Singh Deo
