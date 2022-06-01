@@ -759,6 +759,7 @@ Q7199798,Piyush Goyal,father,Q7917878,Ved Prakash Goyal
 Q72192354,Prince Raj,father,Q7288447,Ram Chandra Paswan
 Q7228700,Poonam Mahajan Rao,father,Q7238271,Pramod Mahajan
 Q7228700,Poonam Mahajan Rao,sibling,Q7283602,Rahul Mahajan
+Q7237411,Pradeep Kumar Majhi,father,Q96572437,Bhagaban Majhi
 Q7238178,Prakash Javadekar,spouse,Q17306076,Prachee Prakash Javadekar
 Q7238453,Prasanna Acharya,father,Q20829520,Krutartha Acharya
 Q7238453,Prasanna Acharya,relative,Q61510000,Debesh Acharya
@@ -873,6 +874,7 @@ Q9488,Sachin,child,Q22327435,Sara Tendulkar
 Q9488,Sachin,child,Q22327439,Arjun Tendulkar
 Q9488,Sachin,father,Q24906003,Ramesh Tendulkar
 Q9488,Sachin,spouse,Q22327426,Anjali Tendulkar
+Q96572437,Bhagaban Majhi,child,Q7237411,Pradeep Kumar Majhi
 Q98108920,Shyamal Chakraborty,child,Q7901910,Ushasie Chakraborty
 Q982813,Sharad Pawar,child,Q7645148,Supriya Sule
 Q982813,Sharad Pawar,sibling,Q64128367,Anantrao Pawar
