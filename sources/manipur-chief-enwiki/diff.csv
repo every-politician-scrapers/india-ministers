@@ -1,29 +1,32 @@
-@@,itemlabel,item,startdate,enddate
-+++,Mairembam Koireng Singh,Q6736926,1963-07-01,1967-01-11
-+++,President's rule,Q1486618,1967-01-12,1967-03-19
-+++,Mairembam Koireng Singh,Q6736926,1967-03-20,1967-10-04
-+++,Longjam Thambou Singh,,1967-10-13,1967-10-24
-+++,President's rule,Q1486618,1967-10-25,1968-02-18
-+++,Mairembam Koireng Singh,Q6736926,1968-02-19,1969-10-16
-+++,President's rule,Q1486618,1969-10-17,1972-03-22
-+++,Mohammed Alimuddin,Q24284529,1972-03-23,1973-03-27
-+++,President's rule,Q1486618,1973-03-28,1974-03-03
-+++,Mohammed Alimuddin,Q24284529,1974-03-04,1974-07-09
-+++,Yangmaso Shaiza,Q8048602,1974-07-10,1974-12-05
-+++,Rajkumar Dorendra Singh,Q7285314,1974-12-06,1977-05-15
-+++,President's rule,Q1486618,1977-05-16,1977-06-28
-+++,Yangmaso Shaiza,Q8048602,1977-06-29,1979-11-13
-+++,President's rule,Q1486618,1979-11-14,1980-01-13
-+++,Rajkumar Dorendra Singh,Q7285314,1980-01-14,1980-11-26
-+++,President's rule,Q1486618,1981-02-28,1981-06-18
-+++,Rajkumar Jaichandra Singh,Q28967511,1988-03-04,1990-02-22
-+++,Rajkumar Ranbir Singh,Q38464739,1990-02-23,1992-01-06
-+++,President's rule,Q1486618,1992-01-07,1992-04-07
-+++,Rajkumar Dorendra Singh,Q7285314,1992-04-08,1993-04-10
-+++,President's rule,Q1486618,1993-12-31,1994-12-13
-+++,President's rule,Q1486618,2001-06-02,2002-03-06
-->,Okram Ibobi Singh,Q2017412,2002-03-07,2017-03-15->2007-03-01
-+++,Okram Ibobi Singh,Q2017412,2007-03-02,2012-03-05
-+++,Okram Ibobi Singh,Q2017412,2012-03-06,2017-03-14
-->,Nongthombam Biren Singh->N. Biren Singh,Q7049407,2017-03-15,NULL->2022-03-21
-+++,N. Biren Singh,Q7049407,2022-03-21,
+@@,item,itemlabel,startdate,enddate
++++,Q6736926,Mairembam Koireng Singh,1963-07-01,1967-01-11
++++,Q1486618,President's rule,1967-01-12,1967-03-19
++++,Q6736926,Mairembam Koireng Singh,1967-03-20,1967-10-04
++++,,Longjam Thambou Singh,1967-10-13,1967-10-24
++++,Q1486618,President's rule,1967-10-25,1968-02-18
++++,Q6736926,Mairembam Koireng Singh,1968-02-19,1969-10-16
++++,Q1486618,President's rule,1969-10-17,1972-03-22
++++,Q24284529,Mohammed Alimuddin,1972-03-23,1973-03-27
++++,Q1486618,President's rule,1973-03-28,1974-03-03
++++,Q24284529,Mohammed Alimuddin,1974-03-04,1974-07-09
++++,Q8048602,Yangmaso Shaiza,1974-07-10,1974-12-05
++++,Q7285314,Rajkumar Dorendra Singh,1974-12-06,1977-05-15
++++,Q1486618,President's rule,1977-05-16,1977-06-28
++++,Q8048602,Yangmaso Shaiza,1977-06-29,1979-11-13
++++,Q1486618,President's rule,1979-11-14,1980-01-13
++++,Q7285314,Rajkumar Dorendra Singh,1980-01-14,1980-11-26
++++,Q7336021,Rishang Keishing,1980-11-27,1981-02-27
++++,Q1486618,President's rule,1981-02-28,1981-06-18
++++,Q7336021,Rishang Keishing,1981-06-19,1988-03-03
++++,Q28967511,Rajkumar Jaichandra Singh,1988-03-04,1990-02-22
++++,Q38464739,Rajkumar Ranbir Singh,1990-02-23,1992-01-06
++++,Q1486618,President's rule,1992-01-07,1992-04-07
++++,Q7285314,Rajkumar Dorendra Singh,1992-04-08,1993-04-10
++++,Q1486618,President's rule,1993-12-31,1994-12-13
++++,Q7336021,Rishang Keishing,1994-12-14,1997-12-15
++++,Q1486618,President's rule,2001-06-02,2002-03-06
+->,Q2017412,Okram Ibobi Singh,2002-03-07,2017-03-15->2007-03-01
++++,Q2017412,Okram Ibobi Singh,2007-03-02,2012-03-05
++++,Q2017412,Okram Ibobi Singh,2012-03-06,2017-03-14
+->,Q7049407,Nongthombam Biren Singh->N. Biren Singh,2017-03-15,NULL->2022-03-21
++++,Q7049407,N. Biren Singh,2022-03-21,

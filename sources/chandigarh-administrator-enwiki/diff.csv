@@ -1,6 +1,3 @@
-@@,itemlabel,item,startdate,enddate
-+++,Bhairab Dutt Pandey,,1984-06-01,1984-07-02
-->,Siddhartha Shankar Ray->Siddharta Shankar Ray,Q983457,1986-04-02,1989-12-08
-->,Nirmal Kumar Mukarji->Nirmal Mukarji,Q16015579,1989-12-08,1990-06-14
-->,O.P. Verma->Om Prakash Verma,Q6224007,2003-05-08,2004-11-03
-->,Vijayendrapal Singh->V. P. Singh Badnore,Q7929313,2016-08-22,2021-08-30
+@@,item,itemlabel,startdate,enddate
+->,Q6224007,O.P. Verma->Om Prakash Verma,2003-05-08,2004-11-03
+->,Q7929313,Vijayendrapal Singh->V. P. Singh Badnore,2016-08-22,2021-08-30

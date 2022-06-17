@@ -1,12 +1,15 @@
-@@,itemlabel,item,startdate,enddate
-+++,Yashwant Singh Parmar,Q3633927,1963-07-01,1967-03-04
-+++,Yashwant Singh Parmar,Q3633927,1967-03-04,1971-01-25
-+++,Yashwant Singh Parmar,Q3633927,1971-01-25,1972-03-10
-+++,Yashwant Singh Parmar,Q3633927,1972-03-10,1977-01-28
-+++,President's rule,Q1486618,1977-04-30,1977-06-22
-->,Thakur Ram Lal,Q2155313,1980-02-14,1983-04-07->1982-06-15
-+++,Thakur Ram Lal,Q2155313,1982-06-15,1983-04-07
-->,Virbhadra Singh,Q777478,1983-04-08,1990-03-05->1985-03-08
-+++,Virbhadra Singh,Q777478,1985-03-08,1990-03-05
-+++,President's rule,Q1486618,1992-12-15,1993-12-03
-->,Virbhadra Singh,Q777478,1993-12-03,1998-03-24->1998-03-23
+@@,item,itemlabel,startdate,enddate
++++,Q3633927,Yashwant Singh Parmar,1963-07-01,1967-03-04
++++,Q3633927,Yashwant Singh Parmar,1967-03-04,1971-01-25
++++,Q3633927,Yashwant Singh Parmar,1971-01-25,1972-03-10
++++,Q3633927,Yashwant Singh Parmar,1972-03-10,1977-01-28
++++,Q2155313,Thakur Ram Lal,1977-01-28,1977-04-30
++++,Q1486618,President's rule,1977-04-30,1977-06-22
++++,Q2045095,Shanta Kumar,1977-06-22,1980-02-14
++++,Q2155313,Thakur Ram Lal,1980-02-14,1982-06-15
++++,Q2155313,Thakur Ram Lal,1982-06-15,1983-04-07
++++,Q777478,Virbhadra Singh,1983-04-08,1985-03-08
++++,Q777478,Virbhadra Singh,1985-03-08,1990-03-05
++++,Q2045095,Shanta Kumar,1990-03-05,1992-12-15
++++,Q1486618,President's rule,1992-12-15,1993-12-03
++++,Q777478,Virbhadra Singh,1993-12-03,1998-03-23
