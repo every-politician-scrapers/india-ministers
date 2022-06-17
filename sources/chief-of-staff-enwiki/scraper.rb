@@ -4,8 +4,6 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-require 'open-uri/cached'
-
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
@@ -21,7 +19,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      itemLabel.to_s.empty? || itemLabel.include?("Vacant")
+      itemLabel.to_s.empty? || itemLabel.include?("Vacant") || too_early?
     end
 
     # First part of name field is the rank
