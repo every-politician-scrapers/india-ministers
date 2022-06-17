@@ -6,7 +6,7 @@ require 'every_politician_scraper/scraper_data'
 require 'pry'
 
 # Standardise data
-class Comparison < EveryPoliticianScraper::NulllessComparison
+class Comparison < EveryPoliticianScraper::DecoratedComparison
   REMAP = {
   }.freeze
 
