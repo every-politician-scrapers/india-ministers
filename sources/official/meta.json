@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "India",
+      "id": "Q668"
+    },
+    "cabinet": {
+      "id": "Q64210877",
+      "start": "2019-05-30",
+      "parent": "Q960484"
+    },
+    "source": {
+        "url":   "https://www.india.gov.in/my-government/whos-who/council-ministers",
+        "title": "Council of Ministers | National Portal of India",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/india-ministers"
+}
