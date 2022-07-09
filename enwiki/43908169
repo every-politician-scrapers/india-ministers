@@ -5,8 +5,10 @@
   "birth_place": "Mustaffapur, Nalanda, Bihar",
   "office": "Minister of Steel",
   "term_start": "7 July 2021",
+  "term_end": "6 July 2022",
   "primeminister": "Narendra Modi",
   "predecessor": "Dharmendra Pradhan",
+  "successor": "Jyotiraditya Scindia",
   "office1": "National President of Janata Dal (United)",
   "term_start1": "27 December 2020",
   "term_end1": "31 July 2021",
@@ -20,6 +22,6 @@
   "party": "Janata Dal (United)\n(2010)",
   "religion": "Hindu",
   "spouse": "Girija Singh (m. 1982)",
-  "children": "2 (including Lipi Singh)",
+  "children": "2",
   "website": "https://rcpsingh.org/"
 }
