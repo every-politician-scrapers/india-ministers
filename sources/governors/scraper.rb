@@ -67,7 +67,7 @@ class Officeholder < Scraped::HTML
   end
 end
 
-url = 'https://en.wikipedia.org/wiki/List_of_current_Indian_governors'
+url = ARGV.first
 data = MinistersList.new(response: Scraped::Request.new(url: url).response).ministers
 
 header = data.first.keys.to_csv
