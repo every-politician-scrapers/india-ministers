@@ -1,9 +1,10 @@
 {
-  "name": "Hon'ble Ram Nath Kovind",
-  "order": "16th",
+  "name": "Ram Nath Kovind",
+  "order": "14th",
   "office": "President of India",
   "alt": "Head shot of Kovind smiling. He is wearing a blue suit jacket.",
   "predecessor": "Pranab Mukherjee",
+  "successor": "Vacant",
   "primeminister": "Narendra Modi",
   "vicepresident": "Mohammad Hamid Ansari\nVenkaiah Naidu",
   "1blankname1": "Chief Minister",
@@ -28,6 +29,7 @@
   "alma_mater": "Kanpur University",
   "education": "B.Com., LL.B.",
   "term_start": "25 July 2017",
+  "term_end": "25 July 2022",
   "term_start1": "16 August 2015",
   "term_end1": "20 June 2017",
   "party": "Bharatiya Janata Party"
