@@ -1,0 +1,221 @@
+{
+  "title": "Mridula Jaiswal",
+  "pageID": 61839117,
+  "categories": [
+    "Living people",
+    "Bharatiya Janata Party politicians from Uttar Pradesh",
+    "Mayors of Varanasi",
+    "Year of birth missing (living people)",
+    "Women mayors of places in Uttar Pradesh"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mridula Jaiswal is an Indian politician and the current mayor of Varanasi, Uttar Pradesh.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Varanasi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Uttar Pradesh"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mridula Jaiswal"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mayor of Varanasi, Uttar Pradesh",
+          "template": "short description"
+        },
+        {
+          "date": "October 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "October 2019",
+          "template": "use indian english"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mridula Jaiswal"
+          },
+          "office": {
+            "text": "Mayor of Varanasi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mayor"
+              },
+              {
+                "type": "internal",
+                "page": "Varanasi"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2017",
+            "number": 2017
+          },
+          "term_end": {
+            "text": "present"
+          },
+          "nationality": {
+            "text": "Indian",
+            "links": [
+              {
+                "text": "Indian",
+                "type": "internal",
+                "page": "India"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "employer": {
+            "text": "Government of Uttar Pradesh Bharatiya Janata Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Government of Uttar Pradesh"
+              },
+              {
+                "type": "internal",
+                "page": "Bharatiya Janata Party"
+              }
+            ]
+          },
+          "known_for": {
+            "text": "Mayor of Varanasi (2017–present)"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Varanasi's newly-elected mayor Mridula Jaiswal says she will focus on improving civic amenities",
+          "url": "https://timesofindia.indiatimes.com/videos/city/lucknow/varanasis-newly-elected-mayor-mridula-jaiswal-says-she-will-focus-on-improving-civic-amenities/videoshow/61884306.cms",
+          "accessdate": "20 September 2019",
+          "work": "The Times of India",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jaiswal is a Bharatiya Janata Party politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bharatiya Janata Party"
+                }
+              ]
+            },
+            {
+              "text": "In 2017, she became the mayor of Varanasi, Uttar Pradesh.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Varanasi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Uttar Pradesh"
+                }
+              ]
+            },
+            {
+              "text": "In the corporation election, she defeated Indian National Congress candidate Shalini Yadav by a margin of 78,843 votes.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Indian National Congress"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "UP civic poll results: UP civic polls: BJP retains mayor's seat in Varanasi",
+          "url": "https://timesofindia.indiatimes.com/city/varanasi/up-civic-polls-bjp-retains-mayors-seat-in-varanasi/articleshow/61882906.cms",
+          "accessdate": "20 September 2019",
+          "work": "The Times of India",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Residence",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "She lives Near \"Ghanti Mill Road\", Sigra in Varanasi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sigra"
+                },
+                {
+                  "type": "internal",
+                  "page": "Varanasi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "uttarpradesh-bjp-politician-stub"
+        },
+        {
+          "template": "india-mayor-stub"
+        }
+      ]
+    }
+  ]
+}
