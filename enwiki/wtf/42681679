@@ -155,9 +155,6 @@
               }
             ]
           },
-          "successor": {
-            "text": "Vacant"
-          },
           "primeminister": {
             "text": "Narendra Modi",
             "links": [
@@ -346,9 +343,6 @@
           },
           "term_start": {
             "text": "25 July 2017"
-          },
-          "term_end": {
-            "text": "25 July 2022"
           },
           "term_start1": {
             "text": "16 August 2015"

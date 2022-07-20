@@ -19,7 +19,7 @@
     "Members of the Cabinet of India",
     "Railway Ministers of India",
     "Coal Ministers of India",
-    "Trinamool Congress politicians from West Bengal",
+    "All India Trinamool Congress politicians from West Bengal",
     "Chief Ministers of West Bengal",
     "10th Lok Sabha members",
     "11th Lok Sabha members",
@@ -308,10 +308,9 @@
         {
           "list": [
             "M. K. Narayanan",
-            "D. Y. Patil (additional charge)",
+            "D. Y. Patil",
             "Keshari Nath Tripathi",
-            "Jagdeep Dhankhar",
-            "La. Ganesan (additional charge)"
+            "Jagdeep Dhankhar"
           ],
           "template": "unbulleted list"
         },
@@ -788,7 +787,10 @@
             "text": "Mamata Banerjee"
           },
           "image": {
-            "text": "File:Mamata Banerjee - Kolkata 2011-12-08 7531 Cropped.JPG"
+            "text": "MamataBanerjeeinIIPGMERKolkata.jpg"
+          },
+          "caption": {
+            "text": "Banerjee in 2019"
           },
           "signature": {
             "text": "Mamata Banerjee signature.jpg"
@@ -806,7 +808,7 @@
             "text": "May 20, 2011"
           },
           "governor": {
-            "text": "M. K. Narayanan\n\nD. Y. Patil (additional charge)\n\nKeshari Nath Tripathi\n\nJagdeep Dhankhar\n\nLa. Ganesan (additional charge)"
+            "text": "M. K. Narayanan\n\nD. Y. Patil\n\nKeshari Nath Tripathi\n\nJagdeep Dhankhar"
           },
           "subterm": {
             "text": "Cabinet",
