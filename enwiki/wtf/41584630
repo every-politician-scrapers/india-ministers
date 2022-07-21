@@ -409,21 +409,12 @@
         {
           "sentences": [
             {
-              "text": "He was born in a communist Telugu-speaking Brahmin agrarian family on 27 August 1957 in Ponnavaram village in Krishna district of Andhra Pradesh.",
+              "text": "He was born in a Telugu-speaking agrarian middle class brahmin family on 27 August 1957 in Ponnavaram village in Krishna district of Andhra Pradesh.",
               "links": [
-                {
-                  "text": "communist",
-                  "type": "internal",
-                  "page": "communist"
-                },
                 {
                   "text": "Telugu",
                   "type": "internal",
                   "page": "Telugu language"
-                },
-                {
-                  "type": "internal",
-                  "page": "Brahmin"
                 },
                 {
                   "type": "internal",
@@ -444,7 +435,7 @@
           "url": "https://www.deccanchronicle.com/nation/current-affairs/250321/chief-justice-recommends-ramana-as-his-successor.html",
           "date": "25 March 2021",
           "publisher": "Deccan Chronicle",
-          "quote": "Justice Ramana will be the second Telugu speaking Chief Justice of India.",
+          "quote": "Justice Ramana will be the second Telugu Chief Justice of India.",
           "template": "citation",
           "type": "news"
         },

@@ -1315,6 +1315,49 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2022, Bommai visited the World Economic Forum at Davos, Switzerland to bring in investments to the state.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "World Economic Forum"
+                },
+                {
+                  "type": "internal",
+                  "page": "Davos"
+                },
+                {
+                  "type": "internal",
+                  "page": "Switzerland"
+                }
+              ]
+            },
+            {
+              "text": "His main concerns was to attract the investors to the Global Investors meet held in Bangalore during the time of November.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bangalore"
+                }
+              ]
+            },
+            {
+              "text": "Bommai stated that he has inked MOUs with LuLu Group International and ReNew Power companies for Rs 52,000 crores investments over the next seven years.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "LuLu Group International"
+                },
+                {
+                  "type": "internal",
+                  "page": "ReNew Power"
+                }
+              ]
+            }
+          ]
         }
       ],
       "images": [
@@ -1504,6 +1547,42 @@
           "url": "https://indianexpress.com/article/cities/bangalore/karnataka-assembly-budget-session-news-live-update-basavaraj-bommai-mekedatu-hijab-row-7800256/",
           "access-date": "2022-03-04",
           "website": "The Indian Express",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-05-22",
+          "title": "Karnataka CM Bommai leaves for Davos to participate in World Economic Forum",
+          "url": "https://indianexpress.com/article/cities/bangalore/karnataka-cm-basavaraj-bommai-world-economic-forum-7930171/",
+          "access-date": "2022-07-20",
+          "website": "The Indian Express",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "May 27",
+          "first": "TNN /",
+          "last2": "2022",
+          "last3": "Ist",
+          "first3": "11:08",
+          "title": "CM Basavaraj Bommai extends Davos trip, to meet more biz heads {{!}} Bengaluru News - Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/bengaluru/cm-basavaraj-bommai-extends-davos-trip-to-meet-more-biz-heads/articleshow/91827742.cms",
+          "access-date": "2022-07-20",
+          "website": "The Times of India",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "India",
+          "first": "The Hans",
+          "date": "2022-05-28",
+          "title": "Basavaraj Bommai claims grand success at World Economic Forum meet in Davos",
+          "url": "https://www.thehansindia.com/karnataka/basavaraj-bommai-claims-grand-success-at-world-economic-forum-meet-in-davos-745353",
+          "access-date": "2022-07-20",
+          "website": "www.thehansindia.com",
           "language": "en",
           "template": "citation",
           "type": "web"

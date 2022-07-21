@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Lieutenant General Gurmit Singh PVSM, UYSM, AVSM, VSM is a former Deputy Chief of Indian Army who is currently serving as the Governor of Uttrakhand.",
+              "text": "Lieutenant General Gurmit Singh PVSM, UYSM, AVSM, VSM (born 1 February 1956) is a former Deputy Chief of Indian Army who is currently serving as the Governor of Uttrakhand.",
               "links": [
                 {
                   "text": "PVSM",
@@ -276,6 +276,13 @@
             "Gurmeet Singh (disambiguation)"
           ],
           "template": "for multi"
+        },
+        {
+          "year": "1956",
+          "month": "2",
+          "day": "1",
+          "df": "y",
+          "template": "birth date and age"
         }
       ],
       "infoboxes": [
@@ -323,6 +330,22 @@
           },
           "caption": {
             "text": "Hon’ble Governor of Uttarakhand"
+          },
+          "birth_date": {
+            "text": "February 1, 1956"
+          },
+          "birth_place": {
+            "text": "Jalal Usman, Amritsar, Punjab",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amritsar"
+              },
+              {
+                "type": "internal",
+                "page": "Punjab"
+              }
+            ]
           },
           "residence": {
             "text": "Raj Bhavan, Dehradun",
