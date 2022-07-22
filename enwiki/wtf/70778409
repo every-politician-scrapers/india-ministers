@@ -300,7 +300,25 @@
         {
           "sentences": [
             {
-              "text": "Tapan Deka holds a Master's Degree in Physics.",
+              "text": "Deka was born on 25 February 1963, in Tezpur, Assam in a Assamese Hindu family.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tezpur"
+                },
+                {
+                  "type": "internal",
+                  "page": "Assam"
+                },
+                {
+                  "text": "Assamese Hindu",
+                  "type": "internal",
+                  "page": "Assamese people"
+                }
+              ]
+            },
+            {
+              "text": "He holds a Master's Degree in Physics.",
               "links": [
                 {
                   "text": "Master's Degree",
@@ -383,7 +401,7 @@
         {
           "sentences": [
             {
-              "text": "Tapan Deka was the mastermind behind the investigation of the 2008 Assam bombings case.",
+              "text": "He was also the head of investigation of the 2008 Assam bombings case.",
               "links": [
                 {
                   "text": "2008 Assam bombings",
@@ -393,7 +411,7 @@
               ]
             },
             {
-              "text": "Deka also handled the investigation of Pathankot air base attack and Pulwama attack, and was the brain behind the arrest of Yasin Bhatkal, founder of Indian Mujahideen (IM), from Nepal.",
+              "text": "He also handled the investigation of Pathankot air base attack and Pulwama attack, and was the brain behind the arrest of Yasin Bhatkal, founder of Indian Mujahideen (IM), from Nepal.",
               "links": [
                 {
                   "text": "Pathankot air base attack",
@@ -442,7 +460,7 @@
             "text": "Tapan Deka was appointed as the counter-terrorism operations chief in Kashmir."
           },
           {
-            "text": "Tapan Deka was formerly appointed as Deputy Director, Joint Director, and Additional Director, Special Director of the Intelligence Bureau (India).",
+            "text": "Tapan Deka has formally served Deputy Director, Joint Director, and Additional Director, Special Director at Intelligence Bureau.",
             "links": [
               {
                 "text": "Additional Director",
@@ -455,6 +473,7 @@
                 "page": "Special director general of police"
               },
               {
+                "text": "Intelligence Bureau",
                 "type": "internal",
                 "page": "Intelligence Bureau (India)"
               }
@@ -543,22 +562,6 @@
           "date": "24 June 2022",
           "template": "citation",
           "type": "news"
-        }
-      ]
-    },
-    {
-      "title": "As Director of the Intelligence Bureau, India",
-      "depth": 1,
-      "templates": [
-        {
-          "template": "s-start"
-        },
-        {
-          "before": "Arvind Kumar",
-          "title": "Director of the Intelligence Bureau",
-          "years": "(1 July 2022) – Incumbent",
-          "after": "Incumbent",
-          "template": "succession box"
         }
       ]
     },

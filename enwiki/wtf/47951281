@@ -856,16 +856,116 @@
         {
           "sentences": [
             {
-              "text": "In the Asian continent, he has visited China, Israel, Oman, Nepal, Dubai and Uzbekistan."
+              "text": "In the Asian continent, he has visited China, Israel, Oman, Nepal, Dubai and Uzbekistan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "China"
+                },
+                {
+                  "type": "internal",
+                  "page": "Israel"
+                },
+                {
+                  "type": "internal",
+                  "page": "Oman"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nepal"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dubai"
+                },
+                {
+                  "type": "internal",
+                  "page": "Uzbekistan"
+                }
+              ]
             },
             {
-              "text": "He has also visited European countries including England, Germany and Hungary, along with South American countries such as Brazil and Argentina."
+              "text": "He has also visited European countries including England, Germany and Hungary, along with South American countries such as Brazil and Argentina.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "England"
+                },
+                {
+                  "type": "internal",
+                  "page": "Germany"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hungary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brazil"
+                },
+                {
+                  "type": "internal",
+                  "page": "Argentina"
+                }
+              ]
             },
             {
-              "text": "The African continent has also been explored by Mr Mandaviya, including countries of Kenya, Uganda, Tanzania, Rwanda, Algeria, Equatorial Guinea, Eswatini and Zambia."
+              "text": "The African continent has also been explored by Mr Mandaviya, including countries of Kenya, Uganda, Tanzania, Rwanda, Algeria, Equatorial Guinea, Eswatini and Zambia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kenya"
+                },
+                {
+                  "type": "internal",
+                  "page": "Uganda"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tanzania"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rwanda"
+                },
+                {
+                  "type": "internal",
+                  "page": "Algeria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Equatorial Guinea"
+                },
+                {
+                  "type": "internal",
+                  "page": "Eswatini"
+                },
+                {
+                  "type": "internal",
+                  "page": "Zambia"
+                }
+              ]
             },
             {
-              "text": "In an Oceania Region, he has visited New Zealand, Tonga, Fiji and Australia."
+              "text": "In an Oceania Region, he has visited New Zealand, Tonga, Fiji and Australia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Zealand"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tonga"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fiji"
+                },
+                {
+                  "type": "internal",
+                  "page": "Australia"
+                }
+              ]
             }
           ]
         }

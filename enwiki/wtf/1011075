@@ -1919,7 +1919,47 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": []
         }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Committee assignments of 16th Tamil Nadu Assembly",
+            "links": [
+              {
+                "text": "Committee assignments of 16th Tamil Nadu Assembly",
+                "type": "internal",
+                "page": "16th Tamil Nadu Assembly",
+                "anchor": "Committees"
+              }
+            ]
+          },
+          {
+            "text": "Member (2021-23) Business Advisory Committee",
+            "links": [
+              {
+                "text": "Business Advisory Committee",
+                "type": "internal",
+                "page": "16th Tamil Nadu Assembly",
+                "anchor": "Business Advisory Committee"
+              }
+            ]
+          },
+          {
+            "text": "Member (2021-23) Committee on Rules",
+            "links": [
+              {
+                "text": "Committee on Rules",
+                "type": "internal",
+                "page": "16th Tamil Nadu Assembly",
+                "anchor": "Committee on Rules"
+              }
+            ]
+          }
+        ]
       ],
       "references": [
         {
@@ -2090,6 +2130,17 @@
           "access-date": "2021-09-13",
           "website": "The News Minute",
           "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Members of the Standing Committees of the House (2021-2022)",
+          "url": "https://www.assembly.tn.gov.in/16thassembly/standing_committees.php",
+          "website": "Tamil Nadu Legislative Assembly",
+          "access-date": "21 June 2022",
+          "archive-date": "14 Jun 2022",
+          "archive-url": "https://web.archive.org/web/20220312035152/https://assembly.tn.gov.in/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }
@@ -2711,7 +2762,7 @@
       "lists": [
         [
           {
-            "text": "Ore Raththam (1988)",
+            "text": "Ore Raththam (1987)",
             "links": [
               {
                 "type": "internal",
@@ -2739,13 +2790,7 @@
             }
           },
           {
-            "text": "Kurinji Malar- TV Series DD1",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kurinji Malar"
-              }
-            ],
+            "text": "Kurinji Malar- TV Series (late 1988?)",
             "formatting": {
               "italic": [
                 "Kurinji Malar"

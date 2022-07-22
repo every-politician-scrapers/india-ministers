@@ -672,17 +672,11 @@
             "text": "July 10, 1951"
           },
           "birth_place": {
-            "text": "Bhabhaura, chandauliUttar Pradesh, India",
+            "text": "Bhabhaura, Chandauli district, Uttar Pradesh, India",
             "links": [
               {
-                "text": "Bhabhaura",
                 "type": "internal",
                 "page": "Chandauli district"
-              },
-              {
-                "text": "chandauli",
-                "type": "internal",
-                "page": "chandauli"
               },
               {
                 "type": "internal",

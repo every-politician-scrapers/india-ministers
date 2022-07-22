@@ -749,6 +749,10 @@
                 "page": "Baghpat (Assembly constituency)"
               },
               {
+                "type": "internal",
+                "page": "Charan Singh"
+              },
+              {
                 "text": " BKD",
                 "type": "internal",
                 "page": "Bharatiya Kranti Dal"
@@ -896,6 +900,11 @@
                 {
                   "type": "internal",
                   "page": "Indira Gandhi"
+                },
+                {
+                  "text": "Bluestar",
+                  "type": "internal",
+                  "page": "Operation Blue Star"
                 },
                 {
                   "text": "General Vaidya",

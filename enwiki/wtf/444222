@@ -406,12 +406,34 @@
         },
         {
           "list": [
+            "Pranab Mukherjee",
+            "Ram Nath Kovind",
+            "Droupadi Murmu (elect)"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Mohammad Hamid Ansari",
+            "Venkaiah Naidu"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
             "Additional ministries"
           ],
           "template": "collapsed infobox section begin"
         },
         {
           "template": "collapsed infobox section end"
+        },
+        {
+          "list": [
+            "Sumitra Mahajan",
+            "Om Birla"
+          ],
+          "template": "unbulleted list"
         },
         {
           "list": [
@@ -517,33 +539,13 @@
             "text": "Prime Minister of India"
           },
           "president": {
-            "text": "Pranab Mukherjee\nRam Nath Kovind",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pranab Mukherjee"
-              },
-              {
-                "type": "internal",
-                "page": "Ram Nath Kovind"
-              }
-            ]
+            "text": "Pranab Mukherjee\n\nRam Nath Kovind\n\nDroupadi Murmu (elect)"
           },
           "1blankname": {
             "text": "Vice President"
           },
           "1namedata": {
-            "text": "Mohammad Hamid Ansari\nVenkaiah Naidu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohammad Hamid Ansari"
-              },
-              {
-                "type": "internal",
-                "page": "Venkaiah Naidu"
-              }
-            ]
+            "text": "Mohammad Hamid Ansari\n\nVenkaiah Naidu"
           },
           "term_start": {
             "text": "26 May 2014"
@@ -610,27 +612,17 @@
             ]
           },
           "1blankname2": {
-            "text": "Speaker LS",
+            "text": "Lok Sabha Speaker",
             "links": [
               {
-                "text": "Speaker LS",
+                "text": "Lok Sabha Speaker",
                 "type": "internal",
                 "page": "Speaker of the Lok Sabha"
               }
             ]
           },
           "1namedata2": {
-            "text": "*Sumitra Mahajan\nMay 2014 - June 2019\n*Om Birla\nJune 2019 - Incumbent",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sumitra Mahajan"
-              },
-              {
-                "type": "internal",
-                "page": "Om Birla"
-              }
-            ]
+            "text": "Sumitra Mahajan\n\nOm Birla"
           },
           "term_start2": {
             "text": "26 May 2014"

@@ -671,8 +671,8 @@
       ]
     },
     {
-      "title": "As Chief Minister",
-      "depth": 1,
+      "title": "Chief Minister (2013-2014)",
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [
@@ -720,7 +720,11 @@
       ]
     },
     {
-      "title": "As Leader of Opposition",
+      "title": "Leader of Opposition (2015-2019)",
+      "depth": 0
+    },
+    {
+      "title": "Pathalgadi movement against tribal land law amendments",
       "depth": 1,
       "paragraphs": [
         {
@@ -764,7 +768,94 @@
         {
           "sentences": [
             {
-              "text": "In October 2017, he had demanded a CBI inquiry into the death of 11-year-old girl Santoshi Kumari who allegedly died of starvation in Simdega as the family was not given ration since July for not having Aadhaar number seeded to their bank account.",
+              "text": "The Raghubar Das ministry was seeking amendments to the Chhotanagpur Tenancy Act, 1908, and the Santhal Pargana Tenancy Act, 1949. These two original laws had safeguarded the rights of the tribal communities on their land.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Raghubar Das ministry"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Chhotanagpur Tenancy Act, 1908",
+                  "Santhal Pargana Tenancy Act, 1949."
+                ]
+              }
+            },
+            {
+              "text": "According to the existing laws the land transactions could only be done between the tribals."
+            },
+            {
+              "text": "The new amendments gave the tribals the right to allow the government to make commercial use of the tribal land and to take the tribal land on lease."
+            },
+            {
+              "text": "The proposed bill amending the existing law had been approved by the Jharkhand Legislative Assembly.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jharkhand Legislative Assembly"
+                }
+              ]
+            },
+            {
+              "text": "The bills were sent to Murmu for approval in November 2016."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The tribal people had strongly objected to the proposed law."
+            },
+            {
+              "text": "During the Pathalgardi rebellion, protests were held against the proposed amendments to the tenancy acts."
+            },
+            {
+              "text": "In one incident the protests turned violent and the tribals abducted the security detail of BJP MP Karia Munda."
+            },
+            {
+              "text": "Police responded with violent crackdown on the tribals, that caused the death of a tribal man."
+            },
+            {
+              "text": "Criminal cases were filed against more than 200 people including the tribal rights activist Father Stan Swamy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Stan Swamy"
+                }
+              ]
+            },
+            {
+              "text": "Murmu, was criticized for her soft stand on police aggression against tribals during the movement."
+            },
+            {
+              "text": "Being a tribal herself, Murmu was expected to speak up to the government in support of the tribals but it did not happened, and instead she appealed to the Pathalgarhi agitation leaders to repose faith in the constitution."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Murmu had received total of 192 memorandums against the amendments in the bill."
+            },
+            {
+              "text": "Then opposition leader Hemant Soren had said that the BJP government wanted to acquire tribal land through the two amendment Bills for the benefit of corporates."
+            },
+            {
+              "text": "Opposition parties Jharkhand Mukti Morcha, the Congress, the Jharkhand Vikas Morcha and others had put intense pressure against the bill."
+            },
+            {
+              "text": "On 24 May 2017, Murmu relented and refused to give assent to the bills and returned the bill to the state government along with the memorandums she had received."
+            },
+            {
+              "text": "The bill was later withdrawn in August 2017."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In October 2017, Soren had demanded a CBI inquiry into the death of 11-year-old girl Santoshi Kumari who allegedly died of starvation in Simdega as the family was not given ration since July for not having Aadhaar number seeded to their bank account.",
               "links": [
                 {
                   "type": "internal",
@@ -821,6 +912,14 @@
               "text": "He added women's organizations would have to come forward to launch a struggle against government's liquor campaign."
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Pathalgadi movement"
+          ],
+          "template": "main"
         }
       ],
       "references": [
@@ -891,12 +990,43 @@
           "date": "23 February 2017",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "title": "Tribal activists expect Droupadi Murmu to be assertive as President",
+          "url": "https://www.telegraphindia.com/jharkhand/tribal-activists-expect-droupadi-murmu-to-be-assertive-as-president/cid/1871370",
+          "access-date": "21 July 2022",
+          "work": "www.telegraphindia.com",
+          "date": "23 June 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Explained: What is the Pathalgadi movement, and what is JMM govt’s stand on it?",
+          "url": "https://indianexpress.com/article/explained/explained-what-is-pathalgadi-movement-and-what-is-the-jmm-govts-stand-on-this-7114979/",
+          "access-date": "21 July 2022",
+          "work": "The Indian Express",
+          "date": "23 December 2020",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Tewary",
+          "first1": "Amarnath",
+          "title": "The Pathalgadi rebellion",
+          "url": "https://www.thehindu.com/news/national/other-states/the-pathalgadi-rebellion/article23530998.ece",
+          "access-date": "21 July 2022",
+          "work": "The Hindu",
+          "date": "13 April 2018",
+          "language": "en-IN",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
     {
-      "title": "Chief Minister 2019–",
-      "depth": 1,
+      "title": "Chief Minister (2019–present)",
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [

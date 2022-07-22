@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Ram Nath Kovind (born 1 October 1945) is an Indian politician serving as the 14th and current President of India since 25 July 2017.",
+              "text": "Ram Nath Kovind (born 1 October 1945) is an Indian politician serving as the 14th President of India since 25 July 2017.",
               "links": [
                 {
                   "type": "internal",
@@ -47,8 +47,16 @@
               ]
             },
             {
-              "text": "He is also the first person from Uttar Pradesh to serve as President of India.",
+              "text": "He is the second person after K. R. Narayanan, from the Dalit community and the first person from Uttar Pradesh to serve as the President of India.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "K. R. Narayanan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dalit"
+                },
                 {
                   "type": "internal",
                   "page": "Uttar Pradesh"
@@ -105,7 +113,7 @@
           "template": "use indian english"
         },
         {
-          "date": "May 2022",
+          "date": "July 2022",
           "template": "use dmy dates"
         },
         {
@@ -131,12 +139,6 @@
           "name": {
             "text": "Ram Nath Kovind"
           },
-          "order": {
-            "text": "16th"
-          },
-          "office": {
-            "text": "President of India"
-          },
           "image": {
             "text": "Ram Nath Kovind official portrait.jpg"
           },
@@ -146,14 +148,14 @@
           "alt": {
             "text": "Head shot of Kovind smiling. He is wearing a blue suit jacket."
           },
-          "predecessor": {
-            "text": "Pranab Mukherjee",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pranab Mukherjee"
-              }
-            ]
+          "order": {
+            "text": "14th"
+          },
+          "office": {
+            "text": "President of India"
+          },
+          "term_start": {
+            "text": "25 July 2017"
           },
           "primeminister": {
             "text": "Narendra Modi",
@@ -177,6 +179,36 @@
               }
             ]
           },
+          "predecessor": {
+            "text": "Pranab Mukherjee",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pranab Mukherjee"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Droupadi Murmu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Droupadi Murmu"
+              }
+            ]
+          },
+          "order1": {
+            "text": "26th"
+          },
+          "office1": {
+            "text": "Governor of Bihar"
+          },
+          "term_start1": {
+            "text": "16 August 2015"
+          },
+          "term_end1": {
+            "text": "21 June 2017"
+          },
           "1blankname1": {
             "text": "Chief Minister"
           },
@@ -188,12 +220,6 @@
                 "page": "Nitish Kumar"
               }
             ]
-          },
-          "order1": {
-            "text": "26th"
-          },
-          "office1": {
-            "text": "Governor of Bihar"
           },
           "predecessor1": {
             "text": "Keshari Nath Tripathi",
@@ -256,7 +282,7 @@
             ]
           },
           "signature": {
-            "text": "Kovind signature.png"
+            "text": "Ram Nath Kovind Signature.png"
           },
           "birth_date": {
             "text": "October 1, 1945"
@@ -340,15 +366,6 @@
                 "page": "LL.B."
               }
             ]
-          },
-          "term_start": {
-            "text": "25 July 2017"
-          },
-          "term_start1": {
-            "text": "16 August 2015"
-          },
-          "term_end1": {
-            "text": "20 June 2017"
           },
           "party": {
             "text": "Bharatiya Janata Party",
@@ -1213,7 +1230,7 @@
       ]
     },
     {
-      "title": "Presidency (2017–present)",
+      "title": "Presidency (2017–2022)",
       "depth": 0,
       "templates": [
         {
@@ -1310,6 +1327,15 @@
               ]
             },
             {
+              "text": "He will be succeeded by Droupadi Murmu on July 25, 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Droupadi Murmu"
+                }
+              ]
+            },
+            {
               "text": "Kovind took the oath as the 14th president of India on 25 July 2017."
             }
           ]
@@ -1346,7 +1372,7 @@
           "file": "File:The_Chief_Justice_of_India,_Shri_Justice_J.S._Khehar_administering_the_oath_of_the_office_of_the_President_of_India_to_Shri_Ram_Nath_Kovind,_at_a_swearing-in_ceremony_in_the_central_hall_of_Parliament,_in_New_Delhi.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/The_Chief_Justice_of_India%2C_Shri_Justice_J.S._Khehar_administering_the_oath_of_the_office_of_the_President_of_India_to_Shri_Ram_Nath_Kovind%2C_at_a_swearing-in_ceremony_in_the_central_hall_of_Parliament%2C_in_New_Delhi.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/The_Chief_Justice_of_India%2C_Shri_Justice_J.S._Khehar_administering_the_oath_of_the_office_of_the_President_of_India_to_Shri_Ram_Nath_Kovind%2C_at_a_swearing-in_ceremony_in_the_central_hall_of_Parliament%2C_in_New_Delhi.jpg",
-          "caption": "J. S. Khelar, Chief Justice of India, administering the oath of the office of the President-elect Kovind, at a swearing-in ceremony in the central hall of Parliament, in New Delhi in 2017.",
+          "caption": "J. S. Khehar, Chief Justice of India, administering the oath of the office of the President-elect Kovind, at a swearing-in ceremony in the central hall of Parliament, in New Delhi in 2017.",
           "links": []
         },
         {
@@ -1449,7 +1475,7 @@
         {
           "sentences": [
             {
-              "text": "Kovind made trips to 29 countries, each for state visit."
+              "text": "Kovind made trips to 31 countries, each for state visit."
             }
           ]
         }
@@ -2555,6 +2581,79 @@
             "References": {
               "text": ""
             }
+          },
+          {
+            "Year": {
+              "text": "2022",
+              "number": 2022,
+              "formatting": {
+                "bold": [
+                  "2022"
+                ]
+              }
+            },
+            "Country": {
+              "text": "🇳🇱 Netherlands",
+              "links": [
+                {
+                  "text": "Netherlands",
+                  "type": "internal",
+                  "page": "netherlands"
+                }
+              ]
+            },
+            "Areas Visited": {
+              "text": "Amsterdam",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Amsterdam"
+                }
+              ]
+            },
+            "Date(s)": {
+              "text": "4–7 April"
+            },
+            "References": {
+              "text": ""
+            }
+          },
+          {
+            "Year": {
+              "text": "2022",
+              "number": 2022,
+              "formatting": {
+                "bold": [
+                  "2022"
+                ]
+              }
+            },
+            "Country": {
+              "text": "🇯🇲 Jamaica",
+              "links": [
+                {
+                  "text": "Jamaica",
+                  "type": "internal",
+                  "page": "jamaica"
+                }
+              ]
+            },
+            "Areas Visited": {
+              "text": "Kingston",
+              "links": [
+                {
+                  "text": "Kingston",
+                  "type": "internal",
+                  "page": "Kingston, Jamaica"
+                }
+              ]
+            },
+            "Date(s)": {
+              "text": "16–19 May"
+            },
+            "References": {
+              "text": ""
+            }
           }
         ]
       ],
@@ -2784,6 +2883,27 @@
           "type": "news"
         },
         {
+          "title": "State Visit of the President of India to the Kingdom of the Netherlands (April 4-7, 2022)",
+          "url": "https://www.mea.gov.in/press-releases.htm?dtl/35160/State+Visit+of+the+President+of+India+to+the+Kingdom+of+the+Netherlands+April+47+2022",
+          "access-date": "21 July 2022",
+          "website": "www.mea.gov.in",
+          "language": "english",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "others": "PTI",
+          "date": "16 May 2022",
+          "title": "Kovind becomes first Indian President to visit Jamaica",
+          "language": "en-IN",
+          "work": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/president-ram-nath-kovind-arrives-in-jamaica-to-hold-talks-with-governor-general-and-prime-minister/article65419084.ece",
+          "access-date": "21 July 2022",
+          "issn": "0971-751X",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "url": "http://www.ddinews.gov.in/national/president%C2%A0kovind-meets-mauritius-counterpart-port-louis",
           "title": "President Kovind meets Mauritius counterpart in Port Louis {{!}} DD News",
           "website": "www.ddinews.gov.in",
@@ -2992,6 +3112,13 @@
         }
       ],
       "images": [
+        {
+          "file": "File:President,_Shri_Ram_Nath_Kovind_receiving_the_first_copy_of_the_Hindi_translation_of_Paramhansa_Yogananda’s_book_‘God_Talks_with_Arjuna_-_The_Bhagavad_Gita’,_at_Ranchi,_in_Jharkhand.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/President%2C_Shri_Ram_Nath_Kovind_receiving_the_first_copy_of_the_Hindi_translation_of_Paramhansa_Yogananda%E2%80%99s_book_%E2%80%98God_Talks_with_Arjuna_-_The_Bhagavad_Gita%E2%80%99%2C_at_Ranchi%2C_in_Jharkhand.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/President%2C_Shri_Ram_Nath_Kovind_receiving_the_first_copy_of_the_Hindi_translation_of_Paramhansa_Yogananda%E2%80%99s_book_%E2%80%98God_Talks_with_Arjuna_-_The_Bhagavad_Gita%E2%80%99%2C_at_Ranchi%2C_in_Jharkhand.jpg",
+          "caption": "President Kovind meets Jharkhand governor Draupadi Murmu, who went on to be his successor and occupy the office of President of India.",
+          "links": []
+        },
         {
           "file": "File:Dagger_War_Memorial,_Baramulla.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Dagger_War_Memorial%2C_Baramulla.jpg?width=300",
