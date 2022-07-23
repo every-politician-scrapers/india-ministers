@@ -3,11 +3,10 @@
   "alt": "Head shot of Kovind smiling. He is wearing a blue suit jacket.",
   "order": "14th",
   "office": "President of India",
-  "term_start": "25 July 2017",
+  "term_start": "25 July \n2017",
   "primeminister": "Narendra Modi",
   "vicepresident": "Mohammad Hamid Ansari\nVenkaiah Naidu",
   "predecessor": "Pranab Mukherjee",
-  "successor": "Droupadi Murmu",
   "order1": "26th",
   "office1": "Governor of Bihar",
   "term_start1": "16 August 2015",
@@ -31,5 +30,6 @@
   "occupation": "Politician · lawyer",
   "alma_mater": "Kanpur University",
   "education": "B.Com., LL.B.",
-  "party": "Bharatiya Janata Party"
+  "party": "Bharatiya Janata Party",
+  "term_end": "24 July 2022"
 }
