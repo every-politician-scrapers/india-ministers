@@ -2147,7 +2147,7 @@
       ]
     },
     {
-      "title": "Elections contested",
+      "title": "Electoral performance",
       "depth": 0,
       "tables": [
         [
@@ -2636,6 +2636,70 @@
             }
           }
         ]
+      ],
+      "templates": [
+        {
+          "source": "Thousand Lights Assembly constituency",
+          "template": "transcluded section"
+        },
+        {
+          "list": [
+            "Assembly Election 1984"
+          ],
+          "template": "#section:thousand lights assembly constituency"
+        },
+        {
+          "list": [
+            "Assembly Election 1989"
+          ],
+          "template": "#section:thousand lights assembly constituency"
+        },
+        {
+          "list": [
+            "Assembly Election 1991"
+          ],
+          "template": "#section:thousand lights assembly constituency"
+        },
+        {
+          "list": [
+            "Assembly Election 1996"
+          ],
+          "template": "#section:thousand lights assembly constituency"
+        },
+        {
+          "list": [
+            "Assembly Election 2001"
+          ],
+          "template": "#section:thousand lights assembly constituency"
+        },
+        {
+          "list": [
+            "Assembly Election 2006"
+          ],
+          "template": "#section:thousand lights assembly constituency"
+        },
+        {
+          "source": "Kolathur Assembly constituency",
+          "template": "transcluded section"
+        },
+        {
+          "list": [
+            "Assembly Election 2011"
+          ],
+          "template": "#section:kolathur assembly constituency"
+        },
+        {
+          "list": [
+            "Assembly Election 2016"
+          ],
+          "template": "#section:kolathur assembly constituency"
+        },
+        {
+          "list": [
+            "Assembly Election 2021"
+          ],
+          "template": "#section:kolathur assembly constituency"
+        }
       ],
       "references": [
         {

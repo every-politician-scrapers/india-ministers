@@ -106,7 +106,7 @@
             "text": "Dr. Pramod Sawant.jpg"
           },
           "caption": {
-            "text": "Official Portrait, 2022"
+            "text": "Sawant in 2021"
           },
           "birth_date": {
             "text": "April 24, 1973"
@@ -272,7 +272,11 @@
             ]
           },
           "spouse": {
-            "text": "Sulakshana"
+            "text": "Sulakshana Sawant"
+          },
+          "children": {
+            "text": "1",
+            "number": 1
           },
           "nationality": {
             "text": "Indian"

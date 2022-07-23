@@ -298,7 +298,7 @@
             ]
           },
           "honorific-suffix": {
-            "text": "PVSM, UYSM, AVSM, VSM| (Retd.)",
+            "text": "PVSM, UYSM, AVSM, VSM (Retd.)",
             "links": [
               {
                 "text": "PVSM",
@@ -316,9 +316,9 @@
                 "page": "Ati Vishisht Seva Medal"
               },
               {
-                "text": "VSM| (Retd.)",
+                "text": "VSM",
                 "type": "internal",
-                "page": "Vishisht Seva Medal|VSM"
+                "page": "Vishisht Seva Medal"
               }
             ]
           },
@@ -663,6 +663,11 @@
     {
       "title": "External links",
       "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
       "templates": [
         {
           "id": "LtGenGurmit",

@@ -24,11 +24,12 @@
         {
           "sentences": [
             {
-              "text": "Ram Nath Kovind (born 1 October 1945) is an Indian politician serving as the 14th President of India since 25 July 2017.",
+              "text": "Ram Nath Kovind (born 1 October 1945) is an Indian politician serving as the 14th president of India since 25 July 2017.",
               "links": [
                 {
+                  "text": "president of India",
                   "type": "internal",
-                  "page": "President of India"
+                  "page": "president of India"
                 }
               ],
               "formatting": {
@@ -105,7 +106,7 @@
       ],
       "templates": [
         {
-          "description": "14th President of India",
+          "description": "President of India since 2017",
           "template": "short description"
         },
         {
@@ -155,7 +156,7 @@
             "text": "President of India"
           },
           "term_start": {
-            "text": "25 July 2017"
+            "text": "25 July \n2017"
           },
           "primeminister": {
             "text": "Narendra Modi",
@@ -185,15 +186,6 @@
               {
                 "type": "internal",
                 "page": "Pranab Mukherjee"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Droupadi Murmu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Droupadi Murmu"
               }
             ]
           },
@@ -375,6 +367,9 @@
                 "page": "Bharatiya Janata Party"
               }
             ]
+          },
+          "term_end": {
+            "text": "24 July 2022"
           }
         }
       ],
@@ -1230,7 +1225,7 @@
       ]
     },
     {
-      "title": "Presidency (2017–2022)",
+      "title": "Presidency (2017–present)",
       "depth": 0,
       "templates": [
         {
@@ -1327,7 +1322,7 @@
               ]
             },
             {
-              "text": "He will be succeeded by Droupadi Murmu on July 25, 2022.",
+              "text": "He will be succeeded by Droupadi Murmu on 25 July 2022.",
               "links": [
                 {
                   "type": "internal",

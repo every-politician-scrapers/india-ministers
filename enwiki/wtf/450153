@@ -25,18 +25,16 @@
         {
           "sentences": [
             {
-              "text": "Muppavarapu Venkaiah Naidu (born 1 July 1949) is an Indian politician serving as the 13th and current Vice President of India since 2017.",
+              "text": "Muppavarapu Venkaiah Naidu (born 1 July 1949) is an Indian politician serving as the 13th and current vice president of India since 2017.",
               "links": [
                 {
+                  "text": "vice president of India",
                   "type": "internal",
-                  "page": "Vice President of India"
+                  "page": "vice president of India"
                 }
               ],
               "formatting": {
                 "bold": [
-                  "Muppavarapu Venkaiah Naidu"
-                ],
-                "italic": [
                   "Muppavarapu Venkaiah Naidu"
                 ]
               }
@@ -1199,9 +1197,9 @@
       ],
       "images": [
         {
-          "file": "File:Venkaiah_Naidu_taking_Oath_at_Rashtrapati_Bhavan.png",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Venkaiah_Naidu_taking_Oath_at_Rashtrapati_Bhavan.png?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Venkaiah_Naidu_taking_Oath_at_Rashtrapati_Bhavan.png",
+          "file": "File:The_President,_Shri_Ram_Nath_Kovind_administering_the_oath_of_office_of_the_Vice_President_to_Shri_M._Venkaiah_Naidu,_at_a_Swearing-in-Ceremony,_at_Rashtrapati_Bhavan,_in_New_Delhi_on_August_11,_2017.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/The_President%2C_Shri_Ram_Nath_Kovind_administering_the_oath_of_office_of_the_Vice_President_to_Shri_M._Venkaiah_Naidu%2C_at_a_Swearing-in-Ceremony%2C_at_Rashtrapati_Bhavan%2C_in_New_Delhi_on_August_11%2C_2017.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/The_President%2C_Shri_Ram_Nath_Kovind_administering_the_oath_of_office_of_the_Vice_President_to_Shri_M._Venkaiah_Naidu%2C_at_a_Swearing-in-Ceremony%2C_at_Rashtrapati_Bhavan%2C_in_New_Delhi_on_August_11%2C_2017.jpg",
           "caption": "Swearing of Vice President-elect Venkaiah Naidu at Rashtrapati Bhavan Durbar Hall, 11 August 2017",
           "links": []
         },

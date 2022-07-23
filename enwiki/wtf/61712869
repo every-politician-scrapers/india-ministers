@@ -340,29 +340,6 @@
         {
           "sentences": [
             {
-              "text": "Ravi was an officer of the Indian Police Service (IPS), 1976 batch, from the Kerala cadre.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kerala"
-                }
-              ]
-            },
-            {
-              "text": "He retired in 2012 after serving as the Special Director of the Intelligence Bureau.",
-              "links": [
-                {
-                  "text": "Intelligence Bureau",
-                  "type": "internal",
-                  "page": "Intelligence Bureau (India)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
               "text": "In 2014, he was appointed the Chairman of the Joint Intelligence Committee.",
               "links": [
                 {
@@ -447,30 +424,6 @@
           "publisher": "NTDV",
           "template": "citation",
           "type": "news"
-        }
-      ]
-    },
-    {
-      "title": "Governor of Meghalaya",
-      "depth": 1,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ravi served as the Governor of Meghalaya from December 2019 to January 2020 before he transferred as the governor of Nagaland.",
-              "links": [
-                {
-                  "text": "Governor of Meghalaya",
-                  "type": "internal",
-                  "page": "List of governors of Meghalaya"
-                },
-                {
-                  "type": "internal",
-                  "page": "Nagaland"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
